@@ -51,7 +51,7 @@ for name, q in job.get('overpass', {}).items():
 src = job.get('wikidata_from')
 if src and os.path.exists(os.path.join(out, 'osm_%s.json' % src)):
     txt = open(os.path.join(out, 'osm_%s.json' % src), encoding='utf-8').read()
-    ids = sorted({x for m in re.findall(r'"wikidata"\s*:\s*"([^"]+)"', txt) for x in re.split(r'\s*;\s*', m) if re.fullmatch(r'Q\d+', x)})
+    ids = sorted({x for m in re.findall(r'wikidata"\s*:\s*"([^"]+)"', txt) for x in re.split(r'\s*;\s*', m) if re.fullmatch(r'Q\d+', x)})
     log('Wikidata ids: %d' % len(ids))
     for n, i in enumerate(range(0, len(ids), 50)):
         u = 'https://www.wikidata.org/w/api.php?action=wbgetentities&format=json&props=labels|descriptions|sitelinks|claims&languages=he|en|pt|es|ca|fr|de|it&ids=' + '|'.join(ids[i:i + 50])
