@@ -1,0 +1,780 @@
+{{חלק מ|צפון פורטוגל}}
+{{באנר עם סמל|Porto banner.jpg|אונסק"ו=כן}}
+{{יישוב
+|מפה={{מפת מיקום|מדינה=פורטוגל|שם=פורטו|אורך=-8.63333333333333|רוחב=41.15|רוחב תצוגה=105|מפורט=לא|כותרת=לא|מוגדלת=לא|סוג=עיר}}
+|מדינה = [[פורטוגל]]
+|אוכלוסייה = 237,584 תושבים
+|שנת אוכלוסייה = 2011
+|צפיפות = 5,736
+|שנת צפיפות = 2011
+|שטח = 41.42
+|אזור זמן = UTC
+|אתר תיירות רשמי = http://www.portoturismo.pt/
+}}
+'''פורטו''' (פורטוגזית: '''Porto''') היא עיר נמל ב[[פורטוגל]]. פורטו היא העיר השנייה בגודלה ובחשיבותה בפורטוגל. ב-1996 הכריז ארגון אונסק"ו על החלק ההיסטורי של העיר כ[[אתר מורשת עולמית]].
+{{-}}
+
+== רקע כללי ==
+<!-- אנא הקפידו להוסיף סיכום מתומצת של העובדות החשובות ביותר בלבד. זכרו כי זהו מדריך שימושי למטייל ולא ערך אנציקלופדי מורחב בוויקיפדיה. -->
+{{להשלים}} 
+[[קובץ:Porto Ribeira.jpg|280px|ממוזער|אזור הריביירה של פורטו הוא אחד האזורים המתויירים בעיר]]
+=== רקע היסטורי ===
+{{-}}
+=== אקלים ===
+{{Weather box
+|location= פורטו
+|metric first = yes
+|single line = yes
+|width= auto
+
+|Jan record high C = 23.3
+|Feb record high C = 23.2
+|Mar record high C = 28.5
+|Apr record high C = 30.2
+|May record high C = 34.1
+|Jun record high C = 38.7
+|Jul record high C = 40.5
+|Aug record high C = 39.5
+|Sep record high C = 36.9
+|Oct record high C = 32.2
+|Nov record high C = 26.3
+|Dec record high C = 24.8
+|year record high C = 40.5
+|Jan high C = 13.8
+|Feb high C = 15.0
+|Mar high C = 17.4
+|Apr high C = 18.1
+|May high C = 20.1
+|Jun high C = 23.5
+|Jul high C = 25.3
+|Aug high C = 25.7
+|Sep high C = 24.1
+|Oct high C = 20.7
+|Nov high C = 17.1
+|Dec high C = 14.4
+|year high C = 19.6
+|Jan mean C = 9.5
+|Feb mean C = 10.4
+|Mar mean C = 12.6
+|Apr mean C = 13.7
+|May mean C = 15.9
+|Jun mean C = 19.0
+|Jul mean C = 20.6
+|Aug mean C = 20.8
+|Sep mean C = 19.5
+|Oct mean C = 16.4
+|Nov mean C = 13.0
+|Dec mean C = 10.7
+|year mean C = 15.2
+|Jan low C = 5.2
+|Feb low C = 5.9
+|Mar low C = 7.8
+|Apr low C = 9.1
+|May low C = 11.6
+|Jun low C = 14.5
+|Jul low C = 15.9
+|Aug low C = 15.9
+|Sep low C = 14.7
+|Oct low C = 12.2
+|Nov low C = 8.9
+|Dec low C = 6.9
+|year low C = 10.7
+|Jan record low C = -3.3
+|Feb record low C = -2.8
+|Mar record low C = -1.6
+|Apr record low C = 0.1
+|May record low C = 3.3
+|Jun record low C = 5.6
+|Jul record low C = 9.5
+|Aug record low C = 8.0
+|Sep record low C = 5.5
+|Oct record low C = 1.4
+|Nov record low C = -0.3
+|Dec record low C = -1.2
+|year record low C = -3.3
+|Jan precipitation mm = 147.1
+|Feb precipitation mm = 110.5
+|Mar precipitation mm = 95.6
+|Apr precipitation mm = 117.6
+|May precipitation mm = 89.6
+|Jun precipitation mm = 39.9
+|Jul precipitation mm = 20.4
+|Aug precipitation mm = 32.9
+|Sep precipitation mm = 71.9
+|Oct precipitation mm = 158.3
+|Nov precipitation mm = 172.0
+|Dec precipitation mm = 181.0
+|year precipitation mm = 1236.8
+|unit precipitation days = 0.1 mm
+|Jan precipitation days = 17
+|Feb precipitation days = 16
+|Mar precipitation days = 15
+|Apr precipitation days = 14
+|May precipitation days = 13
+|Jun precipitation days = 9
+|Jul precipitation days = 6
+|Aug precipitation days = 5
+|Sep precipitation days = 8
+|Oct precipitation days = 14
+|Nov precipitation days = 15
+|Dec precipitation days = 15
+|year precipitation days = 147
+|Jan sun = 124.0
+|Feb sun = 130.0
+|Mar sun = 192.2
+|Apr sun = 216.0
+|May sun = 257.3
+|Jun sun = 273.0
+|Jul sun = 306.9
+|Aug sun = 294.5
+|Sep sun = 225.0
+|Oct sun = 182.9
+|Nov sun = 138.0
+|Dec sun = 124.0
+|year sun = 2463.8
+|source 1= Instituto de Meteorologia,{{כ}}<ref name=INMET>{{cite web |url=http://www.ipma.pt/pt/oclima/normais.clima/1981-2010/014/ |title=Normais Climatológicas - 1981-2010(provisórias) - Porto |publisher=Instituto de Meteorologia |language = Portuguese |accessdate= 19 January 2013}}</ref> Hong Kong Observatory{{כ}}<ref>[http://www.weather.gov.hk/wxinfo/climat/world/eng/europe/sp_po/porto_e.htm "Climatological Information for Porto, Portugal" (1961–1990)] – Hong Kong Observatory</ref>
+|date=August 2010
+}}
+
+==מוקדי עניין==
+{{להשלים}} 
+
+===במרכז העיר===
+
+* {{מוקדי
+| שם=Palácio da Bolsa | שם חלופי=Stock Exchange Palace | האתר הרשמי=http://www.palaciodabolsa.com/ | מייל=
+| כתובת=Rua Ferreira Borges, 4050-253 | lat=41.1412 | long=-8.6155 | הוראות=
+| טלפון= | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+* {{מוקדי
+| שם=Sé do Porto | שם חלופי=Porto Cathedral | האתר הרשמי=http://www.diocese-porto.pt/index.php?option=com_content&view=article&id=877&Itemid=60 | מייל=
+| כתובת=Terreiro da Sé, 4050-573 | lat=41.14279 | long=-8.61149 | הוראות=
+| טלפון= | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+* {{מוקדי
+| שם=Port Wine Institute | שם חלופי= | האתר הרשמי=http://www.ivdp.pt/pagina.asp?codPag=172&codSeccao=5 | מייל=
+| כתובת=Rua Ferreira Borges 27, 4050-253 | lat=41.14201 | long=-8.61544 | הוראות=
+| טלפון=+351 22 2071669 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+* {{מוקדי
+| שם=City Hall | שם חלופי= | האתר הרשמי= | מייל=
+| כתובת=Avenida dos Aliados | lat=41.14992 | long=-8.61072 | הוראות=
+| טלפון= | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+* {{מוקדי
+| שם=Igreja de São Francisco | שם חלופי=Church of Saint Francis | האתר הרשמי= | מייל=
+| כתובת= | lat=41.14096 | long=-8.61557 | הוראות=
+| טלפון= | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+
+*{{מוקדי
+| שם=Mercado do Bolhão | שם חלופי= | האתר הרשמי=http://visitporto.travel/Visitar/Paginas/Descobrir/detalhespoi.aspx?POI=1393 | מייל=
+| כתובת=Rua Formosa | lat=41.14936 | long=-8.60712 | הוראות=
+| טלפון= | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+
+* {{מוקדי
+| שם=Livraria Lello | שם חלופי= | האתר הרשמי=http://lelloprologolivreiro.com.sapo.pt | מייל=
+| כתובת=Rua das Carmelitas | lat=41.14682 | long=-8.61486 | הוראות=
+| טלפון= | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+
+* {{מוקדי
+| שם=Torre dos Clérigos | שם חלופי=Clerics' Tower | האתר הרשמי=http://www.torredosclerigos.pt/en/ | מייל=
+| כתובת=Rua São Filipe Nery, 4050-546 | lat=41.14565 | long=-8.61464 | הוראות=
+| טלפון=+351 22 2001729 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+
+* {{מוקדי
+| שם=National Museum Soares dos Reis | שם חלופי= | האתר הרשמי=http://www.museusoaresdosreis.pt/en-GB/default.aspx | מייל=
+| כתובת=Palácio dos Carrancas, Rua D. Manuel II, 4050-342 | lat=41.14771 | long=-8.62153 | הוראות=
+| טלפון= | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+
+* {{מוקדי
+| שם=Centro Português de Fotografia | שם חלופי=Portuguese Photography Museum | האתר הרשמי=http://www.cpf.pt | מייל=
+| כתובת= | lat=41.14473 | long=-8.61593 | הוראות=
+| טלפון= | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+
+* {{מוקדי
+| שם=Ribeira | שם חלופי=Riverfront | האתר הרשמי= | מייל=
+| כתובת= | lat=41.14044 | long=-8.61257 | הוראות=
+| טלפון= | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+
+*{{מוקדי
+| שם=Museum of Archaeology | שם חלופי= | האתר הרשמי=https://www.facebook.com/pages/MUSEU-DE-ARTE-SACRA-E-ARQUEOLOGIA/208177609204246 | מייל=
+| כתובת=Largo Dr. Pedro Vitorino 2, 4050-468 | lat=41.14223 | long=-8.61257 | הוראות=
+| טלפון=+351 223-395-020 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+
+===מוקדי עניין נוספים===
+
+* {{מוקדי
+| שם=Museu do Vinho do Porto | שם חלופי=Port Wine Museum | האתר הרשמי=http://visitasvirtuais.cm-porto.pt/mvp_ec.php | מייל=
+| כתובת=Rua de Monchique 45-52, 4050-394 | lat=41.14498 | long=-8.62675 | הוראות=
+| טלפון= | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+* {{מוקדי
+| שם=Pavilhão Rosa Mota | שם חלופי= | האתר הרשמי= | מייל=
+| כתובת= | lat=41.14682 | long=-8.62589 | הוראות=
+| טלפון= | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+* {{מוקדי
+| שם=Museu Romântico | שם חלופי= | האתר הרשמי= | מייל=
+| כתובת= | lat=41.14762 | long=-8.62847 | הוראות=
+| טלפון= | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+
+*{{מוקדי
+| שם=Casa da Música | שם חלופי=House of Music | האתר הרשמי=http://www.casadamusica.com/en/ | מייל=
+| כתובת=Avenida da Boavista 604-610, 4149-071 | lat=41.15867 | long=-8.63065 | הוראות=
+| טלפון=+351 220 120 220 (Box office), +351 220 120 210 (tour enquiries) | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+
+*{{מוקדי
+| שם=Fundação de Serralves | שם חלופי=Modern Art Museum | האתר הרשמי=http://www.serralves.pt/en/ | מייל=
+| כתובת=Rua D. João de Castro 210, 4150-417 | lat=41.15904 | long=-8.65932 | הוראות=
+| טלפון= | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+* {{מוקדי
+| שם=Castelo Do Queijo | שם חלופי= | האתר הרשמי= | מייל=
+| כתובת= | lat=41.16862 | long=-8.68999 | הוראות=
+| טלפון= | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+* {{מוקדי
+| שם=She Changes | שם חלופי=Rotunda da Anémona | האתר הרשמי=http://www.echelman.com/project/she-changes/ | מייל=
+| כתובת=Monumento ao Pescador Matosinhense | lat=41.1734 | long=-8.6887 | הוראות=
+| טלפון= | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+{{-}}
+=== מפה אינטראקטיבית ===
+המספרים על גבי המפה שלהלן מסמנים בין היתר את המיקום של מוקדי העניין המצוינים לעיל.
+{{MapFrame|align=right|width=750|height=500|layer=NSM|zoom=14|41.1471|-8.6205}}
+{{mapshape|wikidata=Q36433}}
+{{-}}
+
+==פעילויות==
+{{להשלים}} 
+[[קובץ:Estádio do Dragão (8468978586).jpg|260px|ממוזער|אצטדיון הדרגאו]]
+* {{פעילויות
+| שם=Teatro Nacional São João | שם חלופי= | האתר הרשמי=http://www.tnsj.pt | מייל=
+| כתובת=Praça da Batalha, 4000-102 | lat=41.14470 | long=-8.60742 | הוראות=
+| טלפון=+351 22 340 19 56  | שיחה בחינם=800 108 675 | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+* {{פעילויות
+| שם=אצטדיון הדרגאו | שם חלופי=Estádio do Dragão | האתר הרשמי=http://www.fcporto.pt/en/clube/estadio-do-dragao/Pages/history.aspx | מייל=
+| כתובת= | lat=41.1619 | long=-8.5838 | הוראות=
+| טלפון= | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור= אצטדיון כדורגל המשמש כמגרשה הביתי של קבוצת [[:w:פורטו (כדורגל)|פורטו]].
+}}
+
+* {{פעילויות
+| שם=Porto Exit Games | שם חלופי= | האתר הרשמי=http://portoexitgames.com | מייל=hello@portoexitgames.com
+| כתובת= | lat= | long= | הוראות=
+| טלפון=+351 914 884 883 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+
+==קניות==
+{{להשלים}}
+=== מרכזי קניות === 
+* {{קניות| שם=Via Catarina| תיאור=
+}}
+* {{קניות| שם=Shopping Cidade do Porto| תיאור=
+}}
+* {{קניות| שם=Norte Shopping| תיאור=
+}}
+* {{קניות| שם=Vila do Conde The Style Outlets| שם חלופי=| האתר הרשמי=| מייל=| כתובת=| הוראות=|lat=|long=| טלפון=| שיחה בחינם=| פקס=| שעות=| מחיר=|lastedit=2016-08-12| תיאור=
+}}
+
+==אוכל==
+{{להשלים}}
+
+=== אפשרויות בטווח מחירים נמוך מהממוצע ===
+* {{אוכל
+| שם=Nakite | שם חלופי= | האתר הרשמי= | מייל=
+| כתובת=R. de Breyner 396, Porto | lat= | long= | הוראות=
+| טלפון= | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+* {{אוכל
+| שם=Maus Habitos | שם חלופי= | האתר הרשמי=http://www.maushabitos.com/restaurant/ | מייל=
+| כתובת=Rua de Passos Manuel, 178 | lat=41.1466701 | long=-8.605811 | הוראות=
+| טלפון= | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+* {{אוכל
+| שם=Paladar da Alma | שם חלופי= | האתר הרשמי=https://www.facebook.com/paladardaalma/info | מייל=
+| כתובת=Rua de St Ildefonso 293/295 | lat= | long= | הוראות=
+| טלפון= | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+
+* {{אוכל
+| שם=Âncora d'Ouro
+| כתובת=Praça de Parada Leitão 45
+| שם חלופי=The Golden Anchor
+| הוראות=
+| תיאור=
+| האתר הרשמי=http://www.cafepiolho.com/}}
+
+* {{אוכל
+| שם=Casa Adão | שם חלופי= | האתר הרשמי= | מייל=
+| כתובת=Avenida Ramos Pinto, 252, Vila Nova de Gaia | lat= | long= | הוראות=
+| טלפון= | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+
+* {{אוכל
+| שם=Tà-se Bem
+| כתובת=Largo Sampaio Bruno 25, Vila Nova de Gaia
+| תיאור=
+}}
+
+=== אפשרויות בטווח מחירים ממוצע ===
+
+* {{אוכל
+| שם=Mauritânia Grill
+| כתובת=Avenida Combatantes Grande Guerra 50, Leça da Palmeira
+| תיאור=
+}}
+
+* {{אוכל
+| שם=Casa Da Foz
+| כתובת=Rua Padre Luís Cabral, 4150-461 Porto
+| תיאור=
+}}
+
+* {{אוכל
+| שם=Varanda Da Barra
+| כתובת=Rua Paulo Gama 470, 4150-589 Porto
+| תיאור=
+}}
+
+*{{אוכל
+| שם=Galeria de Paris Restaurante Bar | האתר הרשמי= | מייל=
+| כתובת=56 Rua Galeria de Paris | lat= | long= | הוראות=
+| טלפון= | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+
+=== אפשרויות בטווח מחירים גבוה מהממוצע ===
+* {{אוכל
+| שם=O Filipe | שם חלופי= | האתר הרשמי= | מייל=
+| כתובת=Avenida Engenheiro Duarte Pacheco 36-r/c, 4450-110 Matosinhos | lat= | long= | הוראות=
+| טלפון= | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+
+* {{אוכל
+| שם=Marisqueira de Matosinhos | שם חלופי= | האתר הרשמי=http://www.amarisqueiradematosinhos.com/ | מייל=
+| כתובת=Rua Roberto Ivens 717, 4450-255 Matosinhos | lat= | long= | הוראות=
+| טלפון= | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+==שתייה וחיי לילה==
+{{להשלים}} 
+=== מועדוני ריקודים ===
+* {{שתייה
+| שם=POP | שם חלופי= | האתר הרשמי= | מייל=
+| כתובת=Rua Padre Luis Cabral, 1090 | lat= | long= | הוראות=
+| טלפון= | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+* {{שתייה
+| שם=Twins | שם חלופי= | האתר הרשמי=http://www.twins.pt/porto/porto.html  | מייל=
+| כתובת= | lat= | long= | הוראות=
+| טלפון= | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+
+* {{שתייה
+| שם=Industria | שם חלופי= | האתר הרשמי=http://www.industriaporto.com | מייל=
+| כתובת= | lat= | long= | הוראות=
+| טלפון= | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+
+* {{שתייה
+| שם=Bazaar | שם חלופי= | האתר הרשמי=http://www.bazaar.com.pt | מייל=
+| כתובת= | lat= | long= | הוראות=
+| טלפון= | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+
+* {{שתייה
+| שם=Plano B | שם חלופי= | האתר הרשמי=http://www.planobporto.com/ | מייל=
+| כתובת= | lat= | long= | הוראות=
+| טלפון= | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+
+===פאבים===
+* {{שתייה
+| שם=Ryan's Irish Pub | שם חלופי= | האתר הרשמי=http://www.ryansirishbar.com  | מייל=
+| כתובת= | lat= | long= | הוראות=
+| טלפון= | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+
+==לינה==
+{{להשלים}}
+
+=== אפשרויות בטווח מחירים נמוך מהממוצע ===
+*{{לינה
+| שם=Alma Porto Hostel | האתר הרשמי=http://www.facebook.com/almaporto.hostel | מייל=almaportohostel@gmail.com
+| כתובת=Rua do Bonfim, 305B | lat= | long= | הוראות=
+| טלפון=+351 914 049 326, +351 914 306 011 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| צ'ק אין= | צ'ק אאוט=
+| תיאור=
+}}
+*{{לינה
+| שם=The White Box House | האתר הרשמי=http://www.the-white-box.pt  | מייל=house@the-white-box.pt
+| כתובת=Rua de Santa Catarina, 575 | lat= | long= | הוראות=
+| טלפון=+351 911 008 585 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| צ'ק אין= | צ'ק אאוט=
+| תיאור=
+}}
+
+*{{לינה
+| שם=Wine Hostel | האתר הרשמי= | מייל=
+| כתובת=52 Campo dos Martires da Patria | lat= | long= | הוראות=
+| טלפון=+351 222013167 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| צ'ק אין= | צ'ק אאוט=
+| תיאור=
+}}
+
+*{{לינה
+| שם=Residencial Marfim | שם חלופי=AC Guest House | האתר הרשמי=http://www.residencialmarfim.com  | מייל=charmedaleziria@gmail.com
+| כתובת=Rua Alvares Cabral 213 | lat= | long= | הוראות=
+| טלפון= | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| צ'ק אין= | צ'ק אאוט=
+| תיאור=
+}}
+
+*{{לינה
+| שם=Oporto Fado Hostel | האתר הרשמי=http://www.oportofadohostel.com  | מייל=
+| כתובת=Rua Alvares Cabral 14 | lat= | long= | הוראות=
+| טלפון=+351 91 063 55 55 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| צ'ק אין= | צ'ק אאוט=
+| תיאור=
+}}
+
+*{{לינה
+| שם=Andarilho Porto Hostel | האתר הרשמי=http://www.andarilhohostel.com | מייל=
+| כתובת=Rua da Firmeza 363 / 364 | lat= | long= | הוראות=
+| טלפון=+351222012073 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| צ'ק אין= | צ'ק אאוט=
+| תיאור=
+}}
+
+*{{לינה
+| שם=Gallery Hostel Porto | האתר הרשמי=http://www.gallery-hostel.com | מייל=info@gallery-hostel.com
+| כתובת=Rua Miguel Bombarda, nº222 | lat= | long= | הוראות=
+| טלפון= | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| צ'ק אין= | צ'ק אאוט=
+| תיאור=
+}}
+
+*{{לינה
+| שם=Dixo's oporto hostel | האתר הרשמי=http://www.dixosoportohostel.com  | מייל=info@dixosoportohostel.com
+| כתובת=Rua Mouzinho da Silveira, nº 72 | lat= | long= | הוראות=
+| טלפון= | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| צ'ק אין= | צ'ק אאוט=
+| תיאור=
+}}
+
+*{{לינה
+| שם=Pensão Belo Sonho | האתר הרשמי=http://www.reservahoteles.travel/__n93548_2231_Residencial-Belo-Sonho---Porto.html  | מייל=residencialbelosonho@mail.com
+| כתובת=Rua de Passos Manuel 186 | lat= | long= | הוראות=
+| טלפון= | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| צ'ק אין= | צ'ק אאוט=
+| תיאור=
+}}
+
+*{{לינה
+| שם=Porto Spot Hostel | האתר הרשמי=http://www.spothostel.pt/spot_hostel_eng.php  | מייל=
+| כתובת=Rua Gonçalo Cristóvão nº 12 | lat= | long= | הוראות=
+| טלפון= | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| צ'ק אין= | צ'ק אאוט=
+| תיאור=
+}}
+
+*{{לינה
+| שם=Oporto Sky Hostel | האתר הרשמי=http://www.oportosky.com/ | מייל=info@oportosky.com
+| כתובת=Rua da Lapa, 33 | lat= | long= | הוראות=
+| טלפון=+351 222 017 069 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| צ'ק אין= | צ'ק אאוט=
+| תיאור=
+}}
+
+* {{לינה
+| שם=Youth Hostel | שם חלופי=Pousada de Juventude do Porto | האתר הרשמי=https://www.movijovem.pt/Reservas/ | מייל=
+| כתובת=Paulo da Gama Street, 551 | lat= | long= | הוראות=
+| טלפון= | שיחה בחינם= | פקס=
+| מחיר= | צ'ק אין= | צ'ק אאוט=
+| תיאור=
+}}
+
+* {{לינה
+| שם=Hospedaria 1 de Janeiro | האתר הרשמי= | מייל=
+| כתובת=rua 31 Janeiro | lat= | long= | הוראות=
+| טלפון= | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| צ'ק אין= | צ'ק אאוט=
+| תיאור=
+}}
+
+* {{לינה
+| שם=Hospedaria Novo Mundo | האתר הרשמי= | מייל=
+| כתובת=rua Conde de Vizela | lat= | long= | הוראות=
+| טלפון= | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| צ'ק אין= | צ'ק אאוט=
+| תיאור=
+}}
+
+*{{לינה
+| שם=Hotel Ibis Porto São João | האתר הרשמי=http://www.ibishotel.com/ibis/fichehotel/gb/ibi/1274/fiche_hotel.shtml | מייל=
+| כתובת=Rua Dr. Plácido Costa | lat= | long= | הוראות=
+| טלפון=+351 22 551 31 00 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| צ'ק אין= | צ'ק אאוט=
+| תיאור=
+}}
+
+*{{לינה
+| שם=Hotel Ibis Porto Norte | האתר הרשמי=http://www.ibishotel.com/ibis/fichehotel/gb/ibi/1274/fiche_hotel.shtml | מייל=
+| כתובת=Auto Estrada Porto Braga S. Mamede do coronado K11 | lat= | long= | הוראות=
+| טלפון=+351 22 986 76 00 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| צ'ק אין= | צ'ק אאוט=
+| תיאור=
+}}
+
+*{{לינה
+| שם=Hotel Ibis Porto Sul Europarque | האתר הרשמי=http://www.ibishotel.com/ibis/fichehotel/gb/ibi/1729/fiche_hotel.shtml | מייל=
+| כתובת=Espargo europarque | lat= | long= | הוראות=
+| טלפון=+351 256 332 507 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| צ'ק אין= | צ'ק אאוט=
+| תיאור=
+}}
+
+*{{לינה
+| שם=Residencia Pedra Antiga | האתר הרשמי= | מייל=
+| כתובת=Rua de Santa Catarina, 830 | lat= | long= | הוראות=
+| טלפון=+351 222407467 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| צ'ק אין= | צ'ק אאוט=
+| תיאור=
+}}
+
+*{{לינה
+| שם=Albergaria Miradouro Hotel | האתר הרשמי=http://albergaria-miradouroporto.h-rez.com/  | מייל=
+| כתובת=Rua de Alegria, 598 | lat= | long= | הוראות=
+| טלפון=+351 225370717 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| צ'ק אין= | צ'ק אאוט=
+| תיאור=
+}}
+
+*{{לינה
+| שם=Porto Lounge Hostel | האתר הרשמי=http://portoloungehostel.com | מייל=info@portoloungehostel.com
+| כתובת=Rua do Almada, nº 317 | lat= | long= | הוראות=
+| טלפון=+351 222085196 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| צ'ק אין= | צ'ק אאוט=
+| תיאור=
+}}
+
+=== אפשרויות בטווח מחירים ממוצע ===
+*{{לינה
+| שם=Grande Hotel da Povoa | האתר הרשמי=http://www.grandehoteldapovoa.com | מייל=grandehotel.povoa@sapo.pt
+| כתובת=Largo do Passeio Alegre, nº20, 4490-428 Póvoa Varzim | lat= | long= | הוראות=
+| טלפון=+351 252 290 400 | שיחה בחינם= | פקס=+351 252 290 401
+| שעות= | מחיר=
+| צ'ק אין= | צ'ק אאוט=
+| תיאור=
+}}
+
+* {{לינה
+| שם=Hotel Belver Beta Porto | שם חלופי= | האתר הרשמי=http://www.belverhotels.com/beta-porto-hotel.html | מייל=comercial@belverhotels.com
+| כתובת=Rua do Amial, 601 | lat= | long= | הוראות=
+| טלפון= | שיחה בחינם= | פקס=
+| צ'ק אין= | צ'ק אאוט= | מחיר=
+| lastedit=2017-04-07
+| תיאור=
+}}
+
+*{{לינה
+| שם=Hotel Mercure Porto Batalha | האתר הרשמי=http://www.mercure.com/mercure/fichehotel/gb/mer/1975/fiche_hotel.shtml | מייל=h1975@accor.com
+| כתובת=Praca da Batalha 116 | lat= | long= | הוראות=
+| טלפון=+351 22 204 33 00 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| צ'ק אין= | צ'ק אאוט=
+| תיאור=
+}}
+
+*{{לינה
+| שם=Vila Galé Porto | האתר הרשמי=http://www.vilagale.pt/pages/hoteis/?hotel=9 | מייל=porto@vilagale.pt
+| כתובת=Av. Fernão Magalhães, nº 7 4300-190 | lat= | long= | הוראות=
+| טלפון=+351 225 191 800 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| צ'ק אין= | צ'ק אאוט=
+| תיאור=
+}}
+
+*{{לינה
+| שם=Hotel Malaposta | האתר הרשמי=http://www.malaposta-hotel.com  | מייל=reservas@hotelmalaposta.com
+| כתובת=Rua da Conceição, nº80, 4050-214 | lat= | long= | הוראות=
+| טלפון=+351 222 006 278 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| צ'ק אין= | צ'ק אאוט=
+| תיאור=
+}}
+
+=== אפשרויות בטווח מחירים גבוה מהממוצע ===
+
+* {{לינה
+| שם=Pestana Porto | האתר הרשמי=http://www.pestana.com/en/pestana-porto-hotel/ | מייל=reservas.portugal@pestana.com
+| כתובת=Praça da Ribeira, nº 1 | lat= | long= | הוראות=
+| טלפון=+351 22 340 23 00 | שיחה בחינם= | פקס=+351 22 340 24 00
+| שעות= | מחיר=
+| צ'ק אין= | צ'ק אאוט=
+| תיאור=
+}}
+
+* {{לינה
+| שם=inPatio Guest House | האתר הרשמי=http://www.inpatio.pt/  | מייל=info@inpatio.pt
+| כתובת=Pátio de São Salvador nr. 22 | lat= | long= | הוראות=
+| טלפון=+351 93 4323448 | שיחה בחינם= | פקס=+351 22 085479
+| שעות= | מחיר=
+| צ'ק אין= | צ'ק אאוט=
+| תיאור=
+}}
+
+* {{לינה
+| שם=Tiara Park Atlantic Porto | האתר הרשמי=http://www.tiara-hotels.com/porto/contact-en.html | מייל=reservations.porto@tiara-hotels.com
+| כתובת=Av. da Boavista, 1466 | lat= | long= | הוראות=
+| טלפון=+351 226 072 500 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| צ'ק אין= | צ'ק אאוט=
+| תיאור=
+}}
+* {{לינה
+| שם=The Yeatman Hotel | שם חלופי= | האתר הרשמי=http://www.the-yeatman-hotel.com/en/ | מייל=
+| כתובת=Rua do Choupelo, 4400-088 | lat= | long= | הוראות=
+| טלפון= | שיחה בחינם= | פקס=
+| צ'ק אין= | צ'ק אאוט= | מחיר=
+| lastedit=2017-04-07
+| תיאור=
+}}
+== הגעה ==
+{{להשלים}}
+[[קובץ:Aeroporto Porto 17.jpg|280px|ממוזער|נמל התעופה הבין-לאומי פרנסיסקו סה קרניירו ממוקם כ-11 קילומטרים ממרכז העיר.]]
+=== בטיסה ===
+* {{רשימה | שם=נמל התעופה הבין-לאומי פרנסיסקו סה קרניירו | האתר הרשמי=http://www.ana.pt/en-US/Aeroportos/porto/Porto/Pages/Homepage-Porto.aspx|lat=41.2367|long=-8.6708}}
+=== ברכבת ===
+=== במכונית ===
+=== באוטובוס ===
+=== בדרך הים ===
+{{-}}
+
+==תחבורה בעיר==
+{{להשלים}}
+[[קובץ:Oporto - Metro de Porto - 20110425 132445.jpg|280px|ממוזער|רכבת המטרו בפורטו]]
+===במכונית===
+===במטרו===
+===באוטובוס===
+===במונית===
+===בסירה===
+===במסוק===
+===ברכבל===
+==חשוב לדעת==
+{{להשלים}} 
+===סכנות פוטנציאליות===
+
+==יעדים סמוכים בולטים==
+{{להשלים}}
+
+==ראו גם==
+{{מיזמים
+|ויקיפדיה=פורטו
+}}
+
+==הערות שוליים==
+{{הערות שוליים|יישור=ימין}}
+
+[[קטגוריה:צפון פורטוגל]]
+[[קטגוריה:אתרי מורשת עולמית]]
+{{geo|41.162142|-8.621953}}
+{{דפים קשורים|אתרי מורשת עולמית}}

@@ -1,0 +1,3376 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-11-02T05:39:20Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 453466927,
+  "lat": 41.3815072,
+  "lon": -8.7619974,
+  "tags": {
+    "addr:city": "Póvoa de Varzim",
+    "addr:street": "Praça Marquês de Pombal",
+    "amenity": "police",
+    "name": "Esquadra de Póvoa de Varzim",
+    "operator": "Polícia de Segurança Pública",
+    "operator:short": "PSP",
+    "operator:wikidata": "Q3460075",
+    "operator:wikipedia": "en:Polícia de Segurança Pública"
+  }
+},
+{
+  "type": "node",
+  "id": 688007305,
+  "lat": 41.1880215,
+  "lon": -8.4946985,
+  "tags": {
+    "addr:city": "Valongo",
+    "addr:housenumber": "176",
+    "addr:postcode": "4440-697",
+    "addr:street": "Rua Joaquim Marques dos Santos",
+    "amenity": "police",
+    "name": "Esquadra de Valongo",
+    "operator": "Polícia de Segurança Pública",
+    "operator:short": "PSP",
+    "operator:wikidata": "Q3460075",
+    "operator:wikipedia": "en:Polícia de Segurança Pública"
+  }
+},
+{
+  "type": "node",
+  "id": 708285559,
+  "lat": 41.1931650,
+  "lon": -8.6104059,
+  "tags": {
+    "addr:city": "São Mamede de Infesta",
+    "addr:country": "PT",
+    "addr:housenumber": "6202",
+    "addr:place": "São Mamede de Infesta",
+    "addr:postcode": "4465-095",
+    "addr:street": "Avenida do Conde",
+    "alt_name": "Esquadra de Polícia da PSP",
+    "amenity": "police",
+    "email": "smamedeinfesta.porto@psp.pt",
+    "fax": "+351229059585",
+    "name": "Esquadra de São Mamede de Infesta",
+    "operator": "Polícia de Segurança Pública",
+    "operator:short": "PSP",
+    "operator:wikidata": "Q3460075",
+    "operator:wikipedia": "en:Polícia de Segurança Pública",
+    "phone": "+351229059580",
+    "short_name": "PSP",
+    "website": "https://www.psp.pt/Pages/pesquisa_detalhe.aspx?menu=2&submenu=1&unidade=743",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1187121688,
+  "lat": 41.2210429,
+  "lon": -8.5570434,
+  "tags": {
+    "addr:city": "Ermesinde",
+    "addr:housenumber": "157",
+    "addr:postcode": "4445-369",
+    "addr:street": "Rua da Cancela",
+    "amenity": "police",
+    "name": "Esquadra de Ermesinde",
+    "operator": "Polícia de Segurança Pública",
+    "operator:short": "PSP",
+    "operator:wikidata": "Q3460075",
+    "operator:wikipedia": "en:Polícia de Segurança Pública"
+  }
+},
+{
+  "type": "node",
+  "id": 1223740133,
+  "lat": 41.1417147,
+  "lon": -8.6147148,
+  "tags": {
+    "addr:city": "Porto",
+    "addr:postcode": "4050-116",
+    "addr:street": "Praça Infante Dom Henrique",
+    "amenity": "police",
+    "contact:phone": "+351 222073370;+351 225574905",
+    "contact:website": "https://www.psp.pt/",
+    "name": "9ª Esquadra - Infante Dom Henrique",
+    "operator": "Polícia de Segurança Pública",
+    "operator:short": "PSP",
+    "operator:wikidata": "Q3460075",
+    "operator:wikipedia": "en:Polícia de Segurança Pública",
+    "short_name": "PSP"
+  }
+},
+{
+  "type": "node",
+  "id": 1243160585,
+  "lat": 41.1833803,
+  "lon": -8.6859618,
+  "tags": {
+    "name": "JCS Ferragens",
+    "shop": "Utilities"
+  }
+},
+{
+  "type": "node",
+  "id": 1252562245,
+  "lat": 41.3663077,
+  "lon": -8.7271636,
+  "tags": {
+    "name": "Armazém de ferragens e materiais de construção \"Amorim\"",
+    "shop": "doityourself",
+    "short_name": "AGAL"
+  }
+},
+{
+  "type": "node",
+  "id": 1626725663,
+  "lat": 41.4013615,
+  "lon": -8.2167719,
+  "tags": {
+    "amenity": "shelter",
+    "name": "Paragem Autocarros",
+    "shelter_type": "public_transport",
+    "source": "Local information"
+  }
+},
+{
+  "type": "node",
+  "id": 1635058530,
+  "lat": 41.2773191,
+  "lon": -8.3790630,
+  "tags": {
+    "name": "Escapes J.Alves",
+    "shop": "car_repair"
+  }
+},
+{
+  "type": "node",
+  "id": 1723737220,
+  "lat": 41.2310389,
+  "lon": -8.6223258,
+  "tags": {
+    "addr:city": "Maia",
+    "addr:postcode": "4470-145",
+    "addr:street": "Rua Doutor Augusto Martins",
+    "amenity": "police",
+    "check_date": "2025-12-11",
+    "name": "Esquadra da Maia",
+    "operator": "Polícia de Segurança Pública",
+    "operator:short": "PSP",
+    "operator:wikidata": "Q3460075",
+    "operator:wikipedia": "en:Polícia de Segurança Pública"
+  }
+},
+{
+  "type": "node",
+  "id": 2083944955,
+  "lat": 41.1303629,
+  "lon": -8.6054974,
+  "tags": {
+    "addr:city": "Vila Nova de Gaia",
+    "addr:postcode": "4430-047",
+    "addr:street": "Rua 14 de Outubro",
+    "alt_name": "Esquadra de Gaia",
+    "amenity": "police",
+    "check_date": "2026-03-15",
+    "fax": "+351 223 774 195",
+    "name": "Polícia de Segurança Pública - Esquadra de Vila Nova de Gaia",
+    "operator": "Polícia de Segurança Pública",
+    "operator:short": "PSP",
+    "operator:wikidata": "Q3460075",
+    "operator:wikipedia": "en:Polícia de Segurança Pública",
+    "phone": "+351 223 774 190",
+    "website": "https://www.psp.pt/"
+  }
+},
+{
+  "type": "node",
+  "id": 2354316114,
+  "lat": 41.1481507,
+  "lon": -8.6119319,
+  "tags": {
+    "access": "yes",
+    "addr:city": "Porto",
+    "addr:postcode": "4050-032",
+    "addr:street": "Rua do Elísio e do Almada",
+    "alt_name": "Garagem O Comércio do Porto",
+    "amenity": "parking",
+    "capacity": "135",
+    "charge": "2.60 EUR/hour",
+    "fee": "yes",
+    "lit": "yes",
+    "maxheight": "2.2",
+    "name": "Parque de estacionamento Saba Garagem Comércio do Porto - Porto",
+    "opening_hours": "Mo-Th 00:00-02:00,07:00-24:00; Fr-Su 00:00-24:00",
+    "operator": "Saba",
+    "operator:type": "public",
+    "parking": "multi-storey",
+    "supervised": "yes",
+    "surface": "concrete",
+    "website": "https://www.saba.pt/pt/estacionamento-porto/parque-de-estacionamento-saba-garagem-comercio-do-porto"
+  }
+},
+{
+  "type": "node",
+  "id": 2410319697,
+  "lat": 41.1766453,
+  "lon": -8.6439177,
+  "tags": {
+    "addr:city": "Porto",
+    "addr:housenumber": "259",
+    "addr:postcode": "4250-206",
+    "addr:street": "Rua Central do Viso",
+    "amenity": "police",
+    "contact:phone": "+351 228 349340",
+    "name": "18ª Esquadra - Viso",
+    "operator": "Polícia de Segurança Pública",
+    "operator:short": "PSP",
+    "operator:wikidata": "Q3460075",
+    "operator:wikipedia": "en:Polícia de Segurança Pública",
+    "short_name": "PSP"
+  }
+},
+{
+  "type": "node",
+  "id": 2454698483,
+  "lat": 41.1402972,
+  "lon": -8.5380190,
+  "tags": {
+    "addr:city": "Gondomar",
+    "addr:postcode": "4420-264",
+    "addr:street": "Caminho do Pevidal",
+    "amenity": "police",
+    "name": "Esquadra de Gondomar",
+    "operator": "Polícia de Segurança Pública",
+    "operator:short": "PSP",
+    "operator:wikidata": "Q3460075",
+    "operator:wikipedia": "en:Polícia de Segurança Pública",
+    "short_name": "PSP"
+  }
+},
+{
+  "type": "node",
+  "id": 2530784036,
+  "lat": 41.1411725,
+  "lon": -8.5568201,
+  "tags": {
+    "addr:city": "Valbom",
+    "addr:housenumber": "447-A",
+    "addr:postcode": "4420-435",
+    "addr:street": "Rua Doutor Joaquim Manuel da Costa",
+    "amenity": "police",
+    "check_date": "2025-01-14",
+    "name": "Esquadra de Valbom",
+    "name:pt": "Esquadra de Valbom",
+    "operator": "Polícia de Segurança Pública",
+    "operator:short": "PSP",
+    "operator:wikidata": "Q3460075",
+    "operator:wikipedia": "en:Polícia de Segurança Pública",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2568012241,
+  "lat": 41.3455167,
+  "lon": -8.7533703,
+  "tags": {
+    "check_date": "2026-07-16",
+    "club": "sport",
+    "name": "Aloha Surf & Sup School",
+    "sport": "surfing"
+  }
+},
+{
+  "type": "node",
+  "id": 2614016551,
+  "lat": 41.4445440,
+  "lon": -8.3024234,
+  "tags": {
+    "addr:housenumber": "873",
+    "addr:street": "Rua São Gonçalo",
+    "description": "Ferragens e Ferramentas",
+    "name": "Ferragens São Gonçalo",
+    "opening_hours": "Mo-Fr 09:00-12:30, 14:30-19:00; Sa 09:00-13:00",
+    "phone": "+351 253 414113",
+    "shop": "hardware"
+  }
+},
+{
+  "type": "node",
+  "id": 2621692924,
+  "lat": 41.4432278,
+  "lon": -8.6349305,
+  "tags": {
+    "addr:housenumber": "413",
+    "addr:street": "Rua Central",
+    "name": "Pedro Quinta - Comércio de Ferragens",
+    "official_name": "Pedro Quinta, Unipessoal Lda.",
+    "opening_hours": "Mo-Fr 09:00-12:00, 14:00-19:00; Sa 09:00-12:30, 14:00-17:00",
+    "shop": "doityourself"
+  }
+},
+{
+  "type": "node",
+  "id": 2656628661,
+  "lat": 41.4039833,
+  "lon": -8.5192594,
+  "tags": {
+    "addr:city": "Vila Nova de Famalicão",
+    "addr:housenumber": "1772",
+    "addr:postcode": "4760-111",
+    "addr:street": "Praça Dona Maria II",
+    "name": "Drogaria e Ferragens S. Tiago",
+    "phone": "+351 252 373106",
+    "shop": "doityourself"
+  }
+},
+{
+  "type": "node",
+  "id": 3457414535,
+  "lat": 41.1709586,
+  "lon": -8.6909575,
+  "tags": {
+    "leisure": "pitch",
+    "name": "Matosinhos",
+    "sport": "surfing"
+  }
+},
+{
+  "type": "node",
+  "id": 3512263604,
+  "lat": 41.4421711,
+  "lon": -8.4765546,
+  "tags": {
+    "addr:housenumber": "787",
+    "addr:street": "Avenida Tibães",
+    "name": "Paviplic - Drogaria e Ferragens",
+    "official_name": "Paviplic, Lda.",
+    "phone": "+351 911 807 830",
+    "shop": "hardware"
+  }
+},
+{
+  "type": "node",
+  "id": 3695767844,
+  "lat": 41.1510528,
+  "lon": -8.6062030,
+  "tags": {
+    "amenity": "doctors",
+    "healthcare": "doctor",
+    "name": "Laserin Clínica de Estética"
+  }
+},
+{
+  "type": "node",
+  "id": 3697953200,
+  "lat": 41.1475181,
+  "lon": -8.6031434,
+  "tags": {
+    "name": "Neves & Augusto Ferragens",
+    "shop": "hardware"
+  }
+},
+{
+  "type": "node",
+  "id": 3775837544,
+  "lat": 41.1879357,
+  "lon": -8.6448784,
+  "tags": {
+    "name": "Só Ferragens",
+    "shop": "hardware"
+  }
+},
+{
+  "type": "node",
+  "id": 3993072619,
+  "lat": 41.1472770,
+  "lon": -8.6086043,
+  "tags": {
+    "addr:housenumber": "150",
+    "addr:street": "Rua de Sá da Bandeira",
+    "check_date": "2024-12-18",
+    "name": "Garage & Stage - Music Store",
+    "shop": "musical_instrument",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4411445987,
+  "lat": 41.2388649,
+  "lon": -8.5427390,
+  "tags": {
+    "name": "Garagem Santa Cristina",
+    "shop": "car_repair"
+  }
+},
+{
+  "type": "node",
+  "id": 4538596115,
+  "lat": 40.9779558,
+  "lon": -8.4810009,
+  "tags": {
+    "addr:street": "Rua de Fornos",
+    "name": "Garagem Cruz de Ferro, L.da",
+    "shop": "car_repair"
+  }
+},
+{
+  "type": "node",
+  "id": 4577445440,
+  "lat": 40.9924911,
+  "lon": -8.6404060,
+  "tags": {
+    "addr:city": "Espinho",
+    "addr:housenumber": "2521",
+    "addr:street": "Rua 20",
+    "check_date": "2026-03-27",
+    "name": "Ribescape",
+    "opening_hours": "09:00-12:30,14:30-18:30",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+351 227310312; +351 966 272 571",
+    "shop": "car_repair",
+    "website": "https://www.facebook.com/Ribescape-260595800690181/"
+  }
+},
+{
+  "type": "node",
+  "id": 4754437409,
+  "lat": 41.0944536,
+  "lon": -8.6211781,
+  "tags": {
+    "addr:city": "Gulpilhares e Valadares",
+    "addr:housenumber": "371",
+    "addr:postcode": "4405-535",
+    "addr:street": "Rua da Boa Nova",
+    "amenity": "police",
+    "name": "Esquadra de Valadares",
+    "operator": "Polícia de Segurança Pública",
+    "operator:short": "PSP",
+    "operator:wikidata": "Q3460075",
+    "operator:wikipedia": "en:Polícia de Segurança Pública"
+  }
+},
+{
+  "type": "node",
+  "id": 5316481322,
+  "lat": 41.1477930,
+  "lon": -8.6149908,
+  "tags": {
+    "addr:postcode": "4050-293",
+    "email": "team@portoexitgames.com",
+    "leisure": "escape_game",
+    "name": "Porto Escape Games",
+    "opening_hours": "Mo-Fr 14:30-00:30; Sa-Su 10:30-00:30",
+    "phone": "+351 917 421 815",
+    "website": "https://portoexitgames.com"
+  }
+},
+{
+  "type": "node",
+  "id": 5317228819,
+  "lat": 41.1129440,
+  "lon": -8.6054313,
+  "tags": {
+    "name": "Virtual LEDs",
+    "shop": "LED lamps"
+  }
+},
+{
+  "type": "node",
+  "id": 5638465821,
+  "lat": 41.1368758,
+  "lon": -8.6111698,
+  "tags": {
+    "addr:housenumber": "237",
+    "addr:street": "Rua de General Torres",
+    "name": "Magic Escape Apartment",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 5793535414,
+  "lat": 41.1887472,
+  "lon": -8.7075126,
+  "tags": {
+    "name": "Leça",
+    "sport": "surfing"
+  }
+},
+{
+  "type": "node",
+  "id": 5793579397,
+  "lat": 41.3071973,
+  "lon": -8.7401712,
+  "tags": {
+    "name": "Mindelo",
+    "sport": "surfing"
+  }
+},
+{
+  "type": "node",
+  "id": 5793891495,
+  "lat": 41.4293905,
+  "lon": -8.7848622,
+  "tags": {
+    "name": "Aguçadoura",
+    "sport": "surfing"
+  }
+},
+{
+  "type": "node",
+  "id": 5793891496,
+  "lat": 41.3906141,
+  "lon": -8.7746054,
+  "tags": {
+    "name": "Aver-o-mar",
+    "sport": "surfing"
+  }
+},
+{
+  "type": "node",
+  "id": 5793891498,
+  "lat": 41.3369938,
+  "lon": -8.7426925,
+  "tags": {
+    "name": "Azurara",
+    "sport": "surfing"
+  }
+},
+{
+  "type": "node",
+  "id": 5862502989,
+  "lat": 41.1448512,
+  "lon": -8.6116246,
+  "tags": {
+    "addr:housenumber": "298",
+    "addr:street": "Rua das Flores",
+    "name": "Chocolataria Equador",
+    "shop": "confectionery"
+  }
+},
+{
+  "type": "node",
+  "id": 6497501491,
+  "lat": 40.9584049,
+  "lon": -8.5869738,
+  "tags": {
+    "description": "Reclame antigo preservado com o anterior e primeiro nome da CIFIAL, cuja sigla na altura era CIF",
+    "information": "guidepost",
+    "name": "Centro Industrial de Ferragens, Lda.",
+    "tourism": "information",
+    "website": "https://www.cifial.pt/_historia"
+  }
+},
+{
+  "type": "node",
+  "id": 6647824222,
+  "lat": 41.1496304,
+  "lon": -8.6060071,
+  "tags": {
+    "addr:city": "Porto",
+    "addr:housenumber": "391",
+    "addr:street": "Rua de Santa Catarina",
+    "leisure": "escape_game",
+    "name": "Escape Room"
+  }
+},
+{
+  "type": "node",
+  "id": 6647824320,
+  "lat": 41.1495413,
+  "lon": -8.6051568,
+  "tags": {
+    "addr:city": "Porto",
+    "addr:housenumber": "557",
+    "addr:street": "Rua de Fernandes Tomás",
+    "addr:unit": "1º andar",
+    "name": "Laser IN Estética",
+    "shop": "beauty"
+  }
+},
+{
+  "type": "node",
+  "id": 6832150901,
+  "lat": 41.2280836,
+  "lon": -8.6813738,
+  "tags": {
+    "addr:city": "Perafita",
+    "addr:housenumber": "1383-1399",
+    "addr:postcode": "4455-584",
+    "addr:street": "Rua 31 de Janeiro",
+    "name": "Pajá - Fábrica de Ferragens",
+    "shop": "hardware"
+  }
+},
+{
+  "type": "node",
+  "id": 7169086148,
+  "lat": 41.1647698,
+  "lon": -8.6249601,
+  "tags": {
+    "name": "Dep'l centro laser",
+    "opening_hours": "Mo-Fr 10:00-18:00; Sa 10:00-13:00",
+    "shop": "beauty"
+  }
+},
+{
+  "type": "node",
+  "id": 7655908211,
+  "lat": 41.3489235,
+  "lon": -8.7337753,
+  "tags": {
+    "name": "Azurara Parque Aventura",
+    "tourism": "theme_park"
+  }
+},
+{
+  "type": "node",
+  "id": 7837883759,
+  "lat": 41.1533094,
+  "lon": -8.5961488,
+  "tags": {
+    "addr:housenumber": "390",
+    "addr:street": "Avenida de Fernão de Magalhães",
+    "name": "Garagem Montebelo",
+    "shop": "car_repair"
+  }
+},
+{
+  "type": "node",
+  "id": 7858211758,
+  "lat": 41.1517845,
+  "lon": -8.6064133,
+  "tags": {
+    "addr:housenumber": "637",
+    "addr:street": "Rua Sá da Bandeira",
+    "description": "horário covid 11h-19:30",
+    "name": "Chocolataria Equador",
+    "opening_hours": "Mo-Sa 11:00-14:00, 14:30-19:30",
+    "shop": "chocolate"
+  }
+},
+{
+  "type": "node",
+  "id": 7918107128,
+  "lat": 41.3590269,
+  "lon": -8.7557294,
+  "tags": {
+    "air_conditioning": "yes",
+    "amenity": "restaurant",
+    "bar": "yes",
+    "cuisine": "pizza",
+    "delivery": "yes",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Pizzaria Miragem",
+    "outdoor_seating": "yes",
+    "reservation": "yes",
+    "smoking": "outside",
+    "takeaway": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8261781455,
+  "lat": 41.1641785,
+  "lon": -8.6629845,
+  "tags": {
+    "name": "Garagem da Vilarinha",
+    "operator": "Pereira & Ponte, Lda",
+    "parking": "garage_boxes",
+    "shop": "car_repair"
+  }
+},
+{
+  "type": "node",
+  "id": 8672804654,
+  "lat": 41.1469841,
+  "lon": -8.6168151,
+  "tags": {
+    "check_date": "2023-08-07",
+    "fee": "yes",
+    "leisure": "escape_game",
+    "name": "Can You Escape?"
+  }
+},
+{
+  "type": "node",
+  "id": 8740463317,
+  "lat": 41.1788812,
+  "lon": -8.6843645,
+  "tags": {
+    "addr:housenumber": "681",
+    "addr:postcode": "4450-191",
+    "addr:street": "Avenida Menéres",
+    "name": "Garage Wines",
+    "shop": "wine"
+  }
+},
+{
+  "type": "node",
+  "id": 8769265675,
+  "lat": 41.1844470,
+  "lon": -8.6812627,
+  "tags": {
+    "addr:city": "Matosinhos",
+    "addr:postcode": "4454-505",
+    "addr:street": "Rua de Goa",
+    "amenity": "police",
+    "name": "Esquadra de Matosinhos",
+    "operator": "Polícia de Segurança Pública",
+    "operator:short": "PSP",
+    "operator:wikidata": "Q3460075",
+    "operator:wikipedia": "en:Polícia de Segurança Pública",
+    "short_name": "PSP"
+  }
+},
+{
+  "type": "node",
+  "id": 8786787937,
+  "lat": 41.1768393,
+  "lon": -8.6840042,
+  "tags": {
+    "name": "Piratas à Solta - Eventos para crianças",
+    "opening_hours": "Tu-Fr 14:30-19:00; PH,Sa,Su 10:00-13:30,15:00-19:00",
+    "tourism": "theme_park"
+  }
+},
+{
+  "type": "node",
+  "id": 8792559790,
+  "lat": 41.1774935,
+  "lon": -8.6777575,
+  "tags": {
+    "name": "New Laser - Car - Audio",
+    "shop": "car_parts"
+  }
+},
+{
+  "type": "node",
+  "id": 8792580579,
+  "lat": 41.1783285,
+  "lon": -8.6781671,
+  "tags": {
+    "name": "Espaço para tudo - Self Storage",
+    "shop": "storage_rental"
+  }
+},
+{
+  "type": "node",
+  "id": 8796445148,
+  "lat": 41.1788271,
+  "lon": -8.6820179,
+  "tags": {
+    "name": "Camelot Park",
+    "tourism": "theme_park"
+  }
+},
+{
+  "type": "node",
+  "id": 8857000175,
+  "lat": 41.2764703,
+  "lon": -8.3753755,
+  "tags": {
+    "name": "Quadrado",
+    "shop": "kiosk"
+  }
+},
+{
+  "type": "node",
+  "id": 8860145842,
+  "lat": 41.1786272,
+  "lon": -8.6895179,
+  "tags": {
+    "name": "Venescape",
+    "shop": "car_repair"
+  }
+},
+{
+  "type": "node",
+  "id": 8866357350,
+  "lat": 41.1792972,
+  "lon": -8.6876180,
+  "tags": {
+    "name": "Garagem Monte Carlo",
+    "shop": "car_repair"
+  }
+},
+{
+  "type": "node",
+  "id": 8869531674,
+  "lat": 41.1793472,
+  "lon": -8.6854042,
+  "tags": {
+    "access": "customers",
+    "amenity": "parking",
+    "name": "Garagem De Recolhas Auto",
+    "parking": "garage_boxes"
+  }
+},
+{
+  "type": "node",
+  "id": 8948918040,
+  "lat": 41.1760042,
+  "lon": -8.6466716,
+  "tags": {
+    "addr:housenumber": "874",
+    "addr:postcode": "4100-246",
+    "addr:street": "Rua Engenheiro Ferreira Dias",
+    "leisure": "trampoline_park",
+    "name": "Jumpers",
+    "nif": "514598670",
+    "official_name": "Jumpers Spot Lda.",
+    "phone": "+351 221 134 621",
+    "website": "https://www.jumpers.pt/"
+  }
+},
+{
+  "type": "node",
+  "id": 8986779170,
+  "lat": 41.1560551,
+  "lon": -8.6227445,
+  "tags": {
+    "addr:city": "Porto",
+    "addr:housenumber": "16",
+    "addr:postcode": "4050-466",
+    "addr:street": "Praça de Pedro Nunes",
+    "amenity": "police",
+    "name": "12ª - Esquadra de Cedofeita",
+    "operator": "Polícia de Segurança Pública",
+    "operator:short": "PSP",
+    "operator:wikidata": "Q3460075",
+    "operator:wikipedia": "en:Polícia de Segurança Pública"
+  }
+},
+{
+  "type": "node",
+  "id": 8988622275,
+  "lat": 41.2375544,
+  "lon": -8.6711419,
+  "tags": {
+    "addr:city": "Maia",
+    "addr:postcode": "4470-558",
+    "addr:street": "Praceta do Aeroporto Francisco Sá Carneiro",
+    "amenity": "police",
+    "name": "Esquadra de Segurança Aeroportuária do Porto",
+    "operator": "Polícia de Segurança Pública",
+    "operator:short": "PSP",
+    "operator:wikidata": "Q3460075",
+    "operator:wikipedia": "en:Polícia de Segurança Pública"
+  }
+},
+{
+  "type": "node",
+  "id": 8988622276,
+  "lat": 41.1846719,
+  "lon": -8.5572794,
+  "tags": {
+    "addr:city": "Rio Tinto",
+    "addr:postcode": "4435-230",
+    "addr:street": "Praça da Estação",
+    "amenity": "police",
+    "name": "4ª Esquadra de  Investigação Criminal de Gondomar",
+    "operator": "Polícia de Segurança Pública",
+    "operator:short": "PSP",
+    "operator:wikidata": "Q3460075",
+    "operator:wikipedia": "en:Polícia de Segurança Pública"
+  }
+},
+{
+  "type": "node",
+  "id": 9025035603,
+  "lat": 41.1600353,
+  "lon": -8.6427849,
+  "tags": {
+    "name": "Autódromo Virtual da Boavista",
+    "shop": "video_games",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9037638244,
+  "lat": 41.1590530,
+  "lon": -8.6352119,
+  "tags": {
+    "access": "yes",
+    "amenity": "parking",
+    "fee": "yes",
+    "layer": "-1",
+    "name": "Garagem Boavista",
+    "parking": "underground"
+  }
+},
+{
+  "type": "node",
+  "id": 9037828799,
+  "lat": 41.1593204,
+  "lon": -8.6364471,
+  "tags": {
+    "leisure": "amusement_arcade",
+    "name": "5 Estrelas",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9106279301,
+  "lat": 41.0960900,
+  "lon": -8.2597270,
+  "tags": {
+    "name": "Baloiço da Barragem do Torrão",
+    "playground": "swing",
+    "source:pkey": "baloico-da-barragem-do-torrao-marco-de-canaveses",
+    "source:url": "https://www.abaloicar.com/place/baloico-da-barragem-do-torrao-marco-de-canaveses",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9425342187,
+  "lat": 41.1835514,
+  "lon": -8.6672660,
+  "tags": {
+    "club": "sport",
+    "name": "Leixões Sport Clube",
+    "operator": "Leixões SA",
+    "sport": "soccer;swimming;volleyball;basketball;futsal;pool;snooker"
+  }
+},
+{
+  "type": "node",
+  "id": 9550336441,
+  "lat": 41.1589260,
+  "lon": -8.5863676,
+  "tags": {
+    "addr:city": "Porto",
+    "addr:housenumber": "1564",
+    "addr:place": "Quartel da Bela Vista",
+    "addr:postcode": "4350-315",
+    "addr:street": "Rua de São Roque da Lameira",
+    "amenity": "police",
+    "contact:phone": "+351 225193680",
+    "name": "Esquadra Int/Fisc Policial - 3ª Divisão - Polícia de Segurança Pública"
+  }
+},
+{
+  "type": "node",
+  "id": 9587858781,
+  "lat": 41.1845930,
+  "lon": -8.5468595,
+  "tags": {
+    "access": "yes",
+    "addr:city": "Rio Tinto",
+    "addr:postcode": "4435",
+    "addr:street": "Rua de São Mamede",
+    "club": "sport",
+    "name": "Sport Clube Rio Tinto",
+    "nohousenumber": "yes",
+    "sport": "soccer;cycling;snooker",
+    "website": "https://sportcluberiotinto.com/",
+    "wheelchair": "yes",
+    "wikidata": "Q10373878",
+    "wikipedia": "pt:Sport Clube Rio Tinto"
+  }
+},
+{
+  "type": "node",
+  "id": 9743896070,
+  "lat": 41.0066129,
+  "lon": -8.5101151,
+  "tags": {
+    "leisure": "miniature_golf"
+  }
+},
+{
+  "type": "node",
+  "id": 9814405564,
+  "lat": 41.1544425,
+  "lon": -8.5872762,
+  "tags": {
+    "addr:city": "Porto",
+    "addr:housenumber": "312",
+    "addr:postcode": "4300-394",
+    "addr:street": "Rua de Godim",
+    "climbing:boulder": "yes",
+    "climbing:sport": "no",
+    "email": "info@saorockclimbing.com",
+    "fee": "yes",
+    "leisure": "sports_centre",
+    "name": "São Rock Climbing",
+    "opening_hours": "Mo 16:00-22:00; Tu-Fr 08:30-22:00; Sa-Su 10:00-20:00",
+    "phone": "+351 220 924 810",
+    "sport": "climbing",
+    "website": "https://saorockclimbing.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 9930210447,
+  "lat": 41.1474815,
+  "lon": -8.6128199,
+  "tags": {
+    "leisure": "escape_game",
+    "name": "Game Over",
+    "website": "https://porto.escapegameover.pt/"
+  }
+},
+{
+  "type": "node",
+  "id": 9962438111,
+  "lat": 41.1575668,
+  "lon": -8.6082521,
+  "tags": {
+    "addr:housenumber": "82",
+    "addr:street": "Rua do Paraíso",
+    "check_date": "2025-10-27",
+    "check_date:opening_hours": "2025-10-27",
+    "name": "Esquadra Tatoo",
+    "opening_hours:signed": "no",
+    "shop": "tattoo",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 10005234097,
+  "lat": 41.1604561,
+  "lon": -8.6117313,
+  "tags": {
+    "addr:city": "Porto",
+    "addr:country": "PT",
+    "addr:housenumber": "257",
+    "addr:postcode": "4000-087",
+    "addr:street": "Rua de Antero de Quental",
+    "leisure": "escape_game",
+    "name": "Escape Challenge"
+  }
+},
+{
+  "type": "node",
+  "id": 10917033466,
+  "lat": 41.1738064,
+  "lon": -8.5194948,
+  "tags": {
+    "name": "Garagem HM",
+    "shop": "car_repair"
+  }
+},
+{
+  "type": "node",
+  "id": 10960051698,
+  "lat": 41.1612038,
+  "lon": -8.6591430,
+  "tags": {
+    "name": "Espaço Q | QuadraSoltas Associação Cultural",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 10979030690,
+  "lat": 41.1598711,
+  "lon": -8.6023435,
+  "tags": {
+    "addr:housenumber": "320,322",
+    "addr:postcode": "4000-225",
+    "addr:street": "Rua de Latino Coelho",
+    "leisure": "escape_game"
+  }
+},
+{
+  "type": "node",
+  "id": 11047774702,
+  "lat": 41.1368125,
+  "lon": -8.6688890,
+  "tags": {
+    "board_type": "nature",
+    "check_date": "2026-09-26",
+    "direction": "190",
+    "information": "board",
+    "language:en": "yes",
+    "language:pt": "yes",
+    "name": "Paragem rosa",
+    "name:en": "Pink stop",
+    "network": "Geossítio da Praia de Lavadores",
+    "tourism": "information"
+  }
+},
+{
+  "type": "node",
+  "id": 11225891547,
+  "lat": 41.1776946,
+  "lon": -8.6286786,
+  "tags": {
+    "name": "Garagem União",
+    "shop": "car_repair"
+  }
+},
+{
+  "type": "node",
+  "id": 11335850281,
+  "lat": 41.1831113,
+  "lon": -8.6093049,
+  "tags": {
+    "name": "Laser place",
+    "shop": "beauty"
+  }
+},
+{
+  "type": "node",
+  "id": 11358715684,
+  "lat": 41.1305719,
+  "lon": -8.6693273,
+  "tags": {
+    "board_type": "nature",
+    "direction": "190",
+    "information": "board",
+    "language:en": "yes",
+    "language:pt": "yes",
+    "name": "Paragem vemelha",
+    "name:en": "Red stop",
+    "network": "Geossítio da Praia de Lavadores",
+    "tourism": "information"
+  }
+},
+{
+  "type": "node",
+  "id": 11358715685,
+  "lat": 41.1308391,
+  "lon": -8.6694293,
+  "tags": {
+    "board_type": "nature",
+    "direction": "190",
+    "information": "board",
+    "language:en": "yes",
+    "language:pt": "yes",
+    "name": "Paragem azul",
+    "name:en": "Blue stop",
+    "network": "Geossítio da Praia de Lavadores",
+    "tourism": "information"
+  }
+},
+{
+  "type": "node",
+  "id": 11358715686,
+  "lat": 41.1337621,
+  "lon": -8.6699516,
+  "tags": {
+    "board_type": "nature",
+    "direction": "190",
+    "information": "board",
+    "language:en": "yes",
+    "language:pt": "yes",
+    "name": "Paragem laranja",
+    "name:en": "Orange stop",
+    "network": "Geossítio da Praia de Lavadores",
+    "tourism": "information"
+  }
+},
+{
+  "type": "node",
+  "id": 11386661045,
+  "lat": 41.0130178,
+  "lon": -8.5561838,
+  "tags": {
+    "name": "Garagem Rêgo",
+    "shop": "car_repair"
+  }
+},
+{
+  "type": "node",
+  "id": 11405740965,
+  "lat": 41.1851266,
+  "lon": -8.6929724,
+  "tags": {
+    "check_date": "2026-05-09",
+    "club": "sport",
+    "name": "Leixões Bilharista - Academia de Bilhares",
+    "sport": "snooker"
+  }
+},
+{
+  "type": "node",
+  "id": 11409687865,
+  "lat": 41.1825783,
+  "lon": -8.6900368,
+  "tags": {
+    "name": "Bounce Luggage Storage",
+    "shop": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11417476046,
+  "lat": 41.1476791,
+  "lon": -8.6122319,
+  "tags": {
+    "name": "Ferragens Rocha Leitão",
+    "official_name": "Ferragens Rocha Leitão, Lda.",
+    "shop": "hardware"
+  }
+},
+{
+  "type": "node",
+  "id": 11422651762,
+  "lat": 41.1507137,
+  "lon": -8.6143745,
+  "tags": {
+    "leisure": "escape_game"
+  }
+},
+{
+  "type": "node",
+  "id": 11425568712,
+  "lat": 41.1494587,
+  "lon": -8.6217285,
+  "tags": {
+    "access": "yes",
+    "amenity": "parking",
+    "fee": "yes",
+    "name": "Garagem Miguel Bombarda",
+    "parking": "sheds",
+    "surface": "concrete"
+  }
+},
+{
+  "type": "node",
+  "id": 11429488528,
+  "lat": 41.1543024,
+  "lon": -8.6210986,
+  "tags": {
+    "access": "yes",
+    "amenity": "parking",
+    "fee": "yes",
+    "name": "Garagem Da Carvalhosa",
+    "parking": "sheds",
+    "surface": "concrete"
+  }
+},
+{
+  "type": "node",
+  "id": 11429488592,
+  "lat": 41.1515792,
+  "lon": -8.6215835,
+  "tags": {
+    "access": "yes",
+    "amenity": "parking",
+    "fee": "yes",
+    "name": "Garagem Santo António",
+    "parking": "sheds",
+    "surface": "concrete"
+  }
+},
+{
+  "type": "node",
+  "id": 11430017586,
+  "lat": 41.1493013,
+  "lon": -8.6239022,
+  "tags": {
+    "name": "Galeria Quadrado Azul",
+    "tourism": "gallery"
+  }
+},
+{
+  "type": "node",
+  "id": 11432217584,
+  "lat": 41.1498460,
+  "lon": -8.6189072,
+  "tags": {
+    "access": "yes",
+    "amenity": "parking",
+    "fee": "yes",
+    "name": "Garagem Parque Irmãos Rocha",
+    "parking": "surface",
+    "surface": "concrete"
+  }
+},
+{
+  "type": "node",
+  "id": 11432217586,
+  "lat": 41.1499673,
+  "lon": -8.6189421,
+  "tags": {
+    "access": "yes",
+    "amenity": "parking",
+    "fee": "yes",
+    "name": "Garagem Santo António II",
+    "parking": "sheds",
+    "surface": "concrete"
+  }
+},
+{
+  "type": "node",
+  "id": 11443699420,
+  "lat": 41.1537088,
+  "lon": -8.6263762,
+  "tags": {
+    "name": "Centro Laser",
+    "shop": "beauty"
+  }
+},
+{
+  "type": "node",
+  "id": 11443699465,
+  "lat": 41.1567521,
+  "lon": -8.6285334,
+  "tags": {
+    "name": "Ótica SAMS Quadros",
+    "shop": "optician"
+  }
+},
+{
+  "type": "node",
+  "id": 11449526269,
+  "lat": 41.1516364,
+  "lon": -8.6119755,
+  "tags": {
+    "addr:housenumber": "504",
+    "name": "Ferragens Zacarias",
+    "shop": "hardware"
+  }
+},
+{
+  "type": "node",
+  "id": 11463859371,
+  "lat": 41.1838409,
+  "lon": -8.6007655,
+  "tags": {
+    "name": "Laser Clinic",
+    "shop": "beauty"
+  }
+},
+{
+  "type": "node",
+  "id": 11473076017,
+  "lat": 41.1487849,
+  "lon": -8.6038975,
+  "tags": {
+    "access": "yes",
+    "amenity": "parking",
+    "fee": "yes",
+    "name": "Garagem Elefante (Recolhas)",
+    "parking": "sheds",
+    "surface": "concrete"
+  }
+},
+{
+  "type": "node",
+  "id": 11958657062,
+  "lat": 41.4420674,
+  "lon": -8.2855448,
+  "tags": {
+    "leisure": "bowling_alley",
+    "name": "Bowling House Guimarães"
+  }
+},
+{
+  "type": "node",
+  "id": 11967126969,
+  "lat": 41.1425809,
+  "lon": -8.6146749,
+  "tags": {
+    "addr:housenumber": "103",
+    "addr:street": "Rua de Sousa Viterbo",
+    "check_date": "2024-07-07",
+    "name": "Chocolataria Equador",
+    "shop": "chocolate"
+  }
+},
+{
+  "type": "node",
+  "id": 12110533639,
+  "lat": 40.9977926,
+  "lon": -8.6234894,
+  "tags": {
+    "addr:city": "Espinho",
+    "addr:street": "Rua Parque da Cidade",
+    "leisure": "miniature_golf"
+  }
+},
+{
+  "type": "node",
+  "id": 12113046823,
+  "lat": 41.2142449,
+  "lon": -8.5519895,
+  "tags": {
+    "leisure": "miniature_golf",
+    "name": "Minigolfe Parque Urbano de Ermesinde"
+  }
+},
+{
+  "type": "node",
+  "id": 12122339637,
+  "lat": 41.2779099,
+  "lon": -8.7182721,
+  "tags": {
+    "name": "Garage 12",
+    "shop": "car_repair"
+  }
+},
+{
+  "type": "node",
+  "id": 12211876533,
+  "lat": 41.1112664,
+  "lon": -8.6212700,
+  "tags": {
+    "addr:city": "Mafamude e Vilar do Paraíso",
+    "addr:housenumber": "81",
+    "addr:postcode": "4405-869",
+    "addr:street": "Travessa Joaquim Lopes Pintor",
+    "email": "info@zone.com.pt",
+    "leisure": "fitness_centre",
+    "name": "Zone Climb",
+    "opening_hours": "Mo-Fr 10:00-14:00,16:00-22:00; Sa-Su 10:00-18:00; We 16:00-22:00",
+    "phone": "+351 927 401 353",
+    "sport": "climbing",
+    "website": "https://zone.com.pt/climb/"
+  }
+},
+{
+  "type": "node",
+  "id": 12211876534,
+  "lat": 41.1185469,
+  "lon": -8.6000273,
+  "tags": {
+    "addr:housenumber": "774",
+    "addr:street": "Avenida Vasco da Gama",
+    "email": "geral@murus.pt",
+    "leisure": "fitness_centre",
+    "name": "Zone Murus",
+    "opening_hours": "closed",
+    "phone": "+351 227 722 177",
+    "sport": "climbing",
+    "website": "https://murus.pt"
+  }
+},
+{
+  "type": "node",
+  "id": 12212575056,
+  "lat": 41.0024458,
+  "lon": -8.6387874,
+  "tags": {
+    "addr:city": "Espinho",
+    "addr:housenumber": "601",
+    "addr:postcode": "4500-329",
+    "addr:street": "Rua 37",
+    "check_date": "2026-07-07",
+    "contact:facebook": "https://www.facebook.com/garagetrintaesete",
+    "contact:instagram": "https://www.instagram.com/garage__37/",
+    "contact:messenger": "https://www.messenger.com/t/garagetrintaesete",
+    "contact:mobile": "+351 917 649 905 ;+351 910 061 869",
+    "contact:website": "https://www.garage37.pt/",
+    "contact:whatsapp": "+351 917 649 905",
+    "name": "Garage 37",
+    "opening_hours": "Tu-Fr 10:00-12:30,14:00-19:00",
+    "ref:vatin": "PT514337648",
+    "shop": "car"
+  }
+},
+{
+  "type": "node",
+  "id": 12453652301,
+  "lat": 41.1475545,
+  "lon": -8.6048641,
+  "tags": {
+    "amenity": "parking",
+    "fee": "yes",
+    "name": "Garagem Formosa"
+  }
+},
+{
+  "type": "node",
+  "id": 12714163290,
+  "lat": 41.1666590,
+  "lon": -8.6082629,
+  "tags": {
+    "addr:housenumber": "150",
+    "addr:street": "Rua do Covelo",
+    "check_date": "2025-03-30",
+    "name": "Garagem Da Alta",
+    "shop": "tyres"
+  }
+},
+{
+  "type": "node",
+  "id": 12748884282,
+  "lat": 41.2310637,
+  "lon": -8.6129347,
+  "tags": {
+    "addr:housenumber": "621",
+    "addr:street": "Rua de São Romão",
+    "contact:website": "www.linhavirtual.pt",
+    "name": "Linha Virtual",
+    "shop": "computer"
+  }
+},
+{
+  "type": "node",
+  "id": 12768453844,
+  "lat": 41.0991547,
+  "lon": -8.6314711,
+  "tags": {
+    "name": "CAA Garagem Estação",
+    "shop": "car_repair"
+  }
+},
+{
+  "type": "node",
+  "id": 12909506640,
+  "lat": 41.1508294,
+  "lon": -8.6171562,
+  "tags": {
+    "leisure": "amusement_arcade",
+    "name": "Lockers & Games"
+  }
+},
+{
+  "type": "node",
+  "id": 12960108072,
+  "lat": 41.1588883,
+  "lon": -8.6014288,
+  "tags": {
+    "addr:city": "Porto",
+    "addr:housenumber": "853",
+    "addr:postcode": "4000-314",
+    "addr:street": "Rua da Alegria",
+    "air_conditioning": "yes",
+    "branch": "Control Space Self Storage",
+    "brand": "Control Space Self Storage",
+    "check_date": "2025-06-28",
+    "currency:EUR": "yes",
+    "description": "Caso precises de guardar uma simples caixa, um cacifo ou até mesmo o conteúdo de uma casa inteira, temos a solução ideal para ti.",
+    "email": "hello@controlspacestorage.com",
+    "image": "https://www.controlspacestorage.com/ficheiros/dinamicos/multimedia/imagem/locations/Porto_Alegria/__fmhidden__5cd141931c116d4cedebb9f8b2e40646/086373d7a58bf46f087dd74741045c8a.webp",
+    "internet_access": "yes",
+    "name": "Control Space Self Storage Porto Centro - Armazém Porto",
+    "name:en": "Control Space Self Storage Porto Centro - Storage Porto",
+    "opening_hours": "24/7",
+    "operator": "Control Space Self Storage",
+    "payment:american_express": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:transferencia": "yes",
+    "payment:visa": "yes",
+    "payment:visa_debit": "yes",
+    "payment:visa_electron": "yes",
+    "phone": "+351 800 210 566",
+    "ref:vatin": "517389169",
+    "shop": "storage_rental",
+    "short_name": "Control Space Porto Alegria",
+    "toilets": "yes",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.controlspacestorage.com/pt/localizacoes/porto/005-porto-alegria-self-storage",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12960117593,
+  "lat": 41.1758215,
+  "lon": -8.6472126,
+  "tags": {
+    "addr:city": "Porto",
+    "addr:housenumber": "889",
+    "addr:postcode": "4100-247",
+    "addr:street": "Rua Engenheiro Ferreira Dias",
+    "air_conditioning": "yes",
+    "branch": "Control Space Self Storage",
+    "brand": "Control Space Self Storage",
+    "check_date": "2025-06-28",
+    "currency:EUR": "yes",
+    "description": "Caso precises de guardar uma simples caixa, um cacifo ou até mesmo o conteúdo de uma casa inteira, temos a solução ideal para ti.",
+    "email": "hello@controlspacestorage.com",
+    "image": "https://www.controlspacestorage.com/ficheiros/dinamicos/multimedia/imagem/locations/Porto/__fmhidden__5cd141931c116d4cedebb9f8b2e40646/13bdfb4f6041f6676f3acd8a012538c9.webp",
+    "internet_access": "yes",
+    "name": "Control Space Self Storage Norteshopping - Armazém Porto",
+    "name:en": "Control Space Self Storage Norteshopping - Storage Porto",
+    "opening_hours": "24/7",
+    "operator": "Control Space Self Storage",
+    "payment:american_express": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:transferencia": "yes",
+    "payment:visa": "yes",
+    "payment:visa_debit": "yes",
+    "payment:visa_electron": "yes",
+    "phone": "+351 800 210 566",
+    "ref:vatin": "517389169",
+    "shop": "storage_rental",
+    "short_name": "Control Space Norteshopping",
+    "toilets": "yes",
+    "toilets:wheelchair": "limited",
+    "website": "https://www.controlspacestorage.com/pt/localizacoes/porto/003-norteshopping-armazem-porto",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13077951633,
+  "lat": 41.0924514,
+  "lon": -8.5980255,
+  "tags": {
+    "addr:city": "Vila Nova Gaia",
+    "addr:housenumber": "301",
+    "addr:postcode": "4410-222",
+    "addr:street": "Rua da Rechousa",
+    "email": "info@monkeypark.pt",
+    "fee": "yes",
+    "leisure": "sports_centre",
+    "name": "Monkey Park",
+    "sport": "climbing_adventure",
+    "website": "https://monkeypark.pt/gaia/"
+  }
+},
+{
+  "type": "node",
+  "id": 13116184811,
+  "lat": 41.3660438,
+  "lon": -8.7518151,
+  "tags": {
+    "addr:city": "Vila do Conde",
+    "addr:postcode": "4480-888",
+    "addr:street": "Rua António Gonçalves Pousado",
+    "email": "Geral@onesoul.pt",
+    "leisure": "fitness_centre",
+    "name": "OneSoul",
+    "opening_hours": "Mo-Th 07:00-14:00,15:00-21:15; Fr 07:00-14:00,15:00-20:30; Sa 09:00-13:00",
+    "phone": "+351916284035",
+    "sport": "crossfit;climbing;yoga;pilates;fitness;kickboxing;jiu-jitsu",
+    "website": "https://www.onesoul.pt/"
+  }
+},
+{
+  "type": "node",
+  "id": 13418590274,
+  "lat": 41.1219801,
+  "lon": -8.6062862,
+  "tags": {
+    "addr:city": "Vila Nova de Gaia",
+    "addr:housenumber": "1866",
+    "addr:postcode": "4430-194",
+    "addr:street": "Avenida da República",
+    "beauty": "hair_removal",
+    "contact:mobile": "+351 933 212 215",
+    "contact:phone": "+351 224 037 591",
+    "contact:website": "https://miaclinic.pt/",
+    "name": "Miaclinic - Clínica de Depilação a Laser",
+    "shop": "beauty"
+  }
+},
+{
+  "type": "node",
+  "id": 13504609341,
+  "lat": 41.3789860,
+  "lon": -8.7650530,
+  "tags": {
+    "addr:city": "Póvoa de Varzim",
+    "addr:housenumber": "71",
+    "addr:street": "Rua Tenente Valadim",
+    "name": "Garagem Santos",
+    "shop": "car_repair"
+  }
+},
+{
+  "type": "node",
+  "id": 13505102548,
+  "lat": 41.1277825,
+  "lon": -8.2120049,
+  "tags": {
+    "addr:city": "Vila Boa Do Bispo",
+    "addr:housenumber": "858",
+    "addr:postcode": "4625-640",
+    "addr:street": "N210",
+    "contact:facebook": "https://www.facebook.com/QuadriciclosQuadriCar/",
+    "name": "Quadricar",
+    "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-18:00",
+    "phone": "+351 916407765",
+    "shop": "car"
+  }
+},
+{
+  "type": "node",
+  "id": 13514607773,
+  "lat": 41.1470808,
+  "lon": -8.6017756,
+  "tags": {
+    "addr:city": "Porto",
+    "addr:housenumber": "350",
+    "addr:street": "Rua Santo Ildefonso",
+    "name": "Central do Padrão - Pichelaria Drogaria Ferragens Util. Domésticas",
+    "shop": "hardware"
+  }
+},
+{
+  "type": "node",
+  "id": 13609050101,
+  "lat": 41.1992087,
+  "lon": -8.5450656,
+  "tags": {
+    "addr:housenumber": "107",
+    "addr:postcode": "4435-706",
+    "addr:street": "Rua da Formiga",
+    "check_date": "2026-03-01",
+    "check_date:opening_hours": "2026-03-01",
+    "contact:instagram": "candy_funpark",
+    "email": "geral@candyfunpark.pt",
+    "name": "Candy Fun Park",
+    "opening_hours": "Tu-Fr 15:00-19:00; Sa-Su 09:00-19:00",
+    "tourism": "theme_park",
+    "website": "https://candyfunpark.pt/"
+  }
+},
+{
+  "type": "node",
+  "id": 13668896852,
+  "lat": 41.1633627,
+  "lon": -8.5846999,
+  "tags": {
+    "leisure": "escape_game",
+    "name": "Mission to Escape"
+  }
+},
+{
+  "type": "node",
+  "id": 13695799835,
+  "lat": 41.1986925,
+  "lon": -8.2795261,
+  "tags": {
+    "attraction": "roller_coaster",
+    "name": "Montanha Mágica"
+  }
+},
+{
+  "type": "node",
+  "id": 13723176601,
+  "lat": 41.2250337,
+  "lon": -8.6906873,
+  "tags": {
+    "addr:housenumber": "537",
+    "addr:street": "Rua Oriental",
+    "leisure": "escape_game",
+    "name": "Laser X"
+  }
+},
+{
+  "type": "node",
+  "id": 13828484624,
+  "lat": 41.3394829,
+  "lon": -8.5031165,
+  "tags": {
+    "addr:city": "Santo Tirso",
+    "addr:housenumber": "830",
+    "addr:postcode": "4780-393",
+    "addr:street": "Rua Alto da Cruz",
+    "contact:facebook": "https://www.facebook.com/geargarage.pt/",
+    "contact:instagram": "https://www.instagram.com/geargarage.pt/",
+    "email": "info@geargarage.pt",
+    "level": "1",
+    "mobile": "+351 916 661 513",
+    "name": "Geargarage",
+    "opening_hours": "Mo-Sa 09:30-12:30,14:00-19:30; Su off",
+    "phone": "+351 252 218 739",
+    "second_hand": "yes",
+    "shop": "car"
+  }
+},
+{
+  "type": "node",
+  "id": 13956178447,
+  "lat": 41.0330134,
+  "lon": -8.2598661,
+  "tags": {
+    "name": "Garagem M. Ferreira",
+    "shop": "car_repair"
+  }
+},
+{
+  "type": "node",
+  "id": 13956178449,
+  "lat": 41.0329971,
+  "lon": -8.2600390,
+  "tags": {
+    "name": "Garagem Miradouro",
+    "shop": "car"
+  }
+},
+{
+  "type": "node",
+  "id": 14000663327,
+  "lat": 41.3289332,
+  "lon": -8.4772045,
+  "tags": {
+    "addr:city": "Santo Tirso",
+    "addr:housenumber": "81",
+    "addr:postcode": "4780-183",
+    "addr:street": "Rua Cristininha",
+    "contact:facebook": "https://www.facebook.com/RquatroR4",
+    "contact:instagram": "https://www.instagram.com/rquatro_/",
+    "contact:youtube": "https://www.youtube.com/user/R4SimsTV",
+    "email": "r4@r4-sims.com;rquatro.s@gmail.com",
+    "leisure": "amusement_arcade",
+    "name": "Rquatro",
+    "opening_hours": "Mo-Sa 16:00-20:00,22:00-01:00",
+    "phone": "+351 252859348",
+    "website": "https://r4-sims.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 14178238101,
+  "lat": 41.0958303,
+  "lon": -8.6097307,
+  "tags": {
+    "addr:housenumber": "Armazém 3",
+    "addr:postcode": "4405-817",
+    "addr:street": "Rua Monte de São Caetano",
+    "check_date": "2026-09-13",
+    "check_date:opening_hours": "2026-09-13",
+    "contact:facebook": "PlaycenterPortugal",
+    "contact:instagram": "playcenteractioncanelas",
+    "email": "canelas@playcenter.pt",
+    "name": "Playcenter Action - Canelas",
+    "opening_hours": "Sa-Su 09:00-13:00, 14:00-19:00; Tu-Fr 15:00-19:00",
+    "phone": "+351915038813",
+    "tourism": "theme_park",
+    "website": "https://playcenter.pt/playcenter-action-canelas/"
+  }
+},
+{
+  "type": "node",
+  "id": 14251442701,
+  "lat": 41.2344400,
+  "lon": -8.5375357,
+  "tags": {
+    "addr:housenumber": "146",
+    "addr:postcode": "4445-251",
+    "addr:street": "Rua Dom Afonso IV",
+    "check_date": "2026-10-05",
+    "check_date:opening_hours": "2026-10-05",
+    "contact:facebook": "p/Mafarricos-Fun-Park-61575011564914",
+    "contact:instagram": "mafarricosfunpark",
+    "name": "Mafarricos Fun Park",
+    "opening_hours": "Sa-Su 10:00-20:00; Mo-Fr 15:00-19:30",
+    "phone": "+351939922210",
+    "tourism": "theme_park"
+  }
+},
+{
+  "type": "way",
+  "id": 106500337,
+  "center": {
+    "lat": 41.3700243,
+    "lon": -8.5475155
+  },
+  "tags": {
+    "addr:city": "Ribeirão",
+    "addr:postcode": "4760-727",
+    "addr:street": "Travessa do Lago Discount 3",
+    "addr:unit": "Lote 69",
+    "contact:email": "famalicao@bowlinghouse.pt",
+    "contact:phone": "+351252428009",
+    "indoor": "yes",
+    "leisure": "bowling_alley",
+    "name": "Bowling House Famalicão",
+    "sport": "10pin",
+    "website": "https://www.bowlinghouse.pt"
+  }
+},
+{
+  "type": "way",
+  "id": 109264499,
+  "center": {
+    "lat": 41.3727800,
+    "lon": -8.6913582
+  },
+  "tags": {
+    "name": "Loja de Ferragens",
+    "shop": "doityourself"
+  }
+},
+{
+  "type": "way",
+  "id": 122048661,
+  "center": {
+    "lat": 41.3754677,
+    "lon": -8.3078603
+  },
+  "tags": {
+    "amenity": "parking",
+    "brand": "Galp",
+    "building": "yes",
+    "name": "Garagem Couto",
+    "shop": "car_repair"
+  }
+},
+{
+  "type": "way",
+  "id": 122313453,
+  "center": {
+    "lat": 41.3737179,
+    "lon": -8.3034469
+  },
+  "tags": {
+    "leisure": "water_park",
+    "name": "Piscinas do Park Clube",
+    "source": "bing"
+  }
+},
+{
+  "type": "way",
+  "id": 124907109,
+  "center": {
+    "lat": 41.1144378,
+    "lon": -8.3959888
+  },
+  "tags": {
+    "access": "private",
+    "addr:housename": "Quinta dos Torgais",
+    "barrier": "wall",
+    "leisure": "water_park",
+    "name": "Fúria",
+    "sport": "cable wakeboard",
+    "website": "https://furia.pt/"
+  }
+},
+{
+  "type": "way",
+  "id": 130533263,
+  "center": {
+    "lat": 41.2231651,
+    "lon": -8.7133353
+  },
+  "tags": {
+    "area": "yes",
+    "leisure": "track",
+    "name": "Kartódromo do Cabo do Mundo",
+    "sport": "karting"
+  }
+},
+{
+  "type": "way",
+  "id": 133661900,
+  "center": {
+    "lat": 41.4309761,
+    "lon": -8.3195313
+  },
+  "tags": {
+    "barrier": "wire_fence",
+    "leisure": "water_park",
+    "name": "Parque Aquático Scorpio",
+    "source": "bing",
+    "sport": "swimming"
+  }
+},
+{
+  "type": "way",
+  "id": 151516141,
+  "center": {
+    "lat": 41.1292932,
+    "lon": -8.6204436
+  },
+  "tags": {
+    "addr:city": "Santa Marinha e São Pedro da Afurada",
+    "addr:housenumber": "299",
+    "addr:postcode": "4400-098",
+    "addr:street": "Rua Barão do Corvo",
+    "amenity": "police",
+    "demolished:building": "yes",
+    "fax": "+351 221 050 257",
+    "name": "Esquadra de Segurança Ferroviária",
+    "operator": "Polícia de Segurança Pública",
+    "operator:short": "PSP",
+    "operator:wikidata": "Q3460075",
+    "operator:wikipedia": "en:Polícia de Segurança Pública",
+    "phone": "+351 221 050 250",
+    "roof:material": "roof_tiles",
+    "roof:orientation": "along",
+    "roof:shape": "gabled",
+    "website": "https://www.psp.pt/"
+  }
+},
+{
+  "type": "way",
+  "id": 151549985,
+  "center": {
+    "lat": 41.1007984,
+    "lon": -8.6313777
+  },
+  "tags": {
+    "addr:city": "Gulpilhares e Valadares",
+    "addr:housenumber": "240",
+    "addr:postcode": "4405-571",
+    "addr:street": "Rua Manuel Moreira da Costa Júnior",
+    "building": "commercial",
+    "email": "reservas@miliciaurbana.pt",
+    "name": "Milícia Urbana - Indoor Paintball",
+    "phone": "+351 912222577",
+    "smoking": "outside",
+    "tourism": "theme_park",
+    "website": "https://www.miliciaurbana.pt/"
+  }
+},
+{
+  "type": "way",
+  "id": 151579373,
+  "center": {
+    "lat": 41.2062949,
+    "lon": -8.5649282
+  },
+  "tags": {
+    "addr:city": "Águas Santas",
+    "addr:postcode": "4425-083",
+    "addr:street": "Rua Ferreira de Castro",
+    "amenity": "police",
+    "building": "civic",
+    "check_date": "2025-08-26",
+    "name": "Esquadra de Águas Santas",
+    "opening_hours": "24/7",
+    "operator": "Polícia de Segurança Pública",
+    "operator:short": "PSP",
+    "operator:wikidata": "Q3460075",
+    "operator:wikipedia": "en:Polícia de Segurança Pública",
+    "short_name": "PSP Águas Santas"
+  }
+},
+{
+  "type": "way",
+  "id": 157249315,
+  "center": {
+    "lat": 41.1871408,
+    "lon": -8.3958312
+  },
+  "tags": {
+    "highway": "raceway",
+    "name": "Pista do Kartódromo de Baltar",
+    "sport": "karting",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 158567685,
+  "center": {
+    "lat": 41.0077756,
+    "lon": -8.6460932
+  },
+  "tags": {
+    "building": "school",
+    "leisure": "sports_centre",
+    "name": "Surfjah Surf School",
+    "sport": "surfing"
+  }
+},
+{
+  "type": "way",
+  "id": 158568081,
+  "center": {
+    "lat": 41.0090407,
+    "lon": -8.6460146
+  },
+  "tags": {
+    "building": "school",
+    "leisure": "sports_centre",
+    "name": "Surfjah Surf School",
+    "sport": "surfing"
+  }
+},
+{
+  "type": "way",
+  "id": 212394315,
+  "center": {
+    "lat": 41.1448865,
+    "lon": -8.6061580
+  },
+  "tags": {
+    "addr:city": "Porto",
+    "addr:housenumber": "65",
+    "addr:postcode": "4000-101",
+    "addr:street": "Praça da Batalha",
+    "amenity": "parking",
+    "building": "yes",
+    "contact:mobile": "+351 966 990 946",
+    "contact:phone": "+351 222 057 732",
+    "fee": "yes",
+    "name": "Garagem Ibéria",
+    "opening_hours": "Mo-Sa 07:30-24:00; Su 08:30-20:00; PH 08:30-20:00",
+    "parking": "garage",
+    "roof:colour": "grey"
+  }
+},
+{
+  "type": "way",
+  "id": 213579711,
+  "center": {
+    "lat": 41.1465376,
+    "lon": -8.6058355
+  },
+  "tags": {
+    "access": "yes",
+    "addr:city": "Porto",
+    "addr:postcode": "4000-382",
+    "addr:street": "Rua de Passos Manuel",
+    "amenity": "parking",
+    "architect": "Mário Ferreira de Abreu",
+    "building": "yes",
+    "contact:phone": "+351 220 945 528",
+    "contact:website": "https://www.garagempassosmanuel.pt/",
+    "fee": "yes",
+    "heritage:operator": "pc",
+    "heritage:website:sipa": "http://www.monumentos.gov.pt/Site/APP_PagesUser/SIPA.aspx?id=23935",
+    "name": "Garagem Passos Manuel",
+    "opening_hours": "Mo-We 00:00-01:00,08:00-24:00; Th 00:00-02:00,08:00-24:00; Fr 08:00-24:00; Sa,Su 00:00-24:00",
+    "parking": "multi-storey",
+    "protection_title": "Incluído em Zona Especial de Proteção",
+    "ref:cmp": "Si86",
+    "ref:cmp:new": "562",
+    "ref:ipa": "23935",
+    "start_date": "1938",
+    "wikidata": "Q73760200",
+    "wikimedia_commons": "Category:Garagem Passos Manuel"
+  }
+},
+{
+  "type": "way",
+  "id": 216386156,
+  "center": {
+    "lat": 41.1434947,
+    "lon": -8.6207815
+  },
+  "tags": {
+    "addr:city": "Porto",
+    "addr:housenumber": "106",
+    "addr:street": "Rua de Miragaia",
+    "building": "yes",
+    "fee": "yes",
+    "name": "World of Discoveries",
+    "roof:material": "roof_tiles",
+    "roof:shape": "hipped",
+    "tourism": "theme_park",
+    "wikidata": "Q19708475",
+    "wikimedia_commons": "Category:World of Discoveries",
+    "wikipedia": "pt:World of Discoveries"
+  }
+},
+{
+  "type": "way",
+  "id": 224619907,
+  "center": {
+    "lat": 41.0463130,
+    "lon": -8.2047566
+  },
+  "tags": {
+    "name": "Calhau",
+    "tourism": "theme_park"
+  }
+},
+{
+  "type": "way",
+  "id": 229996508,
+  "center": {
+    "lat": 41.1856681,
+    "lon": -8.4867064
+  },
+  "tags": {
+    "name": "Garagem Valonguense",
+    "shop": "car_repair",
+    "source": "bing; survey"
+  }
+},
+{
+  "type": "way",
+  "id": 232189595,
+  "center": {
+    "lat": 41.4246751,
+    "lon": -8.2137390
+  },
+  "tags": {
+    "highway": "raceway",
+    "name": "Pista do Kartódromo de Fafe",
+    "oneway": "no",
+    "sport": "karting",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 233232149,
+  "center": {
+    "lat": 41.1492280,
+    "lon": -8.6219801
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Galeria Quadrado Azul 2",
+    "shop": "art_gallery"
+  }
+},
+{
+  "type": "way",
+  "id": 235938948,
+  "center": {
+    "lat": 41.3695225,
+    "lon": -8.5470505
+  },
+  "tags": {
+    "addr:city": "Ribeirão",
+    "addr:postcode": "4760-727",
+    "addr:street": "Travessa do Lago Discount 3",
+    "building": "warehouse",
+    "contact:email": "kartfamalicao@gmail.com",
+    "contact:facebook": "https://www.facebook.com/profile.php?id=100083283731945#",
+    "contact:mobile": "+351918345453",
+    "contact:website": "https://www.kartingfamalicao.com/",
+    "fee": "yes",
+    "indoor": "yes",
+    "leisure": "sports_centre",
+    "min_age": "7",
+    "min_height": "1.25",
+    "name": "Indoor Karting Famalicão",
+    "opening_hours": "Mo-Tu off; We-Th 16:00-24:00; Fr 16:00-01:00; Sa 15:00-01:00; Su 15:00-24:00",
+    "reservation": "no",
+    "sport": "karting"
+  }
+},
+{
+  "type": "way",
+  "id": 240179958,
+  "center": {
+    "lat": 41.1515320,
+    "lon": -8.6065999
+  },
+  "tags": {
+    "amenity": "parking",
+    "building": "yes",
+    "building:levels": "7",
+    "fee": "yes",
+    "name": "Garagem Palácio",
+    "roof:material": "roof_tiles",
+    "roof:shape": "hipped"
+  }
+},
+{
+  "type": "way",
+  "id": 284718175,
+  "center": {
+    "lat": 41.1534587,
+    "lon": -8.6128848
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Artur & Silva Ferragens",
+    "shop": "hardware"
+  }
+},
+{
+  "type": "way",
+  "id": 287907330,
+  "center": {
+    "lat": 41.1497647,
+    "lon": -8.6236157
+  },
+  "tags": {
+    "amenity": "parking",
+    "building": "yes",
+    "name": "Garagem Serviço"
+  }
+},
+{
+  "type": "way",
+  "id": 294007107,
+  "center": {
+    "lat": 41.1516920,
+    "lon": -8.6057800
+  },
+  "tags": {
+    "access": "yes",
+    "addr:city": "Porto",
+    "addr:housenumber": "630",
+    "addr:postcode": "4050-618",
+    "addr:street": "Rua Sá da Bandeira",
+    "alt_name": "Garagem Sá da Bandeira",
+    "amenity": "parking",
+    "charge": "2.10 EUR/hour",
+    "contact:website": "https://www.saba.pt/pt/estacionamento-porto/parque-de-estacionamento-saba-garagem-sa-da-bandeira",
+    "fee": "yes",
+    "layer": "-1",
+    "maxheight": "2.2",
+    "name": "Parque de Estacionamento Garagem Sá da Bandeira",
+    "opening_hours": "24/7",
+    "parking": "underground"
+  }
+},
+{
+  "type": "way",
+  "id": 316312616,
+  "center": {
+    "lat": 41.1994361,
+    "lon": -8.6443763
+  },
+  "tags": {
+    "addr:city": "Custóias",
+    "addr:postcode": "4460-781",
+    "addr:street": "Rua Nova de São Gens",
+    "amenity": "police",
+    "building": "yes",
+    "name": "Esquadra de Custóias",
+    "operator": "Polícia de Segurança Pública",
+    "operator:short": "PSP",
+    "operator:wikidata": "Q3460075",
+    "operator:wikipedia": "en:Polícia de Segurança Pública",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 338635406,
+  "center": {
+    "lat": 41.1714691,
+    "lon": -8.6886741
+  },
+  "tags": {
+    "alt_name": "Praia do Edifício Transparente",
+    "lifeguard": "yes",
+    "name": "Praia Internacional",
+    "natural": "beach",
+    "sport": "surfing",
+    "supervised": "yes",
+    "surface": "sand",
+    "wikidata": "Q116739957",
+    "wikimedia_commons": "Category:Praia Internacional"
+  }
+},
+{
+  "type": "way",
+  "id": 342809766,
+  "center": {
+    "lat": 41.4248854,
+    "lon": -8.2688432
+  },
+  "tags": {
+    "leisure": "miniature_golf",
+    "name": "Mini-Golfe"
+  }
+},
+{
+  "type": "way",
+  "id": 360633595,
+  "center": {
+    "lat": 41.2108596,
+    "lon": -8.7158599
+  },
+  "tags": {
+    "name": "Praia do Aterro",
+    "natural": "beach",
+    "sport": "surfing",
+    "surface": "sand"
+  }
+},
+{
+  "type": "way",
+  "id": 365047667,
+  "center": {
+    "lat": 41.1476351,
+    "lon": -8.6075215
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Garagem Mercedes",
+    "roof:material": "roof_tiles",
+    "roof:shape": "hipped",
+    "shop": "car"
+  }
+},
+{
+  "type": "way",
+  "id": 365604705,
+  "center": {
+    "lat": 41.1507352,
+    "lon": -8.6062967
+  },
+  "tags": {
+    "access": "yes",
+    "amenity": "parking",
+    "fee": "yes",
+    "name": "Garagem Firmeza"
+  }
+},
+{
+  "type": "way",
+  "id": 387235305,
+  "center": {
+    "lat": 41.0359356,
+    "lon": -8.3557611
+  },
+  "tags": {
+    "amenity": "shelter",
+    "building": "yes",
+    "name": "Paragem autocarros",
+    "shelter_type": "public_transport"
+  }
+},
+{
+  "type": "way",
+  "id": 387998789,
+  "center": {
+    "lat": 41.0359755,
+    "lon": -8.3420388
+  },
+  "tags": {
+    "amenity": "shelter",
+    "building": "yes",
+    "name": "Paragem Autocarro",
+    "shelter_type": "public_transport"
+  }
+},
+{
+  "type": "way",
+  "id": 394919658,
+  "center": {
+    "lat": 41.1992429,
+    "lon": -8.2801259
+  },
+  "tags": {
+    "name": "Magikland",
+    "tourism": "theme_park",
+    "website": "https://magikland.pt/"
+  }
+},
+{
+  "type": "way",
+  "id": 399227085,
+  "center": {
+    "lat": 41.3475810,
+    "lon": -8.4798770
+  },
+  "tags": {
+    "addr:city": "Santo Tirso",
+    "addr:postcode": "4780-547",
+    "addr:street": "Rua de São Bento da Batalha",
+    "amenity": "police",
+    "name": "Esquadra de Santo Tirso",
+    "operator": "Polícia de Segurança Pública",
+    "operator:short": "PSP",
+    "operator:wikidata": "Q3460075",
+    "operator:wikipedia": "en:Polícia de Segurança Pública",
+    "short_name": "PSP"
+  }
+},
+{
+  "type": "way",
+  "id": 444588986,
+  "center": {
+    "lat": 41.1929980,
+    "lon": -8.5796471
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Auto Garagem Sport",
+    "shop": "car_repair"
+  }
+},
+{
+  "type": "way",
+  "id": 448807963,
+  "center": {
+    "lat": 41.1696122,
+    "lon": -8.6133911
+  },
+  "tags": {
+    "addr:city": "Porto",
+    "addr:housenumber": "469",
+    "addr:postcode": "4200-514",
+    "addr:street": "Rua do Vale Formoso",
+    "amenity": "police",
+    "name": "Esquadra do Bom Pastor",
+    "old_name": "Quartel de Transmissões do Exército do Bom Pastor; Quartel do Bom Pastor",
+    "operator": "Polícia de Segurança Pública",
+    "operator:short": "PSP",
+    "operator:wikidata": "Q3460075",
+    "operator:wikipedia": "en:Polícia de Segurança Pública",
+    "source:geometry": "https://opendata.porto.digital/dataset/urbanismo-defesa-nacional-defesa-nacional"
+  }
+},
+{
+  "type": "way",
+  "id": 467564424,
+  "center": {
+    "lat": 41.1442389,
+    "lon": -8.6064873
+  },
+  "tags": {
+    "access": "yes",
+    "addr:city": "Porto",
+    "addr:housenumber": "385",
+    "addr:street": "Rua de Alexandre Herculano",
+    "alt_name": "Parque de Estacionamento da Garagem Batalha; Parque Batalha",
+    "amenity": "parking",
+    "building:levels": "5",
+    "charge": "0.80 EUR/15 minutes; 1.40 EUR/30 minutes; 1.90 EUR/45 minutes; 2.30 EUR/hour; 2.80 EUR/75 minutes",
+    "fee": "yes",
+    "maxheight": "2.8",
+    "name": "Garagem Batalha",
+    "parking": "multi-storey",
+    "supervised": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 483208996,
+  "center": {
+    "lat": 41.2807051,
+    "lon": -8.6227209
+  },
+  "tags": {
+    "addr:city": "Castêlo da Maia",
+    "addr:housenumber": "52",
+    "addr:postcode": "4475",
+    "addr:street": "Rua Nova de Quiráz",
+    "email": "geral@headshot.pt",
+    "leisure": "pitch",
+    "name": "Headshot",
+    "payment:cash": "yes",
+    "source": "local knowledge;aerial imagery",
+    "sport": "paintball",
+    "start_date": "2010",
+    "website": "https://www.headshot.pt"
+  }
+},
+{
+  "type": "way",
+  "id": 490662621,
+  "center": {
+    "lat": 41.1283265,
+    "lon": -8.6542829
+  },
+  "tags": {
+    "addr:city": "Canidelo",
+    "addr:housenumber": "267",
+    "addr:postcode": "4400-055",
+    "addr:street": "Rua Centro de Saúde",
+    "amenity": "police",
+    "name": "Esquadra de Canidelo",
+    "operator": "Polícia de Segurança Pública",
+    "operator:short": "PSP",
+    "operator:wikidata": "Q3460075",
+    "operator:wikipedia": "en:Polícia de Segurança Pública"
+  }
+},
+{
+  "type": "way",
+  "id": 533183913,
+  "center": {
+    "lat": 41.4246830,
+    "lon": -8.2140394
+  },
+  "tags": {
+    "area": "yes",
+    "highway": "raceway",
+    "name": "Kartódromo de Fafe",
+    "sport": "karting",
+    "wikidata": "Q10313933"
+  }
+},
+{
+  "type": "way",
+  "id": 547691477,
+  "center": {
+    "lat": 41.1648965,
+    "lon": -8.5898238
+  },
+  "tags": {
+    "addr:city": "Porto",
+    "addr:housenumber": "206",
+    "addr:postcode": "4200-412",
+    "addr:street": "Rua de Naulila",
+    "amenity": "police",
+    "name": "6ª Esquadra (Antas)",
+    "operator": "Polícia de Segurança Pública",
+    "operator:short": "PSP",
+    "operator:wikidata": "Q3460075",
+    "operator:wikipedia": "en:Polícia de Segurança Pública"
+  }
+},
+{
+  "type": "way",
+  "id": 551538471,
+  "center": {
+    "lat": 41.1481074,
+    "lon": -8.6718161
+  },
+  "tags": {
+    "barrier": "fence",
+    "leisure": "miniature_golf",
+    "name": "Clube de Minigolfe do Porto",
+    "wikimedia_commons": "Category:Clube de Minigolfe do Porto"
+  }
+},
+{
+  "type": "way",
+  "id": 569716662,
+  "center": {
+    "lat": 41.1811521,
+    "lon": -8.6674072
+  },
+  "tags": {
+    "leisure": "water_park",
+    "name": "Piscinas da Cruz de Pau"
+  }
+},
+{
+  "type": "way",
+  "id": 577312603,
+  "center": {
+    "lat": 41.1443931,
+    "lon": -8.6464175
+  },
+  "tags": {
+    "addr:city": "Santa Marinha e São Pedro da Afurada",
+    "addr:housenumber": "73",
+    "addr:postcode": "4400-587",
+    "addr:street": "Rua da Praia",
+    "amenity": "police",
+    "building": "yes",
+    "building:levels": "2",
+    "name": "Esquadra de atendimento de Afurada",
+    "operator": "Polícia de Segurança Pública",
+    "operator:short": "PSP",
+    "operator:wikidata": "Q3460075",
+    "operator:wikipedia": "en:Polícia de Segurança Pública"
+  }
+},
+{
+  "type": "way",
+  "id": 628861608,
+  "center": {
+    "lat": 41.1467356,
+    "lon": -8.5924980
+  },
+  "tags": {
+    "addr:city": "Porto",
+    "addr:housenumber": "218",
+    "addr:postcode": "4300-255",
+    "addr:street": "Rua do Heroísmo",
+    "amenity": "police",
+    "check_date": "2025-07-22",
+    "name": "3ª Esquadra - Bonfim",
+    "operator": "Polícia de Segurança Pública",
+    "operator:short": "PSP",
+    "operator:wikidata": "Q3460075",
+    "operator:wikipedia": "en:Polícia de Segurança Pública"
+  }
+},
+{
+  "type": "way",
+  "id": 688496533,
+  "center": {
+    "lat": 41.3608282,
+    "lon": -8.4081675
+  },
+  "tags": {
+    "building": "yes",
+    "leisure": "amusement_arcade"
+  }
+},
+{
+  "type": "way",
+  "id": 694612254,
+  "center": {
+    "lat": 41.0282091,
+    "lon": -8.6431554
+  },
+  "tags": {
+    "leisure": "miniature_golf"
+  }
+},
+{
+  "type": "way",
+  "id": 706143785,
+  "center": {
+    "lat": 41.3815214,
+    "lon": -8.7620688
+  },
+  "tags": {
+    "addr:city": "Póvoa de Varzim",
+    "addr:street": "Praça Marquês de Pombal",
+    "amenity": "police",
+    "building": "yes",
+    "name": "Esquadra de Póvoa de Varzim",
+    "operator": "Polícia de Segurança Pública",
+    "operator:short": "PSP",
+    "operator:wikidata": "Q3460075",
+    "operator:wikipedia": "en:Polícia de Segurança Pública"
+  }
+},
+{
+  "type": "way",
+  "id": 732757487,
+  "center": {
+    "lat": 41.3649207,
+    "lon": -8.7596719
+  },
+  "tags": {
+    "addr:city": "Vila do Conde",
+    "addr:housenumber": "523",
+    "addr:postcode": "4480-665",
+    "addr:street": "Avenida Doutor Carlos Pinto Ferreira",
+    "amenity": "police",
+    "building": "yes",
+    "name": "8ª Esquadra de Investigação Criminal de Vila do Conde",
+    "operator": "Polícia de Segurança Pública",
+    "operator:short": "PSP",
+    "operator:wikidata": "Q3460075",
+    "operator:wikipedia": "en:Polícia de Segurança Pública",
+    "roof:material": "roof_tiles",
+    "roof:orientation": "across",
+    "roof:shape": "gabled"
+  }
+},
+{
+  "type": "way",
+  "id": 749639561,
+  "center": {
+    "lat": 41.2174935,
+    "lon": -8.6959618
+  },
+  "tags": {
+    "addr:street": "Rua do Progresso",
+    "building": "yes",
+    "name": "Kartcenter Matosinhos",
+    "sport": "karting"
+  }
+},
+{
+  "type": "way",
+  "id": 825930858,
+  "center": {
+    "lat": 41.2233697,
+    "lon": -8.7132529
+  },
+  "tags": {
+    "highway": "raceway",
+    "oneway": "yes",
+    "sport": "karting",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 825930859,
+  "center": {
+    "lat": 41.2235781,
+    "lon": -8.7129360
+  },
+  "tags": {
+    "highway": "raceway",
+    "sport": "karting"
+  }
+},
+{
+  "type": "way",
+  "id": 825930860,
+  "center": {
+    "lat": 41.2234368,
+    "lon": -8.7127405
+  },
+  "tags": {
+    "highway": "raceway",
+    "sport": "karting"
+  }
+},
+{
+  "type": "way",
+  "id": 825930861,
+  "center": {
+    "lat": 41.2231125,
+    "lon": -8.7133342
+  },
+  "tags": {
+    "highway": "raceway",
+    "sport": "karting"
+  }
+},
+{
+  "type": "way",
+  "id": 825930862,
+  "center": {
+    "lat": 41.2232671,
+    "lon": -8.7133044
+  },
+  "tags": {
+    "highway": "raceway",
+    "sport": "karting"
+  }
+},
+{
+  "type": "way",
+  "id": 825930863,
+  "center": {
+    "lat": 41.2232016,
+    "lon": -8.7136245
+  },
+  "tags": {
+    "highway": "raceway",
+    "sport": "karting"
+  }
+},
+{
+  "type": "way",
+  "id": 825930864,
+  "center": {
+    "lat": 41.2230778,
+    "lon": -8.7141899
+  },
+  "tags": {
+    "highway": "raceway",
+    "sport": "karting"
+  }
+},
+{
+  "type": "way",
+  "id": 825930865,
+  "center": {
+    "lat": 41.2233602,
+    "lon": -8.7142431
+  },
+  "tags": {
+    "highway": "raceway",
+    "oneway": "yes",
+    "sport": "karting"
+  }
+},
+{
+  "type": "way",
+  "id": 825930866,
+  "center": {
+    "lat": 41.2236616,
+    "lon": -8.7136877
+  },
+  "tags": {
+    "highway": "raceway",
+    "oneway": "yes",
+    "sport": "karting"
+  }
+},
+{
+  "type": "way",
+  "id": 840256046,
+  "center": {
+    "lat": 41.1778885,
+    "lon": -8.6717730
+  },
+  "tags": {
+    "amenity": "police",
+    "name": "Polícia de Segurança Pública - Esquadra da Biquinha",
+    "old_name": "Escola da Biquinha",
+    "operator": "Polícia de Segurança Pública",
+    "operator:short": "PSP",
+    "operator:wikidata": "Q3460075",
+    "operator:wikipedia": "en:Polícia de Segurança Pública"
+  }
+},
+{
+  "type": "way",
+  "id": 846941669,
+  "center": {
+    "lat": 40.9781311,
+    "lon": -8.4815149
+  },
+  "tags": {
+    "building": "yes",
+    "name": "Bar, Loja de Conveniência - Garagem Cruz de Ferro",
+    "shop": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 887488240,
+  "center": {
+    "lat": 41.1712909,
+    "lon": -8.6715256
+  },
+  "tags": {
+    "addr:city": "Aldoar, Foz do Douro e Nevogilde",
+    "addr:housenumber": "1150",
+    "addr:postcode": "4100-513",
+    "addr:street": "Rua da Vilarinha",
+    "amenity": "police",
+    "building": "no",
+    "heritage:website:sipa": "http://www.monumentos.gov.pt/Site/APP_PagesUser/SIPA.aspx?id=26814",
+    "name": "Esquadra de Aldoar",
+    "old_name": "Escola Primária de São Martinho de Aldoar;Escola Básica do 1.º Ciclo de São Martinho de Aldoar",
+    "opening_hours": "24/7",
+    "operator": "Polícia de Segurança Pública",
+    "operator:short": "PSP",
+    "operator:wikidata": "Q3460075",
+    "operator:wikimedia_commons": "Category:Polícia de Segurança Pública",
+    "operator:wikipedia": "pt:Polícia de Segurança Pública",
+    "ref:ipa": "26814"
+  }
+},
+{
+  "type": "way",
+  "id": 891678193,
+  "center": {
+    "lat": 41.1522508,
+    "lon": -8.6751214
+  },
+  "tags": {
+    "addr:city": "Porto",
+    "addr:housenumber": "9",
+    "addr:postcode": "4150-482",
+    "addr:street": "Rua do Monsenhor Manuel Marinho",
+    "amenity": "police",
+    "building": "yes",
+    "name": "15ª Esquadra- Foz",
+    "operator": "Polícia de Segurança Pública",
+    "operator:short": "PSP",
+    "operator:wikidata": "Q3460075",
+    "operator:wikipedia": "en:Polícia de Segurança Pública"
+  }
+},
+{
+  "type": "way",
+  "id": 956031420,
+  "center": {
+    "lat": 41.1751799,
+    "lon": -8.6905875
+  },
+  "tags": {
+    "building": "no",
+    "leisure": "sports_centre",
+    "name": "SurfVentura - Escola de Surf",
+    "sport": "surfing"
+  }
+},
+{
+  "type": "way",
+  "id": 956031422,
+  "center": {
+    "lat": 41.1764570,
+    "lon": -8.6915834
+  },
+  "tags": {
+    "leisure": "sports_centre",
+    "sport": "surfing"
+  }
+},
+{
+  "type": "way",
+  "id": 973200714,
+  "center": {
+    "lat": 41.1753270,
+    "lon": -8.5554673
+  },
+  "tags": {
+    "addr:city": "Rio Tinto",
+    "addr:postcode": "4435-123",
+    "addr:street": "Rua da Boavista",
+    "amenity": "police",
+    "name": "Esquadra de Rio Tinto",
+    "operator": "Polícia de Segurança Pública",
+    "operator:short": "PSP",
+    "operator:wikidata": "Q3460075",
+    "operator:wikipedia": "en:Polícia de Segurança Pública"
+  }
+},
+{
+  "type": "way",
+  "id": 977054684,
+  "center": {
+    "lat": 41.1620769,
+    "lon": -8.6488167
+  },
+  "tags": {
+    "access": "private",
+    "building:levels": "1",
+    "building:part": "yes",
+    "garden:type": "roof_garden",
+    "layer": "-1",
+    "leisure": "garden",
+    "name": "Placa garagem",
+    "roof:shape": "flat",
+    "surface": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 977885641,
+  "center": {
+    "lat": 41.1624046,
+    "lon": -8.6254768
+  },
+  "tags": {
+    "building": "yes",
+    "layer": "1",
+    "name": "Garagem Graciosa",
+    "shop": "car_repair"
+  }
+},
+{
+  "type": "way",
+  "id": 1058622677,
+  "center": {
+    "lat": 41.1273567,
+    "lon": -8.5785653
+  },
+  "tags": {
+    "addr:city": "Oliveira do Douro",
+    "addr:postcode": "4430-381",
+    "addr:street": "Rua Dona Maria da Costa Basto",
+    "amenity": "police",
+    "name": "Esquadra de Oliveira do Douro",
+    "operator": "Polícia de Segurança Pública",
+    "operator:short": "PSP",
+    "operator:wikidata": "Q3460075",
+    "operator:wikipedia": "en:Polícia de Segurança Pública"
+  }
+},
+{
+  "type": "way",
+  "id": 1078869077,
+  "center": {
+    "lat": 41.1826408,
+    "lon": -8.6916548
+  },
+  "tags": {
+    "building": "yes",
+    "building:levels": "2",
+    "club": "sport",
+    "name": "Leixões Sport Clube",
+    "sport": "soccer;swimming;volleyball;futsal;snooker;pool;karate;athletics;water_ski;water_polo",
+    "website": "https://leixoessc.pt/"
+  }
+},
+{
+  "type": "way",
+  "id": 1152739764,
+  "center": {
+    "lat": 41.1981969,
+    "lon": -8.5523629
+  },
+  "tags": {
+    "leisure": "miniature_golf",
+    "name": "Minigolfe Parque Aventura Lipor",
+    "survey:date": "2022-09-17"
+  }
+},
+{
+  "type": "way",
+  "id": 1268539664,
+  "center": {
+    "lat": 41.3727905,
+    "lon": -8.3033634
+  },
+  "tags": {
+    "alt_name": "Campo Municipal de Minigolfe de Vizela",
+    "leisure": "miniature_golf",
+    "name": "Campo Municipal de Minigolfe Fonseca e Castro"
+  }
+},
+{
+  "type": "way",
+  "id": 1279071385,
+  "center": {
+    "lat": 41.0401161,
+    "lon": -8.5797986
+  },
+  "tags": {
+    "addr:city": "Grijó",
+    "addr:housenumber": "180",
+    "addr:postcode": "4415-455",
+    "addr:street": "Rua Doutor Ernesto Castro",
+    "amenity": "kindergarten",
+    "contact:email": "circomagico@sapo.pt",
+    "contact:facebook": "Colegio-Infantil-Circo-Mágico-100063663635715",
+    "contact:phone": "+351 227646160;+351 962 670 446",
+    "education": "kindergarten",
+    "grades": "3-5",
+    "name": "Colégio Infantil \"Circo Mágico\"",
+    "operator": "Colégio Infantil Circo Mágico, Lda.",
+    "operator:type": "private",
+    "ref": "803735",
+    "ref:aeep": "1272",
+    "ref:qzp": "QZP.09"
+  }
+},
+{
+  "type": "way",
+  "id": 1291787470,
+  "center": {
+    "lat": 41.4240390,
+    "lon": -8.2148697
+  },
+  "tags": {
+    "highway": "raceway",
+    "sport": "karting"
+  }
+},
+{
+  "type": "way",
+  "id": 1291787472,
+  "center": {
+    "lat": 41.4243034,
+    "lon": -8.2141887
+  },
+  "tags": {
+    "highway": "raceway",
+    "name": "Pit Lane",
+    "sport": "karting"
+  }
+},
+{
+  "type": "way",
+  "id": 1342409936,
+  "center": {
+    "lat": 41.3949934,
+    "lon": -8.4702313
+  },
+  "tags": {
+    "highway": "raceway",
+    "sport": "karting"
+  }
+},
+{
+  "type": "way",
+  "id": 1368433643,
+  "center": {
+    "lat": 41.1802993,
+    "lon": -8.6553434
+  },
+  "tags": {
+    "check_date": "2026-04-14",
+    "indoor": "room",
+    "leisure": "amusement_arcade",
+    "level": "1",
+    "name": "Rock'n'bowl"
+  }
+},
+{
+  "type": "way",
+  "id": 1378183623,
+  "center": {
+    "lat": 41.2190122,
+    "lon": -8.6265148
+  },
+  "tags": {
+    "brand": "Eurorepar",
+    "name": "Eurorepar - Escape Forte",
+    "shop": "car_repair"
+  }
+},
+{
+  "type": "way",
+  "id": 1408565050,
+  "center": {
+    "lat": 41.3355904,
+    "lon": -8.5493790
+  },
+  "tags": {
+    "access": "customers",
+    "building": "industrial",
+    "charge": "300 EUR/2.5h",
+    "leisure": "amusement_arcade",
+    "name": "Arcade Lovers Game Center",
+    "operator": "BIP Diversões",
+    "operator:website": "https://bipdiversoes.pt/",
+    "source": "https://zenius-i-vanisher.com/v5.2/arcade.php?id=9800",
+    "website": "https://bipdiversoes.pt/servicos/#scrolled3"
+  }
+},
+{
+  "type": "way",
+  "id": 1415497018,
+  "center": {
+    "lat": 41.1740459,
+    "lon": -8.5662693
+  },
+  "tags": {
+    "indoor": "room",
+    "level": "2",
+    "name": "YouPlay",
+    "theme_park:for": "children",
+    "tourism": "theme_park"
+  }
+},
+{
+  "type": "way",
+  "id": 1415497021,
+  "center": {
+    "lat": 41.1754502,
+    "lon": -8.5652468
+  },
+  "tags": {
+    "indoor": "room",
+    "leisure": "amusement_arcade",
+    "level": "2",
+    "name": "Sould Park"
+  }
+},
+{
+  "type": "way",
+  "id": 1474381926,
+  "center": {
+    "lat": 41.2102761,
+    "lon": -8.5031598
+  },
+  "tags": {
+    "tourism": "theme_park"
+  }
+},
+{
+  "type": "way",
+  "id": 1494671774,
+  "center": {
+    "lat": 41.1987506,
+    "lon": -8.2805466
+  },
+  "tags": {
+    "leisure": "water_park",
+    "name": "Magik Splash"
+  }
+},
+{
+  "type": "way",
+  "id": 1508073458,
+  "center": {
+    "lat": 41.3465415,
+    "lon": -8.4679054
+  },
+  "tags": {
+    "addr:city": "Santo Tirso",
+    "addr:postcode": "4780-368",
+    "addr:street": "Alameda Ponte",
+    "description": "WC adaptado\nTruta Bar (com esplanada)\nAreal/zona de relva\nPulverizadores de água\nBiblioteca de verão\nEspreguiçadeiras (custo/aluguer – 2€)\nCadeira de praia e guarda-sóis (custo/aluguer – 1€)",
+    "leisure": "water_park",
+    "name": "Praia Urbana de Santo Tirso",
+    "opening_hours": "24/7",
+    "operator": "Câmera Municipal de Santo Tirso",
+    "water_park": "splash_pad",
+    "website": "https://www.cm-stirso.pt/conhecer/planear-experiencias/diversao-bem-estar/praia-urbana-de-santo-tirso"
+  }
+},
+{
+  "type": "way",
+  "id": 1524823628,
+  "center": {
+    "lat": 41.3666401,
+    "lon": -8.3497469
+  },
+  "tags": {
+    "addr:city": "Campo (São Martinho)",
+    "addr:housenumber": "643",
+    "addr:postcode": "4795-521",
+    "addr:street": "Via Intermunicipal",
+    "contact:facebook": "https://www.facebook.com/profile.php?id=100068589403707",
+    "contact:instagram": "https://www.instagram.com/x_aqua_piscinas/",
+    "email": "xaqua2015@gmail.com",
+    "leisure": "water_park",
+    "mobile": "+351 913057784",
+    "name": "X-Aqua",
+    "opening_hours": "Mo-Su 10:00-19:00",
+    "source": "Bing",
+    "start_date": "2015-05-30"
+  }
+},
+{
+  "type": "way",
+  "id": 1530712969,
+  "center": {
+    "lat": 41.1418204,
+    "lon": -8.6376053
+  },
+  "tags": {
+    "indoor": "room",
+    "leisure": "bowling_alley",
+    "level": "2",
+    "name": "Sould Park Bowling"
+  }
+},
+{
+  "type": "way",
+  "id": 1530712981,
+  "center": {
+    "lat": 41.1414086,
+    "lon": -8.6362574
+  },
+  "tags": {
+    "indoor": "room",
+    "leisure": "escape_game",
+    "level": "2",
+    "name": "Mission to Escape"
+  }
+},
+{
+  "type": "way",
+  "id": 1531257187,
+  "center": {
+    "lat": 41.0352006,
+    "lon": -8.2601210
+  },
+  "tags": {
+    "addr:city": "Castelo de Paiva",
+    "addr:housenumber": "226",
+    "addr:street": "Rua Adriano Strecht Vasconcelos",
+    "building": "industrial",
+    "name": "Garagem Rocha",
+    "phone": "+351 255 699 332",
+    "service:vehicle:car_repair": "yes",
+    "shop": "car_repair"
+  }
+},
+{
+  "type": "way",
+  "id": 1568071619,
+  "center": {
+    "lat": 41.1806694,
+    "lon": -8.6858904
+  },
+  "tags": {
+    "building": "garage",
+    "name": "Old Place em Escapes",
+    "shop": "car_repair"
+  }
+},
+{
+  "type": "relation",
+  "id": 2895679,
+  "center": {
+    "lat": 41.3511532,
+    "lon": -8.7436833
+  },
+  "tags": {
+    "addr:city": "Vila do Conde",
+    "addr:postcode": "4480-712",
+    "addr:street": "Largo de Doutor Cunha Reis",
+    "amenity": "police",
+    "building": "yes",
+    "name": "Esquadra de Vila do Conde",
+    "operator": "Polícia de Segurança Pública",
+    "operator:short": "PSP",
+    "operator:wikidata": "Q3460075",
+    "operator:wikipedia": "en:Polícia de Segurança Pública",
+    "roof:material": "roof_tiles",
+    "roof:shape": "hipped",
+    "type": "multipolygon"
+  }
+}
+
+  ]
+}

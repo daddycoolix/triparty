@@ -1,0 +1,218 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-11-02T05:40:21Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 4554424176,
+  "lat": 41.1531072,
+  "lon": -8.6378592,
+  "tags": {
+    "addr:city": "Porto",
+    "addr:housenumber": "790",
+    "addr:street": "Rua do Campo Alegre",
+    "fee": "no",
+    "museum": "history",
+    "name": "Museu do Holocausto do Porto",
+    "operator": "Comunidade Judaica do Porto",
+    "operator:type": "religious",
+    "tourism": "museum",
+    "website": "https://www.mhporto.com/",
+    "wikidata": "Q106689700",
+    "wikimedia_commons": "Category:Museu do Holocausto do Porto"
+  }
+},
+{
+  "type": "node",
+  "id": 4860839959,
+  "lat": 41.1506223,
+  "lon": -8.6100400,
+  "tags": {
+    "addr:city": "Porto",
+    "addr:housenumber": "979,985,987",
+    "addr:postcode": "4000-220",
+    "addr:street": "Rua de Fernandes Tomás",
+    "air_conditioning": "yes",
+    "alt_name": "Garden Porto Café",
+    "amenity": "restaurant",
+    "check_date": "2025-01-19",
+    "check_date:diet:halal": "2025-01-19",
+    "check_date:diet:kosher": "2025-01-19",
+    "check_date:smoking": "2025-01-19",
+    "contact:mobile": "+351 925618179",
+    "diet:halal": "yes",
+    "diet:kosher": "yes",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Garden Porto",
+    "opening_hours": "09:00-19:00",
+    "outdoor_seating": "pedestrian_zone",
+    "phone": "+351 221 108 540",
+    "smoking": "outside",
+    "website": "https://gardenporto.eatbu.com/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6015275785,
+  "lat": 41.1339618,
+  "lon": -8.6077856,
+  "tags": {
+    "addr:city": "Vila Nova de Gaia",
+    "addr:housenumber": "496",
+    "addr:postcode": "4430-189",
+    "addr:street": "Avenida da República",
+    "air_conditioning": "yes",
+    "amenity": "restaurant",
+    "check_date": "2025-05-09",
+    "contact:facebook": "https://www.facebook.com/people/Yadoya-Japanes-Restaurante/100063624337574/",
+    "cuisine": "sushi",
+    "diet:kosher": "yes",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "internet_access": "wlan",
+    "mobile": "+351 968 857 853",
+    "name": "Yadoya - Restaurante Japonês",
+    "opening_hours": "Tu-Su 11:30-15:00,18:30-23:00",
+    "outdoor_seating": "no",
+    "ref:vatin": "PT513476547",
+    "smoking": "no",
+    "takeaway": "yes",
+    "toilets": "yes",
+    "toilets:wheelchair": "limited",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 6680287983,
+  "lat": 41.1433479,
+  "lon": -8.6161686,
+  "tags": {
+    "addr:city": "Porto",
+    "addr:housenumber": "9 a 11",
+    "addr:street": "Rua de São Miguel",
+    "alt_name": "Sinagoga da Rua de São Miguel;Vestígios da Judiaria do Porto",
+    "fixme": "confirmar localização",
+    "heritage": "2",
+    "heritage:operator": "pc",
+    "heritage:ref": "MIP",
+    "heritage:since": "2012-09-18",
+    "heritage:website": "https://servicos.dgpc.gov.pt/pesquisapatrimonioimovel/detalhes.php?code=9270126",
+    "heritage:website:sipa": "http://www.monumentos.gov.pt/Site/APP_PagesUser/SIPA.aspx?id=34222",
+    "historic": "building",
+    "name": "Sinagoga na Judiaria Nova do Olival",
+    "owner": "Paróquia de Nossa Senhora da Vitória",
+    "protection_title": "Monumento de Interesse Público",
+    "ref:cmp": "V163",
+    "ref:cmp:new": "IP255",
+    "ref:ipa": "34222",
+    "ref:pc": "9270126",
+    "start_date": "C16",
+    "wikidata": "Q74474538",
+    "wikimedia_commons": "Category:Vestígios da Judiaria do Porto (Hêkhal)"
+  }
+},
+{
+  "type": "node",
+  "id": 7206834356,
+  "lat": 41.1551719,
+  "lon": -8.6192240,
+  "tags": {
+    "diet:halal": "no",
+    "diet:kosher": "no",
+    "name": "Novo Talho Sacadura Cabral",
+    "opening_hours": "Mo-Sa 07:30-13:00,14:30-19:30",
+    "payment:cash": "yes",
+    "payment:debit_cards": "yes",
+    "shop": "butcher",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 10833406406,
+  "lat": 41.1527965,
+  "lon": -8.6368308,
+  "tags": {
+    "addr:housenumber": "676",
+    "addr:postcode": "4150-171",
+    "addr:street": "Rua do Campo Alegre",
+    "amenity": "restaurant",
+    "name": "Iberia Kosher by Sababa",
+    "phone": "+351 910 079 657"
+  }
+},
+{
+  "type": "way",
+  "id": 151727169,
+  "center": {
+    "lat": 41.1559124,
+    "lon": -8.6368836
+  },
+  "tags": {
+    "alt_name": "Sinagoga Kadoorie Mekor Haim",
+    "amenity": "place_of_worship",
+    "building": "synagogue",
+    "check_date": "2025-10-22",
+    "heritage": "yes",
+    "heritage:operator": "cmp",
+    "heritage:website:sipa": "http://www.monumentos.gov.pt/Site/APP_PagesUser/SIPA.aspx?id=5567",
+    "name": "Sinagoga Kadoorie",
+    "protection_title": "Imóvel de Valor Arquitetónico",
+    "ref:cmp": "M54",
+    "ref:cmp:new": "903",
+    "ref:ipa": "5567",
+    "religion": "jewish",
+    "roof:colour": "grey",
+    "source": "Bing",
+    "wikidata": "Q1140204"
+  }
+},
+{
+  "type": "way",
+  "id": 442868577,
+  "center": {
+    "lat": 41.1937592,
+    "lon": -8.5788963
+  },
+  "tags": {
+    "addr:housenumber": "1475",
+    "addr:street": "Rua Dom Afonso Henriques",
+    "amenity": "restaurant",
+    "building": "yes",
+    "diet:kosher": "no",
+    "diet:vegetarian": "no",
+    "name": "Grelhador da Giesta",
+    "opening_hours": "Mo-Su 07:00-24:00",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "way",
+  "id": 1015839480,
+  "center": {
+    "lat": 41.1559937,
+    "lon": -8.6375598
+  },
+  "tags": {
+    "addr:housenumber": "325",
+    "addr:street": "Rua de Guerra Junqueiro",
+    "building": "yes",
+    "name": "Museu Judaico do Porto",
+    "roof:colour": "lightgrey",
+    "tourism": "museum",
+    "wikidata": "Q106710664",
+    "wikimedia_commons": "Category:Museu Judaico do Porto"
+  }
+}
+
+  ]
+}

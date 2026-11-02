@@ -1,0 +1,221 @@
+{{pagebanner|Wikivoyage banner of Vila Nova de Gaia.png}}
+'''Vila Nova de Gaia ''' is a city the [[Douro Litoral]] region of [[Northern Portugal]], immediately facing [[Porto]] across the Duoro river. The two cities form the core of a contiguous metropolitan area. Vila Nova was created out of the need to house the workers of Porto, and is thus much more residential in character. It has become more populous than Porto. Sometimes called "Gaia" in common parlance, the city is home of cellars of port wine, several shopping centres and some of the region's best beaches.
+
+[[File:Vila Nova de Gaia seen from Porto.jpg|thumb|right|Vila Nova de Gaia as seen from Porto]]
+== Understand ==
+
+[[File:Pt-pt Vila Nova de Gaia FF.ogg]]
+
+Vila Nova de Gaia ([[Portuguese_phrasebook#Pseudo-phoneticization|VEE-luh NAW-vuh d(ih) GAHY-uh]], /ˈvi.ɫɐ ˈnɔ.vɐ dɨ ˈgaj.ɐ/) is actually where the history of Porto began, having been founded as a Roman settlement called ''Cale'' on the southern side of the river Douro. The town had its port on the other side of the river, referred to as ''Portus Cale'', which originated the name not only of [[Porto]], but also the whole country. What followed the Roman Empire were the Moorish invasions of the Iberian peninsula, with the Moors stopping right at the river and most inhabitants escaping the invasion by moving to what is now Porto on its northern bank. After the Moors were driven out, many moved back to the southern back, founding what is now known as Vila Nova de Gaia (''vila nova'' as the town was reestablished, with ''Gaia'' being a transliteration of ''Cale'').
+
+==Get in==
+
+{{mapframe}}
+{{mapshape}}
+
+=== By plane ===
+[[Porto#By plane|Porto Francisco Sa Caneiro airport]] is the closest, within 20 minutes by car or slightly more by public transit.
+
+=== By train ===
+Vila Nova de Gaia is located on a railway backbone linking the North to the other regions of Portugal, so it is easy to reach from almost all major cities. In particular, high-speed Alfa Pendular trains call in the city, linking it not only to Porto, but also in. al. [[Lisbon]], [[Braga]], [[Coimbra]] and [[Faro]].
+
+* {{go
+| name=Vila Nova de Gaia-Devesas railway station | alt= | url= | email=
+| address=Largo 5 de Outubro | lat=41.129664 | long=-8.620187 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikipedia= | wikidata=
+| lastedit=2019-08-10
+| content=
+}}
+
+==Get around==
+
+==See==
+Perhaps the most famous tourist attraction in Gaia are the '''Port Wine Cellars''', warehouses where the famous Port wine is stored. The Cellars are placed in '''Ribeira de Gaia''', an area of the city located in the bank of River Douro opposite [[Porto]]. Ribeira de Gaia has also some typical and international restaurants, particularly in '''Cais de Gaia'''. Even if you are not in visiting the cellars, you should visit Ribeira the Gaia in order to get some amazing views of Porto.
+
+*{{see
+| name=Parque Biológico de Gaia | alt= | url=http://www.parquebiologico.pt/ | email=geral_pbiologico@cm-gaia.pt
+| address=Rua Cunha, Avintes | lat=41.0975 | long=-8.5564 | directions=Begin at the base of the Dom Luis I bridge and head down river about 5.3 km. The journey is easy but not particularly interesting.
+| phone=+351 22 787 8120 | tollfree=
+| hours= | price=
+| content=Small nature reserve for the protection of birds.
+}}
+* {{see
+| name=Jardim do Morro | alt= | url= | email=
+| address= | lat=41.13713 | long=-8.60941 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q10306339
+| lastedit=2019-08-22
+| content=Beautiful garden with great views to Porto.
+}}
+* {{see
+| name=WOW Cultural District  | alt=World of Wine | url=https://www.wow.pt/ | email=
+| address=Rua do Choupelo, 39 | lat=41.135 | long=-8.614 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=
+| lastedit=2024-02-24
+| content=A complex of 6 museums, restaurants, bars and shops, including museums about wine, chocolate, cork, the Porto region, drinking vessels through history, and the Pink Palace (an immersive experience celebrating rosé wine).
+}}
+
+==Do==
+===Port wine tours and tasting===
+Take a '''port wine tour''' and visit the various wine caves! This is a must as this is where port wine actually comes from. Tours vary in price but generally cost €3-6 and include a tasting. Most all have English speaking tours along with Spanish, Portuguese, and French. There are also quite a number of cellars offering free tastings. See the [[Portugal#Port_Wine|drink section of the main Portugal page]] for more information about port wine in general.
+
+There are a couple of restaurants along the river that offer tastings of five Port wines for €5 (Feb 2024) from lesser-known wineries.
+* {{do
+| name=Cálem | alt= | url=http://calem.pt/ | email=
+| address=Avenida Diogo Leite 344 | lat=41.13844 | long=-8.61036 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=Tour and tasting €9
+| lastedit=2024-02-24
+| content=Their tour lasts around 20 min and is quite informative for beginners. It is followed by a tasting of two Port wines. They sell their old empty oak casks to Glenfiddich. Calem is owned by [http://www.sogevinus.com/?lang=en Sogevinus], which also owns other well known brands such as Kopke, Burmester, and Barros.
+}}
+* {{do
+| name=Taylor, Fladgate & Yeatman | alt= | url=http://www.taylor.pt/en/visit-taylors/port-cellars/ | email=
+| address=Rua do Choupelo 250 | lat=41.13432 | long=-8.61433 | directions=
+| phone=+351 223 772 956 or +351 223 742 800 | tollfree= | fax=
+| hours= | price=
+| lastedit=2024-02-24
+| content=They are further uphill and have a terrace with great views over Porto. You can also enjoy their Port wine in the adjacent garden. You can buy samples by the glass which are cheap, and you get generous portions. Tours are also available and start every 30-40 min. The tour price of €20 includes tastings of two Port wines. Founded in and family-owned since 1692.
+}}
+* {{do
+| name=Cockburn's | alt= | url=http://cockburns.com/index.php?p=visit-us | email=
+| address=Rua Serpa Pinto 346 | lat=41.1337 | long=-8.6183 | directions=further uphill
+| phone=+351 913 007 950 | tollfree= 
+| hours= | price=from €22 per person
+| lastedit=2024-02-24
+| content=A 1½-hour tour and tasting. Reserve online (required). The basic tasting consists of three Port wines. Other types of tastings are available including rarer and more fancy Port wines. 
+}}
+
+===Other===
+*{{do
+| name=Bike (or walk) to the Atlantic coast | url= | email=
+| address= | lat= | long= | directions=begin at the base of the Dom Luis I bridge
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Head down river 3.7 km to the marina. The journey is easy, but not particularly interesting. When you reach the marina there may be some photo opportunities with local fishing men and laundry women. Continue about 1.6 km to the nature reserve for bird watching at the estuary. Continue on from there to begin access to the path that runs south along the Atlantic Coast another 15 km to [[Espinho]]. 
+}}
+
+[[File:El Corte Ingles 2 (Gaia).JPG|thumb|right|The Porto branch of the famous department store El Corte Ingles is in fact in Gaia]]
+
+==Buy==
+* {{buy
+| name=El Corte Inglés | alt= | url=https://www.elcorteingles.pt/ | email=
+| address=Avenida da República 1435 | lat=41.1256 | long=-8.6048 | directions=
+| phone=+351 22 378 1400 | tollfree=
+| hours= | price=
+| lastedit=2021-04-02
+| content=The outlet of the Spanish department store chain serving the Porto region is spread over an impressive total of 10 stories (half underground) and stocks everything from designer clothing to live puppies (sic!), has ample parking and a metro stop next door, as well as gastronomic options including a top-floor restaurant with decently-priced menus, a car rental agency and numerous other services.
+}}
+
+==Eat==
+* {{eat
+| name=Casa Adão | alt= | url= | email=
+| address=Avenida Ramos Pinto, 252, Vila Nova de Gaia | lat=41.1369 | long=-8.6171 | directions=
+| phone= | tollfree=
+| hours= | price=
+| content=Located on the other side of the Douro river, is a restaurant that serves generous plates serving one hungry person or two who eat normal.
+}}
+* {{anchor|Eat-Yeatman}}{{eat
+| name=The Yeatman Gastronomic Restaurant | alt= | url=https://www.the-yeatman-hotel.com/en/food/restaurant/ | email=
+| address=Rua do Choupelo (Santa Marinha) | lat=41.1335 | long=-8.6132 | directions=[[#Sleep-Yeatman|The Yeatman Hotel]]
+| phone=+351 22 013 3100 | tollfree=
+| hours=Seating Tue–Sat 19:00 & 20:00, closed Sun Mon | price={{EUR|180}}, wine supplements {{EUR|90}} or {{EUR|180}}
+| lastedit=2021-06-30
+| content=This restaurant with two Michelin stars offers views of the River Douro and of Porto's historic centre. It features a seasonal tasting menu prepared by chef Ricardo Costa.
+}}
+
+==Drink==
+* {{drink
+| name=Cais de Gaia | alt= | url= | email=
+| address= | lat=41.1393 | long=-8.6215 | directions=
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2021-04-05
+| content=This is a bar region in riverfront area. It is a modern zone for bars and clubs, usually priced a little higher than normal bars. You have a great view of the river and the beautiful city of Porto.
+}}
+
+==Sleep==
+=== Budget ===
+*{{sleep
+| name=Hotel Ibis Porto Gaia | alt= | url=https://all.accor.com/hotel/1274/index.en.shtml | email=H1274@accor.com
+| address=Rua Martires de São Sebastião 247 | lat=41.1444 | long=-8.641 | directions=
+| phone=+351 227 728 200 | tollfree=
+| checkin=12:00 | checkout=12:00 | price=
+| content=
+}}
+* {{sleep
+| name=Park Hotel Porto Gaia | alt= | url=http://www.parkhotel.pt/en/Menu/Hotels/Porto-Gaia.aspx | email=geral.gaia@parkhotel.pt
+| address=Rua da Bélgica 3172 | lat=41.1265 | long=-8.6351 | directions=
+| phone=+351 220 125 100 | tollfree=
+| checkin= | checkout= | price=
+| lastedit=2021-03-07
+| content=
+}}
+
+=== Mid-range ===
+* {{sleep
+| name=Golden Tulip Porto Gaia Hotel & Spa | alt= | url=https://porto-gaia.goldentulip.com/ | email=info@goldentulipportogaia.com
+| address=Rua da Bélgica 86, Praia de Lavadores | lat=41.1308 | long=-8.6682 | directions=
+| phone=+351 227 727 400 | tollfree=
+| checkin= | checkout= | price=
+| lastedit=2021-03-08
+| content=
+}}
+* {{sleep
+| name=Holiday Inn Porto Gaia | alt= | url=https://www.ihg.com/holidayinn/hotels/gb/en/porto/opopg/hoteldetail | email=info@hiportogaia.com
+| address=Rua Diogo Macedo 220 | lat=41.1241 | long=-8.6148 | directions=
+| phone=+351 22 374 7500 | tollfree=
+| checkin=15:00 | checkout=12:00 | price=
+| lastedit=2021-03-08
+| content=
+}}
+*{{sleep
+| name=Mercure Porto Gaia Hotel | alt= | url=https://all.accor.com/hotel/3347/index.en.shtml | email=H3347@accor.com
+| address=Rua Manuel Moreira de Barros 618D | lat=41.143 | long=-8.638 | directions=
+| phone=+351 223 740 800 | tollfree=
+| checkin=14:00 | checkout=12:00 | price=
+| content=
+}}
+* {{sleep
+| name=Novotel Porto Gaia Hotel | alt= | url=https://all.accor.com/hotel/1050/index.en.shtml | email=h1050@accor.com
+| address=Rua Martir São Sebastião, Afurada | lat=41.1439 | long=-8.6409 | directions=
+| phone=+351 22 772 8700 | tollfree=
+| checkin=14:00 | checkout=12:00 | price=
+| content=
+}}
+
+=== Splurge ===
+* {{anchor|Sleep-Yeatman}}{{sleep
+| name=The Yeatman Hotel | alt= | url=http://www.theyeatman.com | email=reception@theyeatman.com
+| address=Rua do Choupelo (Santa Marinha) | lat=41.1331 | long=-8.6136 | directions=
+| phone=+351 220 133 128 | tollfree= | fax=+351 220 133 199
+| checkin= | checkout= | price=
+| content=Luxury hotel in the heart of the historic port Wine Cellars District, part of the Relais & Chateaux. They have a two-Michelin-star [[#Eat-Yeatman|restaurant]].
+}}
+
+== Cope ==
+
+=== Laundry ===
+
+* {{listing
+| name=AquaMagic - Lavandaria Self-Service | alt= | url=https://aquamagic.pt | email=geral@aquamagic.pt
+| address=Rua da Palmeira 123 | lat=41.105307613276516 | long=-8.60133739673733 | directions=
+| phone=+351 939 729 830 | tollfree=
+| hours=Daily 07:00–23:00 | price=
+| lastedit=2021-05-04
+| content=Self-service laundry that also offers ironing, sewing and delivery services.
+}}
+
+==Connect==
+
+==Go next==
+
+* [[Porto]] lies across the Douro River from Vila Nova de Gaia.
+
+{{IsPartOf|Douro Litoral}}
+{{usablecity}}
+{{geo|41.1333333|-8.61666667}}

@@ -1,0 +1,21 @@
+OSM art try 1 POST https://overpass-api.de/api/interpreter
+  OK 351 KB
+OSM poi try 1 POST https://overpass-api.de/api/interpreter
+  OK 1098 KB
+OSM fun try 1 POST https://overpass-api.de/api/interpreter
+  OK 73 KB
+OSM kosher try 1 POST https://overpass-api.de/api/interpreter
+  ERROR: HTTP Error 502: Bad Gateway | # 502 Gateway Timeout This Overpass API server is currently at capacity. All query workers are busy and the request queue is full. ## What to do Retry your request using exponential backoff: wait a short interval, then retry. If the request fails again, double the wait time and retry again. ## F
+OSM kosher try 1 GET https://overpass-api.de/api/interpreter
+  OK 5 KB
+Wikidata ids: 51
+WD batch 1 OK
+WD batch 2 OK
+WV wv_en_Porto OK
+WV wv_en_Gaia OK
+WV wv_en_Matosinhos OK
+WV wv_he_Porto OK
+WV wv_en_Braga OK
+WV wv_en_Guimaraes OK
+nominatim ok: 189 of 189
+DONE

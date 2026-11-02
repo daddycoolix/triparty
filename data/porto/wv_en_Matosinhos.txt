@@ -1,0 +1,124 @@
+{{pagebanner|Pagebanner default.jpg}}
+
+'''Matosinhos''' is a city and municipality in [[Douro Litoral]], [[Portugal]]. It is a suburb of [[Porto]].
+
+==Understand==
+
+[[File:Igreja_do_Bom_Jesus_de_Matosinhos_-_Portugal_(22685579776).jpg|thumb|A Igreja do Bom Jesus de Matosinhos.]]
+
+[[File:Pt-pt Matosinhos FF.ogg]]
+
+The municipality of Matosinhos ([[Portuguese_phrasebook#Pseudo-phoneticization|muh-too-ZEE-nyoosh]], /mɐ.tu.ˈzi.ɲuʃ/) has 175,478 residents (2011) living in four civil parishes (''freguesias''):
+* {{listing
+| name=Custóias, Leça do Balio e Guifões | alt= | url= | email=
+| address= | lat=41.2 | long=-8.63 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q17415522
+| lastedit=2021-02-09
+| content=
+}}
+* {{listing
+| name=Matosinhos e Leça da Palmeira | alt= | url=http://www.leca-palmeira.com | email=
+| address= | lat=41.190218 | long=-8.692329 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q18357963
+| lastedit=2021-02-09
+| content=
+}}
+* {{listing
+| name=Perafita, Lavra e Santa Cruz do Bispo | alt= | url= | email=
+| address= | lat=41.223889 | long=-8.698889 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q1521701
+| lastedit=2021-02-09
+| content=
+}}
+* {{listing
+| name=São Mamede de Infesta e Senhora da Hora | alt= | url= | email=
+| address= | lat=41.19 | long=-8.61 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q18355064
+| lastedit=2021-02-09
+| content=
+}}
+
+==Get in==
+* {{go
+| name=Metro do Porto | alt=Porto Metro | url=http://en.metrodoporto.pt | email=metro@metro-porto.pt
+| address= | lat=NA | long=NA | directions=
+| phone=+351 225 081 000 | tollfree=
+| hours=[https://en.metrodoporto.pt/uploads/document/file/543/Freque_ncias_Programadas_JAN_INV_2021.pdf Timetable] | price=[https://en.metrodoporto.pt/pages/397 Fares]
+| lastedit=2021-02-09
+| content=Matosinhos is served by several stations on the {{rint|porto|a}} line, which connects it to Porto and surrounding suburbs. Senhora da Hora is served by the {{rint|porto|a}}{{rint|porto|b}}{{rint|porto|c}}{{rint|porto|e}}{{rint|porto|f}} lines.
+}}
+
+==Get around==
+{{mapframe}}
+{{mapshape}}
+==See==
+* {{see
+| name=Igreja do Bom Jesus de Matosinhos | alt=Bom Jesus de Matosinhos Church, Igreja do Salvador, Igreja Paroquial de Matosinhos | url=http://www.paroquiadematosinhos.pt/ | email=geral@paroquiadematosinhos.pt
+| address=Rua Silva Cunha 107 | lat=41.1868 | long=-8.6840 | directions={{rint|metro}}{{rint|porto|a}} to Senhor de Matosinhos
+| phone=+351 229 397 988 | tollfree=
+| hours= | price=
+| wikipedia=pt:Igreja do Bom Jesus de Matosinhos | wikidata=Q5486304
+| lastedit=2021-02-09
+| content=16th-century baroque parish church.
+}}
+
+==Do==
+* '''Football:''' [https://www.leixoessc.pt/ Leixões SC]{{Dead link|date=October 2025 |bot=InternetArchiveBot }} play soccer in Liga Portugal 2, the second tier. Their home ground Estádio do Mar (capacity 6800) is east edge of the district.
+
+==Buy==
+* {{buy
+| name=NorteShopping | alt= | url=https://www.norteshopping.pt | email=info@adm.norteshopping.pt
+| address=Rua Sara Afonso, Senhora da Hora | lat=41.1808 | long=-8.6546 | directions=Porto Metro {{rint|porto|a}}{{rint|porto|b}}{{rint|porto|c}}{{rint|porto|e}} to Sete Bicas
+| phone=+351 22 957 13 18 | tollfree=
+| hours=Mon–Fri 09:00–20:00, Sat Sun 09:00–17:00 | price=
+| wikidata=Q3344070
+| lastedit=2021-02-09
+| content=Large shopping mall just north of Porto.
+}}
+
+==Eat==
+* {{eat
+| name=A Marisqueira de Matosinhos | alt= | url=https://amarisqueiradematosinhos.com | email=geral@amarisqueiradematosinhos.com
+| address=Rua Roberto Ivens 717 | lat=41.1813 | long=-8.6905 | directions=
+| phone=+351 229 381 763 | tollfree=
+| hours=12:00–22:30 daily | price=
+| lastedit=2026-10-27
+| content=Another great restaurant. If you like shellfish this is one of the best places near Porto. Well known for serving percebes, or gooseneck barnacles, which taste intensely of the ocean, and are harvested from wave-battered cliffs.
+}}
+* {{eat
+| name=Casa de Chá da Boa Nova | alt= | url=https://www.casadechadaboanova.pt/ | email=boanova@ruipaula.com
+| address=Avenida da Liberdade 1681, Leça da Palmeira | lat=41.2029 | long=-8.715 | directions=
+| phone=+351 229 940 066 | tollfree=
+| hours=Tue–Sat 12:30–15:00 & 19:30–22:30, closed Sun Mon | price={{EUR|87-190}}
+| lastedit=2021-06-30
+| content=Restaurant with two Michelin stars, located in a national monument by the sea. The dining options are tasting menus of 6, 12, or 21 items.
+}}
+
+==Drink==
+
+==Sleep==
+* {{sleep
+| name=Hotel Senhor de Matosinhos | alt= | url=https://senhordematosinhos.net | email=
+| address=Rua do Godinho 634 | lat=41.1834 | long=-8.6874 | directions={{rint|metro}}{{rint|porto|a}} to Brito Capelo
+| phone=+351 229 380 548 | tollfree=
+| checkin=14:00 | checkout=12:00 | price={{EUR|46}}–{{EUR|83}}
+| lastedit=2021-02-09
+| content=16-room, two-star hotel. Free Wi-Fi, free breakfast buffet.
+}}
+
+==Connect==
+Descobrir MATOSINHOS: Principais Pontos Turísticos a Visitar [https://www.leca-palmeira.com/matosinhos-o-que-visitar/ (AQUI)]
+
+==Go next==
+
+{{IsPartOf|Douro Litoral}}
+{{usablecity}}
+{{geo|41.2077|-8.6674}}
