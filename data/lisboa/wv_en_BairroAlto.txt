@@ -1,0 +1,588 @@
+{{pagebanner|caption=Praça de Luís de Camões, with a statue of the namesake poet.}}
+
+'''Bairro Alto''' is a district in [[Lisbon]], [[Portugal]]. Beyond Bairro Alto itself, the district includes other neighbourhoods, notably '''Chiado''' and '''Príncipe Real'''. Bairro Alto is recognized for being Lisbon's centre of trendy, youthful dining and nightlife.  Many high-end international shops can be found in Chiado and along '''Avenida da Liberdade''', a wide, tree-lined boulevard.
+
+==Get in==
+{{mapframe|38.7132|-9.1573|width=500|height=500|zoom=14}}
+{{mapshapes|Q746032}}
+{{mapshape|wikidata=Q1677202, Q10368164, Q2883431, Q423043, Q1817058, Q432607|stroke-width=0}}
+
+Three [[Lisbon#Metro|Lisbon Metro]] lines serve the district:
+* {{rint|lisbon|amarela}} — Marquês de Pombal, Rato
+* {{rint|lisbon|azul}} — Marquês de Pombal, Avenida, Restauradores, Baixa–Chiado
+* {{rint|lisbon|verde}} — Baixa–Chiado, Cais do Sodré
+
+Five [[Lisbon#Tram|tram]] routes pass through the district: {{rint|lisbon|15e}} {{rint|lisbon|18e}} {{rint|lisbon|24e}} {{rint|lisbon|25e}} {{rint|lisbon|28e}}
+
+==See==
+[[File:Convento do Carmo (20512118802).jpg|thumb|Ruins of Igreja do Carmo]]
+[[File:Miradouro-Pedro2.jpg|thumb|Jardim de S. Pedro de Alcântara]]
+* {{see
+| name=Igreja do Carmo | alt= | url=http://www.museuarqueologicodocarmo.pt/info_en.html | email=secretaria@arqueologos.pt
+| address=Largo do Carmo | lat=38.71200 | long=-9.14057 | directions=Lift stop {{station|Rua da Prata|54e}} or metro station {{station|Baixa-Chiado|azul|verde}}
+| phone=+351 213 460 473 | tollfree= | fax=
+| hours=Oct-May: Mon-Sat 10:00-18:00; Jun-Sep: Mon-Sat 10:00-19:00; closed Sun, 1 Jan, 1 May, 25 Dec | price=€4 (adults), €3 (students/seniors), €3.20 (Lisbon card), free (children under 15)
+| wikipedia=Carmo Convent (Lisbon) | image=Convento do Carmo (20512118802).jpg | wikidata=Q1470414
+| lastedit=2017-05-01
+| content=The hilltop church of the former convent of Carmo is a towering memorial of the 1755 earthquake, which made the roof of the church collapse, but the Gothic arches of the nave survived. The church was preserved that way and now serves as the '''Museu Arqueológico''' in the extant parts of the building. The museum houses a hodgepodge of archaeological artifacts from around Portugal and the world including mummies from South America, tombs of Portuguese rulers, and the Stations of the Cross on 18th-century painted tiles. The assorted artifacts are not well explained, but the church is a sight to see and visitors come to relax in the grassy nave of the church, and draw or photograph the spires.
+}}
+* {{see
+| name=Jardim de São Pedro de Alcântara | alt=Mirador | url= | email=
+| address=Rua S. Pedro de Alcântara | lat=38.71497 | long=-9.14406 | directions=Tram stop {{station|Elevador da Glória|24e}} or funicular stop {{station|Rua Sao Pedro de Alcantara|51e}}
+| phone= | tollfree= | fax=
+| hours= | price=Free
+| image=Miradouro-Pedro2.jpg | wikidata=Q6672039
+| content=Excellent panorama from the lovely terrace/garden on top of Elevador da Glória and northern corner of Bairro Alto.
+}}
+*{{see
+| name=Museu Nacional de Arte Antiga | alt= | url=http://www.museudearteantiga.pt/english | email=
+| address=Rua das Janelas Verdes | lat=38.704167 | long=-9.161667 | directions=
+| phone=+351 21 391 2800 | tollfree= | fax=
+| hours=Tue to Sun: 10:00-18:00; Closed Mon | price=Normal: €6.00
+| wikipedia=National Museum of Ancient Art | image=MNAA.jpg | wikidata=Q212459
+|lastedit=2018-09-18| content=Portugal's impressive national art collection, including 14-19th century European painting, artefacts of Portuguese contact with the East and Africa and a collection of ecclesiastical treasures. Highlights include Dürer's St Jerome, Hieronymus Bosch's Temptations of St Antony, Nuno Gonçalves' Adoration of St Vincent, and 16th century Japanese paintings of Portuguese traders.
+}}
+* {{see
+| name=Museu da Marioneta | alt=Puppetry Museum | url=https://www.museudamarioneta.pt/en/ | email=museu@museudamarioneta.pt
+| address=Convento das Bernardas, Rua da Esperança 146 | lat=38.7079 | long=-9.1561 | directions=
+| phone=+351 21 394 2810 | tollfree=
+| hours=Tue–Fri 10:00–18:00, Sat Sun closed Mon | price=Admission {{EUR|5}}, ages 13–25 {{EUR|2.50}}, 65+ or disabled {{EUR|4.30}}, kids under 13 free; shows {{EUR|7.50}}, kids, seniors 65+, and students under 25 {{EUR|5}}
+| wikidata=Q10333706
+| lastedit=2021-07-23
+| content=The museum covers the history of puppetry around the world, with an emphasis on Portugal. Various types of puppets are on display.
+}}
+* {{see
+| name=Basílica da Estrela | alt= | url=https://www.patriarcado-lisboa.pt/site/index.php?tem=65&value=open:1669 | email=basilica_estrela@sapo.pt
+| address=Praça da Estrela | lat= | long= | directions=
+| phone=+351 21 396 0915 | tollfree=
+| hours= | price=
+| wikidata=Q2657972
+| lastedit=2021-07-23
+| content=This Neoclassical and Baroque basilica, dedicated to the Sacred Heart of Jesus, was built in the late 1700s by Queen Maria I in fulfilment of a vow. The Queen is entombed in the right transept. Among the artworks is a nativity scene made up of over 500 cork and terracotta figures by Joaquim Machado de Castro.
+}}
+* {{see | name=Jardim da Estrela | alt=Jardim Guerra Junqueiro | url=https://informacoeseservicos.lisboa.pt/contactos/diretorio-da-cidade/jardim-guerra-junqueiro | email= | address=Praça da Estrela | lat= | long= | directions= | phone= | tollfree= | hours=Daily 07:00–00:00 | price= | wikidata=Q10306236 | lastedit=2021-07-23 | content=A {{ha|4.6}} English-style garden with Romantic inspiration. You can find many plant and bird species here.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{see
+| name=Palácio de São Bento | alt=Saint Benedict's Palace | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q1464499
+| lastedit=2021-07-23
+| content=Built in 1598, the palace has served as the home of Portugal's parliament since 1834. The adjoining São Bento Mansion serves as the prime minister's residence.
+}}
+* {{see | name=Cemitério dos Prazeres | alt= | url=http://www.cm-lisboa.pt/equipamentos/equipamento/info/cemiterio-dos-prazeres | email= | address=Praça São João Bosco | lat=38.714016 | long=-9.169985 | directions=Tram 28 to its Western terminus | phone=+351 21 396 1511 | tollfree= | hours=daily 09:00–16:30 | price=Free | wikipedia=Prazeres Cemetery | wikidata=Q976850 | lastedit=2016-04-14 | content=This large cemetery is packed with majestic gravestones and mausoleums, separated by wide, pedestrian, tree-lined "streets". Many graves are marked with icons telling something about the person's role in historical Lisbon. A beautiful respite from the busy city.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+*{{see | name=Fundação Arpad Szenes / Vieira da Silva | alt= | url=http://www.fasvs.pt/en | email=fasvs@fasvs.pt | address=Praça das Amoreiras, 56/58 | lat=38.72223 | long=-9.15576 | directions= | phone=+351 21 388-0044 | tollfree= | fax=+351 21 3880039 | hours=Mon-Sat 11:00-19:00, Sun 10:00-18:00 | price=Adults €2.50, students €1.25, kids under 14 free | wikidata=Q10333400 | content=This museum is installed in the restored 18th-century former Royal Silk Factory. Its permanent collection covers a wide time period of the works of 20th-century painters Arpad Szenes and Maria Helena Vieira da Silva, and regularly hosts exhibits by their contemporaries.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+*{{see
+| name=Aqueduto das Aguas Livres | alt= | url= | email=
+| address= | lat=38.7223 | long=-9.1591 | directions=Tram stop {{station|Campolide|24e}}
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikidata=Q623228
+| content=This is a historic aqueduct in the city of Lisbon, Portugal. It is one of the most remarkable examples of 18th-century Portuguese engineering, including the largest stone arch in the world. The main course of the aqueduct covers 18 km, but the whole network of canals extends through nearly 58 km. The Mãe d'Água (Mother of the Water) reservoir of the Amoreiras, the largest of the water reservoirs, was finished in 1834. This reservoir, with a capacity of 5,500 m³ of water, was designed by Carlos Mardel. It is now deactivated and can be visited as part of the Museu da Água (Water Museum).
+}}
+*{{see | name=Espaço Novo Banco | alt= | url=https://nbcultura.pt | email=nbcultura@novobanco.pt | address=Praça Marquês de Pombal, 3A | lat=38.72449 | long=-9.15076 | directions={{rint|metro}}{{station|Marquês de Pombal|amarela|azul}} | phone=+351 21 350-8975 | tollfree= | hours=Mon–Fri 09:00-15:00 | price=Free | lastedit=2020-12-15 | content=Multifunctional space dedicated to contemporary art, especially photography.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+*{{see
+| name=Lisbon Botanical Gardens | alt=Jardim Botânico | url= | email=
+| address=Rua da Escola Politécnica, 58 | lat=38.7181 | long=-9.14895 | directions=between the Avenida da Liberdade and Bairro Alto; a 6-minute walk from the Rato metro station; Tram 24, which departs from Praça Luís de Camões in Chiado, also stops nearby
+| phone= | tollfree=
+| hours=Daily 10:00-17:00 | price=Entrance €5 adults, discounts for kids, seniors and students
+| image=Entrada da Escola Politécnica de Lisboa.jpg | wikidata=Q943407
+| lastedit=2024-02-14
+| content=A hidden gem. It was created several hundred years ago, by a King of Portugal at the time of the Discoveries. The story goes that this King wanted one of every type of plant in the world, and although that's unlikely, there is a huge collection dating back by three or four centuries which is worth checking out. And there's something quite eerie about seeing plants or huge trees from completely different climates growing next to each other in apparent harmony. A great place to take a picnic: this green oasis is completely surrounded by city but even the city sounds filter out.
+}}
+
+==Do==
+* {{do
+| name=Teatro Maria Vitória | alt= | url=https://www.facebook.com/teatromvoficial | email=teatromv@sapo.pt
+| address=Parque Mayer | lat= | long= | directions=
+| phone=+351 21 347 5454 | tollfree=
+| hours= | price=
+| wikidata=Q3516762
+| lastedit=2021-07-23
+| content=Presenting ''teatro de revista'', Portuguese-style comedy revues. The theatre opened in 1922 and was restored in 1990 following a 1986 fire.
+}}
+
+==Buy==
+*{{buy
+| name=Armazéns do Chiado | alt= | url=http://www.armazensdochiado.com | email=
+| address=Rua do Carmo 2 | lat=38.711 | long=-9.139444 | directions=Metro: Baixa-Chiado Station
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q54666542
+| content=This upscale and trendy shopping centre was developed inside Lisbon's historic grand department store which burnt down in 1988. The food court on the top floor has a terrace with a brilliant view over Baixa and Chiado.
+}}
+*{{buy
+| name=Centro Comercial Amoreiras | alt= | url=https://amoreiras.com/ | email=
+| address=Av. Eng. Duarte Pacheco | lat=38.723036 | long=-9.162211 | directions=Metro: Marquês de Pombal Station
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q2843878
+| content=The city's oldest mall in eye-catching post-modern towers housing international chains.
+}}
+[[File:Mercado de Campo de Ourique 01.jpg|thumb|Mercado de Campo de Ourique on a sunny day]]
+* {{buy
+| name=Mercado de Campo de Ourique | alt= | url=http://www.mercadodecampodeourique.pt/?lang=en | email=
+| address=Rua Coelho da Rocha | lat=38.716152 | long=-9.166832 | directions=Tram 28 to its Western terminus at Prazeres
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q30589995
+| lastedit=2016-04-14
+| content=An indoor market selling wide selection of fruits, vegetables, meats, fish, and jewelry. A perfect break while Tram 28 turns around, it's calmer and less crowded than other markets listed.
+}}
+*{{buy
+| name=A Vida Portuguesa | alt= | url=http://www.avidaportuguesa.com/ | email=avidaportuguesa@gmail.com
+| address=Rua Anchieta 11 | lat=38.710015 | long=-9.141073 | directions=Chiado
+| phone=+351 21 346-5073 | tollfree=
+| hours= | price=
+| lastedit=2020-04-29
+| content=Vintage and nostalgic products and brands.
+}}
+* {{buy
+| name=Livraria Bertrand | alt= | url=https://www.bertrand.pt/ | email=
+| address=R. Garrett 73 | lat=38.710655 | long=-9.14114 | directions=Ciado
+| phone=+351 21 347 6122 | tollfree=
+| hours= | price=
+| wikidata=Q1866547
+| lastedit=2017-11-09
+| content=Founded in 1732, it is the oldest operating bookstore in the world. If you want they can stamp the books you buy, certifying that they were bought there. While most books are in Portuguese there is a full shelf of English language literature, including many notable Portuguese titles translated to English. There's a small coffee-shop/bar area at the back of the shop with very helpful staff.
+}}
+* {{buy
+| name=Caza das Vellas Loreto | alt= | url=https://www.cazavellasloreto.com.pt/ | email=
+| address=Rua do Loreto 53 | lat= | long= | directions=
+| phone=+351 21 342 5387 | tollfree=
+| hours=10 -7 Mon - Fri, 10 - 1 Sat | price=
+| lastedit=2025-02-09
+| content=A shop that has been selling beautiful homemade candles since 1789.
+}}
+
+==Eat==
+[[File:A Tasquinha Sardines.jpg|thumb|Grilled sardines at A Tasquinha]]
+[[File:Cervejaria Trinidade in Lisbon (4167454086).jpg|thumbnail|Cervejaria da Trindade]]
+[[File:Lissabon-A Camponeza-06-Leiteria-2011-gje.jpg|thumbnail|Leitaria Camponeza]]
+[[File:Lisbon Travel 2011 (5900412082).jpg|thumbnail|right|Be prepared for some fine dining delights while in Lisbon]]
+
+===Budget===
+
+====Around the Jardim de São Pedro de Alcântara====
+
+* {{eat
+| name=Restaurante Tascardoso | alt= | url= | email=
+| address=Rua de O Século, 242 | lat=38.71599 | long=-9.14770 | directions=Bairro Alto, on the corner of Rua Dom Pedro V
+| phone=+351 21 342 7578 | tollfree= | fax=
+| hours=Mon-Fri 12:00-24:00 | price=Small dishes for €3 (May 2017)
+| lastedit=2022-05-01
+| content=Standing-room only, this place serves simple and affordable Portuguese dishes, including grilled sardines. Toilets available.
+}}
+* {{eat
+| name=Taberna Minhota | alt= | url= | email=
+| address=R. de São Pedro de Alcântara 13 | lat=38.7135664 | long=-9.1437582| directions=
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2022-05-01 | content=A tapas restaurant}}
+* {{eat
+| name=Sabores na Travessa | alt= | url= | email=
+| address=Tv. da Queimada 36 | lat=38.7128737 | long= -9.1446004 | directions=
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2022-05-01 | content=}}
+* {{eat
+| name=Restaurante Cantinho da Rosa | alt= | url= | email=
+| address=R. da Rosa 224 | lat=38.7145427 | long=-9.1458429 | directions=
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2022-05-01 | content=}}
+* {{eat
+| name=Hawaii Poke-In | alt= | url= | email=
+| address=R. das Taipas 37 | lat=38.7166528 | long=-9.1453313 | directions=
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2022-05-01 | content=}}
+* {{eat
+| name=Lusitânia Tony | alt= | url= | email=
+| address= Rua da Glória 22B| lat=38.7167179 | long=-9.1439885| directions=
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2022-05-01 | content=}}
+
+====Around the Guerra Junqueiro Garden====
+
+* {{eat
+| name=A Cabana da Estrela | alt= | url= | email=
+| address=R. da Bela Vista à Lapa 20 | lat=38.7127169 | long=-9.1585425 | directions=
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2022-05-01 | content=}}
+* {{eat
+| name=A Loja do Sr. Rocha | alt= | url= | email=
+| address=Calçada da Estrela 68 | lat= 38.7127266| long=-9.1569908 | directions=
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2022-05-01 | content=}}
+* {{eat
+| name=Boutique Doce | alt= | url= | email=
+| address=R. da Lapa 22 | lat=38.7107062 | long=-9.1591621 | directions=
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2022-05-01 | content=}}
+* {{eat
+| name=Nova Lapa | alt= | url= | email=
+| address=R. da Lapa 23A | lat=38.7105816 | long=-9.1592405 | directions=
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2022-05-01 | content=}}
+* {{eat
+| name=Churrasqueira Central Da Lapa | alt= | url= | email=
+| address=R. da Lapa nº25A | lat=38.7104908 | long= -9.1594779| directions=
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2022-05-01 | content=}}
+
+====Around Cais do Sodré====
+
+* {{eat
+| name=Time Out Market | alt=Mercado da Ribeira | url=http://www.timeoutmarket.com/en/ | email=
+| address=Av. 24 de Julho 49 | lat=38.706944 | long=-9.145556 | directions=Cais do Sodré, opposite the train station
+| phone=+351 21 395 1274 | tollfree=
+| hours=Sun-Wed 10:00-24:00, Thu-Sat 10:00-02:00 | price=
+| wikidata=Q28226115
+| lastedit=2022-05-01
+| content=The late 19th-century market was closed in 2000, and in 2014 the publisher ''Time Out Portugal'' transformed the space into a gourmet food court with 40 kiosks, including restaurants, bars, and shops. A number of Lisbon's top chefs have stands here, making this an ideal place to sample some of their food for lower prices than at their established restaurants.
+}}
+
+===Mid-range===
+* {{eat
+| name=Rosa da Rua Restaurante | alt= | url=http://www.rosadarua-restaurante.blogspot.com/ | email=rosadarua@gmail.com
+| address=Rua da Rosa, 265, Bairro Alto | lat=38.71469 | long=-9.14598 | directions=Metro: Rossio
+| phone=+351 21 343 2195 | tollfree= | fax=
+| hours=Mon-Fri 12:00-15:30 19:30-22:30, Sat 19:30-22:30 | price=€10 for buffet lunch; €25 for 3-course dinner (May 2017)
+| lastedit=2022-05-01
+| content=A traditional restaurant offering an interesting mix of Portuguese, Indian, and Cape Verdean flavours. The lunch-time buffet offers excellent value for money and great quality food. Staff are patient with English speakers.
+}}
+* {{eat
+| name=Faca & Garfo | alt= | url= | email=
+| address=R. da Condessa, 2 | lat=38.71251 | long=-9.14098 | directions=
+| phone=+351 21 346 8068 | tollfree= | fax=
+| hours=Mon-Sat 08:00-24:00 | price=Mains €6-8 (May 2017)
+| lastedit=2022-05-01
+| content=A cozy and affordable restaurant which offers tasty grilled Portuguese specialities of meat and fish.
+}}
+* {{eat
+| name=Bengal Tandoori | alt= | url=https://bengaltandoori.pt/ | email=info@bengaltandoori.pt
+| address=Rua da Alegria 20 | lat=38.7176 | long=-9.1462 | directions={{rint|metro}}{{station|Avenida|city=lisbon|azul}}
+| phone=+351 21 347 9918 | tollfree=
+| hours=11:30–23:30 daily | price={{EUR|15-20}}
+| lastedit=2021-07-23
+| content=Cuisine of East Bengal, India, using a tandoor oven.
+}}
+* {{eat | name=Cervejaria da Trindade | alt= | url=http://www.cervejariatrindade.pt/trindade_english.html | email=trindade.chiado@cervejariatrindade.pt | address=R. Nova da Trindade 20C | lat=38.71244 | long=-9.14242 | directions=Chiado | phone=+351 21 342 3506 | tollfree= | fax= | hours=Sun-Thu 12:00-24:00, Fri Sat 12:00-01:00 | price=€15-25 | image=Cervejaria Trinidade in Lisbon (4167454086).jpg | lastedit=2017-05-05 | content=This excellent restaurant-brewery in a former monastery has several kinds of Sagres beer and Guinness. The appetizer that is charged for each item that is consumed separately. Nice codfish plates.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{eat
+| name=Os Tibetanos | alt= | url=http://tibetanos.com/en/ | email=
+| address=Rua do Salitre, 117 | lat=38.71970 | long=-9.14873 | directions=
+| phone=+351 213 142 038 | tollfree= | fax=
+| hours=Mon-Fri 12:15-14:45 19:30-22:30, Sat 12:45-15:30 20:00-23:00, Sun and holidays 19:30-22:30 | price=Inexpensive
+| lastedit=2017-05-06
+| content=Vegetarian restaurant affiliated with a Buddhist center. Vegan friendly. Juice bar.
+}}
+* {{eat | name=Tamarind | alt= | url=http://tamarindrestaurantes.com/ | email=contact@tamarindrestaurantes.com | address=Rua da Gloria 43-45 | lat=38.71676 | long=-9.14426 | directions=near Elevador da Glória | phone=+351 21 346 6080 | tollfree= | fax= | hours=Tue-Sun 11:30-15:00 18:30-23:30, Mon 18:30-23:30 | price=Avg bill per person €30 | content=Small Indian restaurant. Reservations can be made online.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{eat
+| name=Restaurante Brasuca | alt= | url=http://restaurantebrasuca.com/ | email=
+| address=Rua João Pereira da Rosa, 7 | lat=38.71204 | long=-9.14730 | directions=
+| phone=+351 21 322 0740 | tollfree= | fax=
+| hours=Tue-Sun 12:00-15:00 19:00-23:00 | price=
+| lastedit=2017-05-06
+| content=Great Brazilian food served by friendly staff.
+}}
+* {{eat | name=Restaurante Calcutá 2 | alt= | url=http://restaurantcalcuta.com/ | email= | address=Rua da Atalaia, 28 | lat=38.71128 | long=-9.14478 | directions= | phone=+351 21 346 8165 | tollfree= | fax= | hours=Daily 18:30-23:30 | price=€25 (two courses with house wine) | lastedit=2017-05-06 | content=The second of two restaurants operated by the same owners. Decent Indian food, but far from the best. The location is great though for starting a night out on the town. Ask for the shoot drinks!
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{eat
+| name=Restaurante Lisboa À Noite | alt= | url=http://www.lisboanoite.com/en/homepage/ | email=mail.info@lisboanoite.com
+| address=Rua as Gaveas, 69 | lat=38.71216 | long=-9.14346 | directions=
+| phone=+351 21 346 8557 | tollfree= | fax=+351 21 346 0222
+| hours=Mon-Thu 19:30-24:00, Fri Sat and holidays 19:30-01:00 | price=
+| image=Lisboa Noite (3901646262).jpg
+| lastedit=2020-06-11
+| content=A restaurant with a variety of traditional Portuguese dishes very appreciated by the tourists. Friendly environment, great service. Make sure you try the appetizers.
+}}
+* {{eat
+| name=Restaurante Sacramento do Chiado | alt= | url=http://www.tablegroup.pt/sacramento.html | email=reservas@sacramentodochiado.com
+| address=Calçada Sacramento, 44 | lat=38.71147 | long=-9.14025 | directions=
+| phone=+351 21 342 0572 | tollfree=
+| hours=Mon-Fri 12:30-15:00 19:30-24:00, Sat Sun 19:30-24:00 | price=€40 (appetizer, main, wine and desert)
+| content=A popular locals' place in palace stables from the 18th-century . The atmosphere and the food are excellent. Service is very good and the recommendations by the staff are outstanding. The writing on the menu is very small and difficult to read in the subdued lighting.
+}}
+* {{eat
+| name=Restaurante Sinal Vermelho | alt= | url=https://www.facebook.com/RestauranteSinalVermelho | email=
+| address=R. das Gáveas, 89 | lat=38.71237 | long=-9.14349 | directions=
+| phone=+351 21 346 1252 | tollfree= | fax=
+| hours=Mon 19:00-00:30, Tue-Fri 12:30-00:30, Sat 19:00-00:30 | price=Mains €8-12
+| lastedit=2017-05-07
+| content=Good traditional Portuguese at reasonable prices.
+}}
+* {{eat | name=Restaurante Terra | alt= | url=http://www.restauranteterra.pt/English/Welcome.html | email= | address=Rua da Palmeira, 15 | lat=38.71473 | long=-9.14909 | directions=near Jardim do Príncipe Real | phone=+351 707 108 108 | tollfree= | fax= | hours=Tue-Sun 12:30-15:30 19:30-24:00 | price=€15-20 (buffet plus drink and/or dessert) | lastedit=2017-05-06 | content=Probably the best vegetarian restaurant in Lisbon and also the nicest in terms of ambience and service. They have a menu in English and will help with vegan choices or people with other dietary restrictions. Reservations are recommended, especially on weekends but you will always be served even if you arrive with the place full and have to wait for a while. Weather permitting try to get a table outside, which means a wonderful and secluded back terrace.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{eat | name=Come Prima | alt= | url=http://www.comeprima.pt/index_en.php | email=info@comeprima.pt | address=Rua do Olival, 258 | lat=38.70486 | long=-9.16632 | directions=near the Museu de Arte Antiga, between the Madragoa neighbourhood and the docks | phone=+351 213 902 457 | tollfree= | fax= | hours=Mon-Fri 12:00-15:00 19:00-23:00, Fri Sat 19:00-24:00 | price=€18 | lastedit=2017-05-06 | content=Traditional Italian fresh pasta dishes, various starters, risottos, meats and wood-oven pizzas are produced from a wide selection of prime quality fresh ingredients. Extensive wine list procured from both national and Italian producers and a delightful choice of desserts carefully picked from the Italian classics.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+
+===Splurge===
+* {{eat
+| name=Café Buenos Aires | alt= | url=http://www.cafebuenosaires.pt/ | email=buenosairesreservas@gmail.com
+| address=Calçada do Duque 31B | lat=38.7134 | long=-9.1416 | directions=
+| phone=+351 21 342 0739 | tollfree=
+| hours=Mon–Fri 16:00–23:00, Sat 12:00–16:00, closed Sun | price=Mid-range
+| lastedit=2021-07-23
+| content=A good and selected combination of cheap and mid range dishes. The owners are very friendly and speak English, as well as Portuguese. It is a good restaurant if you want to eat South American grilled meat.
+}}
+* {{eat
+| name=Belcanto | alt= | url=https://belcanto.pt/ | email=belcanto@belcanto.pt
+| address=Rua Serpa Pinto 10A, Bairro Alto (Chiado) | lat=38.71 | long=-9.1414 | directions=
+| phone=+351 213 420 607 | tollfree=
+| hours=Tue–Fri 12:30–15:00 & 19:00–22:30, Sat 12:30–15:00, closed Sun Mon | price={{EUR|95-185}}
+| wikidata=Q88691990
+| lastedit=2021-07-01
+| content=Contemporary Portuguese cuisine with two Michelin stars.
+}}
+* {{eat
+| name=Alma | alt= | url=https://www.almalisboa.pt/ | email=alma@almalisboa.pt
+| address=Rua Anchieta 15, Chiado | lat=38.7101 | long=-9.1411 | directions=
+| phone=+351 21 347 0650 | tollfree=
+| hours=Tue–Sun 12:30–15:30 & 19:00–22:30, closed Mon | price={{EUR|65-120}}
+| lastedit=2021-07-01
+| content=Two-Michelin-star fine dining by chef Henrique Sá Pessoa, blending traditional Portuguese cuisine with Asian influences. Choose from two tasting menus or order à la carte.
+}}
+* {{eat
+| name=Loco Restaurante | alt= | url=https://www.loco.pt/en/ | email=info@alexandresilva.pt
+| address=Rua dos Navegantes 53B | lat=38.7125 | long=-9.1606 | directions=
+| phone=+351 21 395 1861 | tollfree=
+| hours=Mon–Fri 19:00–23:00, closed Sat Sun | price={{EUR|113}}
+| lastedit=2021-07-19
+| content=Michelin-starred restaurant offering two tasting menus using local ingredients by chef Alexandre Silva, who won the first series of ''Top Chef de Portugal''.
+}}
+* {{eat
+| name=100 Maneiras | alt= | url=https://www.100maneiras.com/ | email=info@100maneiras.com
+| address=Rua do Teixeira 39 | lat=38.7147 | long=-9.145 | directions=
+| phone=+351 910 918 181 | tollfree=
+| hours=Thu–Mon 19:00–22:30, closed Tue Wed | price={{EUR|95-125}}
+| lastedit=2021-07-19
+| content=Michelin-starred restaurant by Bosnian chef Ljubomir Stanisic, who blends influences from his homeland, his adopted country, and elsewhere around the globe.
+}}
+* {{eat
+| name=Epur | alt= | url=https://www.epur.pt/ | email=reserve@epur.pt
+| address=Largo da Academia Nacional de Belas Artes 14 | lat=38.7088 | long=-9.1399 | directions=
+| phone=+351 21 346 0519 | tollfree=
+| hours=Tue–Sat 19:30–23:00, closed Sun Mon | price={{EUR|70-125}}
+| lastedit=2021-07-20
+| content=Michelin-starred restaurant by French chef Vincent Farges, who prepares an edgy surprise menu centred on visual elegance and purity of flavours.
+}}
+
+==Drink==
+[[File:Interior do Café A Brasileira.jpg|thumb|Café A Brasileira]]
+* {{drink
+| name=Café A Brasileira | alt= | url= | email=
+| address=R. Garrett, 120 | lat=38.71071 | long=-9.14203 | directions=
+| phone=+351 21 346 9541 | tollfree= | fax=
+| hours=Daily 08:00-02:00 | price=Prices are in three levels, depending on where you choose to drink: cheapest standing at the counter, and most expensive sitting outside on the terrace
+| wikipedia=Café A Brasileira | image=Wlm 97005957.jpg | wikidata=Q2547006
+| lastedit=2017-05-07
+| content=One of Lisbon's remaining classic cafés, with a restaurant in the basement; despite renovation, not much has changed since the 1920s. The café was Fernando Pessoa's favourite place, and a statue of the poet/philosopher stands outside the main entrance on the terrace.
+}}
+* {{drink
+| name=Manteigaria - Fábrica de Pastéis de Nata | alt= | url=https://www.facebook.com/manteigaria.oficial/ | email=info@manteigaria.com
+| address=Rua do Loreto 2 | lat=38.7108 | long=-9.1441 | directions=near the Chiado station
+| phone=+351 21 347 1492 | tollfree=
+| hours=Mon–Thu 08:00–21:00, Fri 08:00–22:00, Sat Sun 08:00–13:00 | price=
+| lastedit=2021-01-08
+| content=A bakery serving some of the best ''pastéis de nata'' in town, arguably the best in Lisbon. You can even watch them make the pasteis de nata. Standing room only.
+}}
+* {{drink | name=Chafariz do Vinho | alt= | url=http://www.chafarizdovinho.com/wp/en/ | email= | address=Rua da Mae d'Agua | lat=38.717012 | long=-9.146985 | directions= | phone=+351 21 342-2079 | tollfree= | fax= | hours= | price= | content=Perfect place to linger over a glass of wine at this wine bar that is under the arches of the city's former acquaducts. With a great selection of appetizers that are matched perfectly with the wine, it's a pleasant way to spend an evening.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{drink
+| name=Garrafeira Alfaia | alt= | url=http://garrafeiraalfaia.com/wine/ | email=garrafeira.alfaia@clix.pt
+| address=Rua Diário de Notícias, 125 | lat=38.713118 | long=-9.144361 | directions=
+| phone=+351 21 343-3079 | tollfree= | fax=
+| hours= | price=
+| content=Nice wine bar with an impressive selection of good wines and appetizers. Good place to spend the late afternoon, before going out to dinner.
+}}
+* {{drink | name=Tivoli Hotel Sky Bar | alt= | url=https://www.minorhotels.com/en/tivoli/tivoli-avenida-liberdade-lisboa/restaurants/sky-bar | email= | address=Av. da Liberdade, 185 | lat=38.721000 | long=-9.147000 | directions= | phone=+351 213 198 641 | tollfree= | fax= | hours=passed midnight | price=Drink or meal | content=The superbly located rooftop bar of Tivoli Hotel is a small secret. On warm evenings one of the best places to have an overpriced late drink. Youngish music late night.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+*{{drink
+| name=Fado In Chiado | alt= | url=http://www.fadoinchiado.com/ | email=bilheteira@geniusymeios.pt
+| address=Rua da Misericórdia nº 14, 2º | lat=38.711426 | long=-9.142803 | directions=
+| phone=+351 961 717 778 | tollfree= | fax=
+| hours= | price=
+| content=Fado In Chiado - Daily show (except on Sundays) at 19:00, with a duration of 50 minutes. Voices that sing the Fado to the sound of Portuguese guitar.
+}}
+* {{drink
+| name=Tasca do Chico | alt= | url=http://tascadochico.blogspot.pt/ | email=
+| address=R. do Diário de Notícias 39 | lat=38.711628 | long=-9.144137 | directions=Bairro Alto
+| phone=+351 965 059 670 | tollfree=
+| hours= | price=
+| lastedit=2017-11-10
+| content=A cramped but authentic Fado bar.
+}}
+
+==Sleep==
+
+===Budget===
+*{{sleep
+| name=Lisbon Old Town Hostel | alt= | url=http://www.lisbonoldtownhostel.com | email=lisbonoldtownhostel@gmail.com
+| address=Rua do Ataíde, 26A | lat=38.70856 | long=-9.14435 | directions=5 minutes from Bairro Alto. Metro: Baixa/Chiado or Cais do Sobre
+| phone=+351 21 346-5248 | tollfree= | fax=+351 21 346-5248
+| checkin= | checkout= | price=€15-22
+| content=A hostel, opened in 2007, catering to the young hip crowd with event listings on their website, free computer and internet access in the lobby and WiFi throughout the hostel.
+}}
+*{{sleep
+| name=Poets Hostel | alt= | url=http://www.lisbonpoetshostel.com/ | email=lisbonpoetshostel@gmail.com
+| address=Rua Nova da Trindade, 2 - 5º | lat=38.710777 | long=-9.142300 | directions=30 seconds walk from Baixa-Chiado Metro station
+| phone=+351 21 346-1058 | tollfree= | fax=
+| hours=24hr | checkin=14:00 | checkout=11:00 | price=
+| content=The building is next the Chiado exit of the Baixa-Chiado metro station. Very helpful staff, clean rooms, dinners and activities are organized by the hostel. Big common room with TV and free internet. Dorms and privates available.
+}}
+*{{sleep
+| name=InSuites Chiado Apartments I | alt= | url=http://www.insuites.pt | email=geral@insuites.pt
+| address=Rua Nova do Almada, 92 | lat=38.710414 | long=-9.139389 | directions=in the center of the Chiado, 200 meters from Baixa/Chiado subway station
+| phone=+351 21 324-0920 | tollfree= | fax=+351 21 324-0929
+| checkin=15:00 | checkout=11:00 | price=From €65 (2 people)
+| content=In the center of the Chiado, these apartments have 1 and 2 bedrooms.
+}}
+*{{sleep
+| name=InSuites Chiado Apartments II | alt= | url=http://www.insuites.pt | email=geral@insuites.pt
+| address=Rua da Misericórdia, 36 | lat=38.711695 | long=-9.142783 | directions=2 minutes away from Bairro Alto and Camões, and 5 minutes from Baixa/chiado subway station
+| phone=+351 21 324-0920 | tollfree= | fax=+351 21 324-0929
+| checkin=15:00 | checkout=11:00 | price=From €176 (2 people)
+| content=Luxury apartments in the historical Chiado, Lisbon center, with 3 bedrooms.
+}}
+*{{sleep
+| name=Bed&Breakfast Lisboa | alt= | url=http://duartedas.googlepages.com/ | email=duartedas@gmail.com
+| address=Travessa do Alcaide, nº7 | lat=38.709974 | long=-9.149307 | directions=atached at Adamastor
+| phone=+351 9 1830 7572 | tollfree= | fax=
+| checkin= | checkout= | price=€30-40
+| content=Good rooms in a very central bed-and-breakfast with views all over Lisbon and the river.
+}}
+*{{sleep
+| name=Camões | alt= | url=http://www.pensaoresidencialcamoes.com/ | email=
+| address=Travessa do Poço da Cidade 38 1E | lat=38.712404 | long=-9.144380 | directions=
+| phone=+351 21 346-4048 | tollfree= | fax=
+| checkin= | checkout= | price=Single €20, Triple €60
+| content=Basic, clean and affordable.
+}}
+*{{sleep | name=Oasis Backpackers' Mansion | alt= | url=http://www.oasislisboa.com/ | email=info@oasislisboa.com | address=Rua de Santa Catarina 24 | lat=38.709851 | long=-9.148643 | directions= | phone=+351 21 347-8044 | tollfree= | fax= | hours=24hr | checkin= | checkout= | price= | content=Backpackers rave about this hotel, often noting the friendly staff, large clean rooms, fun atmosphere and great dinners. It is a great place for a budget traveler to meet up with other travelers and feel safe when they go to bed at night - if they go to bed.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+*{{sleep
+| name=Pensão Alegria | alt= | url=http://hotelalegria.pt/ | email=
+| address=Praça de Alegria 12 | lat=38.717519 | long=-9.144952 | directions=
+| phone=+351 21 322-0670 | tollfree= | fax=
+| checkin= | checkout= | price=€43 doubles
+| content=Small cosy pension on a beautiful small square.
+}}
+*{{sleep
+| name=Hotel Portuense | alt=formerly Pensão Residencial Portuense | url=https://www.hotelportuense.com | email=rportuense@mail.telepac.pt
+| address=Rua das Portas de Santo Antão 149-157 | lat=38.7173 | long=-9.1415 | directions=near Restauradores behind the Hard Rock Cafe
+| phone=+351 21 346-4197 | tollfree= | fax=+351 21 342-4239
+| checkin= | checkout= | price=€35-85
+| content=
+}}
+*{{sleep
+| name=Lisboa Central Hostel | alt= | url=http://www.lisboacentralhostel.com | email=global@lisboacentralhostel.com
+| address=Rua Rodrigues Sampaio nº160 | lat=38.7244 | long=-9.1478 | directions=On parallel street behind Av. da Liberdade
+| phone=+351 309 881-038 | tollfree=
+| checkin= | checkout= | price=Dorms starting at €16
+| content=A fun, fresh and friendly place to stay in the heart of city in Marques de Pombal and Avenida da Liberdade. This international hostel provides a good base for sight-seeing by day and partying by night. All of Lisbon’s major night spots are easily accessible on foot.
+}}
+*{{sleep
+| name=Pensão Londrina | alt= | url= | email=
+| address=Rua Castilho 61 | lat=38.7239 | long=-9.1528 | directions={{rint|metro}} {{station|Marquês de Pombal|city=lisbon|azul|amarela}}
+| phone=+351 21 386 3624 | tollfree=
+| checkin= | checkout= | price=
+| lastedit=2021-07-23
+| content=
+}}
+*{{sleep
+| name=Residencial Vila Nova | alt=Vila Nova Guest House | url=https://vilaguesthouses.com/vilanova/ | email=vilanova@vilaguesthouses.com
+| address=Avenida Duque de Loulé 111 | lat=38.7258 | long=-9.1479 | directions={{rint|metro}} {{station|Marquês de Pombal|city=lisbon|azul|amarela}}
+| phone=+351 21 319 6290 | tollfree=
+| checkin=14:00 | checkout=12:00 | price={{EUR|42-86}}
+| lastedit=2021-07-23
+| content=Two-star, 30-room, modern guest house close to Marques de Pombal station.
+}}
+
+===Mid-range===
+*{{sleep
+| name=Hotel Borges Chiado | alt= | url=https://www.hotelborges.com/ | email=reservas@hotelborges.com
+| address=Rua Garrett 108 | lat=38.7107 | long=-9.1419 | directions=
+| phone=+351 21 045 6400 | tollfree=
+| checkin=14:00 | checkout=12:00 | price={{EUR|48-126}}
+| lastedit=2021-07-23
+| content=Three-star, 100-room hotel. Spacious rooms with satellite TV. Very central, but somewhat expensive for the service.
+}}
+*{{sleep
+| name=NH Collection Lisboa Liberdade | alt= | url=https://www.nh-hotels.com/hotel/nh-collection-lisboa-liberdade | email=
+| address=Avenida da Liberdade 180B | lat=38.7203 | long=-9.1447 | directions=
+| phone=+351 21 351 4060 | tollfree=
+| checkin=15:00 | checkout=12:00 | price={{EUR|107-207}}
+| lastedit=2021-07-23
+| content=Nice four-star, 108-room hotel in the center of the city. Seasonal rooftop pool, lawned terrace, bar, free Wi-Fi.
+}}
+* {{sleep
+| name=Holiday Inn Express Lisbon - Av. Liberdade | alt= | url=https://www.ihg.com/holidayinnexpress/hotels/gb/en/lisbon/lisal/hoteldetail | email=hielisboncity@newpalm.pt
+| address=Rua Alexandre Herculano 40 | lat=38.7224 | long=-9.15027 | directions={{rint|metro}} {{station|Marquês de Pombal|city=lisbon|azul|amarela}} {{m|400}}
+| phone=+351 21 829 0402 | tollfree=
+| checkin=15:00 | checkout=12:00 | price={{EUR|90-174}}
+| lastedit=2021-07-23
+| content=Three-star, 108-room modern hotel with compact but efficient rooms, with kettle and mini-fridge. Near Avenida da Liberdade and the view from Parque Eduardo VII, and within walking distance of the old town. Nearby shops and restaurants are less crowded with tourists than those further south. Two metro lines give access to most areas of the city, and frequent bus 727 runs directly to the Belém museum district. Price includes breakfast and reliable wireless Internet access.
+}}
+
+===Splurge===
+*{{sleep
+| name=Olissippo Lapa Palace | alt= | url=https://www.lapapalace.com/ | email=info.lapa@olissippohotels.com
+| address=Rua do Pau de Bandeira 4 | lat=38.70683 | long=-9.1638 | directions=
+| phone=+351 21 394 9494 | tollfree=
+| checkin=14:00 | checkout=12:00 | price={{EUR|264-351}}
+| lastedit=2021-07-22
+| content=Five-star, 109-room hotel, property of Orient-Express Hotels, Trains & Cruises. A luxury palace hotel in one of Lisbon's seven hills, with gardens and pools, heated all year long. Member of the Leading Hotels of the World. With one of the best spas in Lisbon, gourmet food (its restaurant is considered by the Zagat Guide as one of the best in Lisbon) and one of the best concierge services in the country.
+}}
+*{{sleep
+| name=Eurostars das Letras | alt= | url=http://www.eurostarshotels.com.pt/eurostars-das-letras.html | email=reservas@eurostarsdasletras.com
+| address=Rua Castilho, 6-12 | lat=38.72015 | long=-9.14885 | directions=Five minutes walk from Avenida metro station, ten minutes walk from the AirportBus stop at Marques de Pombal
+| phone=+351 21 357-3094 | tollfree=
+| checkin=14:00 | checkout=12:00 | price={{EUR|91-268}}
+| lastedit=2021-07-22
+| content=Five-star, 107-room modern hotel in the central Rato district. The hotel offers free wireless internet for guests along with two laptops with internet access.
+}}
+* {{sleep
+| name=Sofitel Lisbon Liberdade | alt= | url=https://all.accor.com/hotel/1319/index.en.shtml | email=
+| address= | lat=38.71876 | long=-9.14513 | directions=
+| phone= | tollfree=
+| checkin=14:00 | checkout=12:00 | price={{EUR|174-264}}
+| lastedit=2021-07-22
+| content=Five-star, 163-room hotel. Perhaps not particularly outstanding in standards or appointments among other Sofitels in Europe (meaning though that the standards are very high), the Lisbon Sofitel boasts a very central location on the Avenida da Liberdade, smack right at the entrance to the namesake metro station.
+}}
+* {{sleep
+| name=Tivoli Avenida Liberdade Lisboa | alt= | url=https://www.tivolihotels.com/en/tivoli-avenida-liberdade-lisboa | email=avenidaliberdade@tivoli-hotels.com
+| address=Avenida da Liberdade 185 | lat=38.72105 | long=-9.14717 | directions=
+| phone=+351 21 319 8900 | tollfree=
+| checkin=15:00 | checkout=12:00 | price={{EUR|180-304}}
+| lastedit=2021-07-22
+| content=The five-star, 285-room flagship of the Portuguese Tivoli hotel chain is most known for its rooftop terrace bar with splendid views.
+}}
+* {{sleep | name=Altis Grand Hotel | alt= | url=https://www.altishotels.com/en/hotelaltislisboa/ | email=reservations.altisgrand@altishotels.com | address=Rua Castilho 11 | lat=38.72063 | long=-9.15016 | directions= | phone=+351 21 310 6000 | tollfree= | checkin=14:00 | checkout=12:00 | price={{EUR|101-240}} | lastedit=2021-07-22 | content=Five-star, 295 room hotel with swimming pool, spa, gym, business centre, conference facilities, bar, and free Wi-Fi.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{sleep
+| name=Fontecruz Lisboa | alt=Autograph Collection | url=https://www.marriott.com/hotels/travel/lisak-fontecruz-lisboa-autograph-collection/ | email=
+| address=Av. da Liberdade 138-142 | lat=38.71921 | long=-9.14395 | directions=
+| phone=+351 21 041 0000 | tollfree=
+| checkin=15:00 | checkout=12:00 | price={{EUR|175-390}}
+| lastedit=2021-07-22
+| content=Striking postmodern architecture and interior appointments are on the menu throughout this Marriott's luxury, five-star, 72-room boutique hotel.
+}}
+
+==Connect==
+
+{{IsPartOf|Lisbon}}
+{{usabledistrict}}
+{{geo|38.7122|-9.145}}

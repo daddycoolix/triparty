@@ -1,0 +1,28 @@
+OSM art try 1 POST https://overpass-api.de/api/interpreter
+  ERROR: HTTP Error 502: Bad Gateway | # 502 Gateway Timeout This Overpass API server is currently at capacity. All query workers are busy and the request queue is full. ## What to do Retry your request using exponential backoff: wait a short interval, then retry. If the request fails again, double the wait time and retry again. ## F
+OSM art try 1 GET https://overpass-api.de/api/interpreter
+  OK 540 KB
+OSM poi try 1 POST https://overpass-api.de/api/interpreter
+  OK 1747 KB
+OSM fun try 1 POST https://overpass-api.de/api/interpreter
+  OK 107 KB
+OSM kosher try 1 POST https://overpass-api.de/api/interpreter
+  ERROR: HTTP Error 502: Bad Gateway | # 502 Gateway Timeout This Overpass API server is currently at capacity. All query workers are busy and the request queue is full. ## What to do Retry your request using exponential backoff: wait a short interval, then retry. If the request fails again, double the wait time and retry again. ## F
+OSM kosher try 1 GET https://overpass-api.de/api/interpreter
+  OK 5 KB
+Wikidata ids: 190
+WD batch 1 OK
+WD batch 2 OK
+WD batch 3 OK
+WD batch 4 OK
+WV wv_en_Lisbon OK
+WV wv_en_Baixa OK
+WV wv_en_Alfama OK
+WV wv_en_BairroAlto OK
+WV wv_en_Belem OK
+WV wv_en_Nacoes OK
+WV wv_en_Sintra OK
+WV wv_en_Cascais OK
+WV wv_he_Lisbon OK
+nominatim ok: 252 of 252
+DONE

@@ -1,0 +1,335 @@
+{{pagebanner|Cascais Wikivoyage Header Bjarne Henning Kvaale.png|caption=Beach in Cascais, Portugal.}}
+'''Cascais''' is a beach town in [[Greater Lisbon]], [[Estremadura]], [[Portugal]], at the end of the mouth of the River Tagus as it meets the ocean, with spectacular beaches to be found on its Atlantic shorelines. The combination of maritime leisurely charm, strategic position and location close to Lisbon made it a favourite residence of the Portuguese royal family and several other nobles and one of Portugal's first holiday resorts.
+
+==Understand==
+[[File:Pt-pt Cascais FF.ogg]]
+Cascais ([[Portuguese_phrasebook#Pseudo-phoneticization|kush-KIGHSH]], /kɐʃ.ˈkajʃ/) is dominated by the bay and the imposing Cidadela fort, and the historic centre is brimming with architectural treasures of a religious, military and civil nature. Likewise, the museums of the Sea, Casa das Histórias de Paula Rego, and the Municipal Museum Condes de Castro Guimarães are also must-see attractions.
+
+==Get in==
+Cascais is easily reached from Lisbon on the CP Cascais Line, with trains departing from Cais do Sodré station. The journey takes around 40 minutes.
+
+By car, Cascais is connected to Lisbon by the A5 motorway and the coastal Estrada Marginal (N6). Lisbon Airport is approximately 35 km from Cascais.
+
+===By plane===
+
+* {{go
+| name=Aeródromo Municipal de Cascais | alt=Cascais Municipal Aerodrome, {{IATA|CAT}} | url=http://aerodromo-cascais.pt | email=
+| address=Avenida Amália Rodrigues, Tires | lat=38.7256 | long=-9.3553 | directions=
+| phone=+351 21 445 7300 | tollfree=
+| hours= | price=
+| lastedit=2021-05-26
+| content=Air service to Cascais is provided by [https://fly.sevenair.com Sevenair] from [[Bragança]] ({{IATA|BGC}}), [[Portimão]] ({{IATA|PRM}}), [[Vila Real]] ({{IATA|VRL}}), and [[Viseu]] ({{IATA|VSE}}).
+}}
+
+==Get around==
+
+{{mapframe}}
+{{mapshape}}
+
+The town is small enough to explore entirely by foot. To get a feeling for the life it's best to stroll around on foot. Uphill, beyond the town centre there are numerous narrow cobbled streets to explore with interesting architecture, plants and animals to see.
+
+===By bicycle===
+
+Riding a bicycle in Cascais is one of the "must do" things. Keen cyclists with their own bikes and like hills can venture towards [[Cabo da Roca]], the westernmost point of continental Europe's mainland and even to [[Sintra]] using the nice roads while crossing the heart of this incredible nature reserve so close to the capital city of [[Lisbon]]. However, these are not trips to be taken with bikes rented in Cascais. For those with more limited cycling abilities and stamina, a popular trip is to follow the coastline through the town of Cascais as far as Guincho beach, about 10 km. There is a cycle track (shared with pedestrians!) that begins after you have passed the marina. In the summer, the northwesterly winds can make the last 3 km of this trip a bit tough but, in compensation, you will have a tail wind all the way back to Cascais.
+
+Basic bicycles are available to rent for free (providing you have ID and your accommodation address) through the municipal council's BiCas scheme. Bicycles are available from several locations around the town. The tourist office will have further information. This bikes are heavily (mis)used by locals, students, and budget minded visitors and often are not available when needed, when available most times not always in the best safety and enjoyable conditions thus the common breakdowns. Colourful bikes can be rented in the forecourt of Cascais station and the Europcar car rental company also has some. Companies operating from Lisbon include [http://bikeiberia.com/ Bike Iberia] (+351 96 242 3455) in Lisbon Downtown off the train station of Cais do Sodre.
+
+===By bus===
+Route 27 is a looped bus line serving the town and the nearby tourist destinations, including the Boca di Inferna. It is operated by the Cascais municipality.[https://mobi.cascais.pt/] A single trip costs €2, which you can pay by cash when boarding the bus.
+
+For travelling further afield there is an extensive bus service, mainly operating from the bus station beneath the shopping centre opposite the train station. Taxis are always available and easy enough to find in the centre of town.
+
+==See==
+
+* {{see
+| name=Boca do Inferno | alt= | url= | email=
+| address=Av. Rei Humberto II Italia | lat=38.69072 | long=-9.43082 | directions=walk or ride a bike a long the footpath between the marina and Av. Republica
+| phone= | tollfree= | fax=
+| hours= | price=Free
+| lastedit=2015-06-09
+| content=Just outside the town is the famous Boca do Inferno in which the sea on rougher days hammers into the rock and creates a booming noise and a spectacular spray thus creating its name which in English means "mouth of hell". The English occultist Aleister Crowley faked his death there in 1930.
+}}
+* {{see
+| name=Palácio de Conde de Castro Guimarães | alt= | url=http://www.cm-cascais.pt/mccg/ | email=
+| address=Av. Rei Humberto II de Itália Parque Marechal Camona 2750-319 Cascais | lat=38.69210 | long=-9.42168 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| lastedit=2015-06-09
+| content=One of the most outstanding palaces is the Palácio de Conde de Castro Guimarães that is open to the public and exhibits its own grand private collection that includes over 25,000 books and such rarities as an illustrated book by Duarte Galvão (1455-1517).
+}}
+* {{see
+| name=Museu do Mar Rei D. Carlos | alt=Museu do Mar | url=http://www.cm-cascais.pt/museumar/ | email=
+| address=R. Júlio Pereira de Mello 2750 Cascais | lat=38.69517 | long=-9.42343 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| lastedit=2015-06-09
+| content=On a much more modest scale is the Museu do Mar that depicts the story of Cascais and its fishing history.
+}}
+* {{see
+| name=Parque Palmela | alt= | url= | email=
+| address= | lat=38.7029 | long=-9.4131 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| lastedit=2015-06-09
+| content=The Parque Palmela is an attractive park created by the Duques de Palmela and now maintained by the Town Hall and in which open-air concerts are often held.
+}}
+* {{see
+| name=Guincho beach | alt=Praia do Guincho | url= | email=
+| address= | lat=38.7257 | long=-9.4763 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| lastedit=2015-06-09
+| content=Within easy reach of Cascais is the famous beach at Guincho with its high waves that attract windsurfers from all around the world as having some of the best rollers in Europe.
+}}
+* {{see | name=Casa das Histórias Paula Rego | alt= | url=http://www.casadashistoriaspaularego.com/en/ | email= | address= | lat=38.6948 | long=-9.4237 | directions=in parkland a short walk due west from the Citadel | phone= | tollfree= | fax= | hours=Tue-Sun 10:00-18:00, closed Mon | price=€3 | wikipedia=Casa das Histórias Paula Rego | lastedit=2017-09-15 | content=Modern red-coloured museum devoted entirely to the works of Portuguese-born artist Paula Rego and her husband. The museum's large collection is rotated every few months following different themes. | wikidata=Q9698241}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{see | name=Town Hall | alt=Câmara Municipal de Cascais | url=https://visitcascais.com/pt | email= | address=Praça 5 de Outubro 1 | lat=38.6967 | long=-9.4206 | directions=in the centre of Cascais by the sea close to the Hotel Baia | phone= | tollfree= | fax= | hours= | price=Free | lastedit=2017-09-15 | content=An attractive building with an excellent, small museum on the ground floor that provides a good introduction to the town.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{see
+| name=Lighthouse museum | alt=Farol Museu de Santa Marta | url= | email=
+| address= | lat=38.6907 | long=-9.4213 | directions=
+| phone= | tollfree= | fax=
+| hours=Tue-Sun 10:00-17:00, closed Mon | price=
+| wikipedia=Santa Marta Lighthouse (Cascais)
+| lastedit=2017-09-15
+| content=A museum dedicated to the lighthouses of the Cascais coast, situated on the site of an old fort next to a working lighthouse. You can get up close to some of the lights used.
+| wikidata=Q10280171}}
+* {{see
+| name=Lighthouse museum | alt=Farol Museu de Santa Marta | url= | email=
+| address= | lat=38.6907 | long=-9.4213 | directions=
+| phone= | tollfree= | fax=
+| hours=Tue-Sun 10:00-17:00, closed Mon | price=
+| wikipedia=Santa Marta Lighthouse (Cascais)
+| lastedit=2017-09-15
+| content=A museum dedicated to the lighthouses of the Cascais coast, situated on the site of an old fort next to a working lighthouse. You can get up close to some of the lights used.
+| wikidata=Q10280171}}
+* {{see|name=Casa de Santa Maria|alt=|url=https://www.visitcascais.com/en/partners/casa-de-santa-maria|email=|address=Rua do Farol de Santa Marta|lat=|long=|directions=Beside the Santa Marta Lighthouse Museum|phone=|tollfree=|hours=|price=|lastedit=2026-09-25|content=A Mediterranean-style house designed by Portuguese architect Raul Lino and built in 1902. Its interiors include Moorish-influenced arches, 17th-century decorative tiles and a painted wooden ceiling. The house forms part of the cultural complex around the Santa Marta Lighthouse and Condes de Castro Guimarães Museum.}}
+Cascais is the dormitory of the Lisbon international working community and the "younger set" who enjoy the diverse and sophisticated nightlife.There is a famous beach and casino in Estoril.
+
+Also, most of the pre-historic finds from the Grutas de Alapraia are stored here.
+
+Underground caves were discovered in the late 19th century.
+
+The Grutus do Poço Velho are in the centre of the town and date back to the Neolithic period.
+
+Cascais boasts a smart marina with lovely yachts.
+
+The next town to the east of Cascais is the resort town of Estoril with its popular casino. You can walk to Estoril from Cascais along the beachfront esplanade, passing many beachside bars and restaurants.
+
+==Do==
+Cascais is a magnet for those looking to practice every type of sport and leisure activity. Besides excellent facilities and all the professional staff and necessary equipment, the region boasts a wide range of natural advantages such as pure air, temperate year-round climate and close proximity to the sea and mountains. 
+
+* '''[https://www.visitcascais.com/pt/media/cascais-from-fishing-village-to-royal-refuge Cascais self-guided audio experience]'''  — Visit Cascais offers a self-guided digital audio experience covering the town's history and cultural sites, delivered through GuideSofia.
+
+Beginning on Avenida Rei Humberto II de Italia, just outside town past the marina, is a cycle lane and footpath extending the whole 5&nbsp;km to Guincho beaches. This route runs beside the sea and is ideal for morning and evening strolls. The almost perennial North Atlantic sea breeze lends a refreshing air, especially during the hot summer months. Along the way you will find Boca Do Inferno, the famed "Mouth of Hell", where there is also a snack cafe, seafood restaurant and vendors of touristy gifts.
+
+* '''Football:''' [https://estorilpraia.pt/ Estoril Praia] play soccer in Primeira Liga, Portugal's top tier. Their home ground Estádio António Coimbra da Mota (capacity 8000) is 2 km north of Estoril seafront. The women's team is likewise in the top tier. 
+
+=== Water sports ===
+The marina area is very active. Sailing enthusiasts will find sailing schools open at the weekend, while regular competitions and leisure vessels can always be seen around Cascais Bay. On some of the beaches it’s very easy to hire boats and go water-skiing.
+
+Like on the south coast, the big waves and strong winds on the west coast provide perfect conditions for surfing, windsurfing and body boarding. The world championships of these sports are regularly contested at the beaches of Guincho, Grande and Ribeira d’Ilhas north of Ericeira.
+
+=== Golf ===
+Golfers will find a lot of courses concentrated in a very small area, the majority of which are designed by the world’s best architects. This means that you can choose from a wide variety of courses that cater for players of any age or ability, right up to the highest international standards. The mild and pleasant climate offers perfect golfing conditions right through the year.
+There are many '''golf courses''' in the area:
+
+* {{do
+| name=Belas Country Club | alt= | url= http://www.belasgolf.com | email=golfe@planbelas.pt
+| address=Alameda do Aqueduto, Belas Clube de Campo, 2605-193 Belas | lat= | long= | directions=
+| phone= +351 219 62 66 40 | tollfree= | fax=+351 219 62 66 41
+| hours= | price=
+| lastedit=
+| content= 18 holes of 6,380 metres in length, par 72.
+}}
+* {{do
+| name=Estoril Club | alt= | url=http://www.palacioestorilhotel.com | email=geral@golfestoril.com
+| address= Av. da República, 2765 Estoril | lat= | long= | directions=
+| phone=+351 214 68 01 76 | tollfree= | fax=+351 214 68 27 96
+| hours= | price=
+| lastedit=
+| content= 18 holes of 5,262 metres in length, par 69.
+}}
+* {{do
+| name=Lisbon Sports Club | alt= | url=http://www.lisbonclub.com/ | email=geral@lisbonclub.com
+| address=Casal da Carregueira, Belas, 2745 Queluz | lat= | long= | directions=
+| phone=+351 214 31 00 77 | tollfree= | fax=+351 214 31 24 82
+| hours= | price=
+| lastedit=
+| content= 18 holes of 5,278 metres in length, par 69. Facilities: trolleys, clubs and caddies for hire, golf academy, clubhouse, restaurant, bar, sauna, children’s games room, babysitting service available.
+}}
+* {{do
+| name=Penha Longa Golf Resort | alt= | url=http://www.penhalonga.com | email=reservas.golf@penhalonga.com
+| address=Estrada da Lagoa Azul, Linhó, 2714-511 Sintra | lat= | long= | directions=
+| phone=+351 219 24 90 11 | tollfree= | fax=+351 219 24 90 24
+| hours= | price=
+| lastedit=
+| content=Atlantic course - 18 holes of 6,290 metres in length, par 72. Monastery course – 9 holes of 2,588 metres in length, par 35.
+}}
+* {{do
+| name=Quinta da Marinha | alt= | url=http://www.quintadamarinha.com | email=golf@quintadamarinha.com
+| address=Hotel Quinta da Marinha, Casa 36, Quinta da Marinha, 2750-715 Cascais | lat= | long= | directions=
+| phone=+351 214 86 01 80 | tollfree= | fax=+351 214 86 90 32
+| hours= | price=
+| lastedit=
+| content=holes of 5,845 metres in length, par 71. Facilities: 3 restaurants – Five Pines (hotel), Cosi Fan Tutti (clubhouse) and Monte Mar (on the Estrada do Guincho), bars with outdoor terraces, 6 tennis courts, 3 outdoor swimming pools, jogging circuit, fitness centre, bicycles for hire, children’s club.
+}}
+* {{do
+| name=Oitavos Golf Course | alt= | url=http://www.oitavosdunes.com/ | email=oitavosgolfe@quinta-da-marinha.pt
+| address=Quinta da Marinha, Casa da Quinta nº. 25, 2750 Cascais | lat= | long= | directions=
+| phone=+351 214 86 06 00 | tollfree= | fax=+351 214 86 06 09
+| hours= | price=
+| content=18 holes of 5,845 metres in length, par 71.
+}}
+* {{do
+| name=Penha Longa Monastery | alt= | url=http://www.penhalonga.com | email=reserves.golf@penhalonga.com
+| address=Estrada da Lagoa Azul, Linhó, 2714-511 Sintra | lat= | long= | directions=
+| phone=+351 219 24 90 11 | tollfree= | fax=+351 219 24 90 24
+| hours= | price=
+| lastedit=
+| content=9 holes of 2,588 metres in length, par 35. Facilities: putting green, chipping area with 2 bunkers, driving range with 2 grass bays. Buggies, trolleys (manual and electric), clubs and golf shoes for hire.
+}}
+[[File:ELMS - Estoril - 4 Horas (15728084922).jpg|thumb|right|Autódromo de Estoril]]
+
+=== Motor racing ===
+Estoril’s famous motor-racing circuit hosts many important car and bike competitions, such as the Motorcycle GP Championships. It can also be arranged for individuals to experience the thrill of motor racing first-hand.
+
+* Racing Track, Fernanda Pires da Silva, +351 214 609 500.
+
+=== Horse-riding ===
+The variety of forest paths and excellent facilities throughout the region are a major attraction for those who enjoy horse riding. Here you’ll find a good selection of riding schools where you can hire horses and learn to ride.
+
+Every year a five-star equestrian event is taking place In Portugal called Global Champions Tour. It is a social gathering for all horse shows’ amateurs and professional riders at the Manuel Possolo hippodrome in Cascais. If the thrill of show jumping excites you, check what’s on at Quinta da Marinha or the Cascais Equestrian Centre.
+
+* Estoril Coast Riding Centre, Charneca, Cascais, +351 214 87 20 64
+* Quinta da Marinha Riding Centre, Cascais, +351 214 86 94 33
+* D. Carlos I Country Club, Quinta da Marinha, Cascais, +351 214 87 14 03
+* Manuel Possolo Equestrian Centre, Cascais, +351 214 82 27 50
+
+==Buy==
+
+==Eat==
+[[File:Cascais, sardinhas.jpg|thumb|Sardinhas in Cascais]]
+A selection of excellent food and drink can be found on the Estoril Coast if you know where to look. Cod, seabass, and squid are the most popular dishes, and many other types of seafood are available at good establishments. Within central Cascais good food, and especially good value, can be hard to find. Taking time to scout out genuine Portuguese eating houses is worth doing, however, as the tastiest and most interesting dishes often exist in tucked away more modest restaurants, where locals tend to dine.
+
+For the best food in town skip the Indian, Italian and English restaurants and head into the residential part of town, or walk down the coast to an establishment with fresh fish and a sea view.
+
+Bacalhau occupies top spot in terms of culinary richness. You can choose from a 100 different recipes! And if you’d like to try a typical meat dish of the region, try Leitão de Negrais or Mercês-style pork.
+
+Find yourself a restaurant that takes its desserts seriously, and finish your meal with one of the local sweet specialties: Travesseiros, the famous Queijadas de Sintra, Fofos de Belas, Areias de Cascais or Trouxas de Malveira. Portuguese egg-based confectionery is unique and delicious, and a fine companion for some after dinner port.
+
+Vino Verde, "green wine", is a refreshing, slightly sparkling accompaniment to Portuguese meals, and shouldn't be missed. Portuguese red wines are on a par with those in France, Italy and Spain. The main demarcated regions are found in the Douro, Dão and Alentejo, but the Estoril Coast produces very small quantities of its own fine wines in Carcavelos and Colares, a rare pleasure that you might have the opportunity to try.
+
+* {{eat
+| name=Panorama Guincho | alt= | url=https://www.villacollection.pt/panoramaguincho/ | email=panoramaguincho@villacollection.pt
+| address=Estrada do Guincho, Praia da Cresmina | lat=38.7247 | long=-9.4746 | directions=
+| phone=+351 21 487 00 62 | tollfree=
+| hours=12:15–15:30 & 19:45–22:00 daily | price=
+| lastedit=2021-03-31
+| content=
+}}
+* {{eat
+| name=Restaurante O Pescador | alt= | url=http://www.restaurantepescador.com/en/ | email=
+| address=Rua das Flores 10B | lat=38.6982 | long=-9.4191 | directions=
+| phone=+351 214 832 054 | tollfree=
+| hours=Thu–Tue 12:00–23:00, Wed closed | price=
+| lastedit=2021-03-31
+| content=Fresh seafood fills the menu at this folksy restaurant, a favorite since 1964, where a cluttered ceiling and maritime-related artifacts distract the eye. Sole is a specialty, and this is also a good place to try ''bacalhau'' (dried salt cod); it's often baked here, either with cream or with port wine and onions.
+}}
+* {{eat
+| name=Pop Sandwich | alt= | url= | email=
+| address=Rua Frederico Arouca 251 | lat=38.6994 | long=-9.4185 | directions=
+| phone=+351 21 486 7925 | tollfree=
+| hours= | price=
+| lastedit=2021-03-31
+| content=A tiny sandwich bar offering fresh-made baguettes, sandwiches and mini-pizzas along with the usual assortment of coffee and cold drinks. Found on the main shopping street, its bright green interior makes it easy to find. Run by an old Portuguese couple the food is fresh, delicious and unbelievably cheap. Great for a quick meal before heading down to the beach. A large sandwich and coffee should cost around €2.
+}}
+* {{eat | name=Caffé Italia | alt= | url=https://caffe-italia-pizza-restaurant.negocio.site | email= | address=Rua do Poço Novo 1 | lat=38.6966 | long=-9.4208 | directions= | phone=+351 21 483 0151 | tollfree= | hours=Thu–Tue 12:00–15:00 & 18:30–21:00, closed Wed | price={{EUR|25}} | lastedit=2021-03-31 | content=A very nice Italian restaurant. If the weather permits, enjoy the terrace, with a view over the Cascais Bay.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{eat
+| name=Restaurante Monte's Bistro | alt= | url=https://www.facebook.com/MontesBistro214660106/ | email=montesbistro@gmail.com
+| address=Avenida São Pedro 1 Loja 6 | lat=38.7053 | long=-9.4092 | directions=close to Saboia Hotel
+| phone=+351 21 466 0106 | tollfree=
+| hours=Mon–Fri 19:30–22:00, closed Sat Sun | price=
+| lastedit=2021-03-31
+| content=A restaurant and take-away. Excellent value for money, a good portion of creativity while staying within traditional cuisine. Probably the best option when you lodge in Estoril and don't have time to walk to Cascais for dinner.
+}}
+* {{eat
+| name=Fortaleza do Guincho | alt= | url=https://www.fortalezadoguincho.com/restaurante-fortaleza-do-guincho/ | email=reservations@guinchotel.pt
+| address=Estrada do Guincho | lat=38.7283 | long=-9.476 | directions=
+| phone=+351 21 487 0491 | tollfree=
+| hours=Dinner Thu–Sat | price={{EUR|99-139}}
+| lastedit=2021-07-19
+| content=Michelin-starred restaurant at a five-star hotel overlooking the ocean and specializing in fish and seafood.
+}}
+
+==Drink==
+
+==Sleep==
+Cascais is in the development phase: several holiday apartment buildings and hotels are under construction. The ''corso'' (beach road) is busy at night so ensure you room is not directing to it.
+
+===Budget===
+
+===Mid-range===
+* {{sleep | name=Saboia Hotel | alt= | url=http://www.saboiaestorilhotel.com/ | email=hotelsaboia@saboiaestorilhotel.com | address=Rua Belmonte 1 | lat=38.70417 | long=-9.40944 | directions= | phone=+351 214 680 202 | tollfree= | fax=+351 214 681 117 | hours= | price= | checkin= | checkout= | lastedit=2019-11-14 | content=Renovated in 2008 and pretends to be very up-to-date, but not very successful in hiding how 1980s it really is (especially in breakfast, which is average at best). Receptionists are very helpful, including restaurant recommendations. Private pool with most balconies facing it. Some rooms are without seaview or even a balcony. Breakfast 07:30-10:30. 15-min pleasant walk to Cascais along the coast (which is comfortable with a stroller).
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+*{{sleep
+| name=Hotel Londres Estoril | alt= | url=http://www.hotelondres.com/ | email=info@hotelondres.com
+| address=Avenida Fausto Figueiredo 279, Estoril | lat=38.7069 | long=-9.4038 | directions=near the beach and casino
+| phone=+351 214 648 300 | tollfree=
+| checkin= | checkout= | price=
+| lastedit=2019-11-14
+| content=Modern hotel {{m|450}} from the beach and seaside promenade along Estoril/Cascais. Friendly service, garden, swimming pool, restaurant, bar, rooms for smokers and non-smokers. Good for holidays and short breaks. Lisbon is only a 35-minute train ride away.
+}}
+*{{sleep
+| name=Vila Galé Estoril | alt= | url=https://www.vilagale.com/en/hotels/lisbon-coast/vila-gale-estoril | email=estoril@vilagale.pt
+| address=Av. Marginal 49, Estoril | lat=38.7039 | long=-9.3966 | directions=
+| phone=+351 214 648 400 | tollfree=
+| checkin= | checkout= | price=
+| lastedit=2019-11-14
+| content=Located along Linha do Estoril, two minutes away from the sea (Tamariz’s Beach) and {{m|200}} away from the Casino Estoril. Facilities for corporate meetings and holidays. Online booking.
+}}
+* {{sleep
+| name=Vila Galé Cascais | alt= | url=https://www.vilagale.com/en/hotels/lisbon-coast/vila-gale-cascais | email=cascais@vilagale.pt
+| address=Rua Frei Nicolau de Oliveira 80, Parque da Gandarinha | lat=38.6913 | long=-9.4228 | directions=
+| phone=+351 214 826 000 | tollfree=
+| checkin= | checkout= | price=
+| lastedit=2019-11-14
+| content=Near the renowned Cascais Marina. Online booking.
+}}
+
+===Splurge===
+
+* {{sleep
+| name=Albatroz Hotel | alt= | url=https://www.thealbatrozcollection.com/ | email=albatroz@albatrozhotels.com
+| address=Rua Frederico Arouca 100 | lat=38.6999 | long=-9.4174 | directions=
+| phone=+351 214 847 380 | tollfree=
+| checkin= | checkout= | price=
+| lastedit=2019-11-14
+| content=Hotel Albatroz Cascais is around 30 km from Lisbon. A set of 5 charismatic historical buildings turned into a luxury hotel with a unique location above the sea, also enjoying a wide view over the sea. The hotel has swimming pool, restaurant, bar, terrace, free private parking, room service, and all services from a 5-star hotel.
+}}
+* {{sleep
+| name=Pestana Cascais | alt= | url=https://www.pestana.com/en/hotel/pestana-cascais | email=
+| address=Avenida Manuel Júlio Carvalho e Costa 115 | lat=38.697 | long=-9.4381 | directions=
+| phone=+351 214 825 900 | tollfree=
+| checkin= | checkout= | price=
+| lastedit=2019-11-14
+| content=
+}}
+* {{sleep
+| name=Palácio Estoril Hotel, Golf & Wellness | alt= | url=http://www.palacioestorilhotel.com/ | email=info@hotelestorilpalacio.pt
+| address=Rua Particular | lat=38.7052 | long=-9.3961 | directions=
+| phone=+ 351 21 464 81 46 | tollfree=
+| checkin= | checkout= | price=
+| content=A luxury five-star hotel enjoying beautifully landscaped gardens and magnificent sea views, and splendid classical buildings from the 1930s. It was fully renovated in 2006.
+}}
+
+==Connect==
+
+==Go next==
+* To the north and within easy reach is the romantic and fascinating town of [[Sintra]] and which was made famous to foreigners after a glowing account of its splendours recorded by Lord Byron. [http://www.scotturb.com/carreiras/horarios Scotturb Bus 403]{{Dead link|date=August 2024 |bot=InternetArchiveBot }} travels regularly to Sintra, stopping at [[Cabo da Roca]].
+* Also to the north visit the great [[Fátima|Sanctuary of Our Lady of Fatima]] (Shrine), a place of worldwide famous Marian apparitions.
+* [[Mafra]] or Queluz, Costa de Caparica, Palmela, Sesimbra, Tróia.
+
+{{IsPartOf|Greater Lisbon}}
+{{usablecity}}
+{{geo|38.7000|-9.4167}}

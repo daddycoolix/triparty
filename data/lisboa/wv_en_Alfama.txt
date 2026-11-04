@@ -1,0 +1,312 @@
+{{pagebanner}}
+
+'''Alfama''' is a district in [[Lisbon]], [[Portugal]].
+
+==Get in==
+{{mapframe|38.7224|-9.1291|width=500|height=500|zoom=14}}
+{{mapshapes|Q746032}}
+{{mapshape|wikidata=Q10376043, Q1786389, Q15041623, Q1466131, Q1740339, Q978535, Q1786441, Q585130, Q969311, Q738143|stroke-width=0}}
+
+The most popular and most fun way to travel into and through Alfama is on the {{rint|lisbon|12e}} and {{rint|lisbon|28e}} trams.
+* {{go
+| name=Estação Santa Apolónia | alt=Santa Apolónia metro station | url=https://www.metrolisboa.pt/viajar/santa-apolonia/ | email=
+| address=Avenida Infante D. Henrique | lat= | long= | directions={{rint|metro}}{{rint|lisbon|azul}}
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q2080870
+| lastedit=2021-07-22
+| content=
+}}
+* {{go
+| name=Estação Ferroviária de Lisboa-Santa Apolónia | alt=Santa Apolónia railway station | url=https://www.infraestruturasdeportugal.pt/negocios-e-servicos/estacoes/detalhe/9430007 | email=
+| address=Largo dos Caminhos de Ferro | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q531789
+| lastedit=2021-07-22
+| content=Portugal's oldest railway terminus serves numerous lines: international, Alfa Pendular high-speed, intercity, inter-regional, and suburban.
+}}
+
+==See==
+* {{see
+| name=Miradouro de Santa Luzia | alt= | url= | email=
+| address=Largo Portas do Sol | lat= | long= | directions={{rint|heritagetram}}{{station|Miradouro de Santa Luzia|city=lisbon|12e|28e}}
+| phone= | tollfree=
+| hours= | price=Free
+| wikidata=Q6837314
+| lastedit=2021-07-24
+| content=Good viewpoint in Alfama uphill from the cathedral along tram route. Lovely view over rooftops and river.
+}}
+* {{see
+| name=Miradouro da Senhora do Monte | alt= | url= | email=
+| address=Largo Monte, Graça | lat=38.7189 | long=-9.1328 | directions=Uphill from Miradouro da Graça; {{rint|lisbon|28e}} to Graça, then a short climb
+| phone= | tollfree=
+| hours= | price=Free
+| wikidata=Q6813351
+| lastedit=2026-10-08
+| content=The highest viewpoint in Lisbon, at the top of the Graça hill, spread out in front of the small Capela de Nossa Senhora do Monte (founded in 1147, remodelled in the 20th century). To the south you look down over the Castelo de São Jorge, the Mouraria and the Baixa to the Tagus estuary; to the west, from Bairro Alto out to the Monsanto forest; to the north, down the Avenida Almirante Reis valley. It sits a little further out than the viewpoints at Santa Luzia and Portas do Sol, so it is usually quieter, and it is a fine place to watch the sunset.
+}}
+*{{see
+| name=Castelo de São Jorge | alt=St. George's Castle | url=https://castelodesaojorge.pt/en/ | email=info@castelodesaojorge.pt
+| address=Rua de Santa Cruz | lat= | long= | directions={{rint|bus}}737
+| phone=+351 21 880 0620 | tollfree=
+| hours=Mar–Oct: daily 10:00–21:00, Nov–Feb daily 09:00–18:00 | price={{EUR|15}}, ages 13–25 {{EUR|7.5}}, disabled or seniors 65+ {{EUR|7.50}}, children under 12 free; guided tour {{EUR|5}}
+| wikidata=Q636780
+| lastedit=2023-02-18
+| content=Humans settled on this hill as early as the 8th century BCE, and the first fortifications date from the 1st century BCE. Before the Portuguese conquest in the 1147 Siege of Lisbon, the site was successively occupied by the Phoenicians, Carthaginians, Romans, and Moors. Sights within the castle include the permanent exhibition of archaeological artefacts with an emphasis on the 11th- and 12th-century Moors, ruins of the former Royal Palace of Alcáçova, a garden with native forest species, and a camera obscura showing the city's sights. The castle offers great view over the city and the river. If you have the energy, get there by walking from downtown, going through the fantastic old neighbourhood of Alfama.
+}}
+* {{see
+| name=Igreja e Mosteiro de São Vicente de Fora | alt=Monastery of St. Vincent Outside the Walls | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q1776168
+| lastedit=2021-07-22
+| content=Started in 1582, this Mannerist monastery wasn't completed until 1629, following the reconstruction of a 1147 church under royal decree. The church houses the Pantheon of the House of Braganza, where many monarchs, consorts, and their offspring are entombed.
+}}
+* {{see
+| name=Lisbon Cathedral | alt=Sé de Lisboa, Igreja de Santa Maria Maior | url=https://www.patriarcado-lisboa.pt/site/index.php?id=10686 | email=info@sedelisboa.pt
+| address=Largo da Sé 1 | lat=38.70985 | long=-9.132983 | directions=
+| phone=+351 218 866 752 | tollfree=
+| hours=Mon–Sat 10:00–18:30 | price={{EUR|5}}, children 7–12 {{EUR|2.50}}, children 6 & under free
+| wikidata=Q432290
+| lastedit=2024-02-15
+| content=Built in 1147, the cathedral has survived various earthquakes and has undergone restoration, renovation, and modification over the years. Its elements include Romanesque, Gothic, and Baroque styles. It has been a national monument since 1910.
+}}
+*{{see
+| name=Museu da Água | alt=Water Museum | url=https://www.epal.pt/EPAL/en/menu/water-museum/ | email=mda.epal@adp.pt
+| address=Rua do Alviela 12 | lat= | long= | directions=
+| phone=+351 218 100 215 | tollfree=
+| hours=Mon–Fri 10:00–12:30 & 13:30–17:30 | price=Free
+| wikidata=Q6940623
+| lastedit=2021-07-23
+| content=
+}}
+*{{see | name=Museu Nacional do Azulejo | alt=National Tile Museum | url=http://www.museudoazulejo.gov.pt/en-GB/default.aspx | email=mnazulejo@imc-ip.pt | address=Rua da Madre de Deus 4 | lat= | long= | directions={{rint|bus}}718, 742, 794, 759 | phone=+351 21 810 0340 | tollfree= | hours=Tue–Sun 10:00–13:00 & 14:00–18:00, closed Mon | price={{EUR|5}}, seniors 65+/students/youth card {{EUR|2.50}}, disabled & children 12 and under free | wikidata=Q2313815 | lastedit=2021-07-24 | content=One of the most important national museums, dedicated to Portuguese ''azulejo'' tiles since the late 1400s. It's in the former Madre de Deus Convent, founded in 1509 by Queen Leonor.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{see
+| name=Museu Militar de Lisboa | alt=Lisbon Military Museum | url= | email=musmillisboa@exercito.pt
+| address=Largo do Museu da Artilharia | lat= | long= | directions=
+| phone=+351 21 884 2453 | tollfree=
+| hours= | price=
+| wikidata=Q10333544
+| content=Housed in a 16th-century foundry, this museum holds its testaments to Portuguese military history, and contains many artifacts, including a sword used by Vasco da Gama.
+}}
+* {{see
+| name=Museu de Sociedade de Geografia | alt=Museu Etnográfico da Sociedade de Geografia de Lisboa | url=https://www.socgeografialisboa.pt/museu/ | email=geral@socgeografialisboa.pt
+| address=Rua das Portas de Santo Antão 100 | lat=38.7167 | long=-9.1408 | directions=
+| phone=+351 21 342 5401 | tollfree=
+| hours=Mon–Fri 10:00–12:45 & 14:00–16:45, closed Sat Sun | price={{EUR|5}}, seniors 65+ {{EUR|2}}, students & youths {{EUR|2.50}}, families of 4 or more {{EUR|4}} each, disabled & children 12 and under free
+| wikidata=Q10333716
+| lastedit=2021-07-24
+| content=Exhibits of ethnography from Portugal's former colonies.
+}}
+*{{see
+| name=Museu do Teatro Romano | alt=Roman Theatre Museum | url=http://www.museudelisboa.pt/en/equipamentos/teatro-romano.html | email=
+| address=Rua de São Mamede, nº 3 A | lat=38.710469 | long=-9.132408 | directions=
+| phone=+351 218 172 450 | tollfree=
+| hours= | price=
+| wikidata=Q11780
+| content=Along the way from downtown to Saint George's Castle.
+}}
+[[File:Panteão Nacional Mosteiro de Sao Vicente de Fora zoom.JPG|thumb|National Pantheon or Santa Engrácia]]
+* {{see
+| name=Panteão Nacional | alt=Igreja do Santa Engrácia | url=http://www.panteaonacional.gov.pt/ | email=
+| address=Campo de Santa Clara | lat=38.715 | long=-9.125 | directions=Metro station {{station|Santa Apolónia|azul}} or tram stop {{station|Voz do Operário|28e}}
+| phone=+351 21 885 4820 | tollfree= | fax=
+| hours=Tue-Sun 10:00-17:00, platform 10:00-18:00 (closed Mondays, shorter hours in winter) | price=€4
+| wikipedia=Church of Santa Engrácia | image=Igr s engracia 2.jpg | wikidata=Q1601019
+|lastedit=2018-12-16| content=This is one of the most striking buildings in Lisbon. Its tall dome and white facade makes it a real landmark in Alfama/Eastern Lisbon. Excellent views from the rooftop terrace. Construction began in 1681, then halted until the dome was added in 1966 and then converted to the National Pantheon. Amália Rodrigues, queen of fado, is buried here, and fresh roses can be seen on the tomb. The church also has wide viewing platform on the rooftop all around its dome. Excellent panorama of the river and surroundings. No elevator.
+}}
+
+==Do==
+* {{do
+| name=Coliseu dos Recreios | alt= | url=https://www.coliseulisboa.com/ | email=bilheteira@coliseulisboa.com
+| address=Rua das Portas de Santo Antão 96 | lat= | long= | directions={{rint|metro}}{{station|Restauradores|city=lisbon|azul}}{{station|Rossio|city=lisbon|verde}}
+| phone=+351 21 324 0580 | tollfree=
+| hours= | price=
+| wikidata=Q1108805
+| lastedit=2021-07-24
+| content=Large multi-purpose auditorium for musical performances.
+}}
+
+==Buy==
+*{{buy | name=Feira da Ladra | alt= | url=https://informacoeseservicos.lisboa.pt/contactos/diretorio-da-cidade/feira-da-ladra | email=dmei.depep.dpdl@cm-lisboa.pt | address=Campo de Santa Clara | lat=38.7158 | long=-9.12417 | directions={{rint|heritagetram}}{{rint|lisbon|28e}} | phone=+351 21 798 8000 | tollfree= | hours=Tue Sat 06:00–17:00 | price= | wikidata=Q3068026 | content=A lively outdoor market offering new and used products. Markets of this type have pleased bargain hunters since the 12th century in Lisbon and the Feira da Ladra name has been around since the 17th century.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+
+==Eat==
+
+===Budget===
+
+All these are around the Castelo de S. Jorge:
+
+* {{eat
+| name=Restaurante Santa Rita | alt= | url=https://www.facebook.com/Santa-Rita-Restaurante-112716822133458/ | email=teresajesus@santaritarestaurante.com
+| address=Rua de São Mamede 24c | lat=38.711364 | long=-9.134798 | directions=
+| phone=+351 21 808 4412 | tollfree= | fax=
+| hours= | price=Mains €5-9 (May 2017)
+| lastedit=2022-05-01
+| content=Authentic, cheap Portuguese dishes in a very busy, shared-table restaurant.
+}}
+* {{eat
+| name=Velha Gaiteira | alt= | url= | email=
+| address=R. Pedras Negras 17 | lat=38.710594 | long=-9.134412 | directions=
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2022-05-01
+| content=A charming spot with a welcoming host. A delicious prix fixe meal was €12.50.
+}}
+* {{eat
+| name=O Trigueirinho | alt= | url= | email=
+| address=Largo dos Trigueiros 17 | lat=38.7138223 | long=-9.1357078 | directions=
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2022-05-01 | content=}}
+* {{eat
+| name=Café Parreirinha | alt= | url= | email=
+| address=R. da Guia 4B | lat=38.7159988 | long= -9.1340794 | directions=
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2022-05-01 | content=}}
+* {{eat
+| name=As Bifanas do Afonso | alt= | url= | email=
+| address=Portugal, R. da Madalena 146 | lat=38.7114850 | long=-9.1356911 | directions=
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2022-05-01 | content=}}
+* {{eat
+| name=Taste of Pakistan | alt= | url= | email=
+| address=R. de São Pedro Mártir 46 | lat=38.7146372 | long=-9.1359040 | directions=
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2022-05-01 | content=}}
+
+===Mid-range===
+
+* {{eat
+| name=Chapitô à Mesa | alt= | url=https://chapito.org/ | email=reservas@chapitoamesa.pt
+| address=Costa do Castelo 7 | lat=38.7116 | long=-9.134 | directions=
+| phone=+351 21 887 5077 | tollfree=
+| hours=Mon–Fri 12:00–00:00, Sat Sun 19:30–24:00 | price={{EUR|15-35}}
+| image=Lisbon Portugal 348 (5107941567).jpg
+| lastedit=2022-05-01
+| content=Great views are the main feature if you reserve terrace seat in advance. Good atmosphere; international-menu food is tasty but nothing special.
+}}
+* {{eat
+| name=Farol de Santa Luzia | alt= | url= | email=info@farolsantaluzia.com
+| address=Largo de Santa Luzia, 5 | lat=38.71178 | long=-9.13063 | directions=near 28/12 tram stops
+| phone=+351 21 886 3884 | tollfree= | fax=+351 218 885 356
+| hours=Mon-Sat 17:30-23:00 | price=~ €20/person| lastedit=
+| content=Great place to have typical Portuguese food before climbing to Castelo S. Jorge.
+}}
+* {{eat
+| name=Malmequer Bemmequer | alt= | url= | email=
+| address=Rua de São Miguel 23-25 | lat=38.7109 | long=-9.1293 | directions=
+| phone=+351 21 887 6535 | tollfree=
+| hours=Tue 19:00–21:00, Wed–Sun 12:00–15:00 & 19:00–21:00 | price=Mid-range
+| lastedit=2022-05-01
+| content=Friendly and inexpensive; long menu of traditional Portuguese dishes.
+}}
+* {{eat
+| name=Portuel Kosher Store | alt= | url=https://portuel-kosher-portugal.pt | email=store@portuel-kosher-portugal.pt
+| address=Rua Gomes Freire 146A | lat=38.7271 | long=-9.1416 | directions={{station|Picoas|yellow}}, {{rint|bus}} 774
+| phone=+351 21 354 0460 | tollfree=
+| hours=Mon–Thu 12:00–19:00, Fri 10:00–15:00, closed Sat Sun | price=
+| lastedit=2022-05-01
+| content=Lisbon's source for kosher groceries.
+}}
+
+===Splurge===
+
+* {{eat
+| name=Zambeze | alt= | url=https://zambezerestaurante.pt/en/home | email=zambezerestaurante@montebelohotels.com
+| address=Calçada Marquês de Tancos | lat=38.712266 | long=-9.135154 | directions=Alfama
+| phone=+351 21 887 7056 | tollfree=
+| hours= | price=
+| lastedit=2022-05-01
+| content=A [[Mozambique]] restaurant on a "miradouro", viewing spot, offering a great view of the river, the Baixa area, and beyond. An elevator can bring you up and down the deep slopes, making it easily reachable from the nearby Baixa area.
+}}
+
+==Drink==
+* {{drink
+| name=Lux Fragil | alt= | url=https://www.luxfragil.com/en/# | email=lux@luxfragil.com
+| address=Av. Infante D. Henrique, Armazém A | lat=38.71495 | long=-9.12058 | directions=
+| phone=+351 21 882 08 90 | tollfree= | fax=+351 21 882 08 99
+| hours=Thu-Sun 23:00-06:00 | price=
+| lastedit=2017-05-08
+| content=It's in a former warehouse and part owned by American actor John Malkovich.
+}}
+* {{drink | name=Pois Café | alt= | url=http://www.poiscafe.com/ | email=pois@poiscafe.com | address=Rua S. João da Praça, 93-95 | lat=38.70946 | long=-9.13184 | directions=on the side street of cathedral Sé | phone=+351 21 886 2497 | tollfree= | fax= | hours=Tue-Sun 10:30-23:00, Mon 12:00-23:00 | price= | image=IMG 2829.JPG (8059855774).jpg | lastedit=2017-05-05 | content=It's a place to relax, read a book, drink a coffee and plan your way around Lisbon. Also offers toasts, pastas, quiches and salads; features late breakfasts.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{drink
+| name=Portas do Sol | alt= | url=http://portasdosol.pt/en/ | email=ola@portasdosol.pt
+| address=Largo das Portas do Sol | lat=38.711939 | long=-9.130035 | directions=Alfama
+| phone=+351 218 851 299 | tollfree= | fax=
+| hours= | price=
+| lastedit=2017-11-14
+| content=A cafe and bar on a "Miradouro", viewing spot, and thus offer a spectacular view over the Alfama rooftops down to the river.
+}}
+
+==Sleep==
+*{{sleep
+| name=Alfama Patio Apartments | alt=formerly Alfama Patio Hostel | url=https://www.destinationhostels.com/accomodation/alfama-patio-apartments/ | email=reservations@destinationhostels.com
+| address=Escolas Gerais 3, Patio dos Quintalinhos 1 | lat=38.7131 | long=-9.1289 | directions={{rint|heritagetram}}{{rint|lisbon|28e}}
+| phone=+351 21 888 3127 | tollfree=
+| checkin=15:00 | checkout=11:00 | price={{EUR|59-111}}
+| lastedit=2021-08-05
+| content=Two-star out-of-the-way lodging (but it's directly on the Tram line 28). Full amenities from fast Wi-Fi to free crepe breakfast only compliment the fun staff, who sometimes even go out with you at night.
+}}
+*{{sleep
+| name=Ibis Lisboa Centro Saldanha Hotel | alt= | url=https://all.accor.com/hotel/2117/index.en.shtml | email=H2117@accor.com
+| address=Avenida Casal Ribeiro 23 | lat=38.732 | long=-9.1424 | directions={{rint|metro}}{{station|Saldanha|amarela|vermelha}}
+| phone=+351 21 319 1690 | tollfree=
+| checkin=12:00 | checkout=12:00 | price={{EUR|58-84}}
+| lastedit=2021-08-05
+| content=Two-star, 116-room hotel. Travelers give this Ibis so-so reviews noting on the plus side the location only 5 min walk to the metro, and a good breakfast and on the minus side small rooms.
+}}
+*{{sleep
+| name=Johnies Place Hostel | alt= | url=http://johniesplace.yolasite.com/ | email=johniesplace@gmail.com
+| address=Calçada da Graça 18 | lat=38.7157 | long=-9.1311 | directions=Right next to Graça's Viewpoint {{rint|heritagetram}}{{rint|lisbon|28e}}
+| phone=+351 916 474 580 | tollfree=
+| checkin= | checkout= | price={{EUR|19-67}}
+| lastedit=2021-08-05
+| content=Cosy hostel. No extra costs for Wi-Fi, printing, breakfast (for private rooms).
+}}
+*{{sleep
+| name=Lisbon Story Guesthouse | alt= | url=https://lisbonstoryguesthouse.com/ | email=info@lisbonstoryguesthouse.com
+| address=Largo São Domingos 18 | lat=38.7151 | long=-9.1385 | directions=E of Rossio Square / Praça D. Pedro IV {{rint|metro}}{{station|Restauradores|azul}}{{station|Rossio|verde}}
+| phone=+351 21 887 9392 | tollfree=
+| checkin=14:00 | checkout=12:00 | price={{EUR|49-84}}
+| lastedit=2021-08-05
+| content=Cozy three-star, 11-room guesthouse with welcoming common areas and well-decorated small rooms at a budget price.
+}}
+* {{sleep
+| name=The One Palácio da Anunciada | alt= | url=https://www.hotelstheone.com/en/lisboa | email=info.hpa@hotelstheone.com
+| address=Rua das Portas de Santo Antão 112-134 | lat=38.7174 | long=-9.1415 | directions={{rint|metro}}{{station|Restauradores|azul}}{{rint|funicular}}{{rint|lisbon|52e}}
+| phone=+351 210 412 300 | tollfree=
+| checkin=14:00 | checkout=12:00 | price={{EUR|145-263}}
+| lastedit=2021-07-26
+| content=Five-star, 83-room hotel in a 16th-century palace with contemporary guest rooms. The old noble rooms now serve as dining areas. Guests can enjoy {{m2|2500}} of gardens, two swimming pools, spa, fitness centre, meeting rooms, business centre, and free Wi-Fi.
+}}
+* {{sleep
+| name=Torel Palace Lisbon | alt= | url=https://www.torelboutiques.com/torel-palace-lisbon/en/ | email=info@torelpalace.com
+| address=Rua Câmara Pestana 23 | lat=38.718 | long=-9.14 | directions=top of Elevador do Lavra {{rint|metro}}{{station|Restauradores|azul}}{{rint|funicular}}{{rint|lisbon|52e}}
+| phone=+351 21 892 90810 | tollfree=
+| checkin=15:00 | checkout=12:00 | price={{EUR|127-242}}
+| lastedit=2021-08-05
+| content=The four-star, 31-room Torel Palace is a boutique hotel on top of Sant'ana hill. From the carefully renovated two palaces and the outside gardens, terraces and the pool, visitors enjoy a stunning view over the city. Named after Portuguese Queens and Kings, each of the rooms is unique and offers an elegant home. Owned by a Portuguese and two Austrians. Offers breakfast all day long.
+}}
+*{{sleep
+| name=Hotel Travel Park Lisboa | alt= | url=https://www.hoteltravelpark.com | email=reservas@hoteltravelpark.com
+| address=Avenida Almirante Reis 64 | lat=38.7271 | long=-9.1347 | directions={{rint|metro}}{{station|Anjos|verde}}
+| phone=+351 21 810 2100 | tollfree=
+| checkin=15:00 | checkout=11:00 | price={{EUR|53-97}}
+| lastedit=2021-08-05
+| content=Three-star, 61-room hotel that sits in the heart of Av. Almirante Reis. Just five minutes away from Lisbon International Airport and with underground station at doorstep.
+}}
+
+==Connect==
+
+{{IsPartOf|Lisbon}}
+{{usabledistrict}}
+{{geo|38.7107|-9.1324}}

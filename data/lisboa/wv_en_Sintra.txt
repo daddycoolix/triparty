@@ -1,0 +1,721 @@
+{{pagebanner|Pagebanner default.jpg|unesco=yes}}
+'''Sintra''' is a town in [[Greater Lisbon]], [[Estremadura]], [[Portugal]]. Its spectacular setting, 28 km from [[Lisbon]], houses a Royal Palace, used by generations of Portuguese royalty prior to the 1910 revolution. The surrounding hills are surmounted by the remains of the Moorish Castle and by the 19th century Pena Palace.
+
+Near Estoril, the majestic Sintra Mountains cast a veil of mystery over the town nestling on its northern slopes. The hills and the surrounding area have been classified as {{UNESCO}} for their cultural significance and for their outstanding natural beauty.
+
+==Understand==
+[[File:Sintra - Palacio da Pena (20332995770).jpg|thumb|423x423px|Pena Palace]]
+[[File:Pt-pt Sintra FF.ogg]]
+
+The name Sintra ([[Portuguese_phrasebook#Pseudo-phoneticization|SEEN-truh]], /ˈsĩ.tɾɐ/) is derived from the same root as the English word "sun". It is in a mountain range some {{km|28}} north-west of Lisbon, and approximately {{km|9}} from the Atlantic coast in the west. There is evidence of human activity in the area at least since the Paleolithic stone age. The site is famous for the ''Sintra Collar'', a golden neck ring from around the 9th century BC kept at the British Museum in [[London]]. During the 8th century it became part of ''Al-Andalus'', Muslim Iberia. The new rulers fortified one of the mountain tops, creating what is today called '''The Castle of the Moors''' which remained in Moorish hands until 1147 when it surrendered to crusader troops, one month after the fall of Lisbon.
+[[File:Monserrate Palace - Sintra, Portugal (8451615855).jpg|thumb|318x318px|Monserrate palace]]
+In addition to the mountain top castle the Moors constructed a residential palace further down-hill. This palace, simply known as '''Sintra Palace''', was eventually assumed as the summer residence of the rulers of Portugal. It has been expanded and rebuilt several times, and the oldest sections still standing today is a palace chapel constructed by King Dinis I during the early 14th century, as a gift to his wife Saint Elizabeth of Aragon. Other parts of the building where constructed during the reign of King John I, and King Manuel I, after whom the neo-gothic "Manueline" architectural style is named. King Afonso VI was imprisoned in the palace from 1676 until his death in 1683, after being deposed by his brother Pedro II. The palace was damaged in the great earthquake of Lisbon in 1755, but was later fully restored.
+
+By the end of the 18th century Sintra's exotic and mysterious ruins and nature became renowned and awed by several '''romantic poets'''. Lord Byron called it the ''"Glorioso Eden"'' while Richard Strauss claimed it to be ''"a true garden of Klingsor, and there in the heights, a castle of the Holy Grail"''. It became a routine part of the [[Grand Tour]], which many young nobles made around Europe at the time. As a consequence of its fame it became popular for Portuguese upper class to construct villas in the area, making Sintra something of a village of Chateaus.
+
+The most notable of these residences is '''Pena Palace'''; a romanticist castle on a mountain top, constructed by the King-Consort Ferdinand II of Portugal 1838-1854, out of a former Hieronymite monastery. After the death of Queen Maria II, Ferdinand remarried the Countess of Edla. He caused national outrage when he donated the palace to his new wife, but the matter was eventually settled as palace was sold to King Luís in 1890. It was then used as a residence for the royal family until the 1910 republican revolution. After the revolution the palaces were nationalized and opened to the public, and to an ever-growing stream of tourists.
+
+Although it's a ''freguesia'' (civil parish) of Sintra municipality, '''[[Queluz]]''' has its own separate article.
+
+==Get in==
+===By train===
+The town proper is a 10-minute walk from the train station. However, city buses to the center can be caught from the small bus stop directly on the right as one exits said station. These are the same buses that take circular routes to all the tourist sites, and offer tickets good for all day, so odds are one would be buying one of their tickets anyway.
+
+* {{go
+| name=Estação Ferroviária de Sintra | alt=Sintra Train Station | url=https://www.cp.pt/passageiros/en/train-times/Stations/sintra-station | email=
+| address=Av. Dr. Miguel Bombarda | lat=38.79972 | long=-9.38509 | directions=
+| phone= | tollfree=
+| hours=Ticket office: Mon-Fri 06:45-20:30, Sat Sun and holidays 07:00-20:30 | price=
+| image=Sintra (26667098854).jpg | wikidata=Q801446
+| lastedit=2017-05-20
+| content=Sintra can be reached by frequent '''[https://www.cp.pt/passageiros/en/ CP]'''commuter train service from several [[Lisbon]] stations, including '''Santa Apolónia''', '''Oriente''', '''Campolide''' and '''Rossio''', with trains departing from Rossio every twenty minutes, and the Oriente line every ten minutes. Lisbon's public transit ''Viva Viagem'' cards are valid for travel to Sintra, with round-trip tickets costing around €4.40. If you do not already have a Viva Viagem card, note that queues for the ticket counters in Rossio can be enormous and clogged with tourists, especially mid-morning.
+}}
+::Queues for the ticket machines may be shorter, but may be equally slow as many machines take coins only, and many tourists may not understand how to operate them. Tell the machine that you want a ticket for two trips; you will need one for the outward and one for the return journey. Remember to validate your ticket by touching it to the checkpoint before boarding the return train. Keep the used ticket, as you can re-charge it for other trips in and around Lisbon.
+
+===By bicycle===
+Cycling in Sintra can be an interesting day out for those who are fit and have some experience.
+
+If staying in Sintra and around a local company is a good option for you.
+
+In case you are visiting Sintra then your best bet is to book a tour or rent a bike e.g. in Lisbon, take the commuters train from Rossio station to explore Sintra and/or the Nature Reserve finishing in Cascais, a beautiful day trip on a bicycle, in the end take a train back to Cais do Sodre station in Lisbon where you may drop back your bicycle.
+Adult return ticket is around 3 or €4 and bicycles travel for free every day of the week.
+
+Companies operating from Lisbon include:
+* {{do
+| name=Bike Iberia | alt= | url=https://www.bikeiberia.com/ | email=
+| address= | lat= | long= | directions=
+| phone=+351 96 242 3455 | tollfree=
+| hours= | price=
+| wikidata=
+| lastedit=2021-07-06
+| content=In Lisbon Downtown right off the train station of Cais Sodre.
+}}
+* {{do
+| name=Cycling Rentals | alt= | url=https://www.cycling-rentals.com/ | email=
+| address= | lat= | long= | directions=
+| phone=+351 212 424 604 | tollfree=
+| hours= | price=
+| wikidata=
+| lastedit=2021-07-06
+| content=A Sintra-based company that offers all types of rental bicycles as well as guided and self-guided road or mountain bike Day Trips in the Sintra area.  They will also deliver a hire bike to your hotel anywhere in the Lisbon / Sintra area.  There shop is located just outside the historical center of Sintra.
+}}
+* {{do
+| name=Ericeira Bike | alt= | url=https://www.ericeirabike.com/ | email=
+| address= | lat= | long= | directions=
+| phone=+351 969 509 372 | tollfree=
+| hours= | price=
+| wikidata=
+| lastedit=2021-07-06
+| content=Provides guided mountain bike tours in Sintra as well as an Ericeira to Cabo da Roca bike tour across the Sintra Natural Park coastline.
+}}
+
+==Get around==
+{{Mapframe|38.7984|-9.3885|zoom=14}}
+{{mapshape}}
+
+===By bus===
+It's probably best for most visitors to take one or more of the public bus routes.  The routes are one-way and circular, with a stop in front of each of the major tourist sights, so keep this in mind when planning the order in which you see each sight.  One ticket is good for all day on that particular bus route.  Think a relatively cheap hop-on/hop-off bus route, and you have the idea. All the buses stop directly at the train station as well (just to the right upon exiting), so they can be caught immediately upon arrival via train.
+
+[[File:Sintra-Palacio Nacional de Sintra-30-Brunnen-Stadt-2011-gje.jpg|thumb|269x269px|Sintra town centre]]
+There are several of these circular routes, but probably for most the 434 and 435 routes are of greatest interest.
+
+434:
+Route: Sintra Train Station -> Sintra City Center -> Moorish Castle -> Pena Castle -> return
+
+435:
+Route: Sintra Train Station -> Sintra City Center -> Regaleira Palace -> Seteais Palace -> Monserrate Palace -> return. The "Linha Monserrate" that picks up passengers in front of the Palácio Nacional de Sintra is only a "sight-seeing" bus, it does not deliver you to Monserrate.
+
+
+As of May 2024, the charge is now €13.50 for a 24h ticket that allows you to use the 434 and 435, which should give you access to all of the main attractions.
+
+The general frequency of the buses is around 20 minutes.  You may purchase the tickets on the buses at any of the stops.
+
+There are also, actual "hop on/hop off" buses (the big red buses one sees in so many cities), but with a significantly higher price, and unclear advantage over their cheaper public equivalents.
+To get to [[Cabo da Roca]] (Cape Roca), the westernmost point of mainland Europe, take the Scotturb 403 bus (Direction = Cascais). The journey takes about 40 minutes.
+
+Check the price of a rideshare e.g. Uber if you have a family or group as it can work out cheaper than the bus.
+
+===By tuktuk===
+The 434 bus is usually completely full by the time it reaches the historic centre of Sintra. Tuktuks are freely available to go up the mountain to the fort, or Pena (ask to be dropped off at the high entrance if you are going to Pena). Then walk back down the hiking trail, which begins at the far end of Pena car park.
+* {{go | name=Sintra Day Trip | alt= | url=http://www.sintradaytrip.com | email= | address= | lat= | long= | directions= | phone=+351 933307036 | tollfree= | hours= | price= | lastedit=2023-02-01 | content=Sintra day trip helps you out requesting a tuk tuk private for your daily needs, transfer from the train station to Pena palace and more.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+
+===By car===
+Parking is abysmal, the roads narrow & windy, and on a holiday weekend Sintra can be absolutely packed with cars and people. If you must drive to Sintra, park in one of the several parking lots below the town center and walk up into town.
+
+===On foot===
+{{mapframe|38.7924|-9.3907|width=300|height=600|zoom=16|name=Trail from Sintra to Moorish castle and Pena National Palace}}
+<maplink text="" zoom="6" group="route1" class="no-icon">
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 3,
+        "stroke-opacity": 1,
+        "title": "Trail from Sintra to Moorish castle and Pena National Palace"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -9.39064726389941,
+            38.79571840078103
+          ],
+          [
+            -9.39064726389941,
+            38.79562091845159
+          ],
+          [
+            -9.390712644489412,
+            38.79554337559415
+          ],
+          [
+            -9.390940055238616,
+            38.79544810853963
+          ],
+          [
+            -9.391474470497513,
+            38.79529745340312
+          ],
+          [
+            -9.391784317642248,
+            38.795171168704826
+          ],
+          [
+            -9.391596703774837,
+            38.79518889288644
+          ],
+          [
+            -9.391383506197684,
+            38.79519332393099
+          ],
+          [
+            -9.391346551951699,
+            38.79516230661207
+          ],
+          [
+            -9.391585333237089,
+            38.79503602167429
+          ],
+          [
+            -9.391576805334324,
+            38.794949616061984
+          ],
+          [
+            -9.391548378990308,
+            38.794900874388134
+          ],
+          [
+            -9.391505739475008,
+            38.79488758119851
+          ],
+          [
+            -9.391306755070644,
+            38.79493410735114
+          ],
+          [
+            -9.39121294813657,
+            38.79491416757534
+          ],
+          [
+            -9.391184521793349,
+            38.79486764140967
+          ],
+          [
+            -9.391230003942837,
+            38.79483219288164
+          ],
+          [
+            -9.391460257325491,
+            38.794798959871144
+          ],
+          [
+            -9.391451729422755,
+            38.79476129577398
+          ],
+          [
+            -9.391369293026457,
+            38.79474135594984
+          ],
+          [
+            -9.391201577598792,
+            38.794721416119444
+          ],
+          [
+            -9.391193049696028,
+            38.79468818305725
+          ],
+          [
+            -9.391417615509056,
+            38.794615071085644
+          ],
+          [
+            -9.391639340988945,
+            38.79439794780879
+          ],
+          [
+            -9.391625127817747,
+            38.794311541422275
+          ],
+          [
+            -9.39153984878638,
+            38.79423842824488
+          ],
+          [
+            -9.391491524002618,
+            38.79428717037166
+          ],
+          [
+            -9.391451727121591,
+            38.794265014863214
+          ],
+          [
+            -9.391465940293614,
+            38.79421184161595
+          ],
+          [
+            -9.391400559702788,
+            38.79421627272126
+          ],
+          [
+            -9.391386346531533,
+            38.79403681272947
+          ],
+          [
+            -9.391337148820128,
+            38.794028844819195
+          ],
+          [
+            -9.391320277445004,
+            38.79405660509099
+          ],
+          [
+            -9.39124341895797,
+            38.7941092034705
+          ],
+          [
+            -9.391205927012265,
+            38.794116508798055
+          ],
+          [
+            -9.391147814498083,
+            38.79408144321917
+          ],
+          [
+            -9.391132817719608,
+            38.79403176695345
+          ],
+          [
+            -9.391228422179466,
+            38.793906115067244
+          ],
+          [
+            -9.391284660096971,
+            38.79380822332814
+          ],
+          [
+            -9.391275287110545,
+            38.793793612608994
+          ],
+          [
+            -9.391256541138745,
+            38.79378338510401
+          ],
+          [
+            -9.391046586246176,
+            38.79386228296187
+          ],
+          [
+            -9.391022216481275,
+            38.79385059439559
+          ],
+          [
+            -9.391029714871053,
+            38.7938301394004
+          ],
+          [
+            -9.39122092379074,
+            38.79375270258015
+          ],
+          [
+            -9.391258415735393,
+            38.793663577078746
+          ],
+          [
+            -9.391245293554618,
+            38.793621205900195
+          ],
+          [
+            -9.391219049193069,
+            38.79360805621894
+          ],
+          [
+            -9.391189055637085,
+            38.7936168226731
+          ],
+          [
+            -9.391054084634902,
+            38.79370302608538
+          ],
+          [
+            -9.390984724536594,
+            38.79373224755693
+          ],
+          [
+            -9.390932235813438,
+            38.793717636822265
+          ],
+          [
+            -9.391261912413626,
+            38.79318744345855
+          ],
+          [
+            -9.391321899525508,
+            38.79292736994992
+          ],
+          [
+            -9.391353360600078,
+            38.792605056452715
+          ],
+          [
+            -9.391343987613652,
+            38.792491090842674
+          ],
+          [
+            -9.391270878321023,
+            38.792235398104765
+          ],
+          [
+            -9.391270878321023,
+            38.792111204157976
+          ],
+          [
+            -9.391244633959417,
+            38.79206006541128
+          ],
+          [
+            -9.391237135569696,
+            38.79200015997591
+          ],
+          [
+            -9.391194019832966,
+            38.79193879337984
+          ],
+          [
+            -9.391177148457842,
+            38.79192564338817
+          ],
+          [
+            -9.391177148457842,
+            38.79189349895418
+          ],
+          [
+            -9.391156527888313,
+            38.79185551005824
+          ],
+          [
+            -9.391114501458105,
+            38.79179234724754
+          ],
+          [
+            -9.391062012734949,
+            38.79174559161447
+          ],
+          [
+            -9.391054514346223,
+            38.79170906375484
+          ],
+          [
+            -9.391095755485225,
+            38.791602402296746
+          ],
+          [
+            -9.391067636526998,
+            38.79157025771616
+          ],
+          [
+            -9.391063887332649,
+            38.79150012403653
+          ],
+          [
+            -9.39121385511234,
+            38.79133209514745
+          ],
+          [
+            -9.391193037613903,
+            38.79129251671392
+          ],
+          [
+            -9.391194641446504,
+            38.79115875802293
+          ],
+          [
+            -9.391197849110824,
+            38.79107250228486
+          ],
+          [
+            -9.391242756412936,
+            38.79096624507369
+          ],
+          [
+            -9.39130049437233,
+            38.79091374145182
+          ],
+          [
+            -9.391369459158142,
+            38.79089999049705
+          ],
+          [
+            -9.391356628499977,
+            38.79085998770341
+          ],
+          [
+            -9.391347005507072,
+            38.79080248364909
+          ],
+          [
+            -9.391375874486727,
+            38.79076998133678
+          ],
+          [
+            -9.391430404782682,
+            38.79074747972754
+          ],
+          [
+            -9.391281248386463,
+            38.790648722580016
+          ],
+          [
+            -9.391223550321769,
+            38.790558161099426
+          ],
+          [
+            -9.391146539776457,
+            38.79040536953724
+          ],
+          [
+            -9.391080030670508,
+            38.79033988733923
+          ],
+          [
+            -9.39079999232726,
+            38.790233478638356
+          ],
+          [
+            -9.39046044583543,
+            38.79023075020817
+          ],
+          [
+            -9.390274920433313,
+            38.790165267849744
+          ],
+          [
+            -9.389868864834568,
+            38.79015981098328
+          ],
+          [
+            -9.389760349976825,
+            38.79010797073653
+          ],
+          [
+            -9.389679838953299,
+            38.79010797073653
+          ],
+          [
+            -9.389588826491291,
+            38.790165267849744
+          ],
+          [
+            -9.389560822657074,
+            38.790233478638356
+          ],
+          [
+            -9.389497814030307,
+            38.790271676651656
+          ],
+          [
+            -9.389424303965114,
+            38.79024984921813
+          ],
+          [
+            -9.389448807320179,
+            38.790189823741116
+          ],
+          [
+            -9.389410302047509,
+            38.79006704419899
+          ],
+          [
+            -9.38943130492342,
+            38.79002884607601
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 0
+    }
+  ]
+}
+</maplink>
+Why not just get extra exercise and walk it all? If you are fit and only wish to visit the Moorish Castle and Pena Castle, walking the 1.1 km nature trail with a 200-meter elevation gain is a much more pleasant alternative to the crowded buses that often get stuck in traffic. For everyone else, although the bus system is not particularly cheap at €13.50, it provides a convenient way to reach these sights. The walking trail through the woods to the Moorish castle starts above the Sintra city at {{marker|type=go|name=Rua Victor Carlos Sassetti|lat=38.79517|long=-9.39177}}. It is reasonably well signed, but best to get a map from the tourist office or ticket counter at Sintra National Palace. Once you have made the journey to the castle, it's only few more minutes walk up the hill on the main road to the Pena Palácio. The walk to Monserrate from the Sintra town center is still approximately one hour but is less strenuous.
+
+===By tram===
+The tram of Sintra (''Elétrico de Sintra'') runs from Largo Dr. António José de Almeida, a square north of the railway line between the Sintra and Portela de Sintra railway stations, to Praia das Maçãs on the coast. The service is operated by restored trams dating from the early 20th century. For the summer of 2016, the tram service ran 6 trips/day between 10:20am and 5pm from Wednesday to Sunday. The tram trip to Praia das Maçãs takes 45 minutes.
+
+Since 2016, the Sintra tram has a station at Largo Dr. António José de Almeida selling tickets, newspapers, postcards, railfan books and even wines of the region. The station has washroom facilities.
+
+The tram line has had a history of full and partial closures for maintenance; thus, one should consult the web site. However, the line has operated in 2015 and 2016.
+
+For more information:
+* {{listing | name=Elétrico de Sintra | alt=Vila Alda - Casa do Eléctrico de Sintra | url=http://www.cm-sintra.pt/eletrico-de-sintra-dp5 | email=dtur.vila.alda@cm-sintra.pt | address=R. Gen. Alves Roçadas 2 at Largo Dr. António José de Almeida | lat=38.8037 | long=-9.3819 | directions=Located north of the railway line between the Sintra and Portela de Sintra railway stations. Take a map as there is no signage to the tram. | phone=+351 21 923 8766 | tollfree= | fax= | hours= | price= | lastedit=2016-07-24 | content=On the web page, click the link "''Horário e preços''" under the photo for schedule and prices.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+
+==See==
+===Parques de Sintra sites===
+Admission prices and opening times of the sites can be found on the [https://bilheteira.parquesdesintra.pt/categoria/45/parques-e-monumentos Parques de Sintra website]{{Dead link|date=April 2026 |bot=InternetArchiveBot }}, where you can buy tickets. Buy online to avoid a long queue. You get a 15% discount for buying 3 days in advance, and small discounts for buying tickets for more than one site. Sintra can be extremely busy, particularly in summer, and especially at weekends. The main sights are best visited at the start of the day (most open at 09:30) or late afternoon (most are open until 19:00-20:00) to avoid the crowds and queues.
+[[File:Courtyard of Palácio Nacional da Pena 2429.jpg|thumb|298x298px|Palace of Pena]]
+* {{see
+| name=Pena National Palace | alt=Palácio Nacional da Pena | url=https://www.parquesdesintra.pt/en/parks-monuments/park-and-national-palace-of-pena/ | email=
+| address= | lat=38.7878 | long=-9.39055 | directions=
+| phone= | tollfree=
+| hours= | price=Adult €20, youth or senior €18, child (<6) free, family (2 adults, 2 youth) €65 | wikipedia=Pena Palace | wikidata=Q69513
+| lastedit=2024-02-16
+| content=Beautiful example of pseudo-Moorish Romantic architecture. You can walk there from Sintra in about an hour (uphill!) or catch a bus. You can see a good collection of furniture and the royal apartments. Tickets are sold on a timed basis. Arrive at the park 30 min before your ticket time so that you can walk up to the palace. You will not get a refund if you miss your time. Surrounding the palace is a huge park which is much quieter, and can be explored on foot or by a small tourist train service. The Chalet decorated with bark is particularly worth visiting, and the greenhouses, stables and lakes are pleasant. 15% discount if you purchase online at least 3 days in advance.
+}}
+* {{see
+| name=Moorish Castle | alt=Castelo dos Mouros | url=http://www.parquesdesintra.pt/index.aspx?p=parksIndex&MenuId=13&Menu0Id=13 | email=
+| address= | lat=38.79258 | long=-9.38934 | directions=
+| phone= | tollfree=
+| hours= | price=Adult €12, youth or senior €10, child (<6) free, family (2 adults, 2 youth) €33
+| wikipedia=Castle of the Moors | wikidata=Q1049008
+| lastedit=2024-02-16
+| content=One of the highlights of Sintra not to be missed. Ruins of a castle built by the Moors from the 10th century onwards. Apparently, when Cascais was under the rule of Sintra, a huge fire would be lit here annually to remind the people of Cascais that the Moorish Castle is there to protect them. There isn’t much inside the castle but the views from around 400 m above sea level are stunning. Be careful on the walls though, they’re very narrow in places and lack any safety railings.
+}}
+[[File:Palácio Nacional de Sintra from above 74.jpg|thumb|304x304px|Sintra National Palace]]
+* {{see
+| name=Sintra National Palace | alt= | url=http://www.parquesdesintra.pt/en/parks-and-monuments/national-palace-of-sintra/ | email=
+| address=Largo Rainha Dona Amélia | lat=38.797667 | long=-9.390667 | directions=
+| phone=+351 21 923 7300 | tollfree= | fax=
+| hours= | price=Adult €13, youth or senior €10, child (<6) free, family (2 adults, 2 youth) €35 | wikidata=Q532399
+| lastedit=2024-02-16
+| content=The summer estate of the Portuguese royal family from the middle ages until the 1910 republican revolution. Built in several steps, the oldest standing parts is a chapel built by King Dinis I during the 14th century. Around 1400 King John I constructed "the Magpie Room" ''(Sala das Pegas)'', the ceiling of which is decorated with 136 magpies (as many as there where women at the court) in a subtle hint to end gossiping. King Manuel I added the Coats-of-Arms Room ''(Sala dos Brasões)'' in the early 16th century, showing the coat of arms of the 72 foremost Portuguese noble families of the era, as well as the arms of his own family. King Alphonse VI was imprisoned in the Palace from 1676 until his death in 1683, after being deposed by his brother and successor. Most of the palace is covered by excellently crafted ''azulejo'' glazed tiles, both on the inside and on the facade. The most striking feature of the palace exterior is the two {{m|36}} tall kitchen chimneys.
+}}
+[[File:Long Shot of Palácio de Monserrate, Sintra, Portugal.jpg|thumb|302x302px|Monserrate]]
+* {{see
+| name=Quintinha de Monserrate | alt= | url=http://www.parquesdesintra.pt/en/parks-and-monuments/farmyard-of-monserrate/ | email=
+| address= | lat=38.794206 | long=-9.420628 | directions=
+| phone=+351 21 923 7300 | tollfree=
+| hours= | price=Adult €12, youth or senior €10, child (<6) free, family (2 adults, 2 youth) €33
+| wikidata=Q3175595
+| lastedit=2024-02-16
+| content=An old estate with a farmyard, giving you an opportunity to learn about traditional local farming. The estate was transformed into its current form by 19th-century British industrialist Francis Cook and his architect James Knowles Jr, and stands as a timeless piece of British Romanticism..
+}}
+* {{see
+| name=Convento dos Capuchos | alt= | url=http://www.parquesdesintra.pt/en/parks-and-monuments/convent-of-the-capuchos/ | email=
+| address= | lat=38.784373 | long=-9.438192 | directions=Colares
+| phone=+351 21 923 7300 | tollfree=
+| hours= | price=Adult €11, youth or senior €9, child (<6) free, family (2 adults, 2 youth) €29
+| wikidata=Q1129421
+| lastedit=2024-02-16
+| content=A secluded abbey where monks used to live in close contact with nature. Immersed in a wood, its crude and harsh style points out the importance of spirituality according to these friars and their strict Christian values. It has no electric light, so use your flash on to shoot great pictures! Don't miss the wood carved chapel, the library and the friars' cells. 
+}}
+
+===Other sites===
+[[File:Quinta da Regaleira (34942395382).jpg|thumb|306x306px|Quinta da Regaleira]]
+* {{see
+| name=Quinta da Regaleira | alt=Regaleira Palace and Gardens | url=http://www.regaleira.pt/en | email=geral@cultursintra.pt
+| address=Rua Barbosa du Bocage | lat=38.7964 | long=-9.396 | directions=
+| phone=+351 21 910 6650 | tollfree= | fax=+351 21 924 4725
+| hours=Daily 10:00-18:30 (last admission at 18:00) | price=Adult €12, youth or senior €7, child (<6) free, family (2 adults, 2 youth) €32
+| wikipedia=Quinta da Regaleira | image=Jardin Regaleira - panoramio.jpg | wikidata=Q2630165
+| lastedit=2024-02-16
+| content=Regaleira Palace is part of the built heritage included in UNESCO's world heritage list as 'Sintra cultural landscape'. Its origins date back to 1697, when the property was bought by José Leite, but it was only by the late 19th century that the history of the Palace and Gardens begins. In 1892 Carvalho Monteiro, an eccentric capitalist that had made a huge fortune in Brazil, bought the property and hired the Italian architect Luigi Manini to conceive a place that gathered, on the one hand, a sum of artistic currents (Gothic, Manueline and Renaissance) and, on the other hand, the glorification of national history influenced by mythic and esoteric traditions. A great variety of Masonic symbols is present in Regaleira Palace and Gardens. An important example is the magnificent ''Poço Iniciático'' (Initiation Well), looking like an upside down tower, where at every 15 steps a plateau is reached, in a total of nine leading to the depths of the earth. The nine plateaus remind the nine circles of Hell, the nine sections of Purgatory and the nine heavens of Paradise, as designated by Dante. Everyone seems to get lost looking for the Initiation Well – hang onto the map you get when purchasing your ticket!
+}}
+[[File:Farol do Cabo da Roca, Cabo da Roca, the westernmost point of continental Europe (50657914401).jpg|thumb|302x302px|Cabo da Roca]]
+* {{see
+| name=Cabo da Roca | alt= | url= | email=
+| address= | lat=38.7833 | long=-9.5 | directions=[http://www.scotturb.com/carreiras/horarios 403 Scotturb Bus] runs from Cascais (22 min, €3.40) or from Sintra (40 min, €4.30), one or twice an hour
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q169175
+| lastedit=2021-02-17
+| content=A cape at the western coast which is the westernmost point of the European continent. If you feel like spending you can get a certificate of your presence at the westernmost point of continental Europe.
+}}
+
+==Do==
+* '''Praia das Maçãs''' is a small, and surprisingly calm, seaside resort about 30 km to the west of Lisbon and about 13 km from Sintra. Flanked by restaurants, it has a salt water pool, sports facilities and children's playground. Take the tram (the stop is next to the '''Museum of Modern Art''') and ride downhill 13 km. The ride takes 45 min and is delightful.
+
+* On the way to Praia das Maçãs, 8 km on the tram, you can stop at the '''Adega Regional de Colares''', i.e. the ''Colares Winery'' for a taste of this very rare wine.
+
+==Buy==
+Souvenirs and Porto wine are all on sale in the Sintra historic district. There are a number of shops that sell standard tourist items (post cards, t-shirts, etc.) and shops that sell ceramics, pieces of art and hand crafts. If you are looking for gifts for friends and family, Sintra has a broad selection of items to choose from.
+
+To get something truly unique and local, consider cork products that range from wallets to umbrellas.  These original products wear like leather and are environmentally sound, as well as attractive.
+
+==Eat==
+
+* '''Queijadas''' mainly the ones from "Casa do Preto"
+* '''Travesseiros da Periquita'''
+* {{eat
+| name=Cyntia | alt= | url= | email=
+| address=Avenida Doutor Miguel Bombarda 47-49 | lat=38.7995 | long=-9.3857 | directions=
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2021-03-29
+| content=Next to the bus and rail stations on the downside of Sintra, there is this small but fine restaurant where you can taste a marvelous codfish (''Bacalhau à brás'' or ''Bacalhau à grelha''). They are very kind and friendly and don't hesitate to help you in anything you need.
+}}
+* {{eat
+| name=Dom Pipas | alt= | url=http://www.restaurantedompipas.pt/ | email=
+| address=Rua João de Deus 62 | lat=38.7996 | long=-9.3841 | directions=
+| phone=+351 219 234 278 | tollfree=
+| hours=Tue–Sun 12:00–15:00 & 19:00–22:00, closed Mon | price=
+| lastedit=2019-03-19
+| content=Delicious local dishes at decent prices. Features daily specials, fish, meat, and other Portuguese traditional fare.
+}}
+* {{eat
+| name=Lab by Sergi Arola | alt= | url=https://www.labbysergiarola.com/en/ | email=LAB@penhalonga.com
+| address=Estrada da Lagoa Azul, Linhó | lat=38.7619 | long=-9.3977 | directions=Penha Longa Resort
+| phone=+351 21 924 9011 | tollfree=
+| hours=Wed–Sat 19:30–22:30, closed Sun–Tue | price={{EUR|115-145}}
+| lastedit=2021-07-19
+| content=Michelin-starred Mediterranean restaurant run by a Catalan chef using Portuguese ingredients. Choose from three tasting menus or order à la carte. Beverages include 550 global wines, Cognac, Armagnac, and 40 tea varieties. Golf course views.
+}}
+* {{eat
+| name=Midori | alt= | url=https://www.midoripenhalonga.com/ | email=restaurants@penhalonga.com
+| address=Estrada da Lagoa Azul, Linhó | lat=38.7614 | long=-9.3968 | directions=Penha Longa Resort
+| phone=+351 21 924 9011 | tollfree=
+| hours=Tue–Sat 19:00–22:30, closed Sun Mon | price={{EUR|115-145}}
+| lastedit=2021-07-19
+| content=Michelin-starred Portuguese-inspired Japanese restaurant.
+}}
+
+==Drink==
+
+* If you have the chance, you should try the Hockey Club, just in the beginning of the street that goes up to the Piriquita (the most well known coffee shop in Sintra due to its marvelous egg sweets).
+* {{drink
+| name=Adega Regional de Colares | alt= | url=https://www.arcolares.com/ | email=geral@arcolares.com
+| address=Alameda Coronel Linhares de Lima 32, Colares | lat=38.8058 | long=-9.4498 | directions=
+| phone=+351 219 291 210 | tollfree=
+| hours=Mon–Fri 09:00–13:00 & 14:00–18:00, Sat 09:00–13:00, Sun closed | price=
+| content=A tasting of these fine wines can be organised in advance for a minimum of 10 people.
+}}
+
+==Sleep==
+* {{sleep
+| name=Sintra Marmòris Palace | alt= | url=https://www.sintramarmoris.com | email=
+| address=Avenida Barão de Almeida Santos 7 | lat=38.8016 | long=-9.3876 | directions=
+| phone=+351 219 234 504 | tollfree=
+| checkin= | checkout= | price=
+| content=A luxury mansion surrounded by gardens in the hearth of Sintra.
+}}
+*{{sleep | name=Oh Casa Sintra | url=http://www.ohcasa.com | email= | address= | lat=38.800442 | long=-9.382597 | directions= | phone=+351 218 058 356 | tollfree= | fax= | hours= | price= | checkin= | checkout= | content=This townhouse is set back from the main tourist street amidst the leafy mansions of São Miguel. A pocketful of rooms within walking distance from the historic center.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{sleep
+| name=Tivoli Palacio de Seteais Hotel | alt= | url=https://www.minorhotels.com/en/tivoli/tivoli-palacio-de-seteais | email=
+| address=Rue Barbosa do Bocage 10 | lat=38.796113 | long=-9.398326 | directions=
+| phone=+351 21 953 3200 | tollfree=
+| checkin= | checkout= | price=
+| content=Magnificent example of 18th century architecture.
+}}
+*{{sleep
+| name=Hotel Tivoli Sintra | alt= | url=https://www.minorhotels.com/en/tivoli/tivoli-sintra | email=
+| address=Praça da República | lat=38.797502 | long=-9.391612 | directions=
+| phone=+351 21 923 7200 | tollfree=
+| checkin= | checkout= | price=
+| content=Breathtaking panoramic views of old Sintra, and of the Sintra National Palace.
+}}
+*{{sleep
+| name=Casa do Miradouro | alt= | url=http://www.casa-miradouro.com | email=
+| address=R. Sotto Mayor 55 | lat=38.800685 | long=-9.393760 | directions=
+| phone=+351 21 910 71 00 | tollfree= | fax=
+| checkin= | checkout= | price=
+| content=
+}}
+* {{sleep
+| name=Pestana Sintra Golf | alt= | url=http://www.pestana.com/en/pestana-sintra-golf | email=reserva.portugal@pestana.com
+| address=Quinta da Beloura Rua Mato da Mina 19 | lat=38.762708 | long=-9.367164 | directions=
+| phone=+351 21 042 4300 | tollfree=
+| checkin= | checkout= | price=
+| content=
+}}
+*{{sleep | name=Nice Way Sintra Palace | alt= | url=http://nicewayhostels.com/sintra/ | email= | address=Rua Sotto Mayor, 22 | lat=38.799367 | long=-9.392465 | directions=from the town centre take Rua do Sotto Mayor for about 300m | phone=+351 21 924 9800 | tollfree= | checkin=14:00 | checkout=12:00 | price=€15-50 | content=Opened in January 2011 in a totally refurbished old palace house with private and shared accommodation, a fully-equipped kitchen, and a cozy living room which opens into a beautiful garden. The hostel affords spectacular vistas of Sintra, the Moorish Castle and Pena Palace.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+*{{sleep
+| name=Quinta Vale da Roca
+| url=https://valedaroca.com
+| email=info@valedaroca.com | address=Rua Casal Farripas 8, 2705-001 Azoia, Colares, Portugal | phone=+351 968 207 782
+| lat=38.76952 | long=-9.48080
+| hours= | price=
+| wikidata=Q112010841
+| content=Hotel and vineyard on the Atlantic coast in Colares, within the Sintra-Cascais Natural Park. The estate produces its own wines from the Colares region's sandy soils.
+}}
+
+==Go next==
+* [[Lisbon]] — the capital of Portugal
+* [[Queluz]] — home of Queluz National Palace
+
+{{IsPartOf|Greater Lisbon}}
+{{usablecity}}
+{{geo|38.79736111|-9.390416667}}

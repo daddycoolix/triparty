@@ -1,0 +1,238 @@
+{{pagebanner|pgname=Baixa}}
+
+'''Baixa''' is a district in [[Lisbon]], [[Portugal]]. The ''Baixa'' has many squares and monuments, offering numerous photo opportunities. The area suffered devastating destruction in the Great Earthquake on All Saints' Day, 1 November 1755. Lisbon's "downtown" was rebuilt under the guiding hand of the Marquis of Pombal (''Marquês de Pombal''), who introduced a grid street plan to organize the chaos.
+
+[[File:LL-Q5146 (por)-Santamarcanda-baixa.wav]]
+
+==Get in==
+{{mapframe|38.7127|-9.1379|height=500|width=400|zoom=15}}
+{{mapshapes|Q746032}}
+{{mapshape|wikidata=Q1786376,Q1786384,Q387982|stroke-width=0}}
+
+The Baixa is served by two [[Lisbon#Metro|Lisbon Metro]] lines: {{rint|lisbon|blue}} (Blue) and {{rint|lisbon|green}} (Green). The two lines meet at Baixa–Chiado station, the system's deepest, at the junction of the Baixa district with the Chiado portion of the [[Lisbon/Bairro Alto|Bairro Alto]] district. Other Baixa stations are Martim Moniz, Restauradores, Rossio, and Terreiro do Paço.
+
+==See==
+[[File:Estación de Rossio, Lisboa, Portugal, 2022-07-24, DD 02.jpg|thumb|Rossio Station]]
+* {{see | name=MUDE – Museu do Design e da Moda | alt=Museum of Design and Fashion | url=https://www.mude.pt/ | email=mude@cm-lisboa.pt | address=Rua Augusta 24 | lat= | long= | directions= | phone=+351 21 817 1892 | tollfree= | hours=Temporarily closed for renovations; planned reopening 2023 | price= | wikidata=Q1954392 | lastedit=2021-07-22 | content=The collection has about 1,000 items of furniture and accessories and over 1,200 pieces of haute couture clothing.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{see
+| name=Igreja de Nossa Senhora da Conceição Velha | alt=Old Church of Our Lady of the Conception | url= | email=
+| address=Rua da Alfândega 108 | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q5116936
+| lastedit=2021-07-24
+| content=18th-century Manueline-style church, a national monument.
+}}
+* {{see
+| name=Palácio Alverca | alt=Antigo Palácio Pais do Amaral, Antigo Palácio São Luís, Casa do Alentejo | url= | email=
+| address=Rua Portas de Santo Antão 58 | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q10343917
+| lastedit=2021-07-22
+| content=Unassuming from the outside, the interior combines neo-Gothic, neo-Arab, neo-Renaissance, neo-Rococo, Art Nouveau, and baroque elements.
+}}
+* {{see
+| name=Palácio Foz | alt= | url=https://www.facebook.com/PalacioFozOficial/ | email=reservaspalaciofoz@sg.pcm.gov.pt
+| address=Praça dos Restauradores | lat=38.71578 | long=-9.14249 | directions={{rint|metro}}{{station|Restauradores|azul}}
+| phone=+351 21 322 1215 | tollfree=
+| hours=Mon–Fri 09:30–16:00, closed Sat Sun | price=
+| content=A palace constructed in the 18th and 19th centuries. Visits can be arranged in advance via email. Concerts (some of them free) are offered.
+}}
+*{{see
+| name=Praça do Comércio | alt= | url= | email=
+| address= | lat=38.7075 | long=-9.136389 | directions=Tram stop {{station|Praça do Comércio|15e|25e}} or metro station {{station|Terreiro do Paço|azul}}
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Praça do Comércio | image=Estatua de Don José I, Plaza del Comercio, Lisboa, Portugal, 2012-05-12, DD 05.JPG | wikidata=Q999002
+| content=This magnificent plaza, facing the river, is the beginning of Lisboa's downtown. It is also known as 'Terreiro do Paço', meaning 'Grounds of the Palace', relating to its function before the Great Earthquake of 1755. The upper floors of the yellow buildings surrounding the square are mainly used as government offices, while the lower floors often contains cafés and restaurants. King Josef I, who ruled during the reconstruction of Lisbon, is seen as a mounted statue in the middle of the square, while the arch facing north is a tribute to the explorer Vasco da Gama.
+}}
+* {{see
+| name=Praça Dom Pedro IV | alt=Rossio | url= | email=
+| address= | lat= | long= | directions={{rint|metro}}{{station|city=lisbon|Rossio|verde}}
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q1549270
+| lastedit=2021-07-23
+| content=One of Lisbon's principal squares. A statue of King Pedro IV stands on a column in the centre. The square, a popular meeting point for local and tourists, is known for its wavy black-and-white stone pavement.
+}}
+* {{see
+| name=Praça da Figueira | alt= | url= | email=
+| address= | lat= | long= | directions={{rint|heritagetram}}{{rint|tram}}{{station|Praca da Figueira|city=lisbon|12e|15e}}, {{rint|metro}}{{station|Rossio|city=lisbon|verde}}
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q1305091
+| lastedit=2021-07-23
+| content=This large square has an equestrian statue of King João I. An important transport hub, the square is surrounded by hotels, cafés, and shops in four-storey buildings dating back to the rebuilding after the 1755 Great Earthquake.
+}}
+* {{see
+| name=Praça dos Restauradores | alt= | url= | email=
+| address= | lat= | long= | directions={{rint|metro}}{{station|Restauradores|city=lisbon|azul}}, {{rint|funicular}}{{station|Restauradores - Glória|city=lisbon|51E}}
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q959567
+| lastedit=2021-07-23
+| content=This major square lies at the southeast end of Avenida da Liberdade. The Monument to the Restorers, a {{m|30}} obelisk commemorating the 1640 restoration of Portugal as a kingdom separate from Spain, sits in the middle of the square.
+}}
+* {{see
+| name=Rossio Station | alt= | url= | email=
+| address= | lat=38.714722 | long=-9.142222 | directions=Metro station {{station|Restauradores|azul}} or {{station|Rossio|Verde}}
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Rossio railway station | image=EstacaoRossioLisboa.JPG | wikidata=Q431458
+| content=Built in 1890 as the Estação Central (Central Station), it was the main railway hub until 1957. It provides a direct connection to Sintra in about 40 min. The trains access the station through a 2.6-km long tunnel. The main facade is an example of the Neo-Manueline style, a revival of Gothic style in Portugal during the mid-19th century.
+}}
+* {{see
+| name=Santa Justa Lift {{rint|lisbon|54e}}| alt= | url=http://www.carris.pt/en/elevators/ | email=
+| address=Largo do Carmo - Rua do Ouro | lat=38.71194 | long=-9.13917 | directions=
+| phone= | tollfree= | fax=
+| hours=08:30-20:30 (viewing platform) | price=€1.50
+| wikipedia=Santa Justa Lift | image=Lisbon (Lisboa) historic elevator Santa Justa Luca Galuzzi 2006.jpg | wikidata=Q168001
+| lastedit=2016-09-24
+| content=Excellent vertical view of the Baixa streets, next to Igreja do Carmo. The line can be quite long, you may want to consider walking up and riding it down instead.
+}}
+
+==Do==
+* {{do
+| name=Teatro Nacional Dona Maria II | alt=Queen Maria II National Theatre | url=https://www.tndm.pt/en/ | email=geral@tndm.pt
+| address=Praça Dom Pedro IV (Rossio) | lat= | long= | directions=
+| phone=+351 21 325 0800 | tollfree=
+| hours= | price=
+| wikidata=Q116125
+| lastedit=2021-07-24
+| content=The most famous live theatre stage in Lisbon. The Neoclassical and Palladian building was built in the 1840s and has been a national monument since 2003.
+}}
+* {{do
+| name=Lisboa em Fado | alt=Fado in Lisbon | url=https://lisboaemfado.pt/en | email=lisboaemfado@gmail.com
+| address=Rua do Crucifixo 84 | lat=38.710545 | long=-9.13881 | directions=In front of metro station Baixa Chiado
+| phone=+351 911 777 388 | tollfree=
+| hours=14:00-19:00 | price=€19
+| image=
+| lastedit=2023-03-12
+| content=A typical Portuguese Fado concert hall with daily evening shows. Run by a young Fado guitarist from Lisbon. The show lasts about one hour.
+}}
+
+==Buy==
+* {{buy
+| name=Chocolataria Equador | alt= | url=https://www.cacaoequador.pt/ | email=
+| address=Rua da Prata 97 | lat= | long= | directions=
+| phone=+351 213420472 | tollfree=
+| hours= | price=
+| lastedit=2025-02-08
+| content=Chocolates, truffles, and barks that are as beautiful as they are delicious. Try the hot chocolate, served elegantly with a chocolate covered cherry.
+}}
+
+==Eat==
+* {{eat
+| name=Leitaria Camponeza | alt= | url= | email=leitaria.acamponeza@gmail.com
+| address=Rua dos Sapateiros, 155 | lat=38.71165 | long=-9.13858 | directions=Baixa, 1 min from main street
+| phone=+351 923 132 488 | tollfree= | fax=
+| hours=Daily 19:00-23:00 | price=€15-30
+|lastedit=2021-09-29| content=On the location of a historical café (the ''leitaria''), this place focuses on only a short number of dishes (meats, fish and seafood) but makes up for this in quality and portion size. For an atmospheric presentation ask for one of their ''espetadas''. The wines complement the dishes and you can end the meal with a dessert. For someone looking for great value for their buck (no compromises on quality), it's a good place to start or end an evening.
+}}
+* {{eat | name=Mercado da Praça da Figueira | alt= | url=https://varn.pt/mercado-da-praca-da-figueira/ | email=mercadodafigueira@varn.pt | address=Praça da Figueira 10B | lat=38.7141 | long=-9.1372 | directions= | phone=+351 211 450 650 | tollfree= | hours=Mon–Sat 08:30–20:00, closed Sun | price= | lastedit=2021-01-08 | content=From the pavement looks like a small convenience shop, on walking in you realize the deception when confronted by the large cavernous meandering interior space, replete with everything expected from a well stocked supermarket. Although there isn't a restaurant as such, the ready to eat items on offer are tasty, fresh, inexpensive and varied. The sandwiches and hamburgers are superb.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{eat
+| name=Mercado Oriental | alt=Supermercado Oriental - Amanhecer | url= | email=
+| address=R. Palma 41 A | lat=38.7160 | long=-9.1369 | directions=Martim Moniz Station
+| phone=+351 962 733 482 | tollfree=
+| hours=12:00–22:30 | price=Small dishes €3
+| content=A food court serving Asian street food and the only place in Lisbon where you can try Macanese cuisine (at a stall called "Taberna Macau").
+}}
+* {{eat
+| name=Néctar WineBar | alt= | url= | email=
+| address=R. dos Douradores, 33 | lat=38.71031 | long=-9.13632 | directions=Baixa Pombalina
+| phone=+351 912633368 | tollfree=
+| hours=Mon-Sat 13:00-24:00 | price=€25-35
+| content=A place dedicated to the promotion of Portugal's wine and gastronomic culture, and featuring a daily lunch menu of Portuguese and Mediterranean cuisine. The wine list comprises – in its vast majority – a selection of Portuguese wines which best represent the country. Wine can be bought by the glass, and it is served at the appropriate temperatures and in suitable glasses. Dishes – served in portions for 2 – easily replace a main course meal. Homemade-style desserts, for which sweet wines can be suggested. A modern and cosy atmosphere.
+}}
+* {{eat
+| name=Restaurante Bonjardim | alt= | url= | email=
+| address=Tv. de Santo Antão 11 | lat=38.715933 | long=-9.140602 | directions=Baixa – 2 bldgs on a small side street off Rua Santo Antão
+| phone=+351 21 342 4389 | tollfree= | fax=
+| hours=Daily 12:00-23:00 | price=
+| lastedit=2017-05-01
+| content=Appropriately nicknamed ''Rei dos Frangos'', this is home to the best greasy spit-roasted chicken this side of Louisiana.
+}}
+* {{eat
+| name=Restaurante Gambrinus | alt= | url=http://www.gambrinuslisboa.com/ | email=info@gambrinuslisboa.com
+| address=Rua das Portas de Santo Antao, 23 | lat=38.71530 | long=-9.13977 | directions=Four Seasons Hotel Ritz
+| phone=+351 21 342 1466 | tollfree= | fax=
+| hours=Daily 12:00-01:30 | price=
+| lastedit=2017-05-07
+| content=A restaurant-bar which is one of the most chic places in the city. Highly recognized in Lisbon as something of an institution, it attracts an eclectic crowd where the appeal is food and a great selection of beers, wines and spirits. Features smoking room, private parking with a doorman.
+}}
+
+==Drink==
+* {{drink
+| name=Bar Trobadores | alt= | url= | email=
+| address=Rua de São Julião, 27 | lat=38.709624 | long=-9.135293 | directions=
+| phone=+351 21 885-0329 | tollfree= | fax=
+| hours= | price=
+| content=Medieval bar in downtown with a cozy atmosphere and a diverse range of traditional Portuguese delicacies. National and international beers.
+}}
+* {{drink
+| name=Café Martinho da Arcada | alt= | url=http://www.martinhodaarcada.pt/ | email=reservas@martinhodaarcada.pt
+| address=Praça do Comércio, 3 | lat=38.70869 | long=-9.13586 | directions=
+| phone=+351 218 879 259 | tollfree= | fax=
+| hours=Mon-Sat 12:00-15:00 19:00-22:00 | price=
+| image=Café Martinho da Arcada 8681.jpg | wikidata=Q10326949
+| lastedit=2017-05-07
+| content=Established in 1782, this is the oldest continuously-operating café in Lisbon and throughout its history has been associated with important politicians, writers, and intellectuals. Writer Fernando Pessoa had a permanent table reservation, as did the late Nobel laureate José Saramago.
+}}
+
+==Sleep==
+*{{sleep | name=Beira Minho | alt= | url=http://www.pensaobeiraminho.com/ | email= | address=Praça da Figueira, 6 | lat=38.714198 | long=-9.137737 | directions= | phone=+351 21 346-1846 | tollfree= | fax= | checkin= | checkout= | price= | content=A great location, but with few amenities.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+*{{sleep
+| name=Bom Conforto Casa de Hospedes | alt= | url= | email=bomconforto@gmail.com
+| address=Rua Dos Douradores, 83, 3.º DTO. | lat=38.711605 | long=-9.136788 | directions=
+| phone=+351 21 887-8328 | tollfree= | fax=
+| checkin= | checkout= | price=€20 singles
+| content=Very clean, quiet, and comfortable. Helpful and sweet English-speaking staff.
+}}
+*{{sleep
+| name=Hotel Avenida Palace | alt= | url=http://www.hotelavenidapalace.pt | email=reservas@hotelavenidapalace.pt
+| address=Rua 1º de Dezembro, 123 | lat=38.71477 | long=-9.1412 | directions=
+| phone=+351 21 321-8100 | tollfree= | fax=+351 21 342-2884
+| checkin= | checkout= | price=Expensive
+| wikidata=Q2676124
+| content=It's in the emblematic Restauradores Square in a neoclassical building.
+}}
+*{{sleep
+| name=Goodnight Backpackers Hostel | alt= | url=http://goodnighthostel.com | email=gnbookings@gmail.com
+| address=Rua dos Correeiros 113, 2nd | lat=38.711327 | long=-9.137580 | directions=
+| phone=+351 21 343-0139 | tollfree= | fax=
+| hours=24 hr| checkin= | checkout= | price=€18-20
+| content=The interior design looks a bit like IKEA show-room, the staff know where the good places to go out dancing and drinking are and the location works for a budget traveler.
+}}
+*{{sleep
+| name=Pensão Norte | alt= | url= | email=
+| address=Rua dos Douradores, 159 | lat=38.7128 | long=-9.1373 | directions=
+| phone=+351 21 887-8941 | tollfree=
+| checkin= | checkout= | price=
+| content=B&B style pension with friendly and accommodating staff in a quiet area.
+}}
+*{{sleep
+| name=Rossio Hostel | alt= | url=http://www.rossiohostel.com | email=rossiohostel@hotmail.com
+| address=Calçada do Carmo, 6 | lat=38.7137 | long=-9.1401 | directions=
+| phone=+351 21 342-6004 | tollfree=
+| checkin=14:00 | checkout=12:00 | price=
+| content=Great location, great staff, great free cooked breakfast, great hostel. The hostel offers dorms and privates. Free internet, TV room, lounge.
+}}
+*{{sleep | name=Travellers House | alt= | url=http://www.travellershouse.com | email=info@travellershouse.com | address=Rua Augusta, 89 | lat=38.7100 | long=-9.1376 | directions= | phone=+351 21 011-5922 | tollfree= | checkin= | checkout= | price=Beds starting at €15 | content=Nice hostel with lots of extras. Friendly staff and easy to meet people with their nightly activities. Free WiFi, breakfast, coffee and tea, maps and city advice, lots of guide books to look at and a book exchange for travelers who are tired of reading the same book over and over again.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+*{{sleep
+| name=Yes Hostel | alt= | url= | email=infolisbon@yeshostel.com
+| address=Rua de São Julião 148 | lat=38.7091 | long=-9.1377 | directions=
+| phone=+351 21 342-7171 | tollfree=
+| checkin= | checkout= | price=4 person dorms starting at €15
+| content=Relaxed and comfortable hostel with an excellent location. One of the largest hostels in Lisbon; opened in July 2009. Comfortable beds in large dorms, key operated lockers, free computer access as well as WiFi in every room, free breakfast, complimentary coffee and tea, 24 hour bar, access to their professional kitchen. Very friendly and accommodating staff. 3-course Portuguese dinners for €8 by their in-house chef.
+}}
+
+==Connect==
+
+{{IsPartOf|Lisbon}}
+{{usabledistrict}}
+{{geo|38.7114|-9.1377}}

@@ -1,0 +1,252 @@
+{{pagebanner|caption=Mosteiro dos Jerónimos, a UNESCO world heritage site|unesco_whs=yes|pgname=Belém}}
+
+'''Belém''' is a district in [[Lisbon]], [[Portugal]].
+
+==Get in==
+{{mapframe}}
+{{mapshape|wikidata=Q413311, Q1017927, Q18500330|stroke-width=0}}
+
+Take bus '''728''' to the west (direction Restelo), which follows the coast line and provides an express service with few stops. Or take the Cascais suburban train (line ''Cascais todos'' or ''Oeiras''; the express trains don't stop in Belém) to Belém and walk to the attractions. Tram '''{{rint|lisbon|15e}}''' to the west (Algés direction) follows the Junqueira residential line. Check the route map inside the tram: it helps to find the right station for the most famous of Belém attractions. The extensive bus network also serves Belém from various departure points around the city and can be less busy than the tram.
+
+To reach the waterfront attractions such as Belem Tower and Padrão dos Descobrimentos from the town centre/tram line, you must cross over the railway line by the footbridges – there is one at the railway station and another near Belem Tower, and a tunnel by the Monument to the Discoverers.
+
+==See==
+[[File:Torre Belém April 2009-4a.jpg|thumb|Torre de Belém]]
+[[File:Mosteiro dos Jeronimo (346721179).jpg|thumb|The sheer size of the Jeronimos Monastery is astounding enough, coupled with the ornate Gothic decoration]]
+[[File:Museu Nacional dos Coches (4904043960).jpg|thumb|Museu Nacional dos Coches]]
+
+This monument-packed area is a must-see place, and it contains Lisbon's two {{UNESCO}}s: the Belém Tower and the Jerónimos Monastery.
+
+* {{see
+| name=Ajuda Botanical Gardens | alt=Jardim Botânico da Ajuda | url=http://www.isa.ulisboa.pt/jba/apresentacao | email=botanicoajuda@isa.ulisboa.pt
+| address=Calçada da Ajuda | lat=38.706208 | long=-9.200807 | directions=Tram stop {{station|Calçada da Ajuda (GNR)|18e}}
+| phone=+351 21 362 2503 | tollfree= | fax=
+| hours=Daily 09:00-20:00 (summer), 09:00-18:00 (winter) | price=€2
+| image=Topiary in Jardim Botânico da Ajuda 73.jpg | wikidata=Q5394216
+| content=The botanical garden of Ajuda is one of the oldest gardens in Europe and is considered the first in Portugal. After the earthquake that occurred in 1755, the homeless Portuguese royal family decided to build a new royal residence at Ajuda but also gardens around it. This 10-acre garden was laid out in from 1858-1873.
+}}
+* {{see
+| name=Centro Cultural de Belém | alt=CCB, Belém Cultural Center | url=https://www.ccb.pt/en/ | email=
+| address=Praça do Império | lat= | long= | directions=
+| phone=+351 21 361 2400 | tollfree=
+| hours= | price=
+| wikidata=Q1054277
+| lastedit=2021-07-21
+| content=CCB is a {{m2|140000}} complex of artistic and cultural venues. It has spaces for meetings and conferences, performing arts (film, opera, ballet, theatre, and music), and art exhibits (art, architecture, design, and photography).
+}}
+* {{see
+| name=Monument to the Discoveries | alt=Padrão dos Descobrimentos | url=http://www.padraodosdescobrimentos.pt/ | email=
+| address= | lat=38.693611 | long=-9.205556 | directions=Tram stop {{station|Mosteiro dos Jerónimos|15e}}
+| phone= | tollfree= | fax=
+| hours= | price=€4
+| wikipedia=Padrão dos Descobrimentos | image=Belem.Padrao09.jpg | wikidata=Q1133712
+| content=Climbing the monument gives you a spectacular view of Belém.
+}}
+* {{see
+| name=Mosteiro dos Jerónimos | alt=Jerónimos Monastery | url=http://www.patrimoniocultural.gov.pt/en/museus-e-monumentos/dgpc/m/mosteiro-dos-jeronimos/ | email=
+| address=Praça do Império | lat=38.69832 | long=-9.20665 | directions=Tram stop {{station|Mosteiro dos Jerónimos|15e}}
+| phone=+351 21 362 0034 | tollfree=
+| hours=Oct-May: Tue-Sun 10:00-17:30; May-Sep: Tue-Sun 10:00-18:30; last entry 30 min before closing; closed 1 Jan, Easter, 1 May, 13 Jun, and 25 Dec | price=€18 (adults), €9 (seniors/students/youth card), free (children under 12); free admission to the church and on first Sun of the month. Note that tickets are sold from the neighbouring archeological museum, not at the monastery entrance
+| wikipedia=Jerónimos Monastery | wikidata=Q272781
+| lastedit=2017-05-08
+| content=A {{UNESCO}}, the monastery was built in the 16th century and is an outstanding example of the Portuguese late Gothic Manueline style.
+}}
+* {{see
+| name=Museum of Art, Architecture and Technology | alt=MAAT – Museu de Arte, Arquitetura e Tecnologia | url=https://www.maat.pt/en | email=maat@edp.pt
+| address=Avenida Brasília | lat= | long= | directions=
+| phone=+351 21 002 8130 | tollfree=
+| hours=Wed–Mon 11:00–19:00 (Jun–Sep: Fri Sat until 22:00), closed Tue | price=Adults {{EUR|9}}, kids 12+/students/seniors 65+ {{EUR|6}}, kids under 12 free,15 Jul–31 Aug: 20% discount off all tickets (admission includes Tejo Power Station)
+| wikidata=Q27522479
+| lastedit=2021-07-21
+| content=This museum of contemporary art is housed in a riverside building of contemporary design.
+}}
+* {{see
+| name=Museu Colecção Berardo | alt= | url=http://www.museuberardo.com/ | email=
+| address=Centro Cultural de Belém | lat=38.695521 | long=-9.208378 | directions=
+| phone= | tollfree= | fax=
+| hours=10:00-19:00 | price=€5
+| wikipedia=Berardo Collection Museum | image=Berardo Collection Museum.png | wikidata=Q2191491
+|lastedit=2019-08-02| content=The permanent collection of the museum consists of the Berardo Collection, which is made up of modern and contemporary art, with major art movements like abstract expressionism, Abstraction-Création, action painting, body Art, constructivism, cubism, De Stijl, digital art, experimental art, geometric abstraction, kinetic art, minimal art, neo-expressionism, neo-plasticism, neo-Realism, op art, photography, photorealism, pop art, realism, suprematism, surrealism. Includes artists like Piet Mondrian, Andy Warhol, Roy Lichtenstein, Pablo Picasso and Jackson Pollock, and Francis Bacon.
+}}
+* {{see
+| name=Museu da Marinha | alt=Navy Museum | url=https://ccm.marinha.pt/pt/museu/ | email=
+| address=Praça do Império | lat= | long= | directions=
+| phone=+351 21 362-0019 | tollfree=
+| hours=May–Sep 10:00–18:00 daily, Oct–Apr 10:00–17 daily | price=Adults {{EUR|7.00}}, seniors 65+ & youths 4–12 {{EUR|3.50}}, kids 0–3 free, family (2 adults & 2 youths) {{EUR|18.00}}
+| wikidata=Q1540177
+| lastedit=2021-07-21
+| content=One of the most important in Europe, evoking Portugal's domination of the seas. Its colossal 17,000 items are installed in the west wing of Jerónimos Monastery, and include model ships from the Age of Discovery onward. The oldest exhibit is a wooden figure representing the Archangel Raphael that accompanied Vasco da Gama on his voyage to India.
+}}
+* {{see | name=Museu Nacional dos Coches | alt=National Coach Museum | url=http://museudoscoches.pt/pt/ | email= | address=Praça Afonso de Albuquerque, Belem | lat=38.697778 | long=-9.199722 | directions=Tram or train to Belem | phone= | tollfree= | hours=10:00-18:00 | price=€8 | wikipedia=National Coach Museum | image=Museu dos Coches 03 (17685165883).jpg | wikidata=Q1659559 | content=Housed in the former riding school of the palace, don't miss the world's largest collection of horse-drawn coaches and other royal vehicles. One of Lisbon's many unusual museums. In the "Museum street", Belem.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{see
+| name=Planetário Calouste Gulbenkian | alt=Calouste Gulbenkian Planetarium | url=https://ccm.marinha.pt/pt/planetario | email=planetario@marinha.pt
+| address=Praça do Império | lat= | long= | directions=
+| phone=+351 21 097 7350 | tollfree=
+| hours=Temporarily closed for renovations; planned reopening Oct 2021 | price=Adults {{EUR|5}}, seniors 65+ & kids 4-12 {{EUR|2.50}}, kids 0-3 free, family (2 adults & 2 youths) {{EUR|12}}
+| wikidata=Q10350266
+| lastedit=2021-07-21
+| content=The planetarium has 32 star projectors, capable of presenting more than 9,000 stars. It holds a chunk of moon rock given by U.S. President Richard Nixon.
+}}
+*{{see
+| name=Ponte 25 de Abril | alt= | url= | email=
+| address= | lat=38.68975 | long=-9.177194 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=25 de Abril Bridge | image=25th April Bridge and boat.JPG | wikidata=Q721152
+| content=This sister bridge of the San Francisco – Oakland Bay Bridge was designed by the same architect in 1966 to connect Lisbon with the Setubal peninsula across the Tagus (Tejo) River. Formerly known as the Salazar Bridge, it was renamed after the Carnation Revolution which, on 25 April 1974, ended the dictatorship.
+}}
+* {{see
+| name=Statue to Afonso de Albuquerque | alt= | url= | email=
+| address= | lat=38.69667 | long=-9.20027 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=In front of the former Royal Palace of Belém, now the Presidential Palace, there is a massive statue looking out to sea, representing Afonso de Albuquerque, second ruler of Portuguese India in the early 16th century.
+}}
+* {{see
+| name=Tejo Power Station | alt=Central Tejo, f/k/a Museu da Electricidade, Electricity Museum | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=Admission included in the price of the [[#Q27522479|Museum of Art, Architecture and Technology]]
+| wikidata=Q968458
+| lastedit=2021-07-21
+| content=This disused power station is now a museum dedicated to the science, industry, and history of electricity production in Portugal.
+}}
+* {{see
+| name=Torre de Belém | alt=Belem Tower | url=http://www.patrimoniocultural.gov.pt/en/museus-e-monumentos/dgpc/m/torre-de-belem/ | email=
+| address=Av. Brasília | lat= | long= | directions=Tram stop {{station|Largo da Princesa|15e}}
+| phone=+351 21 362 0034 | tollfree=
+| hours=Oct-May: Tue-Sun 10:00-17:30; May-Sep: Tue-Sun 10:00-18:30; last entry 30 min before closing; closed 1 Jan, Easter, 1 May, 13 Jun, and 25 Dec | price=€6 (adults), €3 (seniors/students/youth card), free (children under 12); free admission on first Sun of the month. Combined ticket with Mosteiro dos Jerónimos €12, combined ticket with Mosteiro dos Jerónimos and Museu Nacional de Arqueologia €16, combined ticket with 5 other sites €25 (see website for details)
+| wikidata=Q215003
+| lastedit=2017-05-08
+| content=A {{UNESCO}}, the iconic fortified tower was built in the early 16th century in the late Gothic Manueline style as a fortress. It was said to be the last thing Portuguese explorers saw when departing, and the first thing they saw upon return. It was later used as a prison for political prisoners, and is today one of the most recognized symbols of Lisbon and Portugal.
+}}
+* {{see
+| name=Museu da Carris | alt=City transport museum | url=https://museu.carris.pt/en/homepage-museu/ | email=
+| address=Rua 1º de Maio, 101 – 103, 1300-472 Lisboa | lat=38.702317 | long=-9.180492 | directions=Tram or bus stop Estação De Santo Amaro
+| phone= | tollfree=
+| hours=Mon-Sat, 1000-1300 and 1400-1800 | price=€4.50, €2.50 for over 65s, under 6 free
+| lastedit=2026-03-21
+| content=Transport museum with various old trams and buses on display.
+}}
+
+==Do==
+* {{do
+| name=Quake - Lisbon Earthquake Centre | alt=Quake - Centro do Terramoto de Lisboa | url=https://lisbonquake.com/en-GB | email=
+| address=R. Cais de Alfândega Velha 39, 1300-598 | lat=38.697324 | long=-9.197069 | directions=next to the National Coach Museum
+| phone= | tollfree=
+| hours=10:00-18:00 | price=Adults €22.50-€31; children (aged 6 to 12) €16-€21.50; seniors (aged over 65) €18-€25
+| lastedit=2025-08-18
+| content=A fully interactive museum on the Lisbon Earthquake of 1755.
+}}
+* {{do
+| name=Selva Comedy Cafe: Life in Lisboa - A cultural comedy show | alt= | url=https://fienta.com/s/life-in-lisboa-a-cultural-comedy-show | email=
+| address=R. Luís de Camões 112 A| lat=38.70467707792925 | long=-9.182947702376435 | directions=
+| phone=+351 21 590 4192
+| tollfree=
+| price=€15
+| hours=Every Saturday 8:30PM
+| wikidata=
+| lastedit=2026-09-17
+| content=This comedy show is 100% in English and features well known comedians from the local and international scene in Lisbon. The comedians have experienced dating disasters, rental nightmares, cultural quirks, and they will tell it all. It's a night full of hilarity and good times. A great way to gain a cultural insight into what it's like being a Lisboeta.
+}}
+
+==Buy==
+
+==Eat==
+* {{eat
+| name=Eneko Lisboa | alt= | url=https://www.enekoatxalisboa.com/ | email=reservas@enekoatxalisboa.com
+| address=Rua Maria Luisa Holstein 15 | lat=38.7037 | long=-9.1765 | directions=
+| phone=+351 21 583 3275 | tollfree=
+| hours=Wed–Sat 19:00–22:30, closed Sun–Tue | price={{EUR|110-125}}
+| lastedit=2021-07-19
+| content=Michelin-starred restaurant by Spanish Basque chef Eneko Atxa. Attached to a more laid-back space called "Basque".
+}}
+* {{eat
+| name=Feitoria | alt= | url=https://www.restaurantefeitoria.com/ | email=reservationsbelem@altishotels.com
+| address=Doca do Bom Sucesso | lat=38.6934 | long=-9.2105 | directions=Altis Belém Hotel & Spa
+| phone=+351 21 040 0208 | tollfree=
+| hours=Tue–Sat 19:00–22:30, closed Sun Mon | price={{EUR|120-140}}
+| lastedit=2021-07-19
+| content=Michelin-starred seafood restaurant by the docks.
+}}
+* {{eat | name=A Marítima do Restelo | alt= | url=https://maritimadorestelo.negocio.site/ | email= | address=Rua Bartolomeu Dias 110 | lat=38.6953 | long=-9.2124 | directions= | phone=+351 21 301 0577 | tollfree= | hours=Tue–Sat 12:00–15:30 & 19:00–22:30, Sun 12:00–15:30, closed Mon | price=Mid-range | lastedit=2021-07-22 | content=Seafood restaurant by the water.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{eat
+| name=Prova - Enoteca | alt= | url=https://www.facebook.com/ProvaEnoteca/ | email=geral@provaenoteca.com
+| address=Rua Duarte Pacheco Pereira 9E | lat=38.6984 | long=-9.2186 | directions=
+| phone=+351 21 581 9080 | tollfree=
+| hours=Tue–Sat 11:00–15:00 & 18:00–22:00, Sun 11:00–15:00, closed Mon | price={{EUR|9-40}}
+| lastedit=2021-07-21
+| content=Modern, urban wine bar serving seafood and sausage & cheese platters in a convivial atmosphere.
+}}
+* {{eat
+| name=Taberna dos Ferreiros | alt= | url=https://www.facebook.com/Taberna-dos-Ferreiros-171245370157256/ | email=tabernadosferreirosmrp@gmail.com
+| address=Travessa Ferreiros a Belém 5 | lat=38.6976 | long=-9.2019 | directions=
+| phone=+351 21 587 3837 | tollfree=
+| hours=Tue–Sat 12:00–16:30 & 19:00–22:00, Sun 12:00–16:30, closed Mon | price={{EUR|10-25}}
+| lastedit=2021-07-21
+| content=A fresh take on Mediterranean cuisine.
+}}
+
+==Drink==
+[[File:Pasteis de Belem (4128575449).jpg|thumb|There is absolutely no way you can leave Lisbon without tasting the Pasteis de Belem]]
+
+* {{drink
+| name=Pastéis de Belém | alt=Antiga Confeitaria de Belém | url=http://pasteisdebelem.pt/en/ | email=
+| address=Rua de Belém 84 | lat=38.69763 | long=-9.20301 | directions=take eléctrico #15E from Praça do Comércio, or the Cascais suburban train line from Cais do Sodré station, to Belém stop
+| phone=+351 21 363 74 23 | tollfree= | fax=
+| hours=Daily 08:00-23:00 | price=
+| image=Pasteis de Belem (4128575449).jpg
+| lastedit=2017-05-01
+| content=The most famous of pastelarias, and justly so. They are served right out of the oven there, with the side of confectioner's sugar and cinnamon. As you navigate through the tile-covered labyrinthine passages of the expansive shop, stop to look at the workers behind glass panels turning the endless stream of these delicacies, just baked, each in its own little ramekin, over onto the waiting trays. These are absolutely a must-eat and you can't possibly regret it.
+}}
+
+==Sleep==
+* {{sleep
+| name=Altis Belem Hotel & Spa | alt= | url=https://www.altishotels.com/EN/HotelAltisBelem/Luxury-Hotel-Lisbon/ | email=reservations.belem@altishotels.com
+| address=Doca do Bom Sucesso | lat=38.6933 | long=-9.2108 | directions=
+| phone=+351 21 040 0200 | tollfree=
+| checkin=15:00 | checkout=12:00 | price={{EUR|143-302}}
+| lastedit=2021-07-22
+| content=Five-star, 50-room hotel overlooking the Tagus with pool, spa, gym, bar, and free Wi-Fi.
+}}
+* {{sleep
+| name=Hotel Jerónimos 8 | alt= | url=https://www.almeidahotels.pt/en/hotels-lisbon | email=Jeronimos8@almeidahotels.pt
+| address=Rua dos Jerónimos 8 | lat=38.6986 | long=-9.205 | directions=
+| phone=+351 21 360 0900 | tollfree=
+| checkin=14:00 | checkout=12:00 | price={{EUR|137-235}}
+| lastedit=2021-07-22
+| content=Four-star, 65-room hotel with bar, sauna, free breakfast, and free Wi-Fi.
+}}
+* {{sleep
+| name=Nau Palácio do Governador | alt= | url=https://www.palaciogovernador.com/en/ | email=bookings@nauhotels.com
+| address=Rua Bartolomeu Dias 117 | lat=38.6949 | long=-9.2148 | directions=
+| phone=+351 21 300 7009 | tollfree=
+| checkin=15:00 | checkout=12:00 | price={{EUR|119-248}}
+| lastedit=2021-07-22
+| content=Five-star, 60 room hotel with spa, gym, two swimming pools, business centre, free breakfast, and free Wi-Fi.
+}}
+*{{sleep
+| name=Pestana Palace Lisboa | alt= | url=https://www.pestanacollection.com/en/hotel/pestana-palace | email=reservas.portugal@pestana.com
+| address=Rua Jau 54 | lat=38.7037 | long=-9.1868 | directions=
+| phone=+351 21 361 5600 | tollfree=
+| checkin=16:00 | checkout=11:00 | price={{EUR|191-362}}
+| wikidata=Q111408559
+| lastedit=2021-07-21
+| content=Five-star, 192-room hotel in an old palace, with a wonderful garden and luxury spa.
+}}
+*{{sleep
+| name=Vila Galé Ópera | alt= | url=https://www.vilagale.com/en/hotels/lisbon-coast/vila-gale-opera | email=opera@vilagale.pt
+| address=Travessa Conde da Ponte | lat=38.6999 | long=-9.1802 | directions=
+| phone=+351 21 360 5400 | tollfree=
+| checkin=14:00 | checkout=12:00 | price={{EUR|64-173}}
+| lastedit=2021-07-21
+| content=Four-star, 259-room hotel next to the Tagus River. Adjoins Lisbon’s Congress Centre and the lively nightlife of Lisbon’s Docas area.
+}}
+
+==Connect==
+
+{{IsPartOf|Lisbon}}
+{{usabledistrict}}
+{{geo|38.7|-9.2}}

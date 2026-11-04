@@ -1,0 +1,190 @@
+{{pagebanner|caption=The magnificent Gare do Oriente (Lisbon Oriente Station), designed by Spanish architect Santiago Calatrava.}}
+
+'''Parque das Nações''' is a district in [[Lisbon]], [[Portugal]]. The "Park of the Nations" was built from scratch for  Expo '98 (1998 Lisbon World Exposition) in the northeastern end of Lisbon. After the Expo, many of the impressive constructions and decorations were kept, while new residential, commercial, and office buildings were added to form a thriving, mixed-use district consisting exclusively of modern architecture and making the most of its river-facing location by offering a number of leisure facilities.
+
+== Get in ==
+{{mapframe | 38.755 | -9.120 | height=650 | width=500 | zoom=13 }} 
+{{mapshapes|Q746032}}
+{{mapshape|wikidata=Q686717, Q1786435, Q1428475|stroke-width=0}}
+
+Metro line {{rint|lisbon|vermelha}} ("red", though it's pink on signage) runs cross-town to Parque das Nações, Oriente railway and bus station, and the airport. From the historic centre take the green line north and change at Alameda. 
+
+{{marker | name=Gare do Oriente | type=go | wikidata=Q801115 }} is Lisbon's principal transport hub, designed by Santiago Calatrava for Expo '98. All trains and buses call here, though some trains start downtown at Santa Apolónia. Level 0 is the plaza through the building's main arch. Level 1 has ticket kiosks and machines plus cafes and Level 2 has the platforms. Level -1 is retail, Level -2 is the Metro station with platforms on Level -3. 
+
+The taxi rank is west side, then the bus stands are just beyond. Not much here apart from the stands, as you use the facilities in the main building. No timetables, ticketing or departure info, again use the main building. 
+
+{{go
+| name=Marina Parque de Nações | alt= | url=https://marinaparquedasnacoes.pt/en/ | email=info@marinaparquedasnacoes.pt
+| address=Edifício da Capitania, Passeio de Neptuno | lat=38.7543 | long=-9.0936 | directions=
+| phone=+351 21 894 9066 | tollfree=
+| hours= | price=
+| lastedit=2021-07-22
+| content=The marina has moorings measuring {{m|6-25}} and various boating services are available.
+}}
+
+==See==
+* {{see
+| name=Feira Internacional de Lisboa | alt=FIL | url=https://www.fil.pt | email=fil@ccl.fil.pt
+| address=Rua do Bojador | lat= | long= | directions=
+| phone=+351 21 892 1500 | tollfree=
+| hours= | price=
+| wikidata=Q107610318
+| lastedit=2021-07-21
+| content=This venue, the size of 11 football pitches, hosts trade shows and similar exhibitions.
+}}
+* {{see
+| name=Jardim Garcia de Orta | alt= | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q10305687
+| lastedit=2021-07-21
+| content=A pleasant riverside garden with sculptures and other artworks.
+}}
+* {{see
+| name=Lisbon Oceanarium | alt=Oceanário de Lisboa | url=https://www.oceanario.pt/en | email=
+| address= | lat= | long= | directions=
+| phone=+351 21 891 7002 | tollfree=
+| hours= | price=Adults {{EUR|19}}, seniors 65+ {{EUR|13}}, children 4–12 {{EUR|10}}, children 0–3 free, family (2 adults + 2 children up to age 12) {{EUR|47}}, extra child {{EUR|6}}
+| wikidata=Q652806
+| lastedit=2021-07-21
+| content=One of the world's largest aquariums. Built by American architect Peter Chermayeff, it hosts thousands of marine species of the oceans, such as sea otters, penguins, and sharks. The main tank is huge, representing the Atlantic environment, with hundreds of small fishes, sharks, barracuda, snappers, and a huge sunfish. Ideal for children.
+}}
+*{{see
+| name=Pavilhão do Conhecimento - Centro Ciência Viva | alt=Pavilion of Knowledge - Living Science Centre | url=https://www.pavconhecimento.pt/en | email=
+| address=Largo José Mariano Gago 1 | lat= | long= | directions=
+| phone=+351 21 891 7100 | tollfree=
+| hours=Mon–Fri 10:00–18:00, Sat Sun & holidays 10:00–19:00 | price=Adults {{EUR|10}}, seniors 65+ {{EUR|7}}, youths 12–17 {{EUR|8}}, children 3–11 {{EUR|7}}, children 2 & under free, family (2 adults + children under 17) {{EUR|25}}
+| wikidata=Q10346955
+| lastedit=2021-07-21
+| content=Ciência Viva is an interactive science and technology museum that aims to make science accessible to all, stimulating experimentation and exploration of the physical world.
+}}
+*{{see
+| name=Ponte Vasco da Gama | alt=Vasco da Gama Bridge | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q233737
+| content=It is the longest bridge in Europe (including viaducts), and ninth longest in the world, with a total length of {{km|17.2}}, including {{km|0.829}} for the main bridge, {{km|11.5}} in viaducts, and {{km|4.8}} in dedicated access roads.
+}}
+
+==Do==
+* {{do | name=Altice Arena | alt=formerly MEO Arena, originally Pavilhão Atlântico | url=https://arena.altice.pt/en | email=info@aarena.pt | address=Rossio dos Olivais, Lote 2.13.01A | lat= | long= | directions= | phone=+351 21 891 8409 | tollfree= | hours= | price= | wikidata=Q1463929 | lastedit=2017-11-14 | content=This 20,000-seat arena hosts touring rock bands and Brazilian musicians.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{do
+| name=Casino Lisboa | alt= | url=http://www.casino-lisboa.pt/en/ | email=info.casinolisboa@estoril-sol.com
+| address=Alameda dos Oceanos 45 | lat= | long= | directions=
+| phone=+351 21 892 9000 | tollfree=
+| hours= | price=
+| wikidata=Q2941105
+| lastedit=2021-07-21
+| content=Among the gambling opportunities here are slot machines, poker, roulette, black jack, and baccarat. They have two restaurants, four bars, two entertainment venues, and an art gallery.
+}}
+* {{do
+| name=Teleférico do Parque das Nações | alt=Teleférico da Expo, Telecabine Lisboa | url=https://www.telecabinelisboa.pt/ | email=geral@telecabinelisboa.pt
+| address= | lat= | long= | directions=
+| phone=+351 21 895 6143 | tollfree=
+| hours=Summer 10:30–20:00, spring & autumn 11:00–19:00, winter 11:00–18:00 | price=Adults {{EUR|6.50}} one-way, {{EUR|8}} round-trip; kids 4–12 {{EUR|4.50}} one-way, {{EUR|5.50}} round-trip; kids 0–3 free
+| wikidata=Q2401546
+| lastedit=2021-08-15
+| content=An aerial tramway built for Expo '98. It operates between the Oceanarium and the Vasco da Gama Tower and offers excellent views of the fairgrounds, the river, the bridge, and beyond.
+}}
+
+==Buy==
+[[File:Centro Commerciale Vasco de Gama (3092552519).jpg|thumb|Vasco Da Gama shopping mall]]
+*{{buy
+| name=Centro Vasco da Gama | alt= | url=https://www.centrovascodagama.pt/en/ | email=
+| address= | lat= | long= | directions=Metro: Oriente Station
+| phone= | tollfree=
+| hours=Mon–Fri 10:00–22:30, Sat Sun 08:00–22:30 | price=
+| wikidata=Q2944893
+| content=A large shopping mall in the Parque Expo, featuring many international brands and a food court. There are 170 stores, including 33 restaurants, a health club, a hypermarket, and a 6-screen cinema.
+}}
+
+==Eat==
+* {{eat
+| name=A Avó Tinha | alt= | url=https://www.facebook.com/aavotinha/ | email=geral@aavotinha.com
+| address=Porta do Mar 3B | lat=38.759 | long=-9.096 | directions=
+| phone=+351 924 216 029 | tollfree=
+| hours=Daily 12:00–15:30 & 18:00-23:30 | price={{EUR|11-23}}
+| lastedit=2021-07-21
+| content=A modern take on traditional Portuguese dishes.
+}}
+* {{eat
+| name=D'Bacalhau | alt= | url=https://restaurantebacalhau.com/ | email=restaurantebacalhau@gmail.com
+| address=Rua da Pimenta 45 | lat=38.7713 | long=-9.0925 | directions=
+| phone=+351 21 894 1296 | tollfree=
+| hours=Daily 12:00–17:00 & 19:00–23:00 | price={{EUR|13-17}}
+| lastedit=2021-07-21
+| content=Specializing in cod, they also serve steaks and other fish. It's along the river with nice views from the upstairs dining room.
+}}
+* {{eat
+| name=Fifty Seconds | alt= | url=https://www.fiftysecondsexperience.com/ | email=info@fiftyseconds.pt
+| address=Cais das Naus, Lote 2.21.01 | lat=38.7746 | long=-9.0918 | directions=
+| phone=+351 21 152 5380 | tollfree=
+| hours=Tue–Thu 19:00–21:30, Fri Sat 12:30–14:00 & 19:00–21:30, closed Sun Mon | price={{EUR|130-185}}
+| lastedit=2021-07-20
+| content=Michelin-starred restaurant by Spanish chef Martín Berasategui, in the Myriad Sana Hotel {{m|120}} up the Vasco da Gama Tower, offering spectacular views.
+}}
+* {{eat
+| name=Oásis Vegetariano | alt= | url=https://www.facebook.com/OasisVegetariano | email=oasis.refugio.feliz@gmail.com
+| address=Rua Cais das Naus 12A | lat=38.7754 | long=-9.0941 | directions=
+| phone=+351 21 587 6997 | tollfree=
+| hours=Mon 12:00–16:00, Tue–Sat 10:00–15:30 & 19:30–23:00, closed Sun | price=Mid-range
+| lastedit=2021-07-21
+| content=Vegetarian and vegan dishes.
+}}
+* {{eat
+| name=Páteo Restaurante | alt= | url=https://www.pateorestaurante.pt/ | email=geral@pateorestaurante.pt
+| address=Edifício Adamastor, Avenida Dom João II 11B | lat=38.7637 | long=-9.0985 | directions=
+| phone=+351 21 868 7208 | tollfree=
+| hours=Mon–Fri 12:00–15:30 & 19:00–22:30, Sat 12:00–15:30, closed Sun | price={{EUR|10-25}}
+| lastedit=2021-07-21
+| content=Traditional Portuguese cuisine.
+}}
+
+==Drink==
+
+==Sleep==
+* {{sleep | name=HI Parque das Nações Youth Hostel | alt=Pousada de Juventude | url=https://pousadasjuventude.pt/en/youth-hostels/parquenacoes/ | email=lisboaparque@movijovem.pt | address=Rua de Moscavide 47 - 101 | lat=38.7783 | long=-9.0978 | directions= | phone=+351 21 892 0890 | tollfree= | checkin=18:00 | checkout=12:00 | price={{EUR|17-48}} | lastedit=2021-08-05 | content=18-room youth hostel with free breakfast and free Wi-Fi.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{sleep
+| name=Ibis Lisboa Parque das Nações Hotel | alt= | url=https://all.accor.com/hotel/8501/index.en.shtml | email=h8501@accor.com
+| address=Rua do Mar Vermelho, Lote 1 07 2 2 | lat=38.7711 | long=-9.0969 | directions=
+| phone=+351 21 073 0470 | tollfree=
+| checkin=12:00 | checkout=12:00 | price={{EUR|77-112}}
+| lastedit=2021-07-21
+| content=Three-star, 112-room hotel with bar, gym, and free Wi-Fi.
+}}
+* {{sleep | name=Myriad | alt=by Sana Hotels | url=https://www.myriad.pt/ | email=info@myriad.pt | address=Cais das Naus, Lote 2.21.01 | lat=38.7748 | long=-9.0917 | directions= | phone=+351 21 110 7600 | tollfree= | checkin=15:00 | checkout=12:00 | price={{EUR|187-272}} | lastedit=2021-07-21 | content=Five-star, 186-room hotel at the Vasco da Gama Tower offering panoramic river views. Amenities include indoor pool, spa, gym, restaurant, and bar.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{sleep
+| name=Olissippo Oriente | alt= | url=https://www.olissippohotels.com/en/Hotels/Oriente/The-Hotel.aspx | email=auditor.oo@olissippohotels.com
+| address=Avenida Dom João II 32 | lat=38.765 | long=-9.0978 | directions=
+| phone=+351 21 892 9100 | tollfree=
+| checkin=14:00 | checkout=12:00 | price={{EUR|104-189}}
+| lastedit=2021-07-21
+| content=Four-star, 182-room hotel with bar, conference facilities, business centre, and free Wi-Fi.
+}}
+* {{sleep
+| name=Tivoli Oriente Lisboa Hotel | alt= | url=https://www.tivolihotels.com/en/tivoli-oriente | email=oriente@tivoli-hotels.com
+| address=Av. D. João II 27 | lat=38.7675 | long=-9.1047 | directions=
+| phone=+351 21 891 5100 | tollfree=
+| checkin=14:00 | checkout=12:00 | price={{EUR|93-263}}
+| lastedit=2021-07-21
+| content=Four-star, 279-room hotel with swimming pool, gym, restaurant, bar, and conference facilities.
+}}
+* {{sleep
+| name=Meliá Lisboa Oriente | alt= | url=https://www.melialisboaoriente.com/ | email=melia.oriente@meliaportugal.com
+| address=Avenida D. João II, Lote 1.16 02.B | lat=38.7693 | long=-9.098 | directions=
+| phone=+351 21 893 0000 | tollfree=
+| checkin=14:00 | checkout=12:00 | price={{EUR|97-138}}
+| lastedit=2021-07-21
+| content=Four-star, 207-room hotel with restaurant, bar, conference facilities, concierge, and free Wi-Fi.
+}}
+
+==Connect==
+
+{{IsPartOf|Lisbon}}
+{{usabledistrict}}
+{{geo|38.7689|-9.0953}}

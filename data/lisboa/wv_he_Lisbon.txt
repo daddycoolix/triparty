@@ -1,0 +1,1488 @@
+{{חלק מ|פורטוגל}}
+{{באנר עם סמל|Lisbon WV Banner.jpg|אונסק"ו=כן|ליבה=כן}}
+{{יישוב
+|מפה={{מפת מיקום|מדינה=פורטוגל|שם=ליסבון|אורך=-9.18333333333333|רוחב=38.7|רוחב תצוגה=105|מפורט=לא|כותרת=לא|מוגדלת=לא|סוג=בירה}}
+|מדינה = [[פורטוגל]]
+|אוכלוסייה = 545,245 תושבים
+|שנת אוכלוסייה = 2011
+|צפיפות = 6,458
+|שנת צפיפות = 2011
+|שטח = 100,05
+|אזור זמן = UTC+0
+|אתר תיירות רשמי =
+}}
+'''ליסבון''' (בפורטוגזית: '''Lisboa''') היא עיר הבירה של [[פורטוגל]] והעיר הגדולה ביותר במדינה. העיר ממוקמת לאורך הגדות הציוריות של נהר הטאגוס. ליסבון משמשת כמרכז הפוליטי, הכלכלי והתרבותי של פורטוגל. האזור המטרופוליני של ליסבון מכיל מעל ל-2.9 מיליון תושבים, והוא מדורג כאזור העירוני ה-11 בגודל אוכלוסייתו באיחוד האירופי.
+
+ליסבון היא אחת הערים העתיקות בעולם. בעוד שבתחומי העיר התגלו עדויות להתיישבות אנושית עוד מהתקופה הפרהיסטורית, העיר עצמה נוסדה רשמית על ידי האימפריה הרומית במהלך המאה ה-2 לפני הספירה. לאורך ההיסטוריה העיר הייתה הן תחת שליטת השבטים הגרמניים והמוריים. ב-1147 העיר נכבשה על ידי כוחותיו של אפונסו הנריקס, ובעקבות כך היא הפכה לעיר המרכזית בפורטוגל. המורשת העשירה של ליסבון ניכרת כיום באתרים ההיסטוריים הרבים שפזורים ברחבי העיר. שתי אתרים מתויירים מרכזיים בעיר הם מנזר ג'רונימוס ומגדל בלם, אשר הוכרזו על ידי אונסק"ו כאתרי מורשת עולמית.
+
+אטרקציה מרכזית נוספת היא הסצנה הקולינרית של העיר אשר בה תוכלו למצוא הן מסעדות המתמחות בהכנת מאכלים מהמטבח הפורטוגזי המסורתי והן מסעדות המתמחות במאכלים ממטבחים שונים ברחבי העולם. 
+
+לאורך השנה נערכים בליסבון מגוון פסטיבלים ואירועי תרבות, כולל פסטיבלי מוזיקה, הקרנות של סרטים והצגות תיאטרון.
+
+האקלים החם של העיר והקרבה של העיר לאוקיינוס האטלנטי מהווים גם הם מוקד משיכה למבקרים רבים.
+
+לעיר תשתית תחבורה מפותחת היטב אשר הכוללת חשמליות, אוטובוסים ורכבות מטרו ומאפשרת להגיע בקלות לאטרקציות השונות של העיר.
+{{-}}
+== אזורי העיר ==
+{{רשימת אזורים
+| מפת אזורים=Lisboa freguesias - Wikivoyage City districts divison.png
+| תיאור מפת אזורים=מפת 24 ה-Freguesias (תתי האזורים המונציפליים של העיר) אשר מקובצים במפה לפי ששת האזורים העיקריים בעיר
+| גודל מפת אזורים=320px
+
+| שם אזור 1=אלפמה (Alfama)
+| צבע אזור 1=#AC5C91
+| פריטי אזור 1=
+| תיאור אזור 1=השכונה העתיקה ביותר בליסבון. הודות לסלע היציב ביותר עליו נבנתה השכונה המקום נפגע פחות ברעידת האדמה של 1755 ומשום כך הוא מכיל סמטאות מעוקלות ומבנים עתיקים רבים יותר. האטרקצייה המתויירת ביותר בשכונה זו היא טירת סאו חורחה (Castelo de São Jorge).
+
+| שם אזור 2= באיירו אלטו (Bairro Alto)
+| צבע אזור 2=#D5DC76
+| פריטי אזור 2=
+| תיאור אזור 2= השכונה ממוקמת במעלה גבעה, אליו ניתן להגיע ברגל או בפוניקולר, ממנה יש תצפית מרהיבה של העיר כולה. זהו אזור הבילויים וחיי הלילה של העיר אשר מכיל כמה ממועדוני הלילה הפופולריים ביותר בעיר.
+
+| שם אזור 3= באישה (Baixa)
+| צבע אזור 3=#4F93C0
+| פריטי אזור 3=
+| תיאור אזור 3=השכונה נבנתה מחדש לחלוטין לאחר רעידת האדמה של 1755. הפריסה המתוכננת היטב של השכונה שונה מאוד ממה שמקובל במרבית אזורי הערים העתיקות באירופה. האזור מכיל מגוון מסעדות, בתי קפה וחנויות.
+
+| שם אזור 4= בלם (Belém)
+| צבע אזור 4=#669966
+| פריטי אזור 4=
+| תיאור אזור 4=השכונה המערבית ביותר בליסבון המשתרעת לאורך חלק מרצועת החוף של העיר השכונה מכילה מוזיאונים רבים, פארקים רבים, בתי קפה רבים וטיילת ציבורית. זוהי אחת משכונות המתויירות ביותר בליסבון ובפורטוגל בפרט. האטרקציות המתויירות ביותר בשכונה הם מגדל בלם, פסל מגלי הארצות, ומנזר ז'רונימוש.
+
+| שם אזור 5= צפון ליסבון (Norte)
+| צבע אזור 5=#8888DC
+| פריטי אזור 5=
+| תיאור אזור 5=אזור בעל עניין מועט למדיי לתיירים. האטרקציה הבולטות ביותר באזור זה היא גן החיות של ליסבון וכמו גם תחנת הרכבת Sete Rios אשר נמצאים שניהם בקצה הדרומי של אזור זה.
+
+| שם אזור 6= פארק האומות (Parque das Nações)
+| צבע אזור 6=#D09440
+| פריטי אזור 6=
+| תיאור אזור 6=אזור שהוקם מאפס בשנת 1998 עבור התערוכה העולמית של ליסבון. לאחר התערוכה רבים מהמבנים המרשימים שהוקמו עבור התערוכה השתמרו, ולאורך השנים הוקמו גם בנייני מגורים, מבני מסחר ובנייני משרדים באזור זה.
+}}
+{{-}}
+
+== רקע כללי ==
+<!-- אנא הקפידו להוסיף סיכום מתומצת של העובדות החשובות ביותר בלבד. זכרו כי זהו מדריך שימושי למטייל ולא ערך אנציקלופדי מורחב בוויקיפדיה. -->
+{{להשלים}}
+[[קובץ:Lisboa - Vista Geral2.jpg|280px|ממוזער|מרכז ליסבון]]
+===רקע היסטורי===
+{{-}}
+===אקלים===
+{{מזג אוויר
+|location = ליסבון
+|metric first = yes
+|single line = yes
+|width= auto
+
+|Jan record high C = 22.6
+|Feb record high C = 24.8
+|Mar record high C = 29.4
+|Apr record high C = 32.2
+|May record high C = 34.8
+|Jun record high C = 41.5
+|Jul record high C = 40.6
+|Aug record high C = 41.8
+|Sep record high C = 37.3
+|Oct record high C = 32.6
+|Nov record high C = 25.3
+|Dec record high C = 23.2
+|year record high C = 41.8
+|Jan high C = 14.8
+|Feb high C = 16.2
+|Mar high C = 18.8
+|Apr high C = 19.8
+|May high C = 22.1
+|Jun high C = 25.7
+|Jul high C = 27.9
+|Aug high C = 28.3
+|Sep high C = 26.5
+|Oct high C = 22.5
+|Nov high C = 18.2
+|Dec high C = 15.3
+|year high C = 21.5
+|Jan mean C = 11.6
+|Feb mean C = 12.7
+|Mar mean C = 14.9
+|Apr mean C = 15.9
+|May mean C = 18.0
+|Jun mean C = 21.2
+|Jul mean C = 23.1
+|Aug mean C = 23.5
+|Sep mean C = 22.1
+|Oct mean C = 18.8
+|Nov mean C = 15.0
+|Dec mean C = 12.4
+|year mean C = 17.5
+|Jan low C = 8.3
+|Feb low C = 9.1
+|Mar low C = 11.0
+|Apr low C = 11.9
+|May low C = 13.9
+|Jun low C = 16.6
+|Jul low C = 18.2
+|Aug low C = 18.6
+|Sep low C = 17.6
+|Oct low C = 15.1
+|Nov low C = 11.8
+|Dec low C = 9.4
+|year low C = 13.5
+|Jan record low C = 1.0
+|Feb record low C = 1.2
+|Mar record low C = 0.2
+|Apr record low C = 5.5
+|May record low C = 6.8
+|Jun record low C = 10.4
+|Jul record low C = 14.1
+|Aug record low C = 14.7
+|Sep record low C = 12.1
+|Oct record low C = 9.2
+|Nov record low C = 4.3
+|Dec record low C = 2.1
+|year record low C = 0.2
+|Jan rain mm = 99.9
+|Feb rain mm = 84.9
+|Mar rain mm = 53.2
+|Apr rain mm = 68.1
+|May rain mm = 53.6
+|Jun rain mm = 15.9
+|Jul rain mm = 4.2
+|Aug rain mm = 6.2
+|Sep rain mm = 32.9
+|Oct rain mm = 100.8
+|Nov rain mm = 127.6
+|Dec rain mm = 126.7
+|year rain mm = 774
+|Jan rain days = 15.0
+|Feb rain days = 15.0
+|Mar rain days = 13.0
+|Apr rain days = 12.0
+|May rain days = 8.0
+|Jun rain days = 5.0
+|Jul rain days = 2.0
+|Aug rain days = 2.0
+|Sep rain days = 6.0
+|Oct rain days = 11.0
+|Nov rain days = 14.0
+|Dec rain days = 14.0
+|year rain days = 117.0
+|unit rain days = 0.1&nbsp;mm
+|Jan sun = 142.6
+|Feb sun = 156.6
+|Mar sun = 207.7
+|Apr sun = 234.0
+|May sun = 291.4
+|Jun sun = 303.0
+|Jul sun = 353.4
+|Aug sun = 344.1
+|Sep sun = 261.0
+|Oct sun = 213.9
+|Nov sun = 156.0
+|Dec sun = 142.6
+|year sun = 2806.3
+|source 1 = Instituto de Meteorologia{{כ}}<ref name=weather_Lisbon>{{cite web |url=http://www.meteo.pt/pt/oclima/normais.clima/1981-2010/012/ |title=Monthly Averages for Lisbon, Portugal (1981-2010)|publisher=Instituto de Meteorologia |accessdate=2012-08-10}}</ref>, Hong Kong Observatory{{כ}}<ref>[http://www.weather.gov.hk/wxinfo/climat/world/eng/europe/sp_po/lisbon_e.htm "Climatological Information for Lisbon, Portugal" (1961-1990)] - Hong Kong Observatory</ref>
+|date=August 2012
+|תחזית = {{forecastweathercom|ליסבון|LIS:9:PO}}
+}}
+
+==מוקדי עניין==
+{{להשלים}} 
+[[קובץ:Castelo Sao Jorge Lisboa 1.JPG|180px|ממוזער|טירת סאו ז'ורז'ה]]
+[[קובץ:Torre Belém April 2009-4a.jpg|210px|ממוזער|מגדל בלן]]
+
+===מוזיאונים וגלריות===
+*{{מוקדי
+| שם=Museu do Azulejo | שם חלופי=Tile Museum | האתר הרשמי=http://mnazulejo.imc-ip.pt/ | מייל=
+| כתובת= | lat=38.72499 | long=-9.11364 | הוראות=
+| טלפון= | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+
+*{{מוקדי
+| שם=The Calouste Gulbenkian Museum | שם חלופי= | האתר הרשמי=https://gulbenkian.pt/museu/en/ | מייל=
+| כתובת=Avenida de Berna, 45A | lat=38.73774 | long=-9.15351 | הוראות=
+| טלפון=+351 21 782-3000 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| lastedit=2016-02-07
+| תיאור=
+}}
+** {{מוקדי
+| שם=Centro de Arte Moderna | שם חלופי= | האתר הרשמי=https://gulbenkian.pt/cam/en/modern-collection/ | מייל=
+| כתובת=Rua Dr. Nicolau de Bettencourt | lat=38.73588 | long=-9.15357 | הוראות=
+| טלפון= | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+*{{מוקדי
+| שם=Museu da Água | שם חלופי=Water Museum | האתר הרשמי=https://www.epal.pt/EPAL/en/menu/water-museum | מייל=
+| כתובת= | lat=38.72127 | long=-9.15569 | הוראות=
+| טלפון= | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| lastedit=2016-09-24
+| תיאור=
+}}
+
+* {{מוקדי
+| שם=Museu da Marinha | שם חלופי=Maritime Museum | האתר הרשמי=http://museu.marinha.pt/museu/site/pt  | מייל=
+| כתובת=Centro Cultural de Belém | lat=38.69714 | long=-9.20793 | הוראות=
+| טלפון=+351 21 362-0019 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+
+* {{מוקדי
+| שם=Museu Nacional dos Coches | שם חלופי=National Coach Museum | האתר הרשמי=http://www.museudoscoches-ipmuseus.pt | מייל=
+| כתובת=Praça Afonso de Albuquerque, Belem | lat=38.69749 | long=-9.19963 | הוראות=
+| טלפון= | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+
+* {{מוקדי
+| שם=Museu Colecção Berardo | שם חלופי= | האתר הרשמי=http://mirror.berardocollection.com/?toplevelid=33&lang=en  | מייל=
+| כתובת=Centro Cultural de Belém | lat=38.69546 | long=-9.20916 | הוראות=
+| טלפון= | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+
+* {{מוקדי
+| שם=Museu Arte Arquitetura Tecnologia | שם חלופי=Museum of Art Architecture and Technology | האתר הרשמי=https://www.maat.pt/en | מייל=maat@edp.pt
+| כתובת=Av. de Brasília, Central Tejo | lat=38.69591 | long=-9.19464 | הוראות=
+| טלפון=+351 210 028 130 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| lastedit=2016-09-20
+| תיאור=
+}}
+* {{מוקדי
+| שם=Museu de Sociedade de Geografia | שם חלופי= | האתר הרשמי= | מייל=
+| כתובת= | lat= | long= | הוראות=
+| טלפון= | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+
+*{{מוקדי
+| שם=Museu Nacional de Arte Antiga | שם חלופי= | האתר הרשמי=http://www.mnarteantiga-ipmuseus.pt/  | מייל=
+| כתובת=Rua das Janelas Verdes | lat=38.70479 | long=-9.16152 | הוראות=
+| טלפון= | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+* {{מוקדי
+| שם=Museu da Marioneta | שם חלופי= | האתר הרשמי= | מייל=
+| כתובת= | lat=38.70811 | long=-9.15596 | הוראות=
+| טלפון= | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+
+*{{מוקדי
+| שם=Museu do Teatro Romano | שם חלופי=Roman Theatre Museum | האתר הרשמי=http://www.museuteatroromano.pt/Paginas/Default.aspx  | מייל=
+| כתובת= | lat=38.71027 | long=-9.13241 | הוראות=
+| טלפון= | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+
+=== מוקדי עניין נוספים ===
+*{{מוקדי
+| שם=טירת סאו ז'ורז'ה | שם חלופי=Castelo de São Jorge | האתר הרשמי=http://www.castelodesaojorge.pt/ | מייל=
+| כתובת= | lat=38.713889 | long=-9.133611 | הוראות=
+| טלפון=+351 218 800 620 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| image=Castelo Sao Jorge Lisboa 1.JPG | ויקיפדיה=טירת סאו ז'ורז'ה | ויקינתונים=Q636780
+| תיאור=
+}}
+
+* {{מוקדי
+| שם=מגדל בלן | שם חלופי=Torre de Belém | האתר הרשמי=http://www.torrebelem.pt/en/ | מייל=
+| כתובת=Av. Brasília | lat=38.69163 | long=-9.21593 | הוראות=
+| טלפון=+351 21 362 0034 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| wikipedia=Belém Tower | image=Torre Belém April 2009-4a.jpg | wikidata=Q215003
+| lastedit=2017-05-08
+| תיאור=
+}}
+*{{מוקדי
+| שם=Ponte 25 de Abril | שם חלופי= | האתר הרשמי= | מייל=
+| כתובת= | lat=38.6983 | long=-9.1790 | הוראות=
+| טלפון= | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+*{{מוקדי
+| שם=Ponte Vasco da Gama | שם חלופי= | האתר הרשמי= | מייל=
+| כתובת= | lat=38.7863 | long=-9.0916 | הוראות=
+| טלפון= | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+
+*{{מוקדי
+| שם=Praça do Comércio | שם חלופי= | האתר הרשמי= | מייל=
+| כתובת= | lat=38.70756 | long=-9.13645 | הוראות=
+| טלפון= | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+* {{מוקדי
+| שם=Rossio station | שם חלופי= | האתר הרשמי= | מייל=
+| כתובת= | lat=38.71439 | long=-9.14076 | הוראות=
+| טלפון= | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| wikipedia=Rossio railway station
+| תיאור=
+}}
+* {{מוקדי
+| שם=Palacio Foz | שם חלופי= | האתר הרשמי=http://www.palaciofoz.pt/ | מייל=reservaspalaciofoz@sg.pcm.gov.pt
+| כתובת=Praça dos Restauradores | lat=38.71578 | long=-9.14249 | הוראות=
+| טלפון=+351 21 322 12 00 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+* {{מוקדי
+| שם=Praca dos Restauradores | שם חלופי= | האתר הרשמי= | מייל=
+| כתובת= | lat=38.71576 | long=-9.14168 | הוראות=
+| טלפון= | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| wikipedia=Restauradores Square
+| תיאור=
+}}
+
+* {{מוקדי
+| שם=Casa do Alentejo | שם חלופי= | האתר הרשמי=http://www.casadoalentejo.com.pt/en/ | מייל=
+| כתובת=Rua Portas de Santo Antão, 58 | lat=38.71588 | long=-9.13986 | הוראות=
+| טלפון= | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+* {{מוקדי
+| שם=Praca dom Pedro IV | שם חלופי=Rossio | האתר הרשמי= | מייל=
+| כתובת= | lat=38.71378 | long=-9.13936 | הוראות=
+| טלפון= | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+* {{מוקדי
+| שם=Praca da Figueira | שם חלופי= | האתר הרשמי= | מייל=
+| כתובת= | lat=38.71373 | long=-9.13776 | הוראות=
+| טלפון= | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+* {{מוקדי
+| שם=Nossa Senhora da Conceicao Velha | שם חלופי= | האתר הרשמי= | מייל=
+| כתובת= | lat= | long= | הוראות=
+| טלפון= | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+
+* {{מוקדי
+| שם=Igreja do Carmo | שם חלופי= | האתר הרשמי=http://www.museuarqueologicodocarmo.pt/info_en.html | מייל=secretaria@arqueologos.pt
+| כתובת=Largo do Carmo | lat=38.71200 | long=-9.14057 | הוראות=
+| טלפון=+351 213 460 473 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| wikipedia=Carmo Convent (Lisbon) | image=Convento do Carmo (20512118802).jpg | wikidata=Q1470414
+| lastedit=2017-05-01
+| תיאור=
+}}
+
+* {{מוקדי
+| שם=Santa Justa elevator | שם חלופי= | האתר הרשמי=http://www.carris.pt/en/elevators/ | מייל=
+| כתובת=Largo do Carmo - Rua do Ouro | lat=38.71215 | long=-9.13920 | הוראות=
+| טלפון= | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| lastedit=2016-09-24
+| תיאור=
+}}
+
+* {{מוקדי
+| שם=Jardim de São Pedro de Alcântara | שם חלופי=Mirador | האתר הרשמי= | מייל=
+| כתובת=Rua S. Pedro de Alcântara | lat=38.71497 | long=-9.14406 | הוראות=
+| טלפון= | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| image=Miradouro-Pedro2.jpg | wikidata=Q6672039
+| תיאור=
+}}
+
+* {{מוקדי
+| שם=Basilica da Estrela | שם חלופי= | האתר הרשמי= | מייל=
+| כתובת= | lat=38.71321 | long=-9.16054 | הוראות=
+| טלפון= | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+* {{מוקדי
+| שם=Jardim da Estrela | שם חלופי= | האתר הרשמי= | מייל=
+| כתובת= | lat=38.7148 | long=-9.1593 | הוראות=
+| טלפון= | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+* {{מוקדי
+| שם=Palacio de Sao Bento | שם חלופי= | האתר הרשמי= | מייל=
+| כתובת= | lat=38.71284 | long=-9.15534 | הוראות=
+| טלפון= | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+
+* {{מוקדי
+| שם=Panteão Nacional | שם חלופי=Igreja do Santa Engrácia | האתר הרשמי=http://www.igespar.pt/en/monuments/51/  | מייל=
+| כתובת=Campo de Santa Clara | lat=38.7150 | long=-9.1247 | הוראות=
+| טלפון= | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+* {{מוקדי
+| שם=Alfama mirador | שם חלופי= | האתר הרשמי= | מייל=
+| כתובת=Largo Portas do Sol | lat=38.71134 | long=-9.13050 | הוראות=
+| טלפון= | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+
+* {{מוקדי
+| שם=Mosteiro dos Jerónimos | שם חלופי=Jerónimos Monastery | האתר הרשמי=http://www.mosteirojeronimos.pt/en/ | מייל=
+| כתובת=Praça do Império | lat=38.69789 | long=-9.20667 | הוראות=
+| טלפון=+351 21 362 0034 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| wikipedia=Jerónimos Monastery | image=The Jerónimos Monastery or Hieronymites Monastery.png | wikidata=Q272781
+| lastedit=2017-05-08
+| תיאור=
+}}
+
+*{{מוקדי
+| שם=Fundação Arpad Szenes / Vieira da Silva | שם חלופי= | האתר הרשמי=http://www.fasvs.pt/en | מייל=fasvs@fasvs.pt
+| כתובת=Praça das Amoreiras, 56/58 | lat=38.72223 | long=-9.15576 | הוראות=
+| טלפון=+351 21 388-0044 | שיחה בחינם= | פקס=+351 21 3880039
+| שעות= | מחיר=
+| תיאור=
+}}
+
+*{{מוקדי
+| שם=Aqueduto das Aguas Livres | שם חלופי= | האתר הרשמי= | מייל=
+| כתובת= | lat=38.7223 | long=-9.1591 | הוראות=
+| טלפון= | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+
+*{{מוקדי
+| שם=BES Arte & Finança | שם חלופי= | האתר הרשמי=http://www.bes.pt/sitebes/cms.aspx?labelid=BES_ARTE__FINANCA  | מייל=
+| כתובת=Praça Marquês de Pombal, 3 | lat=38.72449 | long=-9.15076 | הוראות=
+| טלפון=+351 21 350-8975 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+
+{{-}}
+=== מפה אינטראקטיבית ===
+המספרים על גבי המפה שלהלן מסמנים בין היתר את המיקום של מוקדי העניין המצוינים לעיל.
+
+{{:מפה:ליסבון}}
+{{-}}
+
+==פעילויות==
+{{להשלים}} 
+===פארקים===
+
+* {{פעילויות
+| שם=Oceanarium | שם חלופי= | האתר הרשמי=http://www.oceanario.pt/ | מייל=
+| כתובת= | lat=38.76351 | long=-9.09376 | הוראות=
+| טלפון=+351 21 891-7002 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+
+*{{פעילויות
+| שם=Pavilhão do Conhecimento | שם חלופי=Pavilion of Knowledge | האתר הרשמי=http://www.pavconhecimento.pt/home/index.asp?accao=changelang&lang=en | מייל=
+| כתובת= | lat=38.76222 | long=-9.09561 | הוראות=
+| טלפון= | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+* {{פעילויות
+| שם=Parque Eduardo VII | שם חלופי= | האתר הרשמי= | מייל=
+| כתובת= | lat=38.72870 | long=-9.15343 | הוראות=
+| טלפון= | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+* {{פעילויות
+| שם=Praca Marques de Pombal | שם חלופי= | האתר הרשמי= | מייל=
+| כתובת= | lat=38.72526 | long=-9.15002 | הוראות=
+| טלפון= | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+
+*{{פעילויות
+| שם=Jardim Zoológico | שם חלופי= | האתר הרשמי=http://www.zoo.pt/ | מייל=
+| כתובת=Estrada de Benfica 158-160 | lat=38.7437 | long=-9.1703 | הוראות=
+| טלפון=+351 21 7232-920 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+
+*{{פעילויות
+| שם=Lisbon Botanical Gardens | שם חלופי=Jardim Botânico | האתר הרשמי= | מייל=
+| כתובת=Rua da Escola Politécnica, 58 | lat=38.71754 | long=-9.15025 | הוראות=
+| טלפון= | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+
+* {{פעילויות
+| שם=Ajuda Botanical Gardens | שם חלופי=Jardim Botânico da Ajuda | האתר הרשמי=http://www.jardimbotanicodajuda.com/ | מייל=
+| כתובת= | lat=38.70622 | long=-9.20079 | הוראות=
+| טלפון= | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+=== תיאטראות ===
+* {{פעילויות
+| שם=Teatro Maria Vitória | שם חלופי= | האתר הרשמי=http://www.teatromariavitoria.com/ | מייל=
+| כתובת= | lat=38.71932 | long=-9.14635 | הוראות=
+| טלפון=+351 21 347-5454, +351 21 347-0468 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+* {{פעילויות
+| שם=Theatro Nacional Dona Maria II | שם חלופי= | האתר הרשמי= | מייל=
+| כתובת= | lat=38.71477 | long=-9.13976 | הוראות=
+| טלפון= | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+
+==קניות==
+{{להשלים}}
+
+===מרכזי קניות ===
+
+*{{קניות
+| שם=Armazéns do Chiado | שם חלופי= | האתר הרשמי=http://www.armazensdochiado.com | מייל=
+| כתובת=Rua do Carmo 2 | lat=38.71098 | long=-9.13936 | הוראות=
+| טלפון= | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+
+*{{קניות
+| שם=Centro Comercial Colombo | שם חלופי= | האתר הרשמי=http://www.colombo.pt/ | מייל=
+| כתובת=Av. Colegio Militar | lat=38.75478 | long=-9.18872 | הוראות=
+| טלפון=+351 21 771-3636 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+
+*{{קניות
+| שם=Centro Comercial Vasco da Gama | שם חלופי= | האתר הרשמי=http://www.centrovascodagama.pt/mainsite/common/default.aspx  | מייל=
+| כתובת= | lat=38.76767 | long=-9.09684 | הוראות=
+| טלפון= | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+
+*{{קניות
+| שם=Centro Comercial Amoreiras | שם חלופי= | האתר הרשמי=http://www.amoreiras.com | מייל=
+| כתובת=Av. Eng. Duarte Pacheco | lat=38.72305 | long=-9.16219 | הוראות=
+| טלפון= | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+
+*{{קניות
+| שם=El Corte Inglés | שם חלופי= | האתר הרשמי=http://www.elcorteingles.pt/ | מייל=
+| כתובת=Av. António Augusto Aguiar, 413 | lat=38.73308 | long=-9.15350 | הוראות=
+| טלפון= | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+
+===שוק הפשפשים===
+
+*{{קניות
+| שם=Feira da Ladra | שם חלופי= | האתר הרשמי= | מייל=
+| כתובת=Campo de Santa clara | lat=38.71554 | long=-9.12563 | הוראות=
+| טלפון= | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+
+==אוכל==
+{{להשלים}}
+
+=== אפשרויות בטווח מחירים נמוך מהממוצע ===
+
+* {{אוכל
+| שם=Café Buenos Aires | שם חלופי= | האתר הרשמי=http://www.cafebuenosaires.pt/ | מייל=
+| כתובת=Calçada Escadinhas do Duque, 31 | lat=38.71343 | long=-9.14163 | הוראות=
+| טלפון=+351 21 342 0739 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| lastedit=2017-05-05
+| תיאור=
+}}
+
+* {{אוכל
+| שם=Communist Party Restaurant | האתר הרשמי= | מייל=
+| כתובת=170 Avenida da Liberdade | lat= | long= | הוראות=
+| טלפון= | שיחה בחינם= | פקס=
+| שעות= Open lunch time| מחיר=
+| תיאור=
+}}
+
+* {{אוכל
+| שם=Faca & Garfo | שם חלופי= | האתר הרשמי= | מייל=
+| כתובת=R. da Condessa, 2 | lat=38.71251 | long=-9.14098 | הוראות=
+| טלפון=+351 21 346 8068 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| lastedit=2017-05-07
+| תיאור=
+}}
+
+* {{אוכל
+| שם=Mamma Rosa Ristorante Pizzeria | שם חלופי= | האתר הרשמי= | מייל=
+| כתובת=Rua do Gremio Lusitano, 14 Barrio Alto | lat=38.7135 | long=-9.144 | הוראות=
+| טלפון=+351 21 346-5350 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+
+* {{אוכל
+| שם=Mestiço | שם חלופי= | האתר הרשמי= | מייל=
+| כתובת=Arco das Portas do Mar, 9 | lat=38.70947 | long=-9.13301 | הוראות=
+| טלפון=+351 963660756 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+
+* {{אוכל
+| שם=Restaurante Santa Rita | שם חלופי= | האתר הרשמי=https://www.facebook.com/Santa-Rita-Restaurante-112716822133458/ | מייל=teresajesus@santaritarestaurante.com
+| כתובת=Rua de São Mamede 24c | lat=38.711364 | long=-9.134798 | הוראות=
+| טלפון=+351 21 808 4412 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| lastedit=2017-05-05
+| תיאור=
+}}
+
+* {{אוכל
+| שם=Restaurante Tascardoso | שם חלופי= | האתר הרשמי= | מייל=
+| כתובת=Rua de O Século, 242 | lat=38.71599 | long=-9.14770 | הוראות=
+| טלפון=+351 21 342 7578 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| lastedit=2017-05-07
+| תיאור=
+}}
+
+* {{אוכל
+| שם=Rosa da Rua Restaurante | שם חלופי= | האתר הרשמי=http://www.rosadarua-restaurante.blogspot.com/ | מייל=rosadarua@gmail.com
+| כתובת=Rua da Rosa, 265, Bairro Alto | lat=38.71469 | long=-9.14598 | הוראות=
+| טלפון=+351 21 343 2195 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| lastedit=2017-05-05
+| תיאור=
+}}
+
+* {{אוכל
+| שם=Time Out Market | שם חלופי=Mercado da Ribeira | האתר הרשמי=http://www.timeoutmarket.com/en/ | מייל=
+| כתובת=Av. 24 de Julho 49 | lat=38.70705 | long=-9.14586 | הוראות=
+| טלפון= +351 21 395 1274 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| image=Lisbon 162 (31787624974).jpg
+| lastedit=2017-05-05
+| תיאור=
+}}
+
+=== אפשרויות בטווח מחירים ממוצע ===
+
+* {{אוכל
+| שם=DeliDelux | שם חלופי= | האתר הרשמי=http://www.delidelux.pt | מייל=geral@delidelux.pt
+| כתובת=Av. Infante Dom Henrique, Armazém B - Loja 8 | lat=38.71362 | long=-9.12184 | הוראות=
+| טלפון=+351 21 886 2070 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| image=DeliDelux, Lisbon (6137077335).jpg
+| lastedit=2017-05-05
+| תיאור=
+}}
+
+* {{אוכל
+| שם=Farol de Santa Luzia | שם חלופי= | האתר הרשמי= | מייל=info@farolsantaluzia.com
+| כתובת=Largo de Santa Luzia, 5 | lat=38.71178 | long=-9.13063 | הוראות=
+| טלפון=+351 21 886 3884 | שיחה בחינם= | פקס=+351 218 885 356
+| שעות= | מחיר=
+| תיאור=
+}}
+
+* {{אוכל
+| שם=Malmequer Bemmequer | שם חלופי= | האתר הרשמי= | מייל=
+| כתובת=Rua de Sao Miguel 23-25 | lat=38.71092 | long=-9.12933 | הוראות=
+| טלפון=+351 21 887-6535 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+
+* {{אוכל
+| שם=Restaurante Chapitô à Mesa | שם חלופי= | האתר הרשמי=http://chapito.org/?s=page&p=38 | מייל=chapitoamesa@gmail.com
+| כתובת=Costa do Castelo, 7 | lat=38.71148 | long=-9.13391 | הוראות=
+| טלפון=+351 21 887 5077 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| image=Lisbon Portugal 348 (5107941567).jpg
+| lastedit=2017-05-05
+| תיאור=
+}}
+
+* {{אוכל
+| שם=A Tasquinha | שם חלופי=from downtown, turn left near Igreja de Santa Luzia to Rua do Limoeiro, then turn right to Rua de Santiago, pass Camidas de Santiago | האתר הרשמי= | מייל=
+| כתובת=Largo Contador Mor, 6 | lat=38.71202 | long=-9.13162 | הוראות=
+| טלפון=+351 962 803 068 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| image=A Tasquinha Sardines.jpg
+| תיאור=
+}}
+
+* {{אוכל
+| שם=Cervejaria da Trindade | שם חלופי= | האתר הרשמי=http://www.cervejariatrindade.pt/trindade_english.html | מייל=trindade.chiado@cervejariatrindade.pt
+| כתובת=R. Nova da Trindade 20C | lat=38.71244 | long=-9.14242 | הוראות=
+| טלפון=+351 21 342 3506 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| image=Cervejaria Trinidade in Lisbon (4167454086).jpg
+| lastedit=2017-05-05
+| תיאור=
+}}
+
+* {{אוכל
+| שם=Leitaria Camponeza | שם חלופי= | האתר הרשמי= | מייל=leitaria.acamponeza@gmail.com
+| כתובת=Rua dos Sapateiros, 155 | lat=38.71165 | long=-9.13858 | הוראות=
+| טלפון=+351 923 132 488 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+
+* {{אוכל
+| שם=Néctar WineBar | שם חלופי= | האתר הרשמי= | מייל=
+| כתובת=R. dos Douradores, 33 | lat=38.71031 | long=-9.13632 | הוראות=
+| טלפון=+351 912633368 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+
+* {{אוכל
+| שם=Os Tibetanos | שם חלופי= | האתר הרשמי=http://tibetanos.com/en/ | מייל=
+| כתובת=Rua do Salitre, 117 | lat=38.71970 | long=-9.14873 | הוראות=
+| טלפון=+351 213 142 038 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| lastedit=2017-05-06
+| תיאור=
+}}
+
+* {{אוכל
+| שם=Restaurante Bonjardim | שם חלופי= | האתר הרשמי= | מייל=
+| כתובת=Tv. de Santo Antão 11 | lat=38.715933 | long=-9.140602 | הוראות=
+| טלפון=+351 21 342 4389 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| lastedit=2017-05-01
+| תיאור=
+}}
+
+* {{אוכל
+| שם=Tamarind | שם חלופי= | האתר הרשמי=http://tamarindrestaurantes.com/ | מייל=contact@tamarindrestaurantes.com
+| כתובת=Rua da Gloria 43-45 | lat=38.71676 | long=-9.14426 | הוראות=
+| טלפון=+351 21 346 6080 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+
+* {{אוכל
+| שם=Restaurante Brasuca | שם חלופי= | האתר הרשמי=http://restaurantebrasuca.com/ | מייל=
+| כתובת=Rua João Pereira da Rosa, 7 | lat=38.71204 | long=-9.14730 | הוראות=
+| טלפון=+351 21 322 0740 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| lastedit=2017-05-06
+| תיאור=
+}}
+
+* {{אוכל
+| שם=Restaurante Calcutá 2 | שם חלופי= | האתר הרשמי=http://restaurantcalcuta.com/ | מייל=
+| כתובת=Rua da Atalaia, 28 | lat=38.71128 | long=-9.14478 | הוראות=
+| טלפון=+351 21 346 8165 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| lastedit=2017-05-06
+| תיאור=
+}}
+
+* {{אוכל
+| שם=Restaurante Lisboa À Noite | שם חלופי= | האתר הרשמי=http://www.lisboanoite.com/eng/index.html | מייל=mail.info@lisboanoite.com
+| כתובת=Rua as Gaveas, 69 | lat=38.71216 | long=-9.14346 | הוראות=
+| טלפון=+351 21 346 8557 | שיחה בחינם= | פקס=+351 21 346 0222
+| שעות= | מחיר=
+| image=Lisboa Noite (3901646262).jpg
+| lastedit=2017-05-06
+| תיאור=
+}}
+
+* {{אוכל
+| שם=Restaurante Sacramento do Chiado | שם חלופי= | האתר הרשמי=http://www.sacramentodochiado.com/pt/ | מייל=reservas@sacramentodochiado.com
+| כתובת=Calçada Sacramento, 44 | lat=38.71147 | long=-9.14025 | הוראות=
+| טלפון=+351 21 342 0572 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+
+* {{אוכל
+| שם=Restaurante Sinal Vermelho | שם חלופי= | האתר הרשמי=https://www.facebook.com/RestauranteSinalVermelho | מייל=
+| כתובת=R. das Gáveas, 89 | lat=38.71237 | long=-9.14349 | הוראות=
+| טלפון=+351 21 346 1252 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| lastedit=2017-05-07
+| תיאור=
+}}
+
+* {{אוכל
+| שם=Restaurante Terra | שם חלופי= | האתר הרשמי=http://www.restauranteterra.pt/English/Welcome.html | מייל=
+| כתובת=Rua da Palmeira, 15 | lat=38.71473 | long=-9.14909 | הוראות=
+| טלפון=+351 707 108 108 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| lastedit=2017-05-06
+| תיאור=
+}}
+
+* {{אוכל
+| שם=Arroz Maria | האתר הרשמי= | מייל=
+| כתובת=Doca de Sto Amaro | lat= | long= | הוראות=
+| טלפון=+351 21 395-4677 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+
+* {{אוכל
+| שם=Come Prima | שם חלופי= | האתר הרשמי=http://www.comeprima.pt/index_en.php | מייל=info@comeprima.pt
+| כתובת=Rua do Olival, 258 | lat=38.70486 | long=-9.16632 | הוראות=
+| טלפון=+351 213 902 457 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| lastedit=2017-05-06
+| תיאור=
+}}
+
+=== אפשרויות בטווח מחירים גבוה מהממוצע ===
+* {{אוכל
+| שם=Eleven | שם חלופי= | האתר הרשמי=http://www.restauranteleven.com/ | מייל=
+| כתובת=Rua Marquês da Fronteira | lat=38.7307 | long=-9.1559 | הוראות=
+| טלפון=+351 21 386-211 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+
+* {{אוכל
+| שם=Il Gattopardo | שם חלופי= | האתר הרשמי=http://www.dompedro.com/Home/Hotels/Portugal-Lisbon/Dom-Pedro-Lisboa/Restaurants-Bars/Il-Gattopardo | מייל=
+| כתובת=Av. Eng. Duarte Pacheco, 24 | lat=38.72488 | long=-9.16039 | הוראות=
+| טלפון=+351 21 389 6622 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| lastedit=2017-05-07
+| תיאור=
+}}
+
+* {{אוכל
+| שם=Panorama Restaurante & Bar | שם חלופי= | האתר הרשמי=http://www.panorama-restaurante.com/pt | מייל=sheraton.lisboa@sheraton.com
+| כתובת=Rua Latino Coelho, 1 | lat=38.73173 | long=-9.14693 | הוראות=
+| טלפון=+351 21 312 0000 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| lastedit=2017-05-07
+| תיאור=
+}}
+
+* {{אוכל
+| שם=Bica do Sapato | שם חלופי= | האתר הרשמי=http://www.bicadosapato.com/ | מייל=
+| כתובת=Avenida Infante Dom Henrique Armazém B, Cais da Pedra à Bica do Sapato | lat=38.7141 | long=-9.1213 | הוראות=
+| טלפון=+351 21 881-0320 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+
+* {{אוכל
+| שם=Restaurante Gambrinus | שם חלופי= | האתר הרשמי=http://www.gambrinuslisboa.com/ | מייל=info@gambrinuslisboa.com
+| כתובת=Rua das Portas de Santo Antao, 23 | lat=38.71530 | long=-9.13977 | הוראות=
+| טלפון=+351 21 342 1466 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| lastedit=2017-05-07
+| תיאור=
+}}
+
+* {{אוכל
+| שם=Restaurante Largo | שם חלופי= | האתר הרשמי=http://www.largo.pt/ | מייל=info@largo.pt
+| כתובת=Rua Serpa Pinto, 10A | lat=38.70985 | long=-9.14141 | הוראות=
+| טלפון=+351 21 347 7225 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| lastedit=2017-05-08
+| תיאור=
+}}
+
+==שתייה וחיי לילה==
+{{להשלים}} 
+=== בתי קפה ===
+* {{שתייה
+| שם=Café A Brasileira | שם חלופי= | האתר הרשמי= | מייל=
+| כתובת=R. Garrett, 120 | lat=38.71071 | long=-9.14203 | הוראות=
+| טלפון=+351 21 346 9541 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| wikipedia=Café A Brasileira | image=Wlm 97005957.jpg | wikidata=Q2547006
+| lastedit=2017-05-07
+| תיאור=
+}}
+
+* {{שתייה
+| שם=Pois Café | שם חלופי= | האתר הרשמי=http://www.poiscafe.com/ | מייל=pois@poiscafe.com
+| כתובת=Rua S. João da Praça, 93-95 | lat=38.70946 | long=-9.13184 | הוראות=
+| טלפון=+351 21 886 2497 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| image=IMG 2829.JPG (8059855774).jpg
+| lastedit=2017-05-05
+| תיאור=
+}}
+
+* {{שתייה
+| שם=Café Martinho da Arcada | שם חלופי= | האתר הרשמי=http://www.martinhodaarcada.pt/ | מייל=reservas@martinhodaarcada.pt
+| כתובת=Praça do Comércio, 3 | lat=38.70869 | long=-9.13586 | הוראות=
+| טלפון=+351 218 879 259 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| image=Café Martinho da Arcada 8681.jpg | wikidata=Q10326949
+| lastedit=2017-05-07
+| תיאור=
+}}
+
+=== ברים ===
+* {{שתייה
+| שם=Bar Trobadores| האתר הרשמי= | מייל=
+| כתובת=Rua de São Julião, 27 | lat= | long= | הוראות=
+| טלפון=+351 21 885-0329 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+
+* {{שתייה
+| שם=Chafariz do Vinho | האתר הרשמי= | מייל=
+| כתובת=Rua da Mae d'Agua | lat= | long= | הוראות=
+| טלפון=+351 21 342-2079 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+
+* {{שתייה
+| שם=Garrafeira Alfaia | האתר הרשמי= | מייל=garrafeira.alfaia@clix.pt
+| כתובת=Rua Diário de Notícias, 125 | lat= | long= | הוראות=
+| טלפון=+351 21 343-3079 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+
+* {{שתייה
+| שם=Lux Fragil | שם חלופי= | האתר הרשמי=https://www.luxfragil.com/en/# | מייל=lux@luxfragil.com
+| כתובת=Av. Infante D. Henrique, Armazém A | lat=38.71495 | long=-9.12058 | הוראות=
+| טלפון=+351 21 882 08 90 | שיחה בחינם= | פקס=+351 21 882 08 99
+| שעות= | מחיר=
+| lastedit=2017-05-08
+| תיאור=
+}}
+
+* {{שתייה
+| שם=Ritz Bar | האתר הרשמי= | מייל=
+| כתובת=Rua Rodrigo da Fonseca, 88 | lat= | long= | הוראות=
+| טלפון=+351 21 381-1400 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+
+* {{שתייה
+| שם=Tivoli Hotel rooftop cafe/bar | שם חלופי= | האתר הרשמי=http://www.tivolihotels.com/en/our-hotels/lisbon/tivoli-lisboa/the-hotel.aspx | מייל=
+| כתובת=Av. da Liberdade, 185 | lat= | long= | הוראות=
+| טלפון= | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| תיאור=
+}}
+==לינה==
+{{להשלים}} 
+
+=== אפשרויות בטווח מחירים נמוך מהממוצע ===
+
+*{{לינה
+| שם=Lisbon Old Town Hostel | שם חלופי= | האתר הרשמי=http://www.lisbonoldtownhostel.com | מייל=lisbonoldtownhostel@gmail.com
+| כתובת=Rua do Ataíde, 26A | lat=38.70856 | long=-9.14435 | הוראות=
+| טלפון=+351 21 346-5248 | שיחה בחינם= | פקס=+351 21 346-5248
+| צ'ק אין= | צ'ק אאוט= | מחיר=
+| תיאור=
+}}
+
+*{{לינה
+| שם=Shiado Hostel | האתר הרשמי=http://www.shiadohostel.com/ | מייל=shiado.hostel@gmail.com
+| כתובת=Rua Anchieta 5 - 3º | lat= | long= | הוראות=
+| טלפון=+351 21 342-9227 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| צ'ק אין= | צ'ק אאוט=
+| תיאור=
+}}
+
+*{{לינה
+| שם=Poets Hostel | האתר הרשמי=http://www.lisbonpoetshostel.com/ | מייל=lisbonpoetshostel@gmail.com
+| כתובת=Rua Nova da Trindade, 2 - 5º | lat= | long= | הוראות=
+| טלפון=+351 21 346-1058 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| צ'ק אין= | צ'ק אאוט=
+| תיאור=
+}}
+
+*{{לינה
+| שם=InSuites Chiado Apartments I | שם חלופי= | האתר הרשמי=http://www.insuites.pt | מייל=geral@insuites.pt
+| כתובת=Rua Nova do Almada, 92 | lat=38.710414 | long=-9.139389 | הוראות=
+| טלפון=+351 21 324-0920 | שיחה בחינם= | פקס=+351 21 324-0929
+| צ'ק אין= | צ'ק אאוט= | מחיר=
+| תיאור=
+}}
+
+*{{לינה
+| שם=InSuites Chiado Apartments II | שם חלופי= | האתר הרשמי=http://www.insuites.pt | מייל=geral@insuites.pt
+| כתובת=Rua da Misericórdia, 36 | lat=38.711695 | long=-9.142783 | הוראות=
+| טלפון=+351 21 324-0920 | שיחה בחינם= | פקס=+351 21 324-0929
+| צ'ק אין= | צ'ק אאוט= | מחיר=
+| תיאור=
+}}
+
+*{{לינה
+| שם=Sé Guesthouse | האתר הרשמי= | מייל=
+| כתובת=Rua de Sao Joao da Praca, 97 | lat= | long= | הוראות=
+| טלפון=+351 21 886-4400 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| צ'ק אין= | צ'ק אאוט=
+| תיאור=
+}}
+
+*{{לינה
+| שם=Alfama Patio Hostel | האתר הרשמי=http://alfamapatio.com | מייל=
+| כתובת=Escolas Gerais, 3, Patio dos Quintalinhos 1 | lat= | long= | הוראות=
+| טלפון=+351 21 888-3127 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| צ'ק אין= | צ'ק אאוט=
+| תיאור=
+}}
+
+*{{לינה
+| שם=Lisbon Oasis | האתר הרשמי=http://lisbonoasis.com | מייל=booking@lisbonoasis.com
+| כתובת= Beco da Bicha, Rua da Oliveirinha - all in old town. | מחיר=
+| צ'ק אין= | צ'ק אאוט=
+| תיאור=
+}}
+
+*{{לינה
+| שם=GoHostel Lisbon | האתר הרשמי=http://www.gohostellisbon.com/ | מייל=
+| כתובת=Rua Maria da Fonte, nº55 | lat= | long= | הוראות=
+| טלפון=+351 21 822-9816 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| צ'ק אין= | צ'ק אאוט=
+| תיאור=
+}}
+
+*{{לינה
+| שם=Bed&Breakfast Lisboa | האתר הרשמי=http://duartedas.googlepages.com/ | מייל=duartedas@gmail.com
+| כתובת=Travessa do Alcaide, nº7 | lat= | long= | הוראות=
+| טלפון=+351 9 1830 7572 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| צ'ק אין= | צ'ק אאוט=
+| תיאור=
+}}
+
+*{{לינה
+| שם=Camões | האתר הרשמי= | מייל=
+| כתובת=Travessa do Poço da Cidade 38 1E | lat= | long= | הוראות=
+| טלפון=+351 21 346-4048 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| צ'ק אין= | צ'ק אאוט=
+| תיאור=
+}}
+
+*{{לינה
+| שם=Oasis Backpackers' Mansion | האתר הרשמי=http://www.oasislisboa.com/ | מייל=info@oasislisboa.com
+| כתובת=Rua de Santa Catarina 24 | lat= | long= | הוראות=
+| טלפון=+351 21 347-8044 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| צ'ק אין= | צ'ק אאוט=
+| תיאור=
+}}
+
+*{{לינה
+| שם=Beira Minho | האתר הרשמי= | מייל=
+| כתובת=Praça da Figueira, 6 | lat= | long= | הוראות=
+| טלפון=+351 21 346-1846 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| צ'ק אין= | צ'ק אאוט=
+| תיאור=
+}}
+
+*{{לינה
+| שם=Bom Conforto Casa de Hospedes | האתר הרשמי= | מייל=bomconforto@gmail.com
+| כתובת=Rua Dos Douradores, 83, 3.º DTO. | lat= | long= | הוראות=
+| טלפון=+351 21 887-8328 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| צ'ק אין= | צ'ק אאוט=
+| תיאור=
+}}
+
+*{{לינה
+| שם=Goodnight Backpackers Hostel | האתר הרשמי=http://goodnighthostel.com | מייל=gnbookings@gmail.com
+| כתובת=Rua dos Correeiros 113, 2nd | lat= | long= | הוראות=
+| טלפון=+351 21 343-0139 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| צ'ק אין= | צ'ק אאוט=
+| תיאור=
+}}
+
+*{{לינה
+| שם=Kitsch Hostel | האתר הרשמי=http://www.kitschhostel.com | מייל=info@kitschhostel.com
+| כתובת=Praça dos Restauradores 65, 2° esq | lat= | long= | הוראות=
+| טלפון=+351 21 346-7332 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| צ'ק אין= | צ'ק אאוט=
+| תיאור=
+}}
+
+*{{לינה
+| שם=Lisbon Story Guesthouse | האתר הרשמי=http://www.lisbonstoryguesthouse.com | מייל=info@lisbonstoryguesthouse.com
+| כתובת=Largo S. Domingos, 18 S/L | lat= | long= | הוראות=
+| טלפון=+351 21 152-9313 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| צ'ק אין= | צ'ק אאוט=
+| תיאור=
+}}
+
+*{{לינה
+| שם=Pensão Alegria | האתר הרשמי= | מייל=
+| כתובת=Praça de Alegria 12 | lat= | long= | הוראות=
+| טלפון=+351 21 322-0670 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| צ'ק אין= | צ'ק אאוט=
+| תיאור=
+}}
+
+*{{לינה
+| שם=Pensão Norte | האתר הרשמי= | מייל=
+| כתובת=Rua dos Douradores, 159 | lat= | long= | הוראות=
+| טלפון=+351 21 887-8941 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| צ'ק אין= | צ'ק אאוט=
+| תיאור=
+}}
+
+*{{לינה
+| שם=Pensão Residencial Portuense | האתר הרשמי=http://www.pensaoportuense.com | מייל=rportuense@mail.telepac.pt
+| כתובת=Rua das Portas de Santo Antao, 149-157 | lat= | long= | הוראות=
+| טלפון=+351 21 346-4197 | שיחה בחינם= | פקס=+351 21 342-4239
+| שעות= | מחיר=
+| צ'ק אין= | צ'ק אאוט=
+| תיאור=
+}}
+
+*{{לינה
+| שם=Restauradores | האתר הרשמי= | מייל=
+| כתובת=Praça dos Restauradores, 13 | lat= | long= | הוראות=
+| טלפון=+351 21 347-5660 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| צ'ק אין= | צ'ק אאוט=
+| תיאור=
+}}
+
+*{{לינה
+| שם=Suiço Atlântico | האתר הרשמי= | מייל=
+| כתובת=Rua da Gloria 3-19 | lat= | long= | הוראות=
+| טלפון=+351 21 346-1713 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| צ'ק אין= | צ'ק אאוט=
+| תיאור=
+}}
+
+*{{לינה
+| שם=Travellers House | האתר הרשמי=http://www.travellershouse.com | מייל=info@travellershouse.com
+| כתובת=Rua Augusta, 89 | lat= | long= | הוראות=
+| טלפון=+351 21 011-5922 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| צ'ק אין= | צ'ק אאוט=
+| תיאור=
+}}
+
+*{{לינה
+| שם=Yes Hostel | האתר הרשמי= | מייל=infolisbon@yeshostel.com
+| כתובת=Rua de São Julião 148 | lat= | long= | הוראות=
+| טלפון=+351 21 342-7171 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| צ'ק אין= | צ'ק אאוט=
+| תיאור=
+}}
+
+*{{לינה
+| שם=Next Hostel | האתר הרשמי= | מייל=info@nexthostel.com
+| כתובת=Avenida Almirante Reis n.4 - 5 | lat= | long= | הוראות=
+| טלפון=+351 21 192-7746 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| צ'ק אין= | צ'ק אאוט=
+| תיאור=
+}}
+
+*{{לינה
+| שם=Rossio Hostel | האתר הרשמי=http://www.rossiohostel.com | מייל=rossiohostel@hotmail.com
+| כתובת=Calçada do Carmo, 6 | lat= | long= | הוראות=
+| טלפון=+351 21 342-6004 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| צ'ק אין= | צ'ק אאוט=
+| תיאור=
+}}
+
+*{{לינה
+| שם=Johnies Place Hostel | האתר הרשמי=http://www.johniesplace.eu  | מייל=jonhiesplace@gmail.com
+| כתובת=Calçada da Graça no.18F | lat= | long= | הוראות=
+| טלפון=+351 963752375 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| צ'ק אין= | צ'ק אאוט=
+| תיאור=
+}}
+
+*{{לינה
+| שם=Ibis Lisboa Saldanha | שם חלופי= | האתר הרשמי=http://www.ibishotel.com/ibis/fichehotel/gb/ibi/2117/fiche_hotel.shtml | מייל=
+| כתובת=Avenida Casal Ribeiro 23 | lat=38.73203 | long=-9.14235 | הוראות=
+| טלפון=+351 21 319-1690 | שיחה בחינם= | פקס=
+| צ'ק אין= | צ'ק אאוט= | מחיר=
+| תיאור=
+}}
+
+*{{לינה
+| שם=Lisboa Central Hostel | האתר הרשמי=http://www.lisboacentralhostel.com | מייל=global@lisboacentralhostel.com
+| כתובת=Rua Rodrigues Sampaio nº160 | lat= | long= | הוראות=
+| טלפון=+351 309 881-038 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| צ'ק אין= | צ'ק אאוט=
+| תיאור=
+}}
+
+*{{לינה
+| שם=My Rainbow Rooms GAY Bed & Breakfast | האתר הרשמי=http://www.myrainbowrooms.com | מייל=book@myrainbowrooms.com
+| כתובת=Saldanha, 1 - 1000-007 | lat=38.733473 | long=-9.144101 | הוראות=
+| טלפון=+351 21 842-1122 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| צ'ק אין= | צ'ק אאוט=
+| תיאור=
+}}
+
+*{{לינה
+| שם=Pensão Londrina | האתר הרשמי=http://www.residenciallondrina.com | מייל=
+| כתובת=Rua Castilho, 61 First Floor | lat= | long= | הוראות=
+| טלפון=+351 21 386-3624 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| צ'ק אין= | צ'ק אאוט=
+| תיאור=
+}}
+
+*{{לינה
+| שם=Pousada da Juventude - Youth Hostel | האתר הרשמי=http://www.pousadasjuventude.pt/edicoes1/pousadas/artigos.asp?rev=2&artini=299&art=303  | מייל=lisboa@movijovem.pt
+| כתובת=R. Andrade Corvo, 46 | lat= | long= | הוראות=
+| טלפון=+351 21 353-2696 | שיחה בחינם= | פקס=+351 21 353-7541
+| שעות= | מחיר=
+| צ'ק אין= | צ'ק אאוט=
+| תיאור=
+}}
+
+*{{לינה
+| שם=Residencial Vila Nova | האתר הרשמי=http://www.residencialvilanova.com | מייל=
+| כתובת= | lat= | long= | הוראות=
+| טלפון=+351 21 319-6290 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| צ'ק אין= | צ'ק אאוט=
+| תיאור=
+}}
+
+=== אפשרויות בטווח מחירים ממוצע ===
+
+*{{לינה
+| שם=Hotel Borges | האתר הרשמי=http://www.lisbonhotelborges.com/ | מייל=
+| כתובת=Rua Garret, 108 | lat= | long= | הוראות=
+| טלפון=+351 21 346-1951 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| צ'ק אין= | צ'ק אאוט=
+| תיאור=
+}}
+
+*{{לינה
+| שם=NH Liberdade | האתר הרשמי=http://www.nh-hotels.com/nh/en/hotels/portugal/lisbon/nh-liberdade.html | מייל=
+| כתובת=Avenida da Liberdade, 180 B | lat= | long= | הוראות=
+| טלפון=+351 21 351-4060 | שיחה בחינם= | פקס=+351 21 314-3674
+| שעות= | מחיר=
+| צ'ק אין= | צ'ק אאוט=
+| תיאור=
+}}
+
+*{{לינה
+| שם=Travelpark hotel | האתר הרשמי=http://www.travel-park-hotel.com  | מייל=reservas@hoteltravelpark.com
+| כתובת=Avenida Almirante Reis nº 64 | lat= | long= | הוראות=
+| טלפון=+351 21 810-2100 | שיחה בחינם= | פקס=
+| שעות= | מחיר=
+| צ'ק אין= | צ'ק אאוט=
+| תיאור=
+}}
+
+*{{לינה
+| שם=Vila Galé Ópera | האתר הרשמי=http://www.vilagale.pt/pages/hoteis/?hotel=13 | מייל=opera@vilagale.pt
+| כתובת=Tvª Conde da Ponte, 1300-141 | lat= | long= | הוראות=
+| טלפון=+351 21 360-5400 | שיחה בחינם= | פקס=+351 21 360-5450
+| שעות= | מחיר=
+| צ'ק אין= | צ'ק אאוט=
+| תיאור=
+}}
+
+*{{לינה
+| שם=America Diamond's Hotel | האתר הרשמי=http://www.americadiamondshotel.com | מייל=info@americadiamondshotel.com
+| כתובת=Rua Tomás Ribeiro 47 | lat= | long= | הוראות=
+| טלפון=+351 21 352-1177 | שיחה בחינם= | פקס=+351 21 353-1476
+| שעות= | מחיר=
+| צ'ק אין= | צ'ק אאוט=
+| תיאור=
+}}
+
+=== אפשרויות בטווח מחירים גבוה מהממוצע ===
+*{{לינה
+| שם=Hotel Avenida Palace | שם חלופי= | האתר הרשמי=http://www.hotelavenidapalace.pt | מייל=reservas@hotelavenidapalace.pt
+| כתובת=Rua 1º de Dezembro, 123 | lat=38.71477 | long=-9.14120 | הוראות=
+| טלפון=+351 21 321-8100 | שיחה בחינם= | פקס=+351 21 342-2884
+| צ'ק אין= | צ'ק אאוט= | מחיר=
+| תיאור=
+}}
+
+*{{לינה
+| שם=Lapa Palace | האתר הרשמי=http://www.lapapalace.com | מייל=reservations@lapa-palace.com
+| כתובת=Rua do Pau de Bandeira, 4 | lat= | long= | הוראות=
+| טלפון=+351 21 394-9494 | שיחה בחינם= | פקס=+351 21 395-0665
+| שעות= | מחיר=
+| צ'ק אין= | צ'ק אאוט=
+| תיאור=
+}}
+
+*{{לינה
+| שם=Pestana Palace | שם חלופי= | האתר הרשמי=http://www.pestana.com/en/pestana-palace-lisbon/ | מייל=reservas.portugal@pestana.com
+| כתובת=Rua Jau, nº 54 | lat=38.7037 | long=-9.1868 | הוראות=
+| טלפון=+351 21 361-5600 | שיחה בחינם= | פקס=
+| צ'ק אין= | צ'ק אאוט= | מחיר=
+| תיאור=
+}}
+
+*{{לינה
+| שם=Eurostars Das Letras | שם חלופי= | האתר הרשמי=http://www.eurostarshotels.com/EN/eurostars_das_letras.html | מייל=reservas@eurostarsdasletras.com
+| כתובת=Rua Castilho, 6-12 | lat=38.72015 | long=-9.14885 | הוראות=
+| טלפון=+351 21 357-3094 | שיחה בחינם= | פקס=
+| צ'ק אין= | צ'ק אאוט= | מחיר=
+| תיאור=
+}}
+
+*{{לינה
+| שם=Tiara Park Atlantic Lisboa | שם חלופי= | האתר הרשמי=http://www.tiara-hotels.com/hotel.asp?idioma=EN&id_hotel=7  | מייל=reservations.lisboa@tiara-hotels.com
+| כתובת=Rua Castilho, 149 | lat=38.72659 | long=-9.15544 | הוראות=
+| טלפון=+351 21 381-8700 | שיחה בחינם= | פקס=
+| צ'ק אין= | צ'ק אאוט= | מחיר=
+| תיאור=
+}}
+
+*{{לינה
+| שם=Sheraton Lisboa | שם חלופי= | האתר הרשמי=http://www.sheratonlisboa.com/ | מייל=
+| כתובת=Rua Latino Coelho 1 | lat=38.73170 | long=-9.14694 | הוראות=
+| טלפון=+351 21 312-0000 | שיחה בחינם= | פקס=
+| צ'ק אין= | צ'ק אאוט= | מחיר=
+| תיאור=
+}}
+* {{לינה
+| שם=Sofitel Lisbon Liberdade | שם חלופי= | האתר הרשמי= | מייל=
+| כתובת= | lat=38.71876 | long=-9.14513 | הוראות=
+| טלפון= | שיחה בחינם= | פקס=
+| צ'ק אין= | צ'ק אאוט= | מחיר=
+| תיאור=
+}}
+* {{לינה
+| שם=Tivoli Lisboa | שם חלופי= | האתר הרשמי= | מייל=
+| כתובת= | lat=38.72105 | long=-9.14717 | הוראות=
+| טלפון= | שיחה בחינם= | פקס=
+| צ'ק אין= | צ'ק אאוט= | מחיר=
+| תיאור=
+}}
+* {{לינה
+| שם=Altis Grand Hotel | שם חלופי=A Luxury Collection Hotel | האתר הרשמי= | מייל=
+| כתובת= | lat=38.72063 | long=-9.15016 | הוראות=
+| טלפון= | שיחה בחינם= | פקס=
+| צ'ק אין= | צ'ק אאוט= | מחיר=
+| תיאור=
+}}
+* {{לינה
+| שם=Fontecruz Lisboa | שם חלופי=Autograph Collection | האתר הרשמי= | מייל=
+| כתובת= | lat=38.71921 | long=-9.14395 | הוראות=
+| טלפון= | שיחה בחינם= | פקס=
+| צ'ק אין= | צ'ק אאוט= | מחיר=
+| תיאור=
+}}
+* {{לינה
+| שם=Torel Palace | שם חלופי= | האתר הרשמי=http://www.torelpalace.com | מייל=info@torelpalace.com
+| כתובת=Rua Camara Pestana 23, 1150-199 Lisbon | lat=38.7180 | long=-9.1400 | הוראות=
+| טלפון=+351 2189 290 810 | שיחה בחינם= | פקס=
+| צ'ק אין= | צ'ק אאוט= | מחיר=
+| lastedit=2017-02-26
+| תיאור=
+}}
+
+== הגעה ==
+{{להשלים}}
+[[קובץ:Gare do Oriente e Hotel Tivoli - Jul 2009.jpg|250px|ממוזער|תחנת הרכבת המרכזית של ליסבון]]
+=== בטיסה ===
+=== ברכבת ===
+=== במכונית ===
+=== באוטובוס ===
+=== בדרך הים ===
+==תחבורה בעיר==
+{{להשלים}}
+[[קובץ:Tram map Lisbon 2011.png|270px|ממוזער|מפת קווי החשמלית בליסבון]]
+===בחשמלית===
+החשמלית (Tram) בליסבון מורכבת מ-5 מסלולים. הקווים השימושיים ביותר בקרב תיירים הם 28 ו-15.
+
+קו 28 - מתחיל את מסלולו בכיכר "Martim Moniz" ועובר בין השאר בשכונת אלפמה. 
+
+קו 15 - מתחיל את מסלולו בכיכר "De Figueira" ומגיע עד אזור בלם (Belem). 
+
+=== במטרו ===
+המטרו בליסבון כולל ארבעה קווים המחולקים לפי צבעים: כחול, אדום, צהוב וירוק. אל רוב האטרקציות המרכזיות אפשר להגיע באמצעות הקו הכחול והירוק. קווי המטרו פועלים מדי יום בין השעות 06.30 בבוקר ו-01:00 בלילה. 
+
+מחיר של כרטיס נסיעה יחיד בכיוון אחד יעלה 2 אירו (1.5 אירו + 0.50 סנט לקניית הכרטיס). כרטיס יומי יעלה 6.40 אירו ויהיה תקף ל-24 שעות וניתן לשימוש גם בנסיעה באוטובוס ובחשמלית. בנוסף, ניתן לקנות כרטיס נטען פתוח ולהטעין אותו בסכום קבוע. [https://portugo.co.il/he/%D7%94%D7%9E%D7%9C%D7%A6%D7%95%D7%AA-%D7%A2%D7%9C-%D7%A4%D7%95%D7%A8%D7%98%D7%95%D7%92%D7%9C/Public-transportation-in-lisbon] 
+
+===באוטובוס===
+===במעבורת===
+===באופניים===
+=== במכונית ===
+===באופן רגלי===
+==חשוב לדעת==
+{{להשלים}} 
+===שגרירות ישראל===
+{{דגל|ישראל}} {{רשימה
+| שם=שגרירות ישראל בפורטוגל | url=http://embassies.gov.il/lisboa
+ | פייסבוק= | ויקיפדיה=
+| מייל=info@lisbon.mfa.gov.il  | lat= | long= | כתובת=R. António Enes 16, 1050-023, Lisbon
+| טלפון= 351-21-0455500  | שיחה בחינם= | פקס=
+| הוראות= |שעות= שני-חמישי: 9:00 עד 12:30 | מחיר=
+| שם חלופי= | תיאור=
+}}
+===סכנות פוטנציאליות===
+==יעדים סמוכים בולטים==
+{{להשלים}}
+
+==ראו גם==
+{{מיזמים|ויקיפדיה=ליסבון|רוחב=301
+}}
+
+==הערות שוליים==
+{{הערות שוליים|יישור=ימין}}
+
+[[קטגוריה:אזור ליסבון]]
+[[קטגוריה:ערי בירה]]
+[[קטגוריה:אתרי מורשת עולמית]]
+{{geo|38.7071|-9.1353}}
+{{דפים קשורים|אתרי מורשת עולמית}}
