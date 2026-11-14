@@ -1,0 +1,681 @@
+[
+ {
+  "k": "w1307739738",
+  "name": "Hekwerk Roeivereniging De Hoop",
+  "la": 52.354022,
+  "ln": 4.908836,
+  "district": "הרובע היהודי, פלנטאז' ואוסט",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Ruud-Jan Kokke",
+   "artwork_type": "sculpture",
+   "barrier": "fence",
+   "name": "Hekwerk Roeivereniging De Hoop",
+   "start_date": "2024",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "אנדרטת הכרת התודה היהודית (759 מ')"
+ },
+ {
+  "k": "n5786424197",
+  "name": "Het Been",
+  "la": 52.358009,
+  "ln": 4.93562,
+  "district": "הרובע היהודי, פלנטאז' ואוסט",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Henk Visch",
+   "artwork_type": "sculpture",
+   "name": "Het Been",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "שוק דאפר (דאפרמרקט) (798 מ')"
+ },
+ {
+  "k": "n2593697919",
+  "name": "Het begon met een dubbeltje",
+  "la": 52.361741,
+  "ln": 4.917055,
+  "district": "הרובע היהודי, פלנטאז' ואוסט",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Marjet Wessels Boer",
+   "artwork_type": "sculpture",
+   "name": "Het begon met een dubbeltje",
+   "tourism": "artwork",
+   "website": "http://www.dubbeltjespanden.nl",
+   "wikidata": "Q97958682"
+  },
+  "wikidata": {
+   "id": "Q97958682",
+   "he": "",
+   "en": "",
+   "nl": "Het begon met een dubbeltje",
+   "desc": "",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "אוסטרפארק (278 מ')"
+ },
+ {
+  "k": "n9060690341",
+  "name": "Kijker",
+  "la": 52.34756,
+  "ln": 4.928522,
+  "district": "הרובע היהודי, פלנטאז' ואוסט",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Barbara Kletter",
+   "artwork_type": "installation",
+   "material": "galvanized metal",
+   "name": "Kijker",
+   "start_date": "1993",
+   "tourism": "artwork",
+   "wikidata": "Q53336853",
+   "wikipedia": "nl:Kijker (beeld)"
+  },
+  "wikidata": {
+   "id": "Q53336853",
+   "he": "",
+   "en": "Kijker",
+   "nl": "Kijker",
+   "desc": "sculpture in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "פארק פרנקנדאל (335 מ')"
+ },
+ {
+  "k": "n11073380689",
+  "name": "Kogelbron",
+  "la": 52.368969,
+  "ln": 4.925823,
+  "district": "הרובע היהודי, פלנטאז' ואוסט",
+  "center": 0,
+  "osm_tags": {
+   "amenity": "fountain",
+   "drinking_water": "no",
+   "fountain": "kogel",
+   "name": "Kogelbron",
+   "wikidata": "Q58552154"
+  },
+  "wikidata": {
+   "id": "Q58552154",
+   "he": "",
+   "en": "Kogelbron Oostenburgerpark",
+   "nl": "Kogelbron",
+   "desc": "kunstwerk en fontein in Oostenburgerpark, Amsterdam",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "טחנת דה חויר ומבשלת הבירה (241 מ')"
+ },
+ {
+  "k": "n440009655",
+  "name": "Kolommen",
+  "la": 52.364837,
+  "ln": 4.911204,
+  "district": "הרובע היהודי, פלנטאז' ואוסט",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Andre Volten",
+   "artwork_type": "abstract_ structure",
+   "material": "steel",
+   "name": "Kolommen",
+   "start_date": "1970",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "שכונת פלנטאז' (139 מ')"
+ },
+ {
+  "k": "n487106862",
+  "name": "Kunstenaarsverzet",
+  "la": 52.365565,
+  "ln": 4.91363,
+  "district": "הרובע היהודי, פלנטאז' ואוסט",
+  "center": 0,
+  "osm_tags": {
+   "artwork_type": "sculpture",
+   "historic": "memorial",
+   "memorial": "war_memorial",
+   "name": "Kunstenaarsverzet",
+   "tourism": "artwork",
+   "wikidata": "Q112787543",
+   "wikipedia": "nl:Monument voor het kunstenaarsverzet 1940-1945"
+  },
+  "wikidata": {
+   "id": "Q112787543",
+   "he": "",
+   "en": "Kunstenaarsverzet 1940-'45",
+   "nl": "Monument voor het kunstenaarsverzet 1940-1945",
+   "desc": "monument and work of art in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "שכונת פלנטאז' (120 מ')"
+ },
+ {
+  "k": "n1833946567",
+  "name": "Man en Schaap",
+  "la": 52.365762,
+  "ln": 4.948606,
+  "district": "הרובע היהודי, פלנטאז' ואוסט",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Merijn Bolink",
+   "artwork_type": "sculpture",
+   "material": "stone",
+   "name": "Man en Schaap",
+   "tourism": "artwork",
+   "wikidata": "Q43471932",
+   "wikipedia": "nl:Man en schaap"
+  },
+  "wikidata": {
+   "id": "Q43471932",
+   "he": "",
+   "en": "Man en schaap",
+   "nl": "Man en schaap",
+   "desc": "sculpture in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "האיים המזרחיים (KNSM, ג'אווה, בורנאו־ספורנבורח) (1162 מ')"
+ },
+ {
+  "k": "n4848325321",
+  "name": "Middenstip Stadion De Meer",
+  "la": 52.34443,
+  "ln": 4.949977,
+  "district": "הרובע היהודי, פלנטאז' ואוסט",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "David Mach; Harald Vlugt",
+   "artwork_type": "installation",
+   "description": "In het midden van concentrische cirkels in de straat ligt een halve bal. Dit symboliseert de middenstip van het voormalige Stadion de Meer, thuishonk van Ajax. Deze buurt is op het stadionterrein gebouwd. De lokatie van de 'middenstip' is niet geheel jui",
+   "historic": "memorial",
+   "material": "stone",
+   "name": "Middenstip Stadion De Meer",
+   "start_date": "2002",
+   "tourism": "artwork",
+   "wikidata": "Q44712398",
+   "wikipedia": "nl:Middenstip (beeld)"
+  },
+  "wikidata": {
+   "id": "Q44712398",
+   "he": "",
+   "en": "Middenstip",
+   "nl": "Middenstip",
+   "desc": "work of art in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "פארק פרנקנדאל (1516 מ')"
+ },
+ {
+  "k": "n4771855235",
+  "name": "Monument voor de Tachtigers",
+  "la": 52.360537,
+  "ln": 4.923268,
+  "district": "הרובע היהודי, פלנטאז' ואוסט",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Jan Wolkers",
+   "artwork_type": "sculpture",
+   "name": "Monument voor de Tachtigers",
+   "tourism": "artwork",
+   "wikidata": "Q85312127",
+   "wikipedia": "nl:Monument voor de Tachtigers"
+  },
+  "wikidata": {
+   "id": "Q85312127",
+   "he": "",
+   "en": "",
+   "nl": "Monument voor de Tachtigers",
+   "desc": "statue in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "אנדרטת ההעבדה הלאומית (156 מ')"
+ },
+ {
+  "k": "n4370446624",
+  "name": "Poorter",
+  "la": 52.360785,
+  "ln": 4.908626,
+  "district": "הרובע היהודי, פלנטאז' ואוסט",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Hildo Krop",
+   "artwork_type": "statue",
+   "name": "Poorter",
+   "start_date": "1940",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "אנדרטת הכרת התודה היהודית (90 מ')"
+ },
+ {
+  "k": "n7084303792",
+  "name": "Poorter",
+  "la": 52.360619,
+  "ln": 4.907882,
+  "district": "הרובע היהודי, פלנטאז' ואוסט",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Hildo Krop",
+   "artwork_type": "statue",
+   "name": "Poorter",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "אנדרטת הכרת התודה היהודית (44 מ')"
+ },
+ {
+  "k": "n13018166414",
+  "name": "Revisiting The Cullinan",
+  "la": 52.353377,
+  "ln": 4.906865,
+  "district": "הרובע היהודי, פלנטאז' ואוסט",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Sanja Medić",
+   "name": "Revisiting The Cullinan",
+   "start_date": "2023",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "פארק סרפאטי (729 מ')"
+ },
+ {
+  "k": "n12729316026",
+  "name": "Rode Pylonen",
+  "la": 52.355909,
+  "ln": 4.914899,
+  "district": "הרובע היהודי, פלנטאז' ואוסט",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Hendrik Jan van Herwijnen",
+   "artwork_type": "sculpture",
+   "material": "steel",
+   "name": "Rode Pylonen",
+   "tourism": "artwork",
+   "wikidata": "Q57597687",
+   "wikipedia": "nl:Rode pylonen"
+  },
+  "wikidata": {
+   "id": "Q57597687",
+   "he": "",
+   "en": "Rode pylonen",
+   "nl": "Rode pylonen",
+   "desc": "sculpture in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "אוסטרפארק (571 מ')"
+ },
+ {
+  "k": "n4771641210",
+  "name": "Rode Pylonen",
+  "la": 52.356445,
+  "ln": 4.914512,
+  "district": "הרובע היהודי, פלנטאז' ואוסט",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Hendrik Jan van Herwijnen",
+   "artwork_type": "sculpture",
+   "material": "steel",
+   "name": "Rode Pylonen",
+   "tourism": "artwork",
+   "wikidata": "Q57597687",
+   "wikipedia": "nl:Rode pylonen"
+  },
+  "wikidata": {
+   "id": "Q57597687",
+   "he": "",
+   "en": "Rode pylonen",
+   "nl": "Rode pylonen",
+   "desc": "sculpture in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "אוסטרפארק (543 מ')"
+ },
+ {
+  "k": "n12696761911",
+  "name": "Rotsvast",
+  "la": 52.360232,
+  "ln": 4.951866,
+  "district": "הרובע היהודי, פלנטאז' ואוסט",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Rob Ligtvoet",
+   "artwork_type": "sculpture",
+   "material": "bronze",
+   "name": "Rotsvast",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "שוק דאפר (דאפרמרקט) (1702 מ')"
+ },
+ {
+  "k": "n8272072528",
+  "name": "Sfinx",
+  "la": 52.367533,
+  "ln": 4.909224,
+  "district": "הרובע היהודי, פלנטאז' ואוסט",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Hans 't Mannetje",
+   "artwork_type": "statue",
+   "material": "marble",
+   "name": "Sfinx",
+   "start_date": "1982",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "אנדרטת אושוויץ בפארק ורטהיים (45 מ')"
+ },
+ {
+  "k": "n3073022310",
+  "name": "Sluis",
+  "la": 52.343375,
+  "ln": 4.933083,
+  "district": "הרובע היהודי, פלנטאז' ואוסט",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Lon Pennock",
+   "artwork_type": "sculpture",
+   "material": "corten_steel",
+   "name": "Sluis",
+   "start_date": "1975",
+   "tourism": "artwork",
+   "wikidata": "Q42345996",
+   "wikipedia": "nl:Sluis (beeld)"
+  },
+  "wikidata": {
+   "id": "Q42345996",
+   "he": "",
+   "en": "Sluis",
+   "nl": "Sluis",
+   "desc": "sculpture in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "פארק פרנקנדאל (813 מ')"
+ },
+ {
+  "k": "n12699386585",
+  "name": "Stenen sculptuur met tulp",
+  "la": 52.364887,
+  "ln": 4.9362,
+  "district": "הרובע היהודי, פלנטאז' ואוסט",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Harry van Renswou",
+   "artwork_type": "sculpture",
+   "material": "bronze",
+   "name": "Stenen sculptuur met tulp",
+   "tourism": "artwork",
+   "wikidata": "Q130157854",
+   "wikipedia": "nl:Stenen sculptuur met tulp"
+  },
+  "wikidata": {
+   "id": "Q130157854",
+   "he": "",
+   "en": "Stenen sculptuur met tulp",
+   "nl": "Stenen sculptuur met tulp",
+   "desc": "sculpture in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "שוק דאפר (דאפרמרקט) (641 מ')"
+ },
+ {
+  "k": "n12730742692",
+  "name": "Toverlantaarn en planeten",
+  "la": 52.349846,
+  "ln": 4.939272,
+  "district": "הרובע היהודי, פלנטאז' ואוסט",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Alice Helenklaken",
+   "artwork_type": "sculpture",
+   "name": "Toverlantaarn en planeten",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "פארק פרנקנדאל (637 מ')"
+ },
+ {
+  "k": "n9067799419",
+  "name": "Twee Elementen",
+  "la": 52.353336,
+  "ln": 4.94184,
+  "district": "הרובע היהודי, פלנטאז' ואוסט",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Lajos Ratkai",
+   "artwork_type": "sculpture",
+   "material": "bronze",
+   "name": "Twee Elementen",
+   "start_date": "1971",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "פארק פרנקנדאל (869 מ')"
+ },
+ {
+  "k": "n6719082132",
+  "name": "Twee silhouetten",
+  "la": 52.364531,
+  "ln": 4.920392,
+  "district": "הרובע היהודי, פלנטאז' ואוסט",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Huib Fens",
+   "artwork_type": "sculpture",
+   "name": "Twee silhouetten",
+   "start_date": "1986",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "מוזיאון העולם (248 מ')"
+ },
+ {
+  "k": "n4401065014",
+  "name": "Vaz Dias monument",
+  "la": 52.36612,
+  "ln": 4.904763,
+  "district": "הרובע היהודי, פלנטאז' ואוסט",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Herman van der Heide",
+   "artwork_type": "sculpture",
+   "material": "steel",
+   "name": "Vaz Dias monument",
+   "start_date": "1967",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "אנדרטת השמות (47 מ')"
+ },
+ {
+  "k": "n2509500910",
+  "name": "Wayang Tugela",
+  "la": 52.353139,
+  "ln": 4.914338,
+  "district": "הרובע היהודי, פלנטאז' ואוסט",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Nio Architecten",
+   "artwork_type": "installation",
+   "name": "Wayang Tugela",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "אוסטרפארק (853 מ')"
+ },
+ {
+  "k": "n290735740",
+  "name": "Westerman Monument",
+  "la": 52.366453,
+  "ln": 4.916424,
+  "district": "הרובע היהודי, פלנטאז' ואוסט",
+  "center": 0,
+  "osm_tags": {
+   "historic": "memorial",
+   "memorial": "obelisk",
+   "name": "Westerman Monument",
+   "tourism": "artwork",
+   "wikidata": "Q91023695"
+  },
+  "wikidata": {
+   "id": "Q91023695",
+   "he": "",
+   "en": "Westerman Monument",
+   "nl": "Westerman-monument",
+   "desc": "memorial by Bart van Hove, Artis, Amsterdam, the Netherlands",
+   "wikipedia_in": [
+    "co"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "גן החיות ארטיס (51 מ')"
+ },
+ {
+  "k": "w1185798937",
+  "name": "Yland",
+  "la": 52.369002,
+  "ln": 4.91888,
+  "district": "הרובע היהודי, פלנטאז' ואוסט",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Arie Taal",
+   "artwork_type": "installation",
+   "material": "mixed",
+   "name": "Yland",
+   "start_date": "1990",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "אנטרפוטדוק (126 מ')"
+ },
+ {
+  "k": "n9067789054",
+  "name": "abstract",
+  "la": 52.350232,
+  "ln": 4.944068,
+  "district": "הרובע היהודי, פלנטאז' ואוסט",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Joop Hollanders",
+   "artwork_type": "sculpture",
+   "material": "bronze",
+   "name": "abstract",
+   "start_date": "1982",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "פארק פרנקנדאל (960 מ')"
+ },
+ {
+  "k": "n14206564966",
+  "name": "verzonken toren",
+  "la": 52.351554,
+  "ln": 4.919747,
+  "district": "הרובע היהודי, פלנטאז' ואוסט",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Rik van Dolderen",
+   "artwork_type": "sculpture",
+   "name": "verzonken toren",
+   "tourism": "artwork",
+   "wikidata": "Q113992861"
+  },
+  "wikidata": {
+   "id": "Q113992861",
+   "he": "",
+   "en": "Verzonken toren",
+   "nl": "Verzonken toren",
+   "desc": "artistiek kunstwerk in Amsterdam-Oost",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "פארק פרנקנדאל (704 מ')"
+ }
+]

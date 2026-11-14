@@ -1,0 +1,726 @@
+[
+ {
+  "k": "n5949735385",
+  "name": "Man met vioolkist",
+  "la": 52.374208,
+  "ln": 4.876095,
+  "district": "וסט: וסטרפארק, אאוד־וסט וההארלמרבורט",
+  "center": 0,
+  "osm_tags": {
+   "alt_name": "Blauwe violist",
+   "artist:wikidata": "Q2747007",
+   "artist_name": "De Onbekende Beeldhouwer",
+   "artwork_type": "statue",
+   "colour": "blue",
+   "material": "metal",
+   "name": "Man met vioolkist",
+   "name:en": "Running man with violin statue",
+   "name:nl": "Man met vioolkist",
+   "tourism": "artwork",
+   "wikidata": "Q2857739",
+   "wikipedia": "nl:De blauwe vioolspeler"
+  },
+  "wikidata": {
+   "id": "Q2857739",
+   "he": "",
+   "en": "Running man with a violin case",
+   "nl": "Man met vioolkist",
+   "desc": "statue in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "co",
+    "en",
+    "nl"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "בום שיקגו ומופעי קומדיה (251 מ')"
+ },
+ {
+  "k": "n4005727252",
+  "name": "178 Bottles, 1 Message",
+  "la": 52.389533,
+  "ln": 4.837213,
+  "district": "וסט: וסטרפארק, אאוד־וסט וההארלמרבורט",
+  "center": 0,
+  "osm_tags": {
+   "artwork_type": "installation",
+   "name": "178 Bottles, 1 Message",
+   "tourism": "artwork",
+   "wikidata": "Q98523821",
+   "wikipedia": "nl:178 Bottles, 1 Message"
+  },
+  "wikidata": {
+   "id": "Q98523821",
+   "he": "",
+   "en": "178 Bottles, 1 Message",
+   "nl": "178 Bottles, 1 Message",
+   "desc": "sculpture in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "חוות הילדים בווסטרפארק (1953 מ')"
+ },
+ {
+  "k": "n6380658742",
+  "name": "5 elementen",
+  "la": 52.358309,
+  "ln": 4.852988,
+  "district": "וסט: וסטרפארק, אאוד־וסט וההארלמרבורט",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "André Volten",
+   "artwork_type": "sculpture",
+   "name": "5 elementen",
+   "start_date": "2015",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "רמברנדטפארק (723 מ')"
+ },
+ {
+  "k": "n2608926785",
+  "name": "666/999",
+  "la": 52.368859,
+  "ln": 4.858776,
+  "district": "וסט: וסטרפארק, אאוד־וסט וההארלמרבורט",
+  "center": 0,
+  "osm_tags": {
+   "artist": "Hans van Houwelingen",
+   "name": "666/999",
+   "tourism": "artwork",
+   "wikidata": "Q116198724"
+  },
+  "wikidata": {
+   "id": "Q116198724",
+   "he": "",
+   "en": "666/999",
+   "nl": "Wending 666/999",
+   "desc": "beeld van Hans van Houwelingen in Amsterdam",
+   "wikipedia_in": [
+    "co"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "פודהאלן, אולם האוכל של דה הלן (608 מ')"
+ },
+ {
+  "k": "n6732076831",
+  "name": "Abri",
+  "la": 52.384305,
+  "ln": 4.874972,
+  "district": "וסט: וסטרפארק, אאוד־וסט וההארלמרבורט",
+  "center": 0,
+  "osm_tags": {
+   "amenity": "shelter",
+   "artist_name": "Frank Halmans",
+   "artwork_type": "installation",
+   "material": "steel",
+   "name": "Abri",
+   "shelter_type": "gazebo",
+   "start_date": "1997",
+   "tourism": "artwork",
+   "wikidata": "Q55076509",
+   "wikipedia": "nl:Abri en peperbus"
+  },
+  "wikidata": {
+   "id": "Q55076509",
+   "he": "",
+   "en": "Abri & Peperbus",
+   "nl": "Abri en peperbus",
+   "desc": "public artwork in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "פבריק דה לומייר (277 מ')"
+ },
+ {
+  "k": "n9008862686",
+  "name": "All that glitters...",
+  "la": 52.38248,
+  "ln": 4.838044,
+  "district": "וסט: וסטרפארק, אאוד־וסט וההארלמרבורט",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Leonard van Munster",
+   "artwork_type": "installation",
+   "name": "All that glitters...",
+   "tourism": "artwork",
+   "wikidata": "Q56395581",
+   "wikipedia": "nl:All that glitters..."
+  },
+  "wikidata": {
+   "id": "Q56395581",
+   "he": "",
+   "en": "",
+   "nl": "All that glitters...",
+   "desc": "beeld van Leonard van Munster",
+   "wikipedia_in": [
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "חוות הילדים בווסטרפארק (1951 מ')"
+ },
+ {
+  "k": "n6052907286",
+  "name": "Ankh",
+  "la": 52.370419,
+  "ln": 4.864943,
+  "district": "וסט: וסטרפארק, אאוד־וסט וההארלמרבורט",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Peter van de Locht",
+   "artwork_type": "sculpture",
+   "ele": "4",
+   "name": "Ankh",
+   "start_date": "1991",
+   "tourism": "artwork",
+   "wikidata": "Q58460901",
+   "wikipedia": "nl:Ankh (Peter van de Locht)"
+  },
+  "wikidata": {
+   "id": "Q58460901",
+   "he": "",
+   "en": "Ankh",
+   "nl": "Ankh",
+   "desc": "sculpture in Amsterdam",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "דה הלן ורחוב קינקרסטראט (430 מ')"
+ },
+ {
+  "k": "n9823156715",
+  "name": "Barmhartige Samaritaan",
+  "la": 52.370724,
+  "ln": 4.838147,
+  "district": "וסט: וסטרפארק, אאוד־וסט וההארלמרבורט",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "G.J. ten Wolde",
+   "artwork_type": "statue",
+   "material": "bronze",
+   "name": "Barmhartige Samaritaan",
+   "start_date": "1985",
+   "tourism": "artwork",
+   "wikidata": "Q110051894",
+   "wikipedia": "nl:De barmhartige Samaritaan (Gert ten Wolde)"
+  },
+  "wikidata": {
+   "id": "Q110051894",
+   "he": "",
+   "en": "De barmhartige Samaritaan",
+   "nl": "De barmhartige Samaritaan",
+   "desc": "sculpture in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "רמברנדטפארק (989 מ')"
+ },
+ {
+  "k": "n10868960687",
+  "name": "Beeld van Jacoba van Tongeren",
+  "la": 52.359493,
+  "ln": 4.850704,
+  "district": "וסט: וסטרפארק, אאוד־וסט וההארלמרבורט",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q108839912",
+   "artist_name": "Fabio Pravisani",
+   "artwork_subject": "Jacoba van Tongeren",
+   "artwork_type": "statue",
+   "material": "bronze",
+   "name": "Beeld van Jacoba van Tongeren",
+   "start_date": "10-10-2021",
+   "tourism": "artwork",
+   "wikidata": "Q108839867",
+   "wikipedia": "nl:Beeld van Jacoba van Tongeren"
+  },
+  "wikidata": {
+   "id": "Q108839867",
+   "he": "",
+   "en": "Beeld Jacoba van Tongeren",
+   "nl": "Jacoba van Tongeren",
+   "desc": "statue in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "רמברנדטפארק (534 מ')"
+ },
+ {
+  "k": "n1574833853",
+  "name": "Bevrijde vogel",
+  "la": 52.355494,
+  "ln": 4.82679,
+  "district": "וסט: וסטרפארק, אאוד־וסט וההארלמרבורט",
+  "center": 0,
+  "osm_tags": {
+   "alt_name": "Bevrijde vogel",
+   "artist_name": "Siep van den Berg",
+   "description": "pillar with bird",
+   "historic": "memorial",
+   "inscription": "1940-1945",
+   "memorial": "war_memorial",
+   "name": "Bevrijde vogel",
+   "tourism": "artwork",
+   "wikidata": "Q116684020"
+  },
+  "wikidata": {
+   "id": "Q116684020",
+   "he": "",
+   "en": "",
+   "nl": "Bevrijde vogel",
+   "desc": "war memorial in Amsterdam, the Netherlands",
+   "wikipedia_in": [
+    "co"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "הסלוטרפלאס (1230 מ')"
+ },
+ {
+  "k": "n6054695736",
+  "name": "Boegbeeld",
+  "la": 52.370298,
+  "ln": 4.865009,
+  "district": "וסט: וסטרפארק, אאוד־וסט וההארלמרבורט",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Leonie Mijnlieff",
+   "artwork_type": "sculpture",
+   "name": "Boegbeeld",
+   "tourism": "artwork",
+   "wikidata": "Q59799182",
+   "wikipedia": "nl:Het boegbeeld"
+  },
+  "wikidata": {
+   "id": "Q59799182",
+   "he": "",
+   "en": "Boegbeeld",
+   "nl": "Boegbeeld",
+   "desc": "public artwork in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "דה הלן ורחוב קינקרסטראט (415 מ')"
+ },
+ {
+  "k": "n6370625413",
+  "name": "Bolbewoners",
+  "la": 52.386306,
+  "ln": 4.865668,
+  "district": "וסט: וסטרפארק, אאוד־וסט וההארלמרבורט",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Herman Makkink",
+   "artwork_type": "sculpture",
+   "name": "Bolbewoners",
+   "start_date": "2004",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "חוות הילדים בווסטרפארק (100 מ')"
+ },
+ {
+  "k": "n4771456921",
+  "name": "Brettensuite 2/20",
+  "la": 52.388723,
+  "ln": 4.86552,
+  "district": "וסט: וסטרפארק, אאוד־וסט וההארלמרבורט",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Herbert Nouwens",
+   "artwork_type": "sculpture",
+   "name": "Brettensuite 2/20",
+   "start_date": "1997",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "חוות הילדים בווסטרפארק (168 מ')"
+ },
+ {
+  "k": "n6411853922",
+  "name": "Brettensuite 4/20",
+  "la": 52.38864,
+  "ln": 4.865166,
+  "district": "וסט: וסטרפארק, אאוד־וסט וההארלמרבורט",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Herbert Nouwens",
+   "artwork_type": "sculpture",
+   "name": "Brettensuite 4/20",
+   "start_date": "2013",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "חוות הילדים בווסטרפארק (162 מ')"
+ },
+ {
+  "k": "n6411887154",
+  "name": "Brettensuite 5/20",
+  "la": 52.388512,
+  "ln": 4.852747,
+  "district": "וסט: וסטרפארק, אאוד־וסט וההארלמרבורט",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Herbert Nouwens",
+   "artwork_type": "sculpture",
+   "name": "Brettensuite 5/20",
+   "start_date": "1997",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "חוות הילדים בווסטרפארק (891 מ')"
+ },
+ {
+  "k": "n6514860294",
+  "name": "Brettensuite 7/20",
+  "la": 52.386008,
+  "ln": 4.855254,
+  "district": "וסט: וסטרפארק, אאוד־וסט וההארלמרבורט",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Herbert Nouwens",
+   "artwork_type": "sculpture",
+   "material": "bronze",
+   "name": "Brettensuite 7/20",
+   "start_date": "2009",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "חוות הילדים בווסטרפארק (722 מ')"
+ },
+ {
+  "k": "n6411910575",
+  "name": "Brettensuite 8/20",
+  "la": 52.386527,
+  "ln": 4.847672,
+  "district": "וסט: וסטרפארק, אאוד־וסט וההארלמרבורט",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Herbert Nouwens",
+   "artwork_type": "sculpture",
+   "name": "Brettensuite 8/20",
+   "start_date": "1996",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "חוות הילדים בווסטרפארק (1227 מ')"
+ },
+ {
+  "k": "n7288634672",
+  "name": "Cirkels",
+  "la": 52.360716,
+  "ln": 4.84746,
+  "district": "וסט: וסטרפארק, אאוד־וסט וההארלמרבורט",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Rob Schreefel",
+   "artwork_type": "sculpture",
+   "full_name": "Twee cirkels, 45 graden gedraaid",
+   "material": "stone",
+   "name": "Cirkels",
+   "start_date": "1983",
+   "tourism": "artwork",
+   "wikidata": "Q112684772"
+  },
+  "wikidata": {
+   "id": "Q112684772",
+   "he": "",
+   "en": "",
+   "nl": "Twee cirkels, 45 graden gedraaid",
+   "desc": "sculptuur van Schreefel in Amsterdam",
+   "wikipedia_in": []
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "רמברנדטפארק (350 מ')"
+ },
+ {
+  "k": "n9823111483",
+  "name": "Construction H-Balk Din 30",
+  "la": 52.365764,
+  "ln": 4.82665,
+  "district": "וסט: וסטרפארק, אאוד־וסט וההארלמרבורט",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Andre Volten",
+   "artwork_type": "sculpture",
+   "material": "steel",
+   "name": "Construction H-Balk Din 30",
+   "start_date": "1966",
+   "tourism": "artwork",
+   "wikidata": "Q55313615",
+   "wikipedia": "nl:Constructie H-Balk DIN 30"
+  },
+  "wikidata": {
+   "id": "Q55313615",
+   "he": "",
+   "en": "Constructie H-Balk DIN 30",
+   "nl": "Constructie H-Balk DIN 30",
+   "desc": "public artwork in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "הסלוטרפלאס (511 מ')"
+ },
+ {
+  "k": "n3204776671",
+  "name": "DIN 20",
+  "la": 52.381846,
+  "ln": 4.843361,
+  "district": "וסט: וסטרפארק, אאוד־וסט וההארלמרבורט",
+  "center": 0,
+  "osm_tags": {
+   "alt_name": "Balkenbrij",
+   "artist_name": "André Volten",
+   "artwork_type": "sculpture",
+   "description": "metal sculpture by André Volten",
+   "material": "steel",
+   "name": "DIN 20",
+   "tourism": "artwork",
+   "wikidata": "Q56395585",
+   "wikipedia": "nl:Constructie staal DIN 20"
+  },
+  "wikidata": {
+   "id": "Q56395585",
+   "he": "",
+   "en": "Construction steel DIN20",
+   "nl": "DIN 20",
+   "desc": "Kunstwerk van Volten aan Wiltzanghlaan in Amsterdam",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "חוות הילדים בווסטרפארק (1630 מ')"
+ },
+ {
+  "k": "n8155619679",
+  "name": "De Bouwvakarbeider",
+  "la": 52.380812,
+  "ln": 4.82761,
+  "district": "וסט: וסטרפארק, אאוד־וסט וההארלמרבורט",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Jan Havermans",
+   "artwork_type": "statue",
+   "material": "bronze",
+   "name": "De Bouwvakarbeider",
+   "start_date": "1962",
+   "tourism": "artwork",
+   "wikidata": "Q117779909",
+   "wikipedia": "nl:De bouwvakarbeider"
+  },
+  "wikidata": {
+   "id": "Q117779909",
+   "he": "",
+   "en": "",
+   "nl": "Bouwvakarbeider",
+   "desc": "beeld van Jan Havermans in Amsterdam",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "הסלוטרפלאס (1790 מ')"
+ },
+ {
+  "k": "n6064948555",
+  "name": "De Ratelaar",
+  "la": 52.368612,
+  "ln": 4.870233,
+  "district": "וסט: וסטרפארק, אאוד־וסט וההארלמרבורט",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Rob Cerneüs",
+   "artwork_type": "statue",
+   "name": "De Ratelaar",
+   "start_date": "2007",
+   "tourism": "artwork",
+   "wikidata": "Q41782869",
+   "wikipedia": "nl:De ratelaar"
+  },
+  "wikidata": {
+   "id": "Q41782869",
+   "he": "",
+   "en": "De ratelaar",
+   "nl": "De ratelaar",
+   "desc": "statue in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "דה הלן ורחוב קינקרסטראט (288 מ')"
+ },
+ {
+  "k": "n10984699702",
+  "name": "De droom van een hond",
+  "la": 52.363431,
+  "ln": 4.861717,
+  "district": "וסט: וסטרפארק, אאוד־וסט וההארלמרבורט",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Halim al-Karim",
+   "artwork_type": "relief",
+   "name": "De droom van een hond",
+   "tourism": "artwork",
+   "wikidata": "Q86819993",
+   "wikipedia": "nl:De droom van een hond"
+  },
+  "wikidata": {
+   "id": "Q86819993",
+   "he": "",
+   "en": "De droom van een hond",
+   "nl": "De droom van een hond",
+   "desc": "mozaiek in Amsterdam",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "פודהאלן, אולם האוכל של דה הלן (510 מ')"
+ },
+ {
+  "k": "n8196260413",
+  "name": "De lus",
+  "la": 52.395926,
+  "ln": 4.836127,
+  "district": "וסט: וסטרפארק, אאוד־וסט וההארלמרבורט",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "André Volten",
+   "artwork_type": "sculpture",
+   "material": "steel",
+   "name": "De lus",
+   "start_date": "2008",
+   "tourism": "artwork",
+   "wikidata": "Q118103565"
+  },
+  "wikidata": {
+   "id": "Q118103565",
+   "he": "",
+   "en": "De lus",
+   "nl": "De lus",
+   "desc": "sculpture in Amsterdam, Netherlands",
+   "wikipedia_in": []
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "חוות הילדים בווסטרפארק (2230 מ')"
+ },
+ {
+  "k": "n2963491822",
+  "name": "De verdwenen boer",
+  "la": 52.386178,
+  "ln": 4.846815,
+  "district": "וסט: וסטרפארק, אאוד־וסט וההארלמרבורט",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Karel Gomes",
+   "artwork_type": "statue",
+   "material": "bronze",
+   "name": "De verdwenen boer",
+   "start_date": "2005",
+   "tourism": "artwork",
+   "wikidata": "Q101564369"
+  },
+  "wikidata": {
+   "id": "Q101564369",
+   "he": "",
+   "en": "De verdwenen boer",
+   "nl": "De verdwenen boer",
+   "desc": "statue in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "חוות הילדים בווסטרפארק (1288 מ')"
+ },
+ {
+  "k": "n10863811450",
+  "name": "Deur naar het verleden",
+  "la": 52.385104,
+  "ln": 4.828242,
+  "district": "וסט: וסטרפארק, אאוד־וסט וההארלמרבורט",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Pieter Boekschooten",
+   "artwork_type": "installation",
+   "material": "steel;limestone",
+   "name": "Deur naar het verleden",
+   "tourism": "artwork",
+   "url": "https://izi.travel/nl/51dc-kunstroute-sloterdijk-spaarnwoude-park/nl#d1c2f43e-813e-436e-8af2-856f2c84ea32__51dcb1ae-e81d-487d-886e-f21b6d5a7e43",
+   "website": "https://amsterdam.kunstwacht.nl/kunstwerken/bekijk/18505-deur-naar-het-verleden",
+   "wikidata": "Q118139094"
+  },
+  "wikidata": {
+   "id": "Q118139094",
+   "he": "",
+   "en": "Deur naar het verleden",
+   "nl": "Deur naar het verleden",
+   "desc": "sculpture in Amsterdam, Netherlands",
+   "wikipedia_in": []
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "הסלוטרפלאס (2258 מ')"
+ }
+]

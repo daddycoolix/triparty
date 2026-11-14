@@ -1,0 +1,831 @@
+[
+ {
+  "k": "n4360169260",
+  "name": "3 bomen, 6 lenzen",
+  "la": 52.368672,
+  "ln": 4.894469,
+  "district": "המרכז ההיסטורי: הדאם, דה ואלן ונייוומרקט",
+  "center": 1,
+  "osm_tags": {
+   "artist_name": "Thom Puckey",
+   "artwork_type": "sculpture",
+   "material": "bronze",
+   "name": "3 bomen, 6 lenzen",
+   "name:en": "Lens Trees",
+   "name:nl": "3 bomen, 6 lenzen",
+   "tourism": "artwork",
+   "wikidata": "Q26453081"
+  },
+  "wikidata": {
+   "id": "Q26453081",
+   "he": "",
+   "en": "Lens Trees",
+   "nl": "3 bomen, 6 lenzen",
+   "desc": "sculpture in Amsterdam, the Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "מוזיאון אלארד פירסון ושוק הספרים באאודמנהאוספורט (97 מ')"
+ },
+ {
+  "k": "n3695000426",
+  "name": "Annick van Hardeveld",
+  "la": 52.377584,
+  "ln": 4.895312,
+  "district": "המרכז ההיסטורי: הדאם, דה ואלן ונייוומרקט",
+  "center": 1,
+  "osm_tags": {
+   "description": "low rectangular stone pillar with plaquette",
+   "ele": "5",
+   "historic": "memorial",
+   "inscription": "Op deze plekwerd 4 mei 1945 de laatste koerierster uit het verzet Annick van Harkeveld door de duitse bezetter vermoord. Zij was 21 jaar oud. Dit token is een eerbewijs ann allen die streden tegen onrecht en onderdrukking.",
+   "memorial": "war_memorial",
+   "name": "Annick van Hardeveld",
+   "ref:4en5mei": "1617",
+   "wikidata": "Q106769973",
+   "wikipedia": "nl:Monument voor Annick van Hardeveld"
+  },
+  "wikidata": {
+   "id": "Q106769973",
+   "he": "",
+   "en": "Monument voor Annick van Hardeveld",
+   "nl": "Monument voor Annick van Hardeveld",
+   "desc": "war memorial in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "שיט בתעלות (181 מ')"
+ },
+ {
+  "k": "n10742492990",
+  "name": "Argus",
+  "la": 52.370993,
+  "ln": 4.89024,
+  "district": "המרכז ההיסטורי: הדאם, דה ואלן ונייוומרקט",
+  "center": 1,
+  "osm_tags": {
+   "artist_name": "Saske van der Eerden",
+   "artwork_type": "statue",
+   "material": "bronze",
+   "name": "Argus",
+   "tourism": "artwork",
+   "wikidata": "Q113995958",
+   "wikipedia": "nl:Argus (Saske van der Eerden)"
+  },
+  "wikidata": {
+   "id": "Q113995958",
+   "he": "",
+   "en": "Argus",
+   "nl": "Argus",
+   "desc": "Sculptures in Amsterdam-Centrum",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "מוזיאון אמסטרדם (110 מ')"
+ },
+ {
+  "k": "n7952271779",
+  "name": "Bredero",
+  "la": 52.373188,
+  "ln": 4.900783,
+  "district": "המרכז ההיסטורי: הדאם, דה ואלן ונייוומרקט",
+  "center": 1,
+  "osm_tags": {
+   "artist_name": "Piet Esser",
+   "artwork_subject": "Spaansche Brabander",
+   "artwork_type": "statue",
+   "material": "bronze",
+   "name": "Bredero",
+   "start_date": "1968",
+   "tourism": "artwork",
+   "wikidata": "Q57076069",
+   "wikipedia": "nl:Bredero-monument"
+  },
+  "wikidata": {
+   "id": "Q57076069",
+   "he": "",
+   "en": "Bredero Memorial",
+   "nl": "Bredero-monument",
+   "desc": "statue in Amsterdam, the Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "נייוומרקט ובית המשקל (56 מ')"
+ },
+ {
+  "k": "n4339597847",
+  "name": "Damslachtoffers 7 mei 1945",
+  "la": 52.373393,
+  "ln": 4.8928,
+  "district": "המרכז ההיסטורי: הדאם, דה ואלן ונייוומרקט",
+  "center": 1,
+  "osm_tags": {
+   "historic": "memorial",
+   "memorial": "war_memorial",
+   "name": "Damslachtoffers 7 mei 1945",
+   "name:en": "Dam Square Victims 7 mei 1945",
+   "name:nl": "Damslachtoffers 7 mei 1945",
+   "ref:4en5mei": "3931",
+   "website": "https://de-dam-zevenmei1945.nl/",
+   "wikidata": "Q26710500",
+   "wikipedia": "nl:Monument voor Damslachtoffers 7 mei 1945"
+  },
+  "wikidata": {
+   "id": "Q26710500",
+   "he": "",
+   "en": "Memorial Dam Square shooting 1945",
+   "nl": "Monument voor Damslachtoffers 7 mei 1945",
+   "desc": "oorlogsmonument in Amsterdam, Nederland",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "כיכר הדאם (35 מ')"
+ },
+ {
+  "k": "n6347648661",
+  "name": "Een vertaling, van de ene taal naar de andere",
+  "la": 52.368873,
+  "ln": 4.889923,
+  "district": "המרכז ההיסטורי: הדאם, דה ואלן ונייוומרקט",
+  "center": 1,
+  "osm_tags": {
+   "artist:wikidata": "Q680192",
+   "artist_name": "Lawrence Weiner",
+   "artwork_type": "sculpture",
+   "name": "Een vertaling, van de ene taal naar de andere",
+   "tourism": "artwork",
+   "wikidata": "Q56395617"
+  },
+  "wikidata": {
+   "id": "Q56395617",
+   "he": "",
+   "en": "A translation, from one language to another",
+   "nl": "Een vertaling, van de ene taal naar de andere",
+   "desc": "sculpture in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "הספוי ושוק הספרים (33 מ')"
+ },
+ {
+  "k": "n4879053155",
+  "name": "Heilig Hartbeeld",
+  "la": 52.369492,
+  "ln": 4.890076,
+  "district": "המרכז ההיסטורי: הדאם, דה ואלן ונייוומרקט",
+  "center": 1,
+  "osm_tags": {
+   "artist_name": "Johannes Petrus Maas",
+   "artwork_type": "statue",
+   "denomination": "roman_catholic",
+   "description": "statue of Sacred Heart of Jesus Christ",
+   "material": "stone",
+   "name": "Heilig Hartbeeld",
+   "name:nl": "Heilig Hartbeeld",
+   "religion": "christian",
+   "start_date": "1920",
+   "subject:wikidata": "Q2208234",
+   "tourism": "artwork",
+   "wikidata": "Q13723270",
+   "wikipedia": "nl:Heilig Hartbeeld (Amsterdam)"
+  },
+  "wikidata": {
+   "id": "Q13723270",
+   "he": "",
+   "en": "Statue of Sacred Heart of Jesus Christ",
+   "nl": "Heilig Hartbeeld",
+   "desc": "Amsterdam",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "הבגינהוף (5 מ')"
+ },
+ {
+  "k": "n4360169258",
+  "name": "Prins Hendrik",
+  "la": 52.375356,
+  "ln": 4.903735,
+  "district": "המרכז ההיסטורי: הדאם, דה ואלן ונייוומרקט",
+  "center": 1,
+  "osm_tags": {
+   "artist_name": "Frans Stracké",
+   "artwork_type": "statue",
+   "inscription": "Prins Hendrik der Nederlanden 1820-1879 / Het dankbaar Amsterdam.",
+   "name": "Prins Hendrik",
+   "tourism": "artwork",
+   "wikidata": "Q26454204"
+  },
+  "wikidata": {
+   "id": "Q26454204",
+   "he": "",
+   "en": "Prince Henry",
+   "nl": "Borstbeeld Prins Hendrik de Zeevaarder",
+   "desc": "statue in Amsterdam, the Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "בית הספנות (סחיפוורטהאוס) (118 מ')"
+ },
+ {
+  "k": "n7330211816",
+  "name": "Rokinfontein",
+  "la": 52.372041,
+  "ln": 4.893116,
+  "district": "המרכז ההיסטורי: הדאם, דה ואלן ונייוומרקט",
+  "center": 1,
+  "osm_tags": {
+   "amenity": "fountain",
+   "artist_name": "Mark Manders",
+   "artwork_type": "sculpture",
+   "material": "bronze",
+   "name": "Rokinfontein",
+   "name:nl": "Rokinfontein",
+   "start_date": "2017",
+   "tourism": "artwork",
+   "wikidata": "Q43196597",
+   "wikipedia": "nl:Rokinfontein"
+  },
+  "wikidata": {
+   "id": "Q43196597",
+   "he": "",
+   "en": "Rokinfontein",
+   "nl": "Rokinfontein",
+   "desc": "sculpture in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "הבראון קפה של המרכז (9 מ')"
+ },
+ {
+  "k": "n4952719221",
+  "name": "Ruiterstandbeeld van Koningin Wilhelmina",
+  "la": 52.369175,
+  "ln": 4.892307,
+  "district": "המרכז ההיסטורי: הדאם, דה ואלן ונייוומרקט",
+  "center": 1,
+  "osm_tags": {
+   "artist_name": "Theresia van der Pant",
+   "historic": "memorial",
+   "man_made": "yes",
+   "memorial": "statue",
+   "name": "Ruiterstandbeeld van Koningin Wilhelmina",
+   "name:en": "Equestrian statue of Queen Wilhelmina",
+   "name:ru": "Памятник Вильгельмине",
+   "start_date": "1972",
+   "tourism": "attraction",
+   "wikidata": "Q1993531",
+   "wikipedia": "nl:Ruiterstandbeeld koningin Wilhelmina (Amsterdam)"
+  },
+  "wikidata": {
+   "id": "Q1993531",
+   "he": "",
+   "en": "Equestrian statue of Queen Wilhelmina",
+   "nl": "Ruiterstandbeeld koningin Wilhelmina",
+   "desc": "statue in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "ar",
+    "co",
+    "en",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "מוזיאון אלארד פירסון ושוק הספרים באאודמנהאוספורט (64 מ')"
+ },
+ {
+  "k": "w175846077",
+  "name": "Spinoza",
+  "la": 52.36794,
+  "ln": 4.899201,
+  "district": "המרכז ההיסטורי: הדאם, דה ואלן ונייוומרקט",
+  "center": 1,
+  "osm_tags": {
+   "artist_name": "Nicolas Dings",
+   "artwork_type": "statue",
+   "description": "memorial for Baruch de Spinoza",
+   "inscription": "Het doel van de staat is vrijheid",
+   "man_made": "yes",
+   "material": "bronze",
+   "name": "Spinoza",
+   "name:en": "Spinoza Statue",
+   "name:es": "Estatua de Spinoza",
+   "name:nl": "Spinoza",
+   "start_date": "2008",
+   "tourism": "artwork",
+   "wikidata": "Q83182491",
+   "wikipedia": "nl:Spinozamonument"
+  },
+  "wikidata": {
+   "id": "Q83182491",
+   "he": "",
+   "en": "Spinoza Memorial",
+   "nl": "Spinozamonument",
+   "desc": "public artwork in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "ca",
+    "co",
+    "nl"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "שוק ווטרלופליין (154 מ')"
+ },
+ {
+  "k": "n8270667735",
+  "name": "Vrouw met stola",
+  "la": 52.368271,
+  "ln": 4.888603,
+  "district": "המרכז ההיסטורי: הדאם, דה ואלן ונייוומרקט",
+  "center": 1,
+  "osm_tags": {
+   "artist_name": "Pieter d'Hont",
+   "artwork_type": "statue",
+   "material": "bronze",
+   "name": "Vrouw met stola",
+   "start_date": "1977",
+   "tourism": "artwork",
+   "wikidata": "Q86979687",
+   "wikipedia": "nl:Vrouw met stola"
+  },
+  "wikidata": {
+   "id": "Q86979687",
+   "he": "",
+   "en": "Vrouw met stola",
+   "nl": "Vrouw met stola",
+   "desc": "statue in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "כנסיית דה קרייטברך (65 מ')"
+ },
+ {
+  "k": "n8547043440",
+  "name": "Aanvallende stier",
+  "la": 52.374293,
+  "ln": 4.895592,
+  "district": "המרכז ההיסטורי: הדאם, דה ואלן ונייוומרקט",
+  "center": 1,
+  "osm_tags": {
+   "artist_name": "Arturo di Modica",
+   "artwork_type": "sculpture",
+   "material": "bronze",
+   "name": "Aanvallende stier",
+   "name:en": "Charging bull",
+   "start_date": "2012",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "הדמרק ובורסת ברלאחה (45 מ')"
+ },
+ {
+  "k": "n3371945363",
+  "name": "Belle",
+  "la": 52.374179,
+  "ln": 4.897406,
+  "district": "המרכז ההיסטורי: הדאם, דה ואלן ונייוומרקט",
+  "center": 1,
+  "osm_tags": {
+   "artist_name": "Els Rijerse",
+   "artwork_type": "statue",
+   "historic": "memorial",
+   "inscription": "Respect sex workers all over the world.",
+   "material": "bronze",
+   "memorial": "statue",
+   "name": "Belle",
+   "name:nl": "Belle",
+   "name:ru": "Красотка",
+   "start_date": "2007",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "הכנסייה הישנה (אודה קרק) (49 מ')"
+ },
+ {
+  "k": "n3371945362",
+  "name": "Borstplaat",
+  "la": 52.374024,
+  "ln": 4.897906,
+  "district": "המרכז ההיסטורי: הדאם, דה ואלן ונייוומרקט",
+  "center": 1,
+  "osm_tags": {
+   "artist_name": "De Onbekende Beeldhouwer",
+   "artwork_type": "sculpture",
+   "location": "floor",
+   "name": "Borstplaat",
+   "tourism": "artwork",
+   "wikidata": "Q2298562",
+   "wikipedia": "nl:Borstplaat (kunstwerk)"
+  },
+  "wikidata": {
+   "id": "Q2298562",
+   "he": "",
+   "en": "Borstplaat",
+   "nl": "Borstplaat",
+   "desc": "kunstwerk",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "הכנסייה הישנה (אודה קרק) (38 מ')"
+ },
+ {
+  "k": "w920541715",
+  "name": "De werken van barmhartigheid",
+  "la": 52.365747,
+  "ln": 4.904192,
+  "district": "המרכז ההיסטורי: הדאם, דה ואלן ונייוומרקט",
+  "center": 1,
+  "osm_tags": {
+   "artist_name": "Tineke Smit",
+   "artwork_type": "sculpture",
+   "name": "De werken van barmhartigheid",
+   "tourism": "artwork",
+   "wikidata": "Q105735861",
+   "wikipedia": "nl:De werken van barmhartigheid (beeldengroep)"
+  },
+  "wikidata": {
+   "id": "Q105735861",
+   "he": "",
+   "en": "De werken van barmhartigheid",
+   "nl": "De werken van barmhartigheid (beeldengroep)",
+   "desc": "sculpture in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "אנדרטת השמות (53 מ')"
+ },
+ {
+  "k": "n1028402695",
+  "name": "Grenspaal",
+  "la": 52.369576,
+  "ln": 4.901227,
+  "district": "המרכז ההיסטורי: הדאם, דה ואלן ונייוומרקט",
+  "center": 1,
+  "osm_tags": {
+   "description": "stone turtle under pillar",
+   "historic": "memorial",
+   "memorial": "sculpture",
+   "name": "Grenspaal",
+   "website": "https://www.buitenbeeldinbeeld.nl/Amsterdam_C/schildpad.htm",
+   "wikidata": "Q46909830"
+  },
+  "wikidata": {
+   "id": "Q46909830",
+   "he": "",
+   "en": "Grenspaal",
+   "nl": "Grenspaal",
+   "desc": "art work in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "בית רמברנדט (20 מ')"
+ },
+ {
+  "k": "n8112947043",
+  "name": "Het appeltje van Provo",
+  "la": 52.372775,
+  "ln": 4.89171,
+  "district": "המרכז ההיסטורי: הדאם, דה ואלן ונייוומרקט",
+  "center": 1,
+  "osm_tags": {
+   "artist_name": "Robert Jasper Grootveld",
+   "artwork_type": "carving",
+   "name": "Het appeltje van Provo",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "הארמון המלכותי (54 מ')"
+ },
+ {
+  "k": "n13081530944",
+  "name": "Kabouter",
+  "la": 52.371207,
+  "ln": 4.89063,
+  "district": "המרכז ההיסטורי: הדאם, דה ואלן ונייוומרקט",
+  "center": 1,
+  "osm_tags": {
+   "artist_name": "Ruchama Noorda",
+   "artwork_type": "statue",
+   "material": "bronze",
+   "name": "Kabouter",
+   "start_date": "2021",
+   "tourism": "artwork",
+   "wikipedia": "nl:Kabouterbeweging"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "מוזיאון אמסטרדם (135 מ')"
+ },
+ {
+  "k": "n5413222221",
+  "name": "Leeuw",
+  "la": 52.372756,
+  "ln": 4.893314,
+  "district": "המרכז ההיסטורי: הדאם, דה ואלן ונייוומרקט",
+  "center": 1,
+  "osm_tags": {
+   "artist_name": "Jan Willem Rädecker",
+   "artwork_type": "statue",
+   "name": "Leeuw",
+   "name:de": "Löwe",
+   "name:en": "Lion",
+   "name:es": "León",
+   "name:fr": "Lion",
+   "name:nl": "Leeuw",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "האנדרטה הלאומית (20 מ')"
+ },
+ {
+  "k": "n6052874964",
+  "name": "Levensboom",
+  "la": 52.370942,
+  "ln": 4.901069,
+  "district": "המרכז ההיסטורי: הדאם, דה ואלן ונייוומרקט",
+  "center": 1,
+  "osm_tags": {
+   "artist_name": "Wim Tap",
+   "artwork_type": "column",
+   "name": "Levensboom",
+   "tourism": "artwork",
+   "wikidata": "Q58459335",
+   "wikipedia": "nl:Levensboom (Wim Tap)"
+  },
+  "wikidata": {
+   "id": "Q58459335",
+   "he": "",
+   "en": "Levensboom",
+   "nl": "Levensboom",
+   "desc": "beeld van Wim Tap in Amsterdam",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "סינט אנטוניסברסטראט ובית פינטו (18 מ')"
+ },
+ {
+  "k": "n5674541699",
+  "name": "Majoor Bosshardt",
+  "la": 52.375548,
+  "ln": 4.900026,
+  "district": "המרכז ההיסטורי: הדאם, דה ואלן ונייוומרקט",
+  "center": 1,
+  "osm_tags": {
+   "amenity": "bench",
+   "artist_name": "Peter de Leeuwe",
+   "artwork_type": "sculpture",
+   "backrest": "yes",
+   "historic": "memorial",
+   "material": "bronze",
+   "memorial": "statue",
+   "name": "Majoor Bosshardt",
+   "start_date": "2013-06-07",
+   "subject:wikidata": "Q274040",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "אדוננו בעליית הגג (61 מ')"
+ },
+ {
+  "k": "n10782412559",
+  "name": "Mirakelkolom",
+  "la": 52.370255,
+  "ln": 4.892365,
+  "district": "המרכז ההיסטורי: הדאם, דה ואלן ונייוומרקט",
+  "center": 1,
+  "osm_tags": {
+   "artwork_type": "sculpture",
+   "material": "stone",
+   "name": "Mirakelkolom",
+   "tourism": "artwork",
+   "wikidata": "Q52162388",
+   "wikipedia": "nl:Mirakelkolom"
+  },
+  "wikidata": {
+   "id": "Q52162388",
+   "he": "",
+   "en": "Mirakelkolom",
+   "nl": "Mirakelkolom",
+   "desc": "zuil in Amsterdam",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "הדאנג'ן של אמסטרדם (14 מ')"
+ },
+ {
+  "k": "n1843775915",
+  "name": "Monument Joods Verzet 1940-'45",
+  "la": 52.36761,
+  "ln": 4.898855,
+  "district": "המרכז ההיסטורי: הדאם, דה ואלן ונייוומרקט",
+  "center": 1,
+  "osm_tags": {
+   "historic": "memorial",
+   "memorial": "obelisk",
+   "name": "Monument Joods Verzet 1940-'45",
+   "name:en": "Jewish WW2 resistance memorial",
+   "name:nl": "Monument Joods Verzet 1940-'45",
+   "name:ru": "Мемориал еврейским жертвам Второй мировой войны",
+   "ref:4en5mei": "1631",
+   "war_memorial": "yes",
+   "wikidata": "Q2280024",
+   "wikipedia": "nl:Joods Verzetsmonument"
+  },
+  "wikidata": {
+   "id": "Q2280024",
+   "he": "",
+   "en": "Monument Joods Verzet",
+   "nl": "Monument Joods Verzet 1940-1945",
+   "desc": "oorlogsmonument in Amsterdam, Nederland",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "הסטופרה (180 מ')"
+ },
+ {
+  "k": "n11944513513",
+  "name": "Telefoon van de Wind Hoftuin",
+  "la": 52.366064,
+  "ln": 4.904488,
+  "district": "המרכז ההיסטורי: הדאם, דה ואלן ונייוומרקט",
+  "center": 1,
+  "osm_tags": {
+   "historic": "memorial",
+   "memorial": "wind_phone",
+   "name": "Telefoon van de Wind Hoftuin",
+   "name:en": "Wind phone Hoftuin",
+   "website": "https://www.humanitas.nl/afdeling/amsterdam_en_diemen/Wat-we-doen/telefoon-van-de-wind-Hoftuin/",
+   "wikidata": "Q126193138"
+  },
+  "wikidata": {
+   "id": "Q126193138",
+   "he": "",
+   "en": "Wind phone Amsterdam",
+   "nl": "Telefoon van de Wind Hoftuin",
+   "desc": "wind phone in Amsterdam, the Netherlands",
+   "wikipedia_in": [
+    "co"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "אנדרטת השמות (51 מ')"
+ },
+ {
+  "k": "n8546970962",
+  "name": "Voor water",
+  "la": 52.366945,
+  "ln": 4.903675,
+  "district": "המרכז ההיסטורי: הדאם, דה ואלן ונייוומרקט",
+  "center": 1,
+  "osm_tags": {
+   "artist_name": "Harald Schone",
+   "artwork_type": "sculpture",
+   "material": "steel",
+   "name": "Voor water",
+   "start_date": "1987",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "אבני הנגף והאנדרטה היהודית המקוונת (22 מ')"
+ },
+ {
+  "k": "n7395647571",
+  "name": "Vrouwe Fortuna",
+  "la": 52.367394,
+  "ln": 4.893739,
+  "district": "המרכז ההיסטורי: הדאם, דה ואלן ונייוומרקט",
+  "center": 1,
+  "osm_tags": {
+   "artist_name": "Hildo Krop",
+   "artwork_type": "sculpture",
+   "material": "bronze",
+   "name": "Vrouwe Fortuna",
+   "start_date": "1948",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "מגדל המטבעה (מונטורן) (51 מ')"
+ },
+ {
+  "k": "n8272156074",
+  "name": "rat",
+  "la": 52.365702,
+  "ln": 4.903644,
+  "district": "המרכז ההיסטורי: הדאם, דה ואלן ונייוומרקט",
+  "center": 1,
+  "osm_tags": {
+   "artist_name": "Patrick Visser",
+   "artwork_type": "sculpture",
+   "material": "scrap_metal",
+   "name": "rat",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "מוזיאון H'ART (לשעבר הרמיטאז' אמסטרדם) (84 מ')"
+ },
+ {
+  "k": "n8272171888",
+  "name": "tiger",
+  "la": 52.365802,
+  "ln": 4.90345,
+  "district": "המרכז ההיסטורי: הדאם, דה ואלן ונייוומרקט",
+  "center": 1,
+  "osm_tags": {
+   "artist_name": "Patrick Visser",
+   "artwork_type": "sculpture",
+   "material": "scrap_metal",
+   "name": "tiger",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "מוזיאון H'ART (לשעבר הרמיטאז' אמסטרדם) (78 מ')"
+ }
+]

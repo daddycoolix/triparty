@@ -1,0 +1,1079 @@
+[
+ {
+  "k": "n3594879920",
+  "name": "Arthur van Schendel",
+  "la": 52.362447,
+  "ln": 4.881409,
+  "district": "טבעת התעלות, ירדן ותשעת הרחובות",
+  "center": 1,
+  "osm_tags": {
+   "artist_name": "Jobs Wertheim",
+   "artwork_type": "bust",
+   "name": "Arthur van Schendel",
+   "tourism": "artwork",
+   "wikidata": "Q61906457"
+  },
+  "wikidata": {
+   "id": "Q61906457",
+   "he": "",
+   "en": "Arthur van Schendel",
+   "nl": "Arthur van Schendel",
+   "desc": "bust by J.G. Wertheim in Amsterdam",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "פרדיסו ומלקווך (178 מ')"
+ },
+ {
+  "k": "n4552224146",
+  "name": "De Stam",
+  "la": 52.379113,
+  "ln": 4.876985,
+  "district": "טבעת התעלות, ירדן ותשעת הרחובות",
+  "center": 1,
+  "osm_tags": {
+   "artist_name": "Atelier van Lieshout",
+   "artwork_type": "sculpture",
+   "name": "De Stam",
+   "start_date": "2015",
+   "tourism": "artwork",
+   "wikidata": "Q104518449"
+  },
+  "wikidata": {
+   "id": "Q104518449",
+   "he": "",
+   "en": "De Stam",
+   "nl": "De Stam",
+   "desc": "beeldengroep in Amsterdam-West",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "GROUP": {
+   "card_name": "De Stam (Atelier Van Lieshout, 2015)",
+   "other_members": [
+    {
+     "k": "n6361222410",
+     "name": "De Stam",
+     "artist": "atelier van lieshout",
+     "year": "2015"
+    },
+    {
+     "k": "n6725150806",
+     "name": "De Stam",
+     "artist": "atelier van lieshout",
+     "year": "2015"
+    }
+   ]
+  },
+  "nearest_guide_site": "הירדן (401 מ')"
+ },
+ {
+  "k": "n1637298789",
+  "name": "Ferdinand Domela Nieuwenhuis",
+  "la": 52.385273,
+  "ln": 4.881777,
+  "district": "טבעת התעלות, ירדן ותשעת הרחובות",
+  "center": 1,
+  "osm_tags": {
+   "artist_name": "Johan Polet",
+   "artwork_type": "statue",
+   "material": "bronze",
+   "name": "Ferdinand Domela Nieuwenhuis",
+   "start_date": "1931",
+   "tourism": "artwork",
+   "wikidata": "Q78706754",
+   "wikipedia": "nl:Standbeeld van Domela Nieuwenhuis"
+  },
+  "wikidata": {
+   "id": "Q78706754",
+   "he": "",
+   "en": "Statue of Ferdinand Domela Nieuwenhuis",
+   "nl": "Standbeeld van Domela Nieuwenhuis",
+   "desc": "statue in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "הארלמרפליין ושער וילם (151 מ')"
+ },
+ {
+  "k": "n7397368926",
+  "name": "Gedenksteen",
+  "la": 52.362838,
+  "ln": 4.883253,
+  "district": "טבעת התעלות, ירדן ותשעת הרחובות",
+  "center": 1,
+  "osm_tags": {
+   "artist_name": "Pieter Zaanen",
+   "historic": "memorial",
+   "material": "stone",
+   "memorial": "former prison",
+   "name": "Gedenksteen",
+   "ref:4en5mei": "516",
+   "start_date": "1992",
+   "wikidata": "Q57594301",
+   "wikipedia": "nl:Gedenksteen voor het voormalig Huis van Bewaring"
+  },
+  "wikidata": {
+   "id": "Q57594301",
+   "he": "",
+   "en": "Gedenksteen voor het voormalig Huis van Bewaring",
+   "nl": "Gedenksteen voor het voormalig Huis van Bewaring",
+   "desc": "memorial in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "פרדיסו ומלקווך (87 מ')"
+ },
+ {
+  "k": "n6370666286",
+  "name": "Gold in your mind, gold in your feet",
+  "la": 52.386768,
+  "ln": 4.878105,
+  "district": "טבעת התעלות, ירדן ותשעת הרחובות",
+  "center": 1,
+  "osm_tags": {
+   "artist_name": "Mirjam Janse",
+   "artwork:material": "bronze",
+   "artwork_type": "sculpture",
+   "name": "Gold in your mind, gold in your feet",
+   "start_date": "2004",
+   "tourism": "artwork",
+   "wikidata": "Q57594369",
+   "wikipedia": "nl:Gold in your mind, gold in your feet"
+  },
+  "wikidata": {
+   "id": "Q57594369",
+   "he": "",
+   "en": "Gold in your mind, gold in your feet",
+   "nl": "Gold in your mind, gold in your feet",
+   "desc": "sculpture in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "ספארנדאמרבורט (386 מ')"
+ },
+ {
+  "k": "n8546865560",
+  "name": "Horizontale compositie",
+  "la": 52.363479,
+  "ln": 4.879992,
+  "district": "טבעת התעלות, ירדן ותשעת הרחובות",
+  "center": 1,
+  "osm_tags": {
+   "artist_name": "Henk Zwerus",
+   "artwork_type": "sculpture",
+   "material": "stone",
+   "name": "Horizontale compositie",
+   "start_date": "1958",
+   "tourism": "artwork",
+   "wikidata": "Q76741772"
+  },
+  "wikidata": {
+   "id": "Q76741772",
+   "he": "",
+   "en": "Horizontale compositie",
+   "nl": "Horizontale compositie",
+   "desc": "sculpture in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "לייצפליין (190 מ')"
+ },
+ {
+  "k": "n6895883286",
+  "name": "Jacob van Lennep",
+  "la": 52.38505,
+  "ln": 4.882833,
+  "district": "טבעת התעלות, ירדן ותשעת הרחובות",
+  "center": 1,
+  "osm_tags": {
+   "artist_name": "Lia van Vugt",
+   "artwork_type": "sculpture",
+   "material": "steel",
+   "name": "Jacob van Lennep",
+   "start_date": "2016",
+   "tourism": "artwork",
+   "wikidata": "Q107008557",
+   "wikipedia": "nl:Standbeeld voor Jacob van Lennep"
+  },
+  "wikidata": {
+   "id": "Q107008557",
+   "he": "",
+   "en": "Statue for Jacob van Lennep",
+   "nl": "Standbeeld voor Jacob van Lennep",
+   "desc": "sculpture in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "הארלמרפליין ושער וילם (77 מ')"
+ },
+ {
+  "k": "n7466745809",
+  "name": "Jordaan Oproer",
+  "la": 52.379461,
+  "ln": 4.88632,
+  "district": "טבעת התעלות, ירדן ותשעת הרחובות",
+  "center": 1,
+  "osm_tags": {
+   "artist_name": "Sofie Hupkens",
+   "artwork_type": "sculpture",
+   "material": "bronze",
+   "name": "Jordaan Oproer",
+   "start_date": "1987",
+   "tourism": "artwork",
+   "wikidata": "Q99385610"
+  },
+  "wikidata": {
+   "id": "Q99385610",
+   "he": "",
+   "en": "Monument Jordaanoproer",
+   "nl": "Monument Jordaanoproer",
+   "desc": "",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "הנורדרקרק (21 מ')"
+ },
+ {
+  "k": "n11007296655",
+  "name": "Standing Stone",
+  "la": 52.363559,
+  "ln": 4.877598,
+  "district": "טבעת התעלות, ירדן ותשעת הרחובות",
+  "center": 1,
+  "osm_tags": {
+   "artist_name": "Pink Scheerder",
+   "artwork_type": "sculpture",
+   "level": "0",
+   "material": "stone",
+   "name": "Standing Stone",
+   "start_date": "1989",
+   "tourism": "artwork",
+   "wikidata": "Q113437227",
+   "wikipedia": "nl:Standing stone"
+  },
+  "wikidata": {
+   "id": "Q113437227",
+   "he": "",
+   "en": "Standing stone (PINK de Thierry)",
+   "nl": "Standing stone",
+   "desc": "work of art in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "לייצפליין (345 מ')"
+ },
+ {
+  "k": "n12054461831",
+  "name": "Tegen alle stromen in",
+  "la": 52.363838,
+  "ln": 4.88276,
+  "district": "טבעת התעלות, ירדן ותשעת הרחובות",
+  "center": 1,
+  "osm_tags": {
+   "artist:wikidata": "Q23006548",
+   "artist:wikipedia": "nl:Rini Hurkmans",
+   "artist_name": "Rini Hurkmans",
+   "artwork_type": "sculpture",
+   "colour": "#90EE90",
+   "description": "monument ter herdenking van Peter R. de Vries, die is vermoord door criminelen. Onthulling op nationale tv: https://npo.nl/start/serie/monument-voor-peter-r-de-vries/seizoen-1/onthulling-monument-peter-r-de-vries/af",
+   "description:en": "memorial in remembrance of Peter R. de Vries (fighter against injustice), who was murdered by criminals. Memorial reveal on national TV: https://npo.nl/start/serie/monument-voor-peter-r-de-vries/seizoen-1/onthulling-monument-peter-r-de-vries/af",
+   "height": "2.85",
+   "inscription": "Blijf wie je bent... houd als het nodig is je rug recht, kom op voor zwakkeren en minderheden, zeg eerlijk wat je vindt en luister naar je rechtvaardigheidsgevoel.",
+   "inscription:en": "Stay who you are ... keep your back straight when necessary, stand up for the weak and minorities, say honestly what you think and listen to your sense of justice.",
+   "length": "5.25",
+   "material": "bronze",
+   "name": "Tegen alle stromen in",
+   "subject": "Peter R. de Vries",
+   "subject:wikidata": "Q1944867",
+   "subject:wikipedia": "nl:Peter R. de Vries",
+   "tourism": "artwork",
+   "url": "https://www.2doc.nl/documentaires/2024/07/het-monument-peter-r-de-vries.html",
+   "website": "https://www.amsterdam.nl/herdenkingsmonument-peter-vries/?print=true",
+   "width": "2.75",
+   "wikidata": "Q127462101",
+   "wikipedia": "nl:Tegen alle stromen in"
+  },
+  "wikidata": {
+   "id": "Q127462101",
+   "he": "",
+   "en": "Tegen alle stromen in",
+   "nl": "Tegen alle stromen in",
+   "desc": "monument remembering Peter R. de Vries at the Leidseplein in Amsterdam, the Netherlands",
+   "wikipedia_in": [
+    "co",
+    "en",
+    "nl"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "לייצפליין (31 מ')"
+ },
+ {
+  "k": "n440673917",
+  "name": "Thorbecke",
+  "la": 52.365058,
+  "ln": 4.895853,
+  "district": "טבעת התעלות, ירדן ותשעת הרחובות",
+  "center": 1,
+  "osm_tags": {
+   "artist_name": "Ferdinand Leenhoff",
+   "artwork_type": "statue",
+   "description": "statue of Johan Rudolph Thorbecke",
+   "heritage": "2",
+   "heritage:operator": "rce",
+   "historic": "memorial",
+   "memorial": "statue",
+   "name": "Thorbecke",
+   "name:en": "Thorbecke statue",
+   "ref:rce": "518335",
+   "tourism": "artwork",
+   "wikidata": "Q17302703",
+   "wikipedia": "nl:Standbeeld van Johan Rudolph Thorbecke"
+  },
+  "wikidata": {
+   "id": "Q17302703",
+   "he": "",
+   "en": "Thorbeckemonument, Amsterdam",
+   "nl": "Thorbeckemonument",
+   "desc": "standbeeld op Thorbeckeplein",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "רמברנדטפליין (132 מ')"
+ },
+ {
+  "k": "n8300866285",
+  "name": "Walenweeskinderen",
+  "la": 52.361849,
+  "ln": 4.888868,
+  "district": "טבעת התעלות, ירדן ותשעת הרחובות",
+  "center": 1,
+  "osm_tags": {
+   "artist_name": "Felix van Kalmthout",
+   "artwork_type": "statue",
+   "material": "bronze",
+   "name": "Walenweeskinderen",
+   "start_date": "1984",
+   "tourism": "artwork",
+   "wikidata": "Q104598054",
+   "wikipedia": "nl:Walenweeskinderen"
+  },
+  "wikidata": {
+   "id": "Q104598054",
+   "he": "",
+   "en": "Walenweeskinderen",
+   "nl": "Walenweeskinderen",
+   "desc": "sculpture in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "רובע העתיקות שפיחלקווארטיר (117 מ')"
+ },
+ {
+  "k": "n6063357986",
+  "name": "Woutertje Pieterse & Femke",
+  "la": 52.379991,
+  "ln": 4.887478,
+  "district": "טבעת התעלות, ירדן ותשעת הרחובות",
+  "center": 1,
+  "osm_tags": {
+   "artist_name": "Frits Sieger",
+   "artwork_type": "statue",
+   "material": "stone",
+   "name": "Woutertje Pieterse & Femke",
+   "start_date": "1971",
+   "tourism": "artwork",
+   "wikidata": "Q86829231"
+  },
+  "wikidata": {
+   "id": "Q86829231",
+   "he": "",
+   "en": "Woutertje Pieterse & Femke",
+   "nl": "Woutertje Pieterse en Femke",
+   "desc": "statue in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "שוקי הנורדרמרקט והלינדנחראכט (41 מ')"
+ },
+ {
+  "k": "n5949740085",
+  "name": "Zagertje",
+  "la": 52.363298,
+  "ln": 4.880668,
+  "district": "טבעת התעלות, ירדן ותשעת הרחובות",
+  "center": 1,
+  "osm_tags": {
+   "alt_name": "Boomzagertje",
+   "artist:wikidata": "Q2747007",
+   "artist_name": "De Onbekende Beeldhouwer",
+   "artwork_type": "statue",
+   "description:en": "Little man with saw statue in a tree",
+   "name": "Zagertje",
+   "name:nl": "Zagertje",
+   "name:ru": "Не пили сук,на котором сидишь",
+   "start_date": "1989",
+   "tourism": "artwork",
+   "wikidata": "Q2175226",
+   "wikipedia": "nl:Boomzagertje"
+  },
+  "wikidata": {
+   "id": "Q2175226",
+   "he": "",
+   "en": "Tree Sawyer",
+   "nl": "Boomzagertje",
+   "desc": "sculpture in Amsterdam, the Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "לייצפליין (158 מ')"
+ },
+ {
+  "k": "n4229660123",
+  "name": "Abstract ornament",
+  "la": 52.38578,
+  "ln": 4.876956,
+  "district": "טבעת התעלות, ירדן ותשעת הרחובות",
+  "center": 1,
+  "osm_tags": {
+   "artist_name": "Liesbeth Pallesen",
+   "artwork_type": "sculpture",
+   "name": "Abstract ornament",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "פבריק דה לומייר (329 מ')"
+ },
+ {
+  "k": "n4010018670",
+  "name": "Apentafel",
+  "la": 52.386115,
+  "ln": 4.883566,
+  "district": "טבעת התעלות, ירדן ותשעת הרחובות",
+  "center": 1,
+  "osm_tags": {
+   "artist_name": "Merijn Bolink",
+   "artwork_type": "sculpture",
+   "material": "steel;bronze",
+   "name": "Apentafel",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "הארלמרפליין ושער וילם (167 מ')"
+ },
+ {
+  "k": "n7931659141",
+  "name": "Bevrijdingslinde",
+  "la": 52.377634,
+  "ln": 4.878829,
+  "district": "טבעת התעלות, ירדן ותשעת הרחובות",
+  "center": 1,
+  "osm_tags": {
+   "historic": "memorial",
+   "leaf_cycle": "deciduous",
+   "leaf_type": "broadleaved",
+   "memorial": "war_memorial",
+   "name": "Bevrijdingslinde",
+   "natural": "tree",
+   "species": "Tilia × europaea",
+   "species:en": "linden",
+   "species:nl": "linde",
+   "start_date": "1946",
+   "wikidata": "Q30239162",
+   "wikipedia": "nl:Bevrijdingslinde van de Jordaankinderen"
+  },
+  "wikidata": {
+   "id": "Q30239162",
+   "he": "",
+   "en": "Bevrijdingslinde van de Jordaankinderen",
+   "nl": "Bevrijdingslinde van de Jordaankinderen",
+   "desc": "tree in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "הירדן (198 מ')"
+ },
+ {
+  "k": "n8551535192",
+  "name": "De aardige Amsterdammer",
+  "la": 52.380316,
+  "ln": 4.894451,
+  "district": "טבעת התעלות, ירדן ותשעת הרחובות",
+  "center": 1,
+  "osm_tags": {
+   "artist_name": "Laszio Geleng Klaas Hartzema",
+   "artwork_type": "sculpture",
+   "material": "bronze",
+   "name": "De aardige Amsterdammer",
+   "start_date": "2015",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "מעבורות האיי (318 מ')"
+ },
+ {
+  "k": "n8300807812",
+  "name": "Getrapt vierkant",
+  "la": 52.381862,
+  "ln": 4.887414,
+  "district": "טבעת התעלות, ירדן ותשעת הרחובות",
+  "center": 1,
+  "osm_tags": {
+   "artist_name": "Cyril Lixenberg",
+   "artwork_type": "sculpture",
+   "material": "steel",
+   "name": "Getrapt vierkant",
+   "start_date": "1981",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "הארלמרסטראט והארלמרדייק (42 מ')"
+ },
+ {
+  "k": "n12149484471",
+  "name": "Gevallen Engel",
+  "la": 52.38499,
+  "ln": 4.880163,
+  "district": "טבעת התעלות, ירדן ותשעת הרחובות",
+  "center": 1,
+  "osm_tags": {
+   "artist_name": "Helena Aaltje van Zandbergen",
+   "artwork_type": "installation",
+   "material": "stone",
+   "name": "Gevallen Engel",
+   "name:en": "Fallen Angel",
+   "tourism": "artwork",
+   "website": "https://web.archive.org/web/20180831012920/http://museam.nl/37"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "הארלמרפליין ושער וילם (245 מ')"
+ },
+ {
+  "k": "w563159690",
+  "name": "Hans Snoekfontein",
+  "la": 52.363686,
+  "ln": 4.881522,
+  "district": "טבעת התעלות, ירדן ותשעת הרחובות",
+  "center": 1,
+  "osm_tags": {
+   "amenity": "fountain",
+   "name": "Hans Snoekfontein",
+   "natural": "water",
+   "wikidata": "Q61965308",
+   "wikipedia": "nl:Hans Snoekfontein"
+  },
+  "wikidata": {
+   "id": "Q61965308",
+   "he": "",
+   "en": "Hans Snoek-fontein",
+   "nl": "Hans Snoekfontein",
+   "desc": "fountain with fish sculpture by Gerarda Rueter in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "לייצפליין (86 מ')"
+ },
+ {
+  "k": "n7161300424",
+  "name": "Herman Heijermans",
+  "la": 52.363557,
+  "ln": 4.880363,
+  "district": "טבעת התעלות, ירדן ותשעת הרחובות",
+  "center": 1,
+  "osm_tags": {
+   "artist_name": "Joseph Mendes da Costa",
+   "artwork_type": "sculpture",
+   "material": "stone",
+   "name": "Herman Heijermans",
+   "tourism": "artwork",
+   "wikidata": "Q61963931",
+   "wikipedia": "nl:Buste van Herman Heijermans"
+  },
+  "wikidata": {
+   "id": "Q61963931",
+   "he": "",
+   "en": "Bust of Herman Heijermans",
+   "nl": "Heijermans",
+   "desc": "beeld van Herman Heijermans door Joseph Mendes da Costa",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "לייצפליין (163 מ')"
+ },
+ {
+  "k": "n1704741755",
+  "name": "Johnny Jordaan",
+  "la": 52.370112,
+  "ln": 4.882221,
+  "district": "טבעת התעלות, ירדן ותשעת הרחובות",
+  "center": 1,
+  "osm_tags": {
+   "alt_name": "Parels van de Jordaan",
+   "artist_name": "Kees Verkade",
+   "artwork_type": "bust",
+   "material": "bronze",
+   "memorial": "bust",
+   "name": "Johnny Jordaan",
+   "tourism": "artwork",
+   "website": "https://amsterdam.kunstwacht.nl/kunstwerken/bekijk/1501-johnny-jordaan"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "מוזיאון ספינת המגורים (26 מ')"
+ },
+ {
+  "k": "n11913325451",
+  "name": "Johnny Meijer",
+  "la": 52.370107,
+  "ln": 4.882222,
+  "district": "טבעת התעלות, ירדן ותשעת הרחובות",
+  "center": 1,
+  "osm_tags": {
+   "alt_name": "Parels van de Jordaan",
+   "artist_name": "Rob Cerneüs",
+   "artwork_type": "bust",
+   "material": "bronze",
+   "name": "Johnny Meijer",
+   "tourism": "artwork",
+   "website": "https://amsterdam.kunstwacht.nl/kunstwerken/bekijk/1499-johnny-meijer-1912-1990"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "מוזיאון ספינת המגורים (26 מ')"
+ },
+ {
+  "k": "n4572279565",
+  "name": "Katja",
+  "la": 52.36549,
+  "ln": 4.90374,
+  "district": "טבעת התעלות, ירדן ותשעת הרחובות",
+  "center": 1,
+  "osm_tags": {
+   "artist_name": "Eddy Roos",
+   "artwork_type": "sculpture",
+   "material": "bronze",
+   "name": "Katja",
+   "start_date": "1983",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "מוזיאון H'ART (לשעבר הרמיטאז' אמסטרדם) (84 מ')"
+ },
+ {
+  "k": "n3130956442",
+  "name": "Kokadorus",
+  "la": 52.362148,
+  "ln": 4.897405,
+  "district": "טבעת התעלות, ירדן ותשעת הרחובות",
+  "center": 1,
+  "osm_tags": {
+   "artwork_type": "statue",
+   "material": "bronze",
+   "name": "Kokadorus",
+   "start_date": "1977",
+   "tourism": "artwork",
+   "wikidata": "Q86919788"
+  },
+  "wikidata": {
+   "id": "Q86919788",
+   "he": "",
+   "en": "Kokadorus",
+   "nl": "Kokadorus",
+   "desc": "statue in Amsterdam, the Netherlands",
+   "wikipedia_in": [
+    "co"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "אוטרכטסה סטראט (109 מ')"
+ },
+ {
+  "k": "n12669747618",
+  "name": "Leidseplein‑Lizards",
+  "la": 52.363021,
+  "ln": 4.883733,
+  "district": "טבעת התעלות, ירדן ותשעת הרחובות",
+  "center": 1,
+  "osm_tags": {
+   "alt_name": "Blauw Jan",
+   "artwork_type": "sculpture",
+   "name": "Leidseplein‑Lizards",
+   "tourism": "artwork",
+   "wikidata": "Q39336225",
+   "wikipedia": "nl:Blauw Jan"
+  },
+  "wikidata": {
+   "id": "Q39336225",
+   "he": "",
+   "en": "Blauw Jan",
+   "nl": "Blauw Jan",
+   "desc": "group of statues in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "פרדיסו ומלקווך (92 מ')"
+ },
+ {
+  "k": "n4538468006",
+  "name": "Lief Beton",
+  "la": 52.386178,
+  "ln": 4.877178,
+  "district": "טבעת התעלות, ירדן ותשעת הרחובות",
+  "center": 1,
+  "osm_tags": {
+   "artist_name": "Annetje van Verseveld",
+   "artwork_type": "sculpture",
+   "name": "Lief Beton",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "פבריק דה לומייר (342 מ')"
+ },
+ {
+  "k": "n4229659520",
+  "name": "Man op kruk",
+  "la": 52.385785,
+  "ln": 4.876871,
+  "district": "טבעת התעלות, ירדן ותשעת הרחובות",
+  "center": 1,
+  "osm_tags": {
+   "artist_name": "Ronald Tolman",
+   "artwork_type": "sculpture",
+   "name": "Man op kruk",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "פבריק דה לומייר (323 מ')"
+ },
+ {
+  "k": "n11913325450",
+  "name": "Manke Nelis",
+  "la": 52.37012,
+  "ln": 4.882201,
+  "district": "טבעת התעלות, ירדן ותשעת הרחובות",
+  "center": 1,
+  "osm_tags": {
+   "alt_name": "Parels van de Jordaan",
+   "artist_name": "Kees Verkade",
+   "artwork_type": "bust",
+   "material": "bronze",
+   "name": "Manke Nelis",
+   "tourism": "artwork",
+   "website": "https://amsterdam.kunstwacht.nl/kunstwerken/bekijk/1591-manke-nelis-parels-van-de-jordaan"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "מוזיאון ספינת המגורים (27 מ')"
+ },
+ {
+  "k": "n4989018299",
+  "name": "Max Euwe",
+  "la": 52.362502,
+  "ln": 4.882975,
+  "district": "טבעת התעלות, ירדן ותשעת הרחובות",
+  "center": 1,
+  "osm_tags": {
+   "artist_name": "José Fijnaut",
+   "artwork_type": "sculpture",
+   "description": "bust and pawn on a pillar",
+   "material": "bronze",
+   "name": "Max Euwe",
+   "start_date": "2004",
+   "tourism": "artwork",
+   "wikidata": "Q106685321"
+  },
+  "wikidata": {
+   "id": "Q106685321",
+   "he": "",
+   "en": "Max Euwe",
+   "nl": "Max Euwe",
+   "desc": "sculpture",
+   "wikipedia_in": [
+    "co"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "פרדיסו ומלקווך (77 מ')"
+ },
+ {
+  "k": "n11913325452",
+  "name": "Mien en \"Bolle\" Jan Froger",
+  "la": 52.370104,
+  "ln": 4.882221,
+  "district": "טבעת התעלות, ירדן ותשעת הרחובות",
+  "center": 1,
+  "osm_tags": {
+   "alt_name": "Parrels van de Jordaan",
+   "artist_name": "Dominic Grant",
+   "artwork_type": "bust",
+   "material": "bronze",
+   "name": "Mien en \"Bolle\" Jan Froger",
+   "tourism": "artwork",
+   "website": "https://amsterdam.kunstwacht.nl/kunstwerken/bekijk/9969-pa-en-ma-froger"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "מוזיאון ספינת המגורים (26 מ')"
+ },
+ {
+  "k": "n6412087404",
+  "name": "Nail House",
+  "la": 52.381801,
+  "ln": 4.885598,
+  "district": "טבעת התעלות, ירדן ותשעת הרחובות",
+  "center": 1,
+  "osm_tags": {
+   "artist_name": "Leonard van Munster",
+   "artwork_type": "installation",
+   "name": "Nail House",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "ברואוורסחראכט (130 מ')"
+ },
+ {
+  "k": "n11913325449",
+  "name": "Tante Leen",
+  "la": 52.370118,
+  "ln": 4.882211,
+  "district": "טבעת התעלות, ירדן ותשעת הרחובות",
+  "center": 1,
+  "osm_tags": {
+   "alt_name": "Parels van de Jordaan",
+   "artist_name": "Kees Verkade",
+   "artwork_type": "bust",
+   "material": "bronze",
+   "name": "Tante Leen",
+   "tourism": "artwork",
+   "website": "https://amsterdam.kunstwacht.nl/kunstwerken/bekijk/1500-tante-leen"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "מוזיאון ספינת המגורים (26 מ')"
+ },
+ {
+  "k": "n9071588827",
+  "name": "Tegenbeeld",
+  "la": 52.382172,
+  "ln": 4.878945,
+  "district": "טבעת התעלות, ירדן ותשעת הרחובות",
+  "center": 1,
+  "osm_tags": {
+   "artist_name": "Jos Willems",
+   "artwork_type": "sculpture",
+   "material": "copper",
+   "name": "Tegenbeeld",
+   "start_date": "1995",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "הארלמרפליין ושער וילם (422 מ')"
+ },
+ {
+  "k": "n7556008111",
+  "name": "Vaste klant",
+  "la": 52.368656,
+  "ln": 4.8814,
+  "district": "טבעת התעלות, ירדן ותשעת הרחובות",
+  "center": 1,
+  "osm_tags": {
+   "alt_name": "de man met kat",
+   "artist_name": "Albert Zweep",
+   "artwork_type": "statue",
+   "material": "bronze",
+   "name": "Vaste klant",
+   "name:en": "regular customer",
+   "start_date": "1997",
+   "tourism": "artwork",
+   "website": "https://www.buitenbeeldinbeeld.nl/Amsterdam_C/VasteKlant.htm",
+   "wikidata": "Q29167584",
+   "wikipedia": "nl:Vaste klant"
+  },
+  "wikidata": {
+   "id": "Q29167584",
+   "he": "",
+   "en": "regular customer",
+   "nl": "Vaste klant",
+   "desc": "statue in Amsterdam, the Netherlands",
+   "wikipedia_in": [
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "מוזיאון ספינת המגורים (184 מ')"
+ },
+ {
+  "k": "n10877660745",
+  "name": "Volksvrouw",
+  "la": 52.377843,
+  "ln": 4.879064,
+  "district": "טבעת התעלות, ירדן ותשעת הרחובות",
+  "center": 1,
+  "osm_tags": {
+   "artist_name": "Henk Henriët",
+   "artwork_type": "sculpture",
+   "material": "bronze",
+   "name": "Volksvrouw",
+   "tourism": "artwork",
+   "wikidata": "Q30140822",
+   "wikipedia": "nl:Volksvrouw"
+  },
+  "wikidata": {
+   "id": "Q30140822",
+   "he": "",
+   "en": "Volksvrouw",
+   "nl": "Volksvrouw",
+   "desc": "sculpture in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "הירדן (214 מ')"
+ },
+ {
+  "k": "n13410980119",
+  "name": "Why not",
+  "la": 52.377347,
+  "ln": 4.876686,
+  "district": "טבעת התעלות, ירדן ותשעת הרחובות",
+  "center": 1,
+  "osm_tags": {
+   "artist_name": "Else Ringnalda",
+   "artwork_type": "sculpture",
+   "name": "Why not",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "הירדן (270 מ')"
+ },
+ {
+  "k": "n2937809212",
+  "name": "Zonder Titel",
+  "la": 52.38589,
+  "ln": 4.881352,
+  "district": "טבעת התעלות, ירדן ותשעת הרחובות",
+  "center": 1,
+  "osm_tags": {
+   "artist_name": "Michiel Schierbeek",
+   "artwork_type": "sculpture",
+   "name": "Zonder Titel",
+   "tourism": "artwork",
+   "wikidata": "Q56395599"
+  },
+  "wikidata": {
+   "id": "Q56395599",
+   "he": "",
+   "en": "Zonder titel",
+   "nl": "Zonder titel",
+   "desc": "sculpture by Guido Geelen in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "הארלמרפליין ושער וילם (214 מ')"
+ }
+]

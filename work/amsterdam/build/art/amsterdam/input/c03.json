@@ -1,0 +1,816 @@
+[
+ {
+  "k": "n7973950991",
+  "name": "Cascade",
+  "la": 52.357504,
+  "ln": 4.861856,
+  "district": "רובע המוזיאונים, פונדלפארק ודה פייפ",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Shamai Haber",
+   "artwork_type": "installation",
+   "material": "stone",
+   "name": "Cascade",
+   "name:fr": "Écriture sur l'eau",
+   "name:nl": "Cascade",
+   "start_date": "1965",
+   "tourism": "artwork",
+   "wikidata": "Q85308209",
+   "wikipedia": "nl:Cascade Vondelpark"
+  },
+  "wikidata": {
+   "id": "Q85308209",
+   "he": "",
+   "en": "Cascade",
+   "nl": "Cascade",
+   "desc": "sculpture in Vondelpark, Amsterdam, the Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "הפונדלפארק (461 מ')"
+ },
+ {
+  "k": "n538934266",
+  "name": "Figure découpée",
+  "la": 52.357469,
+  "ln": 4.868016,
+  "district": "רובע המוזיאונים, פונדלפארק ודה פייפ",
+  "center": 0,
+  "osm_tags": {
+   "alt_name": "Vissenbeeld",
+   "artist_name": "Pablo Picasso",
+   "artwork_type": "sculpture",
+   "material": "concrete",
+   "name": "Figure découpée",
+   "name:en": "Figure découpée",
+   "name:fr": "Figure découpée",
+   "start_date": "1965",
+   "tourism": "artwork",
+   "wikidata": "Q24572909",
+   "wikipedia": "nl:Figure découpée"
+  },
+  "wikidata": {
+   "id": "Q24572909",
+   "he": "",
+   "en": "Figure découpée",
+   "nl": "Figure découpée",
+   "desc": "sculpture by Picasso in Vondelpark, Amsterdam, the Netherlands",
+   "wikipedia_in": [
+    "co",
+    "en",
+    "nl"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "הפונדלפארק (71 מ')"
+ },
+ {
+  "k": "n2505986109",
+  "name": "Fusillade",
+  "la": 52.358745,
+  "ln": 4.890086,
+  "district": "רובע המוזיאונים, פונדלפארק ודה פייפ",
+  "center": 0,
+  "osm_tags": {
+   "alt_name": "De gevallen hoornblazer",
+   "artist_name": "Gerrit Bolhuis",
+   "historic": "memorial",
+   "loc_name": "De keeper",
+   "material": "bronze",
+   "memorial": "war_memorial",
+   "name": "Fusillade",
+   "start_date": "1954",
+   "wikidata": "Q22329084"
+  },
+  "wikidata": {
+   "id": "Q22329084",
+   "he": "",
+   "en": "De Gevallen Hoornblazer, Amsterdam",
+   "nl": "Fusillade",
+   "desc": "sculpture in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "חוויית הייניקן (156 מ')"
+ },
+ {
+  "k": "n275445586",
+  "name": "Koningin Emma",
+  "la": 52.354103,
+  "ln": 4.86287,
+  "district": "רובע המוזיאונים, פונדלפארק ודה פייפ",
+  "center": 0,
+  "osm_tags": {
+   "artwork_type": "statue",
+   "historic": "memorial",
+   "material": "stone",
+   "memorial": "statue",
+   "name": "Koningin Emma",
+   "wikidata": "Q3061423"
+  },
+  "wikidata": {
+   "id": "Q3061423",
+   "he": "",
+   "en": "Koningin Emmamonument",
+   "nl": "Monument koningin Emma",
+   "desc": "statue and memorial in Amsterdam, the Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "הפונדלפארק (582 מ')"
+ },
+ {
+  "k": "n5413982252",
+  "name": "Kosmos",
+  "la": 52.356027,
+  "ln": 4.865577,
+  "district": "רובע המוזיאונים, פונדלפארק ודה פייפ",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Wim van Hoorn",
+   "artwork_type": "sculpture",
+   "material": "bronze",
+   "name": "Kosmos",
+   "name:en": "Kosmos",
+   "start_date": "1970",
+   "tourism": "artwork",
+   "wikidata": "Q79404104",
+   "wikipedia": "nl:Kosmos (Vondelpark)"
+  },
+  "wikidata": {
+   "id": "Q79404104",
+   "he": "",
+   "en": "Kosmos",
+   "nl": "Kosmos",
+   "desc": "sculpture in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "הפונדלפארק (300 מ')"
+ },
+ {
+  "k": "n3407541878",
+  "name": "La demeure humaine",
+  "la": 52.359052,
+  "ln": 4.899237,
+  "district": "רובע המוזיאונים, פונדלפארק ודה פייפ",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Ossip. Zadkine",
+   "artwork_type": "sculpture",
+   "material": "bronze",
+   "name": "La demeure humaine",
+   "start_date": "1968",
+   "tourism": "artwork",
+   "wikidata": "Q56395605",
+   "wikipedia": "nl:La demeure humaine"
+  },
+  "wikidata": {
+   "id": "Q56395605",
+   "he": "",
+   "en": "La Demeure Humaine",
+   "nl": "La demeure humaine",
+   "desc": "sculpture in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "אוטרכטסה סטראט (327 מ')"
+ },
+ {
+  "k": "n1758868082",
+  "name": "Mama Baranka (Moeder Rots)",
+  "la": 52.359251,
+  "ln": 4.874418,
+  "district": "רובע המוזיאונים, פונדלפארק ודה פייפ",
+  "center": 0,
+  "osm_tags": {
+   "historic": "memorial",
+   "memorial": "statue",
+   "name": "Mama Baranka (Moeder Rots)",
+   "url": "http://www.buitenbeeldinbeeld.nl/Amsterdam_Z/Ma%20Baranka.htm",
+   "website": "https://amsterdam.kunstwacht.nl/kunstwerken/bekijk/471-mama-baranka",
+   "wikidata": "Q77924636",
+   "wikipedia": "nl:Mama Baranka"
+  },
+  "wikidata": {
+   "id": "Q77924636",
+   "he": "",
+   "en": "Mama Baranka",
+   "nl": "Mama Baranka",
+   "desc": "sculpture in Amsterdam",
+   "wikipedia_in": [
+    "co",
+    "nl",
+    "pa"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "התיאטרון הפתוח בפונדלפארק (242 מ')"
+ },
+ {
+  "k": "n11777064497",
+  "name": "Melkfles",
+  "la": 52.353904,
+  "ln": 4.88838,
+  "district": "רובע המוזיאונים, פונדלפארק ודה פייפ",
+  "center": 0,
+  "osm_tags": {
+   "alt_name": "No use crying over spilt milk",
+   "artist_name": "Tom Postma",
+   "artwork_type": "sculpture",
+   "description": "large standing flat milk bottle",
+   "material": "concrete",
+   "name": "Melkfles",
+   "tourism": "artwork",
+   "wikidata": "Q98835193",
+   "wikipedia": "nl:Zonder titel (Tom Postma)"
+  },
+  "wikidata": {
+   "id": "Q98835193",
+   "he": "",
+   "en": "No use crying over spilt milk",
+   "nl": "Melkfles",
+   "desc": "sculpture of Tom Postma in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "שוק אלברט קאופ (274 מ')"
+ },
+ {
+  "k": "n4370519128",
+  "name": "Moeder Aarde",
+  "la": 52.358801,
+  "ln": 4.891555,
+  "district": "רובע המוזיאונים, פונדלפארק ודה פייפ",
+  "center": 0,
+  "osm_tags": {
+   "alt_name": "Gaia",
+   "artist_name": "Hildo Krop",
+   "artwork_type": "statue",
+   "name": "Moeder Aarde",
+   "name:en": "Mother Earth",
+   "name:nl": "Moeder Aarde",
+   "start_date": "1965",
+   "tourism": "artwork",
+   "wikidata": "Q54589786"
+  },
+  "wikidata": {
+   "id": "Q54589786",
+   "he": "",
+   "en": "Moeder Aarde",
+   "nl": "Moeder Aarde",
+   "desc": "statue in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "חוויית הייניקן (112 מ')"
+ },
+ {
+  "k": "w277145000",
+  "name": "Monument Indië-Nederland",
+  "la": 52.35015,
+  "ln": 4.86568,
+  "district": "רובע המוזיאונים, פונדלפארק ודה פייפ",
+  "center": 0,
+  "osm_tags": {
+   "artwork_type": "statue",
+   "heritage": "2",
+   "heritage:operator": "rce",
+   "historic": "memorial",
+   "name": "Monument Indië-Nederland",
+   "old_name": "Van Heutszmonument",
+   "ref:bag": "0363100012186954",
+   "start_date": "1930",
+   "tourism": "artwork",
+   "wikidata": "Q2577520",
+   "wikipedia": "nl:Monument Indië-Nederland"
+  },
+  "wikidata": {
+   "id": "Q2577520",
+   "he": "",
+   "en": "Monument Indië-Nederland",
+   "nl": "Monument Indië-Nederland",
+   "desc": "memorial in Amsterdam, the Netherlands",
+   "wikipedia_in": [
+    "co",
+    "en",
+    "nl"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "הפונדלפארק (893 מ')"
+ },
+ {
+  "k": "n4586166413",
+  "name": "Monument Walraven van Hall",
+  "la": 52.359946,
+  "ln": 4.899631,
+  "district": "רובע המוזיאונים, פונדלפארק ודה פייפ",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Fernando Sánchez Castillo",
+   "artwork_type": "sculpture",
+   "historic": "memorial",
+   "inscription": "WALRAVEN VAN HALL, BANKIER VAN HET VERZET, 1906-1945.",
+   "material": "bronze",
+   "memorial": "war_memorial",
+   "name": "Monument Walraven van Hall",
+   "start_date": "2010",
+   "tourism": "artwork",
+   "website": "https://www.walravenvanhall.nl",
+   "wikidata": "Q56395610",
+   "wikipedia": "nl:Monument Walraven van Hall"
+  },
+  "wikidata": {
+   "id": "Q56395610",
+   "he": "",
+   "en": "Monument Walraven van Hall",
+   "nl": "Monument Walraven van Hall",
+   "desc": "memorial in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "אוטרכטסה סטראט (231 מ')"
+ },
+ {
+  "k": "n1027330946",
+  "name": "Monument voor gefusilleerde verzetstrijders",
+  "la": 52.350703,
+  "ln": 4.877753,
+  "district": "רובע המוזיאונים, פונדלפארק ודה פייפ",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Jan Havermans",
+   "historic": "memorial",
+   "memorial": "war_memorial",
+   "name": "Monument voor gefusilleerde verzetstrijders",
+   "ref:4en5mei": "1445",
+   "start_date": "1952",
+   "wikidata": "Q61904267",
+   "wikipedia": "nl:Verzetsmonument Apollolaan"
+  },
+  "wikidata": {
+   "id": "Q61904267",
+   "he": "",
+   "en": "Verzetsmonument Apollolaan",
+   "nl": "Verzetsmonument Apollolaan",
+   "desc": "war memorial in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "הקונצרטחבאו (626 מ')"
+ },
+ {
+  "k": "n5413937002",
+  "name": "Naaktfiguur",
+  "la": 52.358875,
+  "ln": 4.872103,
+  "district": "רובע המוזיאונים, פונדלפארק ודה פייפ",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Frits Sieger",
+   "artwork_type": "sculpture",
+   "name": "Naaktfiguur",
+   "name:en": "Naked figure",
+   "name:nl": "Naaktfiguur",
+   "tourism": "artwork",
+   "wikidata": "Q54861035",
+   "wikipedia": "nl:Naaktfiguur",
+   "year": "1957"
+  },
+  "wikidata": {
+   "id": "Q54861035",
+   "he": "",
+   "en": "Naked figure",
+   "nl": "Naaktfiguur",
+   "desc": "statue by Frits Sieger in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "התיאטרון הפתוח בפונדלפארק (83 מ')"
+ },
+ {
+  "k": "n4401151670",
+  "name": "P.C. Hooft",
+  "la": 52.361032,
+  "ln": 4.884565,
+  "district": "רובע המוזיאונים, פונדלפארק ודה פייפ",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Frits Sieger",
+   "artwork_type": "bust",
+   "name": "P.C. Hooft",
+   "start_date": "1947",
+   "tourism": "artwork",
+   "wikidata": "Q61901949",
+   "wikipedia": "nl:Borstbeeld P.C. Hooft"
+  },
+  "wikidata": {
+   "id": "Q61901949",
+   "he": "",
+   "en": "Pieter Corneliszoon Hooft",
+   "nl": "Pieter Corneliszoon Hooft",
+   "desc": "sculpture in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "הרייקסמוזיאום (133 מ')"
+ },
+ {
+  "k": "n5413780868",
+  "name": "Ravensbrück-monument",
+  "la": 52.35696,
+  "ln": 4.882248,
+  "district": "רובע המוזיאונים, פונדלפארק ודה פייפ",
+  "center": 0,
+  "osm_tags": {
+   "alt_name": "Vrouwen van Ravensbrück",
+   "artwork_type": "sculpture",
+   "historic": "memorial",
+   "memorial": "war_memorial",
+   "name": "Ravensbrück-monument",
+   "name:de": "Ravensbrückdenkmal",
+   "name:en": "Ravensbrück memorial",
+   "name:nl": "Ravensbrück-monument",
+   "start_date": "1975",
+   "wikidata": "Q42171765",
+   "wikipedia": "nl:Vrouwen van Ravensbrück 1940-1945"
+  },
+  "wikidata": {
+   "id": "Q42171765",
+   "he": "",
+   "en": "Vrouwen van Ravensbrück 1940-1945",
+   "nl": "Vrouwen van Ravensbrück",
+   "desc": "monument in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "co",
+    "de",
+    "nl"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "המוזיאונפליין (83 מ')"
+ },
+ {
+  "k": "n440673918",
+  "name": "Simon Carmiggelt",
+  "la": 52.359861,
+  "ln": 4.888709,
+  "district": "רובע המוזיאונים, פונדלפארק ודה פייפ",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Kees Verkade",
+   "artwork_type": "bust",
+   "historic": "memorial",
+   "memorial": "bust",
+   "name": "Simon Carmiggelt",
+   "start_date": "1988",
+   "tourism": "artwork",
+   "wikidata": "Q56641054"
+  },
+  "wikidata": {
+   "id": "Q56641054",
+   "he": "",
+   "en": "Bust of Simon Carmiggelt",
+   "nl": "Buste Simon Carmiggelt",
+   "desc": "sculpture in Amsterdam-Centrum, Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "מוזיאון היהלומים (167 מ')"
+ },
+ {
+  "k": "n4405820934",
+  "name": "Stedemaagd",
+  "la": 52.361682,
+  "ln": 4.881698,
+  "district": "רובע המוזיאונים, פונדלפארק ודה פייפ",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Friedrich Schierholz",
+   "artwork_type": "statue",
+   "name": "Stedemaagd",
+   "start_date": "1883",
+   "tourism": "artwork",
+   "wikidata": "Q2029766"
+  },
+  "wikidata": {
+   "id": "Q2029766",
+   "he": "",
+   "en": "Maid of Amsterdam",
+   "nl": "Stedemaagd",
+   "desc": "statue in Amsterdam, the Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "פרדיסו ומלקווך (166 מ')"
+ },
+ {
+  "k": "n5653694042",
+  "name": "Teun de Jager",
+  "la": 52.357611,
+  "ln": 4.863221,
+  "district": "רובע המוזיאונים, פונדלפארק ודה פייפ",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Jan Bronner",
+   "artwork_type": "statue",
+   "name": "Teun de Jager",
+   "name:de": "Teun der Jäger",
+   "start_date": "1958",
+   "tourism": "artwork",
+   "wikidata": "Q79393154",
+   "wikipedia": "nl:Teun de Jager"
+  },
+  "wikidata": {
+   "id": "Q79393154",
+   "he": "",
+   "en": "Teun de Jager",
+   "nl": "Teun de Jager",
+   "desc": "public artwork in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "הפונדלפארק (368 מ')"
+ },
+ {
+  "k": "n1718644979",
+  "name": "Verticale compositie",
+  "la": 52.352153,
+  "ln": 4.864267,
+  "district": "רובע המוזיאונים, פונדלפארק ודה פייפ",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Henk Zweerus",
+   "artwork_type": "sculpture",
+   "name": "Verticale compositie",
+   "start_date": "1960",
+   "tourism": "artwork",
+   "wikidata": "Q98835198",
+   "wikipedia": "nl:Verticale compositie"
+  },
+  "wikidata": {
+   "id": "Q98835198",
+   "he": "",
+   "en": "Verticale compositie",
+   "nl": "Verticale compositie",
+   "desc": "sculpture in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "הפונדלפארק (712 מ')"
+ },
+ {
+  "k": "n4494714189",
+  "name": "Zeelandbank",
+  "la": 52.35922,
+  "ln": 4.891929,
+  "district": "רובע המוזיאונים, פונדלפארק ודה פייפ",
+  "center": 0,
+  "osm_tags": {
+   "amenity": "bench",
+   "artist_name": "Nico Onkenhout",
+   "artwork_type": "sculpture",
+   "backrest": "yes",
+   "material": "wood",
+   "memorial": "flood_memorial",
+   "name": "Zeelandbank",
+   "start_date": "1958",
+   "tourism": "artwork",
+   "wikidata": "Q54589775",
+   "wikipedia": "nl:Zeelandbank"
+  },
+  "wikidata": {
+   "id": "Q54589775",
+   "he": "",
+   "en": "Zeelandbank",
+   "nl": "Zeelandbank",
+   "desc": "statue in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "חוויית הייניקן (157 מ')"
+ },
+ {
+  "k": "n7837701685",
+  "name": "Zevenlandenhuizen",
+  "la": 52.361637,
+  "ln": 4.877296,
+  "district": "רובע המוזיאונים, פונדלפארק ודה פייפ",
+  "center": 0,
+  "osm_tags": {
+   "architect": "Tjeerd Kuipers",
+   "artist_name": "Tjeerd Kuipers",
+   "name": "Zevenlandenhuizen",
+   "start_date": "1894",
+   "tourism": "artwork",
+   "wikidata": "Q5014538",
+   "wikipedia": "nl:Zevenlandenhuizen"
+  },
+  "wikidata": {
+   "id": "Q5014538",
+   "he": "",
+   "en": "Zevenlandenhuizen",
+   "nl": "Zevenlandenhuizen",
+   "desc": "rijksmonumentcomplex in Amsterdam-West",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "פ.כ. הופטסטראט (196 מ')"
+ },
+ {
+  "k": "n3096322936",
+  "name": "Zigeunermonument - Hel en Vuur",
+  "la": 52.356536,
+  "ln": 4.881376,
+  "district": "רובע המוזיאונים, פונדלפארק ודה פייפ",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Heleen Levano",
+   "artwork_type": "sculpture",
+   "description": "Zigeunermonument (Sinti and Roma memorial)",
+   "historic": "memorial",
+   "memorial": "war_memorial",
+   "name": "Zigeunermonument - Hel en Vuur",
+   "start_date": "1978",
+   "wikidata": "Q2311026",
+   "wikipedia": "nl:Zigeunermonument Hel en vuur"
+  },
+  "wikidata": {
+   "id": "Q2311026",
+   "he": "",
+   "en": "Zigeunermonument Amsterdam",
+   "nl": "Zigeunermonument Hel en vuur",
+   "desc": "war memorial in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "המוזיאונפליין (135 מ')"
+ },
+ {
+  "k": "n2505989188",
+  "name": "André Hazes",
+  "la": 52.356429,
+  "ln": 4.89748,
+  "district": "רובע המוזיאונים, פונדלפארק ודה פייפ",
+  "center": 0,
+  "osm_tags": {
+   "artwork_type": "statue",
+   "description": "André Hazes, zittend op een barkruk, houdt een microfoon in zijn rechterhand, net onder zijn kin. Hij kijkt vooruit, kin opgeheven, alsof hij op de muziek wacht voordat hij begint met zingen of door zingt.",
+   "historic": "memorial",
+   "inscription": "Heel bijzonder, heel gewoon\nGewoon een heel bijzondere man\nAndré Hazes\n1951-2004",
+   "memorial": "statue",
+   "name": "André Hazes",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "סטרופוואפל ומתוקים הולנדיים (175 מ')"
+ },
+ {
+  "k": "n1310554563",
+  "name": "Anthony Winkler Prins",
+  "la": 52.360639,
+  "ln": 4.900116,
+  "district": "רובע המוזיאונים, פונדלפארק ודה פייפ",
+  "center": 0,
+  "osm_tags": {
+   "historic": "memorial",
+   "memorial": "sculpture",
+   "name": "Anthony Winkler Prins",
+   "wikidata": "Q56395614"
+  },
+  "wikidata": {
+   "id": "Q56395614",
+   "he": "",
+   "en": "Ter herinnering aan Anthony Winkler Prins",
+   "nl": "Ter herinnering aan Anthony Winkler Prins",
+   "desc": "sculpture by André Volten in Amsterdam, the Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "אוטרכטסה סטראט (169 מ')"
+ },
+ {
+  "k": "n3931172925",
+  "name": "Bench",
+  "la": 52.360543,
+  "ln": 4.885199,
+  "district": "רובע המוזיאונים, פונדלפארק ודה פייפ",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Isamu Noguchi",
+   "artwork_type": "sculpture",
+   "name": "Bench",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "הרייקסמוזיאום (77 מ')"
+ },
+ {
+  "k": "n1194024581",
+  "name": "Carel Willink",
+  "la": 52.359782,
+  "ln": 4.887141,
+  "district": "רובע המוזיאונים, פונדלפארק ודה פייפ",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Sylvia Quiël",
+   "artwork_type": "bust",
+   "historic": "memorial",
+   "memorial": "bust",
+   "name": "Carel Willink",
+   "start_date": "2000",
+   "subject:wikidata": "Q729098",
+   "subject:wikipedia": "nl:Carel Willink",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "מוזיאון היהלומים (77 מ')"
+ }
+]

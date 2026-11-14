@@ -1,0 +1,782 @@
+[
+ {
+  "k": "n8111537182",
+  "name": "Olympische groet",
+  "la": 52.343456,
+  "ln": 4.855185,
+  "district": "זאוד ואמסטלפלד",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Geralda Rueb",
+   "artwork_type": "statue",
+   "material": "bronze",
+   "memorial": "Baron van Tuyl van Serooskerken",
+   "name": "Olympische groet",
+   "start_date": "1928",
+   "tourism": "artwork",
+   "wikidata": "Q2989150",
+   "wikipedia": "nl:Olympische groet"
+  },
+  "wikidata": {
+   "id": "Q2989150",
+   "he": "",
+   "en": "olympic salute",
+   "nl": "olympische groet",
+   "desc": "",
+   "wikipedia_in": [
+    "co",
+    "de",
+    "en",
+    "eo",
+    "lb",
+    "nl"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "האצטדיון האולימפי של 1928 (46 מ')"
+ },
+ {
+  "k": "n8111599858",
+  "name": "'Voetballers'",
+  "la": 52.34434,
+  "ln": 4.852865,
+  "district": "זאוד ואמסטלפלד",
+  "center": 0,
+  "osm_tags": {
+   "alt_name": "FInale '74;(incorrect:) Johan Cruijff en Berti Vogts",
+   "artist_name": "Ek van Zanten",
+   "artwork_type": "statue",
+   "material": "bronze",
+   "name": "'Voetballers'",
+   "start_date": "1979",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "האצטדיון האולימפי של 1928 (152 מ')"
+ },
+ {
+  "k": "n11203254808",
+  "name": "Amsterdam Kwijtweg",
+  "la": 52.326022,
+  "ln": 4.893866,
+  "district": "זאוד ואמסטלפלד",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Ruiter Janssen",
+   "artwork_type": "installation",
+   "name": "Amsterdam Kwijtweg",
+   "tourism": "artwork",
+   "wikidata": "Q122705720"
+  },
+  "wikidata": {
+   "id": "Q122705720",
+   "he": "",
+   "en": "",
+   "nl": "Kwijtweg",
+   "desc": "kunstwerk op ongebruikte tramhalte",
+   "wikipedia_in": [
+    "co"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "אמסטלפארק (234 מ')"
+ },
+ {
+  "k": "n1515589705",
+  "name": "Anne Frank",
+  "la": 52.345568,
+  "ln": 4.900234,
+  "district": "זאוד ואמסטלפלד",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q2150953",
+   "artist_name": "Jet Schepp",
+   "description": "Anne Frank",
+   "historic": "memorial",
+   "inscription": "Anne Frank 1929 - 1945",
+   "material": "bronze",
+   "memorial": "statue",
+   "name": "Anne Frank",
+   "start_date": "2005",
+   "subject:wikidata": "Q4583",
+   "wikidata": "Q27929393",
+   "wikipedia": "nl:Beeld van Anne Frank (Merwedeplein)"
+  },
+  "wikidata": {
+   "id": "Q27929393",
+   "he": "",
+   "en": "sculpture of Anne Frank",
+   "nl": "beeld van Anne Frank",
+   "desc": "sculpture of Anne Frank at Merwedeplein, Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "רובע הנהרות ומרוודפליין, השכונה של אנה פרנק (41 מ')"
+ },
+ {
+  "k": "n7880783427",
+  "name": "Apollo Offering",
+  "la": 52.348395,
+  "ln": 4.872415,
+  "district": "זאוד ואמסטלפלד",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q367973",
+   "artist_name": "Arman",
+   "artwork_type": "statue",
+   "material": "bronze",
+   "name": "Apollo Offering",
+   "start_date": "1994",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "פארק ביאטריקס ומרכז הכנסים RAI (895 מ')"
+ },
+ {
+  "k": "n4406011503",
+  "name": "Beeld in drie delen",
+  "la": 52.341697,
+  "ln": 4.877485,
+  "district": "זאוד ואמסטלפלד",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Leo de Vries",
+   "artwork_type": "sculpture",
+   "material": "stone",
+   "name": "Beeld in drie delen",
+   "start_date": "1965",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "פארק ביאטריקס ומרכז הכנסים RAI (314 מ')"
+ },
+ {
+  "k": "n4370459609",
+  "name": "Boy with rabbits",
+  "la": 52.347276,
+  "ln": 4.885936,
+  "district": "זאוד ואמסטלפלד",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Hildo Krop",
+   "artwork_type": "statue",
+   "name": "Boy with rabbits",
+   "start_date": "1931",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "אסכולת אמסטרדם בתוכנית זאוד (278 מ')"
+ },
+ {
+  "k": "n11215505703",
+  "name": "Bron - Virtual fountains",
+  "la": 52.341175,
+  "ln": 4.892993,
+  "district": "זאוד ואמסטלפלד",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Femke Schaap",
+   "artwork_subject": "bron, waterval en fontein",
+   "artwork_type": "installation",
+   "material": "stone",
+   "name": "Bron - Virtual fountains",
+   "old_name": "WEstLAndWElls",
+   "old_start_date": "2009",
+   "start_date": "2022-11-17",
+   "tourism": "artwork",
+   "wikidata": "Q116740012",
+   "wikipedia": "nl:Virtual fountains"
+  },
+  "wikidata": {
+   "id": "Q116740012",
+   "he": "",
+   "en": "Virtual fountains",
+   "nl": "Virtual fountains",
+   "desc": "work of art in Amsterdam, the Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "בית חב\"ד ובתי כנסת באמסטרדם (462 מ')"
+ },
+ {
+  "k": "n11028112622",
+  "name": "Buizenkolom",
+  "la": 52.328917,
+  "ln": 4.872275,
+  "district": "זאוד ואמסטלפלד",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "André Volten",
+   "artwork_type": "sculpture",
+   "material": "steel",
+   "name": "Buizenkolom",
+   "tourism": "artwork",
+   "wikidata": "Q120893625",
+   "wikipedia": "nl:Buizenkolom"
+  },
+  "wikidata": {
+   "id": "Q120893625",
+   "he": "",
+   "en": "Buizenkolom",
+   "nl": "Buizenkolom",
+   "desc": "sculpture in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "זאודאס, רובע העסקים (1009 מ')"
+ },
+ {
+  "k": "n12427704121",
+  "name": "De Wachter",
+  "la": 52.336022,
+  "ln": 4.88262,
+  "district": "זאוד ואמסטלפלד",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Boris Tellegen",
+   "artwork_type": "sculpture",
+   "material": "steel",
+   "name": "De Wachter",
+   "start_date": "2016",
+   "tourism": "artwork",
+   "wikidata": "Q28026291",
+   "wikipedia": "nl:De wachter (Boris Tellegen)"
+  },
+  "wikidata": {
+   "id": "Q28026291",
+   "he": "",
+   "en": "De Wachter",
+   "nl": "De Wachter",
+   "desc": "sculpture by Boris Tellegen in Amsterdam, The Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "זאודאס, רובע העסקים (690 מ')"
+ },
+ {
+  "k": "n4401136560",
+  "name": "De Wildplasser",
+  "la": 52.341148,
+  "ln": 4.851549,
+  "district": "זאוד ואמסטלפלד",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Erik Kessels",
+   "artwork_type": "sculpture",
+   "name": "De Wildplasser",
+   "start_date": "2011",
+   "tourism": "artwork",
+   "wikidata": "Q29414801",
+   "wikipedia": "nl:De wildplasser"
+  },
+  "wikidata": {
+   "id": "Q29414801",
+   "he": "",
+   "en": "De wildplasser",
+   "nl": "De wildplasser",
+   "desc": "sculpture in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "האצטדיון האולימפי של 1928 (320 מ')"
+ },
+ {
+  "k": "n12155371008",
+  "name": "De hechtsteek",
+  "la": 52.334927,
+  "ln": 4.860162,
+  "district": "זאוד ואמסטלפלד",
+  "center": 0,
+  "osm_tags": {
+   "alt_name": "Blauwe linten",
+   "artist:wikidata": "Q57550394",
+   "artist:wikipedia": "nl:Jan Jacobs Mulder",
+   "artist_name": "Jan Jacobs Mulder",
+   "artwork_type": "sculpture",
+   "colour": "blue",
+   "material": "steel",
+   "name": "De hechtsteek",
+   "tourism": "artwork",
+   "website": "https://amsterdam.kunstwacht.nl/kunstwerken/bekijk/840-blauwe-linten",
+   "wikidata": "Q57599493",
+   "wikipedia": "nl:De hechtsteek"
+  },
+  "wikidata": {
+   "id": "Q57599493",
+   "he": "",
+   "en": "De hechtsteek",
+   "nl": "De hechtsteek",
+   "desc": "sculpture in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "זאודאס, רובע העסקים (937 מ')"
+ },
+ {
+  "k": "n5434189541",
+  "name": "Entree de Borcht",
+  "la": 52.324656,
+  "ln": 4.892373,
+  "district": "זאוד ואמסטלפלד",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Joost Conijn",
+   "artwork_type": "gate",
+   "name": "Entree de Borcht",
+   "start_date": "2006",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "אמסטלפארק (395 מ')"
+ },
+ {
+  "k": "n4370501924",
+  "name": "Erasmus",
+  "la": 52.345636,
+  "ln": 4.88384,
+  "district": "זאוד ואמסטלפלד",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Hildo Krop",
+   "artwork_type": "statue",
+   "name": "Erasmus",
+   "start_date": "1934",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "בית חב\"ד ובתי כנסת באמסטרדם (336 מ')"
+ },
+ {
+  "k": "n11215505662",
+  "name": "Fontein - Virtual fountains",
+  "la": 52.341692,
+  "ln": 4.893212,
+  "district": "זאוד ואמסטלפלד",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Femke Schaap",
+   "artwork_subject": "bron, waterval en fontein",
+   "artwork_type": "installation",
+   "material": "stone",
+   "name": "Fontein - Virtual fountains",
+   "old_name": "WEstLAndWElls",
+   "old_start_date": "2009",
+   "start_date": "2022-11-17",
+   "tourism": "artwork",
+   "wikipedia": "nl:Virtual fountains"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "בית חב\"ד ובתי כנסת באמסטרדם (437 מ')"
+ },
+ {
+  "k": "n6178115769",
+  "name": "Future past glory",
+  "la": 52.343203,
+  "ln": 4.881503,
+  "district": "זאוד ואמסטלפלד",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Liet Heringa, Maarten van Kalsbeek",
+   "artwork_type": "sculpture",
+   "name": "Future past glory",
+   "start_date": "2018",
+   "tourism": "artwork",
+   "wikidata": "Q60609209",
+   "wikipedia": "nl:Future past glory"
+  },
+  "wikidata": {
+   "id": "Q60609209",
+   "he": "",
+   "en": "Future past glory",
+   "nl": "Future past glory",
+   "desc": "statue in Beatrixpark in Amsterdam",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "פארק ביאטריקס ומרכז הכנסים RAI (56 מ')"
+ },
+ {
+  "k": "n8246225634",
+  "name": "Gewichtheffer",
+  "la": 52.326089,
+  "ln": 4.883154,
+  "district": "זאוד ואמסטלפלד",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Pieter de Monchy",
+   "artwork_type": "statue",
+   "material": "bronze",
+   "name": "Gewichtheffer",
+   "start_date": "1970",
+   "tourism": "artwork",
+   "wikidata": "Q104396144"
+  },
+  "wikidata": {
+   "id": "Q104396144",
+   "he": "",
+   "en": "Gewichtheffer",
+   "nl": "Gewichtheffer",
+   "desc": "statue in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "co"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "אמסטלפארק (750 מ')"
+ },
+ {
+  "k": "n4370460330",
+  "name": "Girl with squirrels",
+  "la": 52.347256,
+  "ln": 4.886288,
+  "district": "זאוד ואמסטלפלד",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Hildo Krop",
+   "artwork_type": "statue",
+   "name": "Girl with squirrels",
+   "start_date": "1931",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "אסכולת אמסטרדם בתוכנית זאוד (254 מ')"
+ },
+ {
+  "k": "w417041033",
+  "name": "H.P. Berlage",
+  "la": 52.346027,
+  "ln": 4.903412,
+  "district": "זאוד ואמסטלפלד",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Hildo Krop",
+   "artwork_type": "statue",
+   "name": "H.P. Berlage",
+   "start_date": "1966",
+   "subject:wikidata": "Q318816",
+   "subject:wikipedia": "en:H. P. Berlage",
+   "tourism": "artwork",
+   "wikidata": "Q62603953",
+   "wikipedia": "nl:Standbeeld van H.P. Berlage"
+  },
+  "wikidata": {
+   "id": "Q62603953",
+   "he": "",
+   "en": "Statue of H.P. Berlage",
+   "nl": "Standbeeld van H.P. Berlage",
+   "desc": "statue in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "רובע הנהרות ומרוודפליין, השכונה של אנה פרנק (181 מ')"
+ },
+ {
+  "k": "n4370482884",
+  "name": "Handen van de schepper",
+  "la": 52.344793,
+  "ln": 4.876327,
+  "district": "זאוד ואמסטלפלד",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Hildo Krop",
+   "artwork_type": "sculpture",
+   "name": "Handen van de schepper",
+   "start_date": "1940",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "פארק ביאטריקס ומרכז הכנסים RAI (436 מ')"
+ },
+ {
+  "k": "n11028112658",
+  "name": "Herdenkingsmonument",
+  "la": 52.328793,
+  "ln": 4.875102,
+  "district": "זאוד ואמסטלפלד",
+  "center": 0,
+  "osm_tags": {
+   "alt_name": "Herdenken en herinnering",
+   "artist_name": "Mischa Rakier",
+   "description": "diamond-shaped WWII memorial",
+   "historic": "memorial",
+   "material": "steel",
+   "memorial": "war_memorial",
+   "name": "Herdenkingsmonument",
+   "wikidata": "Q66828853",
+   "wikipedia": "nl:Herdenkingsmonument (Mischa Rakier)"
+  },
+  "wikidata": {
+   "id": "Q66828853",
+   "he": "",
+   "en": "War memorial",
+   "nl": "Herdenkingsmonument",
+   "desc": "monument in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "זאודאס, רובע העסקים (1031 מ')"
+ },
+ {
+  "k": "n12090869724",
+  "name": "Houten Driehoeken",
+  "la": 52.329596,
+  "ln": 4.864462,
+  "district": "זאוד ואמסטלפלד",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Josum Walstra",
+   "artwork_type": "installation",
+   "name": "Houten Driehoeken",
+   "tourism": "artwork",
+   "wikidata": "Q59596615",
+   "wikipedia": "nl:Houten driehoeken"
+  },
+  "wikidata": {
+   "id": "Q59596615",
+   "he": "",
+   "en": "Houten driehoeken",
+   "nl": "Houten driehoeken",
+   "desc": "public artwork in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "זאודאס, רובע העסקים (1098 מ')"
+ },
+ {
+  "k": "n11587693970",
+  "name": "Joods Monument",
+  "la": 52.338758,
+  "ln": 4.901315,
+  "district": "זאוד ואמסטלפלד",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Hans Ittman",
+   "artwork_type": "sculpture",
+   "material": "bronze",
+   "name": "Joods Monument",
+   "start_date": "1965",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "בית הכנסת ברחוב לקסטראט (605 מ')"
+ },
+ {
+  "k": "n4971389788",
+  "name": "Kennisoverdracht",
+  "la": 52.341332,
+  "ln": 4.878881,
+  "district": "זאוד ואמסטלפלד",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Frans van der Burgt",
+   "artwork_type": "sculpture",
+   "material": "stone",
+   "name": "Kennisoverdracht",
+   "tourism": "artwork",
+   "wikidata": "Q56395568",
+   "wikipedia": "nl:Kennisoverdracht"
+  },
+  "wikidata": {
+   "id": "Q56395568",
+   "he": "",
+   "en": "Kennisoverdracht",
+   "nl": "Kennisoverdracht",
+   "desc": "sculpture in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "פארק ביאטריקס ומרכז הכנסים RAI (251 מ')"
+ },
+ {
+  "k": "w1240288133",
+  "name": "Kogelbron",
+  "la": 52.34083,
+  "ln": 4.887684,
+  "district": "זאוד ואמסטלפלד",
+  "center": 0,
+  "osm_tags": {
+   "alt_name": "Tauf Stein",
+   "amenity": "fountain",
+   "area": "yes",
+   "artist_name": "Christopher Tobin",
+   "fountain": "kugel",
+   "material": "granite",
+   "name": "Kogelbron",
+   "start_date": "1993",
+   "wikidata": "Q58546310",
+   "wikipedia": "nl:Kogelbron (RAI Amsterdam)"
+  },
+  "wikidata": {
+   "id": "Q58546310",
+   "he": "",
+   "en": "Kogelbron Amsterdam RAI",
+   "nl": "Kogelbron",
+   "desc": "kunstwerk in Amsterdam-Zuid",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "בית חב\"ד ובתי כנסת באמסטרדם (352 מ')"
+ },
+ {
+  "k": "n7680107688",
+  "name": "Kubussen",
+  "la": 52.337599,
+  "ln": 4.917663,
+  "district": "זאוד ואמסטלפלד",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "André Volten",
+   "artwork_type": "sculpture",
+   "material": "steel",
+   "name": "Kubussen",
+   "tourism": "artwork",
+   "wikidata": "Q57595819",
+   "wikipedia": "nl:Zonder titel (André Volten, 1984)",
+   "year": "1994"
+  },
+  "wikidata": {
+   "id": "Q57595819",
+   "he": "",
+   "en": "Zonder titel (André Volten, 1984)",
+   "nl": "Kubussen",
+   "desc": "public artwork in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "בית הכנסת ברחוב לקסטראט (1236 מ')"
+ },
+ {
+  "k": "n4405998841",
+  "name": "Lady Solid",
+  "la": 52.335595,
+  "ln": 4.856913,
+  "district": "זאוד ואמסטלפלד",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Caro Bensca",
+   "artwork_type": "statue",
+   "name": "Lady Solid",
+   "start_date": "1997",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "האצטדיון האולימפי של 1928 (881 מ')"
+ },
+ {
+  "k": "n6178137001",
+  "name": "Leeuwen van het Centraal Station",
+  "la": 52.341157,
+  "ln": 4.884657,
+  "district": "זאוד ואמסטלפלד",
+  "center": 0,
+  "osm_tags": {
+   "alt_source": "https://www.leeuwencs.nl/historische-context/",
+   "artist_name": "Henri Geelen & Tobias van Nieuwenhoven | Gabe Kappenburg",
+   "artwork_subject": "Leeuwen met het Wapen van Amsterdam & het Rijkswapen",
+   "artwork_type": "statue",
+   "material": "sandstone",
+   "material:type": "obernkircher sandstone",
+   "name": "Leeuwen van het Centraal Station",
+   "start_date": "1972",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "פארק ביאטריקס ומרכז הכנסים RAI (261 מ')"
+ },
+ {
+  "k": "n10067230425",
+  "name": "Liggende figuren",
+  "la": 52.330215,
+  "ln": 4.859816,
+  "district": "זאוד ואמסטלפלד",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Jan Cornelis Snoeck",
+   "artwork_type": "installation",
+   "name": "Liggende figuren",
+   "start_date": "1977",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "זאודאס, רובע העסקים (1245 מ')"
+ }
+]

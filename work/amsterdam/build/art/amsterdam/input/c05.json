@@ -1,0 +1,822 @@
+[
+ {
+  "k": "n7889987286",
+  "name": "Buchenwaldmonument",
+  "la": 52.343471,
+  "ln": 4.938024,
+  "district": "הרובע היהודי, פלנטאז' ואוסט",
+  "center": 0,
+  "osm_tags": {
+   "historic": "memorial",
+   "name": "Buchenwaldmonument",
+   "name:en": "Buchenwald Memorial",
+   "wikidata": "Q88594878",
+   "wikipedia": "nl:Buchenwaldmonument"
+  },
+  "wikidata": {
+   "id": "Q88594878",
+   "he": "",
+   "en": "Buchenwaldmonument",
+   "nl": "Buchenwaldmonument",
+   "desc": "1955 war memorial designed by Herman Schutte at the Amsterdam New Eastern Cemetery",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "פארק פרנקנדאל (949 מ')"
+ },
+ {
+  "k": "n10868960570",
+  "name": "Daarom moet ik wenen",
+  "la": 52.353169,
+  "ln": 4.916726,
+  "district": "הרובע היהודי, פלנטאז' ואוסט",
+  "center": 0,
+  "osm_tags": {
+   "artwork_type": "statue",
+   "name": "Daarom moet ik wenen",
+   "tourism": "artwork",
+   "wikidata": "Q101623716",
+   "wikipedia": "nl:Daarom moet ik wenen"
+  },
+  "wikidata": {
+   "id": "Q101623716",
+   "he": "",
+   "en": "Daarom moet ik wenen",
+   "nl": "Daarom moet ik wenen",
+   "desc": "war memorial in Amsterdam, the Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "אוסטרפארק (790 מ')"
+ },
+ {
+  "k": "n4853496314",
+  "name": "De Bokkenrijder",
+  "la": 52.36009,
+  "ln": 4.920958,
+  "district": "הרובע היהודי, פלנטאז' ואוסט",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Gerrit Bolhuis",
+   "artwork_type": "statue",
+   "name": "De Bokkenrijder",
+   "start_date": "1957",
+   "tourism": "artwork",
+   "wikidata": "Q1953045",
+   "wikipedia": "nl:Bokkenrijder (beeld)"
+  },
+  "wikidata": {
+   "id": "Q1953045",
+   "he": "",
+   "en": "Bokkenrijder",
+   "nl": "Bokkenrijder",
+   "desc": "sculpture in Oosterpark in Amsterdam-Oost, Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "אנדרטת ההעבדה הלאומית (23 מ')"
+ },
+ {
+  "k": "n4526198051",
+  "name": "De Schreeuw",
+  "la": 52.359588,
+  "ln": 4.922365,
+  "district": "הרובע היהודי, פלנטאז' ואוסט",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Jeroen Henneman",
+   "description": "ter nagedachtenis aan moord op Theo van Gogh",
+   "historic": "memorial",
+   "memorial": "sculpture",
+   "name": "De Schreeuw",
+   "start_date": "2007",
+   "wikidata": "Q920580",
+   "wikipedia": "nl:De Schreeuw (beeld)"
+  },
+  "wikidata": {
+   "id": "Q920580",
+   "he": "",
+   "en": "De Schreeuw",
+   "nl": "De Schreeuw",
+   "desc": "sculpture by Jeroen Henneman",
+   "wikipedia_in": [
+    "co",
+    "en",
+    "hy",
+    "nl",
+    "pt",
+    "ru",
+    "uz"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "אנדרטת ההעבדה הלאומית (121 מ')"
+ },
+ {
+  "k": "n8981046535",
+  "name": "De Worstelaars",
+  "la": 52.360908,
+  "ln": 4.948609,
+  "district": "הרובע היהודי, פלנטאז' ואוסט",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Hans IJdo",
+   "artwork_type": "sculpture",
+   "material": "bronze",
+   "name": "De Worstelaars",
+   "start_date": "1960",
+   "tourism": "artwork",
+   "wikidata": "Q57320589",
+   "wikipedia": "nl:De worstelaars"
+  },
+  "wikidata": {
+   "id": "Q57320589",
+   "he": "",
+   "en": "Worstelaars",
+   "nl": "De worstelaars",
+   "desc": "statue in Amsterdam, the Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "שוק דאפר (דאפרמרקט) (1471 מ')"
+ },
+ {
+  "k": "n5975848213",
+  "name": "Fata Morgana",
+  "la": 52.349715,
+  "ln": 4.915657,
+  "district": "הרובע היהודי, פלנטאז' ואוסט",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Iris Le Rütte",
+   "artwork_type": "sculpture",
+   "name": "Fata Morgana",
+   "tourism": "artwork",
+   "wikidata": "Q66317839",
+   "wikipedia": "nl:Fata morgana (Iris Le Rütte)"
+  },
+  "wikidata": {
+   "id": "Q66317839",
+   "he": "",
+   "en": "Fata morgana",
+   "nl": "Fata morgana",
+   "desc": "sculpture of Iris Le Rütte in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "פארק פרנקנדאל (975 מ')"
+ },
+ {
+  "k": "n7395543674",
+  "name": "Fete galante",
+  "la": 52.364316,
+  "ln": 4.905852,
+  "district": "הרובע היהודי, פלנטאז' ואוסט",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Hans van den Ban",
+   "artwork_type": "sculpture",
+   "material": "concrete",
+   "name": "Fete galante",
+   "start_date": "1994",
+   "tourism": "artwork",
+   "wikidata": "Q29513474",
+   "wikipedia": "nl:Fête galante (Van den Ban)"
+  },
+  "wikidata": {
+   "id": "Q29513474",
+   "he": "",
+   "en": "Fête galante",
+   "nl": "Fête galante",
+   "desc": "sculpture in Amsterdam, the Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "אנדרטת השמות (165 מ')"
+ },
+ {
+  "k": "n12460997634",
+  "name": "Genius van Amsterdam",
+  "la": 52.34747,
+  "ln": 4.912573,
+  "district": "הרובע היהודי, פלנטאז' ואוסט",
+  "center": 0,
+  "osm_tags": {
+   "artwork_type": "statue",
+   "name": "Genius van Amsterdam",
+   "tourism": "artwork",
+   "wikidata": "Q123938587",
+   "wikipedia": "nl:Genius van Amsterdam"
+  },
+  "wikidata": {
+   "id": "Q123938587",
+   "he": "",
+   "en": "Genius van Amsterdam",
+   "nl": "Genius van Amsterdam",
+   "desc": "work of art in Amsterdam, the Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "בית הכנסת ברחוב לקסטראט (754 מ')"
+ },
+ {
+  "k": "n5965126781",
+  "name": "Leeuwen van Zeeburg",
+  "la": 52.367145,
+  "ln": 4.95638,
+  "district": "הרובע היהודי, פלנטאז' ואוסט",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Bart van Hove, Marieke van Diemen",
+   "artwork_type": "sculpture",
+   "material": "stone",
+   "name": "Leeuwen van Zeeburg",
+   "start_date": "2015",
+   "tourism": "artwork",
+   "wikidata": "Q67210189",
+   "wikipedia": "nl:Leeuwen van Zeeburg"
+  },
+  "wikidata": {
+   "id": "Q67210189",
+   "he": "",
+   "en": "Leeuwen van Zeeburg",
+   "nl": "Leeuwen van Zeeburg",
+   "desc": "sculptural group in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "האיים המזרחיים (KNSM, ג'אווה, בורנאו־ספורנבורח) (1250 מ')"
+ },
+ {
+  "k": "n249443118",
+  "name": "Samen Spelen Samen Leven",
+  "la": 52.344915,
+  "ln": 4.90797,
+  "district": "הרובע היהודי, פלנטאז' ואוסט",
+  "center": 0,
+  "osm_tags": {
+   "historic": "memorial",
+   "name": "Samen Spelen Samen Leven",
+   "wikidata": "Q76531090",
+   "wikipedia": "nl:Kindermonument Markt voor Joden"
+  },
+  "wikidata": {
+   "id": "Q76531090",
+   "he": "",
+   "en": "Children's Monument",
+   "nl": "Kindermonument Markt voor Joden",
+   "desc": "war memorial in Amsterdam, the Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "בית הכנסת ברחוב לקסטראט (354 מ')"
+ },
+ {
+  "k": "n4526122908",
+  "name": "Spelende kinderen",
+  "la": 52.359794,
+  "ln": 4.918912,
+  "district": "הרובע היהודי, פלנטאז' ואוסט",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Gerda Rubinstein",
+   "artwork_type": "statue",
+   "name": "Spelende kinderen",
+   "tourism": "artwork",
+   "wikidata": "Q86250100"
+  },
+  "wikidata": {
+   "id": "Q86250100",
+   "he": "",
+   "en": "",
+   "nl": "Spelende kinderen",
+   "desc": "beeld van Gerda Rubinstein in Amsterdam-Oost",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "אוסטרפארק (77 מ')"
+ },
+ {
+  "k": "n12712902492",
+  "name": "Sporen",
+  "la": 52.363164,
+  "ln": 4.945164,
+  "district": "הרובע היהודי, פלנטאז' ואוסט",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Wim Tap",
+   "artwork_type": "sculpture",
+   "material": "granite",
+   "name": "Sporen",
+   "tourism": "artwork",
+   "wikidata": "Q85311098",
+   "wikipedia": "nl:Sporen volgen het Javaplantsoen"
+  },
+  "wikidata": {
+   "id": "Q85311098",
+   "he": "",
+   "en": "Sporen volgen het Javaplantsoen",
+   "nl": "Sporen volgen het Javaplantsoen",
+   "desc": "sculptures in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "שוק דאפר (דאפרמרקט) (1218 מ')"
+ },
+ {
+  "k": "n8395430348",
+  "name": "Vogel op pylon",
+  "la": 52.363273,
+  "ln": 4.91576,
+  "district": "הרובע היהודי, פלנטאז' ואוסט",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Dolf Breetvelt",
+   "artwork_type": "sculpture",
+   "material": "bronze",
+   "name": "Vogel op pylon",
+   "start_date": "1968",
+   "tourism": "artwork",
+   "wikidata": "Q63152210"
+  },
+  "wikidata": {
+   "id": "Q63152210",
+   "he": "",
+   "en": "Vogel op pyloon",
+   "nl": "Vogel op pyloon",
+   "desc": "public artwork in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "גן החיות ארטיס (308 מ')"
+ },
+ {
+  "k": "n8981340303",
+  "name": "Vrede",
+  "la": 52.352096,
+  "ln": 4.941418,
+  "district": "הרובע היהודי, פלנטאז' ואוסט",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Hans Reicher",
+   "artwork_type": "statue",
+   "material": "bronze",
+   "name": "Vrede",
+   "start_date": "1962",
+   "tourism": "artwork",
+   "wikidata": "Q55076458",
+   "wikipedia": "nl:Vrede (Hans Reicher)"
+  },
+  "wikidata": {
+   "id": "Q55076458",
+   "he": "",
+   "en": "Vrede",
+   "nl": "Vrede",
+   "desc": "beeld van Hans Reicher in Amsterdam, Nederland",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "פארק פרנקנדאל (800 מ')"
+ },
+ {
+  "k": "n12948773533",
+  "name": "Zwanen van de Watergraafsmeer",
+  "la": 52.345785,
+  "ln": 4.925813,
+  "district": "הרובע היהודי, פלנטאז' ואוסט",
+  "center": 0,
+  "osm_tags": {
+   "artwork_type": "statue",
+   "name": "Zwanen van de Watergraafsmeer",
+   "tourism": "artwork",
+   "wikidata": "Q134700695",
+   "wikipedia": "nl:Zwanen van de Watergraafsmeer"
+  },
+  "wikidata": {
+   "id": "Q134700695",
+   "he": "",
+   "en": "Zwanen van de Watergraafsmeer",
+   "nl": "Zwanen van de Watergraafsmeer",
+   "desc": "sculpture in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "פארק פרנקנדאל (589 מ')"
+ },
+ {
+  "k": "n9067863625",
+  "name": "compositie",
+  "la": 52.354031,
+  "ln": 4.939432,
+  "district": "הרובע היהודי, פלנטאז' ואוסט",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Leo de Vries",
+   "artwork_type": "sculpture",
+   "material": "stone",
+   "name": "compositie",
+   "start_date": "1967",
+   "tourism": "artwork",
+   "wikidata": "Q29108151",
+   "wikipedia": "nl:Compositie (De Vries)"
+  },
+  "wikidata": {
+   "id": "Q29108151",
+   "he": "",
+   "en": "Compositie",
+   "nl": "Compositie",
+   "desc": "sculpture of Leo de Vries in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "פארק פרנקנדאל (757 מ')"
+ },
+ {
+  "k": "n5515957299",
+  "name": "66 van Egters",
+  "la": 52.349775,
+  "ln": 4.906995,
+  "district": "הרובע היהודי, פלנטאז' ואוסט",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Peter Muller",
+   "artwork_material": "Belgian blue stone",
+   "artwork_type": "tablet",
+   "historic": "memorial",
+   "name": "66 van Egters"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "רובע הנהרות ומרוודפליין, השכונה של אנה פרנק (626 מ')"
+ },
+ {
+  "k": "n46360333",
+  "name": "Afscheid",
+  "la": 52.366054,
+  "ln": 4.908893,
+  "district": "הרובע היהודי, פלנטאז' ואוסט",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Adriaan Morrien",
+   "artwork_type": "poem inscripted in stone",
+   "name": "Afscheid",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "ההורטוס בוטניקוס (99 מ')"
+ },
+ {
+  "k": "n9904418439",
+  "name": "Ajax",
+  "la": 52.344638,
+  "ln": 4.950271,
+  "district": "הרובע היהודי, פלנטאז' ואוסט",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "David Mach; Harald Vlugt",
+   "artwork_type": "installation",
+   "material": "metal",
+   "name": "Ajax",
+   "playground": "climbingframe",
+   "start_date": "2002",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "פארק פרנקנדאל (1525 מ')"
+ },
+ {
+  "k": "w1079488543",
+  "name": "Amphitrite, Neptunus en Arion",
+  "la": 52.351347,
+  "ln": 4.933819,
+  "district": "הרובע היהודי, פלנטאז' ואוסט",
+  "center": 0,
+  "osm_tags": {
+   "amenity": "fountain",
+   "artist_name": "Ignatius van Logteren",
+   "artwork_type": "sculpture",
+   "heritage": "2",
+   "heritage:operator": "rce",
+   "heritage:website": "https://www.monumenten.nl/monument/422423",
+   "material": "marble",
+   "name": "Amphitrite, Neptunus en Arion",
+   "ref:rce": "422423",
+   "start_date": "1714",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "פארק פרנקנדאל (281 מ')"
+ },
+ {
+  "k": "n12006129271",
+  "name": "BatjanBuuren Beeldenpark",
+  "la": 52.359517,
+  "ln": 4.939338,
+  "district": "הרובע היהודי, פלנטאז' ואוסט",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Buurtbewoners",
+   "artwork_type": "sculpture",
+   "material": "mosaic",
+   "name": "BatjanBuuren Beeldenpark",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "שוק דאפר (דאפרמרקט) (910 מ')"
+ },
+ {
+  "k": "n4854471166",
+  "name": "Bolgewas",
+  "la": 52.360048,
+  "ln": 4.920181,
+  "district": "הרובע היהודי, פלנטאז' ואוסט",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Paul Koning",
+   "artwork_type": "sculpture",
+   "name": "Bolgewas",
+   "tourism": "artwork",
+   "wikidata": "Q85311864",
+   "wikipedia": "nl:Bolgewas (Paul Koning)"
+  },
+  "wikidata": {
+   "id": "Q85311864",
+   "he": "",
+   "en": "",
+   "nl": "Bolgewas",
+   "desc": "statue in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "אוסטרפארק (13 מ')"
+ },
+ {
+  "k": "n4771641219",
+  "name": "Communicatie",
+  "la": 52.360676,
+  "ln": 4.919622,
+  "district": "הרובע היהודי, פלנטאז' ואוסט",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Aart Lamberts",
+   "artwork_type": "sculpture",
+   "name": "Communicatie",
+   "tourism": "artwork",
+   "wikidata": "Q85312017",
+   "wikipedia": "nl:Communicatie (Oosterpark)"
+  },
+  "wikidata": {
+   "id": "Q85312017",
+   "he": "",
+   "en": "",
+   "nl": "Communicatie",
+   "desc": "kunstwerk in Amsterdam",
+   "wikipedia_in": [
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "אוסטרפארק (79 מ')"
+ },
+ {
+  "k": "n1843775917",
+  "name": "De Wereld bleef doof",
+  "la": 52.366373,
+  "ln": 4.906196,
+  "district": "הרובע היהודי, פלנטאז' ואוסט",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Truus Menger-Oversteegen",
+   "artwork_type": "sculpture",
+   "historic": "memorial",
+   "memorial": "holocaust_memorial",
+   "memorial:type": "artwork",
+   "name": "De Wereld bleef doof",
+   "name:en": "The world remained deaf",
+   "start_date": "2010",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "פסל הדוקוורקר (103 מ')"
+ },
+ {
+  "k": "n10868956365",
+  "name": "De hongerwinter",
+  "la": 52.369827,
+  "ln": 4.919263,
+  "district": "הרובע היהודי, פלנטאז' ואוסט",
+  "center": 0,
+  "osm_tags": {
+   "artwork_type": "sculpture",
+   "name": "De hongerwinter",
+   "tourism": "artwork",
+   "wikidata": "Q57599779",
+   "wikipedia": "nl:De hongerwinter"
+  },
+  "wikidata": {
+   "id": "Q57599779",
+   "he": "",
+   "en": "De hongerwinter",
+   "nl": "Hongerwinter",
+   "desc": "sculpture in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "אנטרפוטדוק (220 מ')"
+ },
+ {
+  "k": "n1511761145",
+  "name": "De jonge Rembrandt",
+  "la": 52.360069,
+  "ln": 4.905525,
+  "district": "הרובע היהודי, פלנטאז' ואוסט",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Wim van Hoorn",
+   "artwork_type": "statue",
+   "description": "Statue of Rembrandt van Rijn",
+   "material": "bronze",
+   "name": "De jonge Rembrandt",
+   "start_date": "2011",
+   "tourism": "artwork",
+   "wikidata": "Q79414207",
+   "wikipedia": "nl:Jonge Rembrandt"
+  },
+  "wikidata": {
+   "id": "Q79414207",
+   "he": "",
+   "en": "",
+   "nl": "Jonge Rembrandt",
+   "desc": "statue in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "מלון אמסטל ותיאטרון קארה (109 מ')"
+ },
+ {
+  "k": "n11977637445",
+  "name": "De vrijheid van de gedachte",
+  "la": 52.356525,
+  "ln": 4.930596,
+  "district": "הרובע היהודי, פלנטאז' ואוסט",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Hildo Krop",
+   "artwork_type": "sculpture",
+   "name": "De vrijheid van de gedachte",
+   "tourism": "artwork",
+   "wikidata": "Q63152856",
+   "wikipedia": "nl:De vrijheid van de gedachte"
+  },
+  "wikidata": {
+   "id": "Q63152856",
+   "he": "",
+   "en": "De vrijheid van de gedachte",
+   "nl": "De vrijheid van de gedachte",
+   "desc": "public artwork in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "פארק פרנקנדאל (675 מ')"
+ },
+ {
+  "k": "n12712932933",
+  "name": "Dwazen denken te beschermen",
+  "la": 52.362747,
+  "ln": 4.945654,
+  "district": "הרובע היהודי, פלנטאז' ואוסט",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Berend Peter",
+   "artwork_type": "sculpture",
+   "material": "concrete",
+   "name": "Dwazen denken te beschermen",
+   "tourism": "artwork",
+   "wikidata": "Q83054198",
+   "wikipedia": "nl:Dwazen denken te beschermen"
+  },
+  "wikidata": {
+   "id": "Q83054198",
+   "he": "",
+   "en": "Dwazen denken te beschermen",
+   "nl": "Dwazen denken te beschermen",
+   "desc": "beeld in Amsterdam",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "שוק דאפר (דאפרמרקט) (1251 מ')"
+ },
+ {
+  "k": "n4719433800",
+  "name": "Engel",
+  "la": 52.341318,
+  "ln": 4.912092,
+  "district": "הרובע היהודי, פלנטאז' ואוסט",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Willem Reijers",
+   "artwork_subject": "engel van wit kalksteen",
+   "artwork_type": "sculpture",
+   "material": "granite",
+   "name": "Engel",
+   "start_date": "1949",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "בית הכנסת ברחוב לקסטראט (696 מ')"
+ }
+]

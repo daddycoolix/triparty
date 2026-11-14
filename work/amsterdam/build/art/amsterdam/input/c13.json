@@ -1,0 +1,787 @@
+[
+ {
+  "k": "n11051699628",
+  "name": "Love or Generosity",
+  "la": 52.339838,
+  "ln": 4.868065,
+  "district": "זאוד ואמסטלפלד",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Nicole Eisenman",
+   "artwork_type": "statue",
+   "material": "brons,_roestvrij_staal,_marmercomposiet",
+   "name": "Love or Generosity",
+   "start_date": "2020",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "זאודאס, רובע העסקים (392 מ')"
+ },
+ {
+  "k": "n527375036",
+  "name": "Mahatma Gandhi",
+  "la": 52.347035,
+  "ln": 4.893249,
+  "district": "זאוד ואמסטלפלד",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q2261188",
+   "artist:wikipedia": "nl:Karel Gomes",
+   "artist_name": "Karel Gomes",
+   "historic": "memorial",
+   "material": "bronze",
+   "memorial": "statue",
+   "name": "Mahatma Gandhi",
+   "start_date": "1990-10-02",
+   "subject:wikidata": "Q1001",
+   "subject:wikipedia": "nl:Mahatma Gandhi",
+   "wikidata": "Q57597483",
+   "wikipedia": "nl:Standbeeld van Mahatma Gandhi (Amsterdam)"
+  },
+  "wikidata": {
+   "id": "Q57597483",
+   "he": "",
+   "en": "Statue of Mahatma Gandhi",
+   "nl": "Standbeeld van Mahatma Gandhi",
+   "desc": "statue in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "אוכל כשר באמסטרדם (142 מ')"
+ },
+ {
+  "k": "n4401156482",
+  "name": "Maja",
+  "la": 52.348871,
+  "ln": 4.882907,
+  "district": "זאוד ואמסטלפלד",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q28754198",
+   "artist_name": "Frans Werner",
+   "artwork_type": "statue",
+   "name": "Maja",
+   "start_date": "1930",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "אסכולת אמסטרדם בתוכנית זאוד (525 מ')"
+ },
+ {
+  "k": "n4370465773",
+  "name": "Man met appels en werktuig",
+  "la": 52.342062,
+  "ln": 4.857365,
+  "district": "זאוד ואמסטלפלד",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Hildo Krop",
+   "artwork_type": "sculpture",
+   "name": "Man met appels en werktuig",
+   "start_date": "1938",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "האצטדיון האולימפי של 1928 (244 מ')"
+ },
+ {
+  "k": "n7429916463",
+  "name": "Martin Luther King",
+  "la": 52.339951,
+  "ln": 4.909258,
+  "district": "זאוד ואמסטלפלד",
+  "center": 0,
+  "osm_tags": {
+   "artwork_type": "statue",
+   "historic": "memorial",
+   "material": "bronze",
+   "memorial": "statue",
+   "name": "Martin Luther King",
+   "tourism": "artwork",
+   "wikidata": "Q92135154",
+   "wikipedia": "nl:Beeld van Martin Luther King"
+  },
+  "wikidata": {
+   "id": "Q92135154",
+   "he": "",
+   "en": "",
+   "nl": "Beeld van Martin Luther King",
+   "desc": "statue in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "בית הכנסת ברחוב לקסטראט (632 מ')"
+ },
+ {
+  "k": "n1603111723",
+  "name": "Monument voor de Canadese militairen",
+  "la": 52.348162,
+  "ln": 4.883511,
+  "district": "זאוד ואמסטלפלד",
+  "center": 0,
+  "osm_tags": {
+   "alt_name": "Amsterdam dankt zijn Canadezen",
+   "artist_name": "Jan de Baat",
+   "artwork_type": "sculpture",
+   "historic": "memorial",
+   "memorial": "war_memorial",
+   "name": "Monument voor de Canadese militairen",
+   "name:en": "Amsterdam Memorial to the Canadian Liberators",
+   "name:nl": "Monument voor de Canadese militairen",
+   "start_date": "1980",
+   "tourism": "artwork",
+   "wikidata": "Q2203950",
+   "wikipedia": "nl:Amsterdam dankt zijn Canadezen"
+  },
+  "wikidata": {
+   "id": "Q2203950",
+   "he": "",
+   "en": "Amsterdam Thanks its Canadians by Jan de Baat",
+   "nl": "Amsterdam dankt zijn Canadezen",
+   "desc": "oorlogsmonument in Amsterdam, Nederland",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "אסכולת אמסטרדם בתוכנית זאוד (459 מ')"
+ },
+ {
+  "k": "n4903621033",
+  "name": "Monument voor het Ondergedoken Kind en Beschermer",
+  "la": 52.325134,
+  "ln": 4.887514,
+  "district": "זאוד ואמסטלפלד",
+  "center": 0,
+  "osm_tags": {
+   "historic": "memorial",
+   "memorial": "war_memorial",
+   "name": "Monument voor het Ondergedoken Kind en Beschermer",
+   "start_date": "2000",
+   "wikidata": "Q57908267"
+  },
+  "wikidata": {
+   "id": "Q57908267",
+   "he": "",
+   "en": "",
+   "nl": "Monument voor het Ondergedoken Kind en Beschermer",
+   "desc": "oorlogsmonument in Amsterdam, Nederland",
+   "wikipedia_in": []
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "אמסטלפארק (534 מ')"
+ },
+ {
+  "k": "n4370508966",
+  "name": "Muze",
+  "la": 52.343682,
+  "ln": 4.867775,
+  "district": "זאוד ואמסטלפלד",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Hildo Krop",
+   "artwork_type": "sculpture",
+   "name": "Muze",
+   "start_date": "1942",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "זאודאס, רובע העסקים (723 מ')"
+ },
+ {
+  "k": "n4370482885",
+  "name": "Nieuw leven",
+  "la": 52.344819,
+  "ln": 4.876858,
+  "district": "זאוד ואמסטלפלד",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Hildo Krop",
+   "artwork_type": "sculpture",
+   "name": "Nieuw leven",
+   "start_date": "1940",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "פארק ביאטריקס ומרכז הכנסים RAI (407 מ')"
+ },
+ {
+  "k": "n4370510186",
+  "name": "Ode aan Berlage",
+  "la": 52.343755,
+  "ln": 4.86833,
+  "district": "זאוד ואמסטלפלד",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Hildo Krop",
+   "artwork_type": "sculpture",
+   "name": "Ode aan Berlage",
+   "start_date": "1942",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "זאודאס, רובע העסקים (713 מ')"
+ },
+ {
+  "k": "n6178115765",
+  "name": "Pinguïns",
+  "la": 52.34351,
+  "ln": 4.883009,
+  "district": "זאוד ואמסטלפלד",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Jan Trapman",
+   "artwork_type": "statue",
+   "material": "stone",
+   "name": "Pinguïns",
+   "tourism": "artwork",
+   "wikidata": "Q60609196",
+   "wikipedia": "nl:Pinguïns (Jan Trapman)"
+  },
+  "wikidata": {
+   "id": "Q60609196",
+   "he": "",
+   "en": "Pinguïns",
+   "nl": "Pinguïns",
+   "desc": "beeld van Trapman in Amsterdam",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "פארק ביאטריקס ומרכז הכנסים RAI (119 מ')"
+ },
+ {
+  "k": "n1694687199",
+  "name": "Prometheus",
+  "la": 52.343232,
+  "ln": 4.855619,
+  "district": "זאוד ואמסטלפלד",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q2326022",
+   "artist_name": "Fred Carasso",
+   "artwork_type": "statue",
+   "description": "casualties from the world of sports",
+   "memorial": "statue",
+   "memorial:conflict": "WW2",
+   "name": "Prometheus",
+   "start_date": "1947",
+   "tourism": "artwork",
+   "war_memorial": "yes",
+   "wikidata": "Q59384126",
+   "wikipedia": "nl:Prometheus (Fred Carasso)"
+  },
+  "wikidata": {
+   "id": "Q59384126",
+   "he": "",
+   "en": "Prometheus",
+   "nl": "Prometheus",
+   "desc": "public artwork by Fred Carasso in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "האצטדיון האולימפי של 1928 (78 מ')"
+ },
+ {
+  "k": "n418055465",
+  "name": "Rembrandt",
+  "la": 52.323635,
+  "ln": 4.894273,
+  "district": "זאוד ואמסטלפלד",
+  "center": 0,
+  "osm_tags": {
+   "artwork_type": "statue",
+   "description": "Statue of Rembrandt van Rijn",
+   "name": "Rembrandt",
+   "name:nl": "Rembrandt",
+   "tourism": "artwork",
+   "wikidata": "Q28474173"
+  },
+  "wikidata": {
+   "id": "Q28474173",
+   "he": "",
+   "en": "Rembrandt drawing",
+   "nl": "Rembrandt als tekenaar",
+   "desc": "statue",
+   "wikipedia_in": [
+    "co"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "אמסטלפארק (500 מ')"
+ },
+ {
+  "k": "w34605170",
+  "name": "Rode Brug",
+  "la": 52.32879,
+  "ln": 4.890998,
+  "district": "זאוד ואמסטלפלד",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Stefan Strauss",
+   "bridge": "yes",
+   "colour": "red",
+   "highway": "footway",
+   "layer": "1",
+   "material": "wood",
+   "name": "Rode Brug",
+   "start_date": "2006",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "אמסטלפארק (195 מ')"
+ },
+ {
+  "k": "n11028108449",
+  "name": "Ruiter te paard",
+  "la": 52.328911,
+  "ln": 4.870658,
+  "district": "זאוד ואמסטלפלד",
+  "center": 0,
+  "osm_tags": {
+   "alt_name": "Ruiter te paard",
+   "alt_name:en": "The Inheritor I",
+   "artist_name": "Floyd DeWitt",
+   "artwork_type": "statue",
+   "material": "bronze",
+   "name": "Ruiter te paard",
+   "start_date": "1968",
+   "tourism": "artwork",
+   "wikidata": "Q120734265"
+  },
+  "wikidata": {
+   "id": "Q120734265",
+   "he": "",
+   "en": "The Inheritor I",
+   "nl": "Ruiter te paard",
+   "desc": "sculpture by DeWitt in Amsterdam, the Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "זאודאס, רובע העסקים (1021 מ')"
+ },
+ {
+  "k": "n4405977597",
+  "name": "Rustende atleet",
+  "la": 52.347157,
+  "ln": 4.872484,
+  "district": "זאוד ואמסטלפלד",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Jan Havermans",
+   "artwork_type": "sculpture",
+   "name": "Rustende atleet",
+   "start_date": "1941",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "פארק ביאטריקס ומרכז הכנסים RAI (801 מ')"
+ },
+ {
+  "k": "n6178115770",
+  "name": "Spelende hond",
+  "la": 52.343567,
+  "ln": 4.880122,
+  "district": "זאוד ואמסטלפלד",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Elena Engelsen",
+   "artwork_type": "statue",
+   "material": "stone",
+   "name": "Spelende hond",
+   "tourism": "artwork",
+   "wikidata": "Q60269883",
+   "wikipedia": "nl:Spelende hond"
+  },
+  "wikidata": {
+   "id": "Q60269883",
+   "he": "",
+   "en": "Spelende hond",
+   "nl": "Spelende hond",
+   "desc": "public artwork in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "פארק ביאטריקס ומרכז הכנסים RAI (146 מ')"
+ },
+ {
+  "k": "n4370493135",
+  "name": "Spinoza",
+  "la": 52.342611,
+  "ln": 4.866502,
+  "district": "זאוד ואמסטלפלד",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Hildo Krop",
+   "artwork_type": "statue",
+   "name": "Spinoza",
+   "start_date": "1960",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "זאודאס, רובע העסקים (676 מ')"
+ },
+ {
+  "k": "n7430410607",
+  "name": "Staal Plastiek",
+  "la": 52.331467,
+  "ln": 4.889094,
+  "district": "זאוד ואמסטלפלד",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Eugene van Lamsweerde",
+   "material": "stainless steel",
+   "name": "Staal Plastiek",
+   "start_date": "1980",
+   "tourism": "artwork",
+   "wikidata": "Q61928074",
+   "wikipedia": "nl:Zonder titel (Eugène van Lamsweerde)"
+  },
+  "wikidata": {
+   "id": "Q61928074",
+   "he": "",
+   "en": "Untitled",
+   "nl": "Zonder titel",
+   "desc": "public artwork by Eugène van Lamsweerde in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "אמסטלפארק (483 מ')"
+ },
+ {
+  "k": "n4535719394",
+  "name": "Stedemaagd",
+  "la": 52.330391,
+  "ln": 4.856108,
+  "district": "זאוד ואמסטלפלד",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Friedrich Schierholz",
+   "name": "Stedemaagd",
+   "tourism": "artwork",
+   "wikidata": "Q56703863",
+   "wikipedia": "nl:Stedenmaagd Amsterdamse Bos"
+  },
+  "wikidata": {
+   "id": "Q56703863",
+   "he": "",
+   "en": "Stedenmaagd Amsterdamse Bos",
+   "nl": "Stedenmaagd Amsterdamse Bos",
+   "desc": "statue in Amstelveen, Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "יער אמסטרדם (אמסטרדמסה בוס) (1378 מ')"
+ },
+ {
+  "k": "n11035942989",
+  "name": "The Long Hum",
+  "la": 52.329015,
+  "ln": 4.876901,
+  "district": "זאוד ואמסטלפלד",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Theo Niermeijer",
+   "artwork_type": "sculpture",
+   "material": "aluminium",
+   "name": "The Long Hum",
+   "tourism": "artwork",
+   "wikidata": "Q71806429",
+   "wikipedia": "nl:The long hum"
+  },
+  "wikidata": {
+   "id": "Q71806429",
+   "he": "",
+   "en": "The Long Hum",
+   "nl": "The long hum",
+   "desc": "sculpture in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "זאודאס, רובע העסקים (1032 מ')"
+ },
+ {
+  "k": "n6477306086",
+  "name": "Two Frames",
+  "la": 52.346815,
+  "ln": 4.89764,
+  "district": "זאוד ואמסטלפלד",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Shlomo Koren",
+   "artwork_type": "sculpture",
+   "name": "Two Frames",
+   "tourism": "artwork",
+   "wikidata": "Q105383441",
+   "wikipedia": "nl:Two frames"
+  },
+  "wikidata": {
+   "id": "Q105383441",
+   "he": "",
+   "en": "Two Frames",
+   "nl": "Two frames",
+   "desc": "work of art in Amsterdam, The Netherlamds",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "רובע הנהרות ומרוודפליין, השכונה של אנה פרנק (257 מ')"
+ },
+ {
+  "k": "n8032913747",
+  "name": "Vleugelvormen",
+  "la": 52.342392,
+  "ln": 4.882898,
+  "district": "זאוד ואמסטלפלד",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Felix van Kalmthout",
+   "artwork_type": "sculpture",
+   "material": "metal",
+   "name": "Vleugelvormen",
+   "tourism": "artwork",
+   "wikidata": "Q59596797",
+   "wikipedia": "nl:Vleugelvormen (Gerard Bruning)"
+  },
+  "wikidata": {
+   "id": "Q59596797",
+   "he": "",
+   "en": "Vleugelvormen",
+   "nl": "Vleugelvormen",
+   "desc": "public artwork in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "פארק ביאטריקס ומרכז הכנסים RAI (84 מ')"
+ },
+ {
+  "k": "n3931460311",
+  "name": "Water, Land, Licht",
+  "la": 52.340423,
+  "ln": 4.847411,
+  "district": "זאוד ואמסטלפלד",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q1813280",
+   "artist:wikipedia": "nl:Jan Meefout",
+   "artist_name": "Jan Meefout",
+   "artwork_type": "sculpture",
+   "height": "2",
+   "name": "Water, Land, Licht",
+   "tourism": "artwork",
+   "wikidata": "Q59596800",
+   "wikipedia": "nl:Water, aarde, lucht"
+  },
+  "wikidata": {
+   "id": "Q59596800",
+   "he": "",
+   "en": "Water, earth, air",
+   "nl": "Water, aarde, lucht",
+   "desc": "public artwork in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "האצטדיון האולימפי של 1928 (584 מ')"
+ },
+ {
+  "k": "n11215505663",
+  "name": "Waterval - Virtual fountains",
+  "la": 52.341507,
+  "ln": 4.893006,
+  "district": "זאוד ואמסטלפלד",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Femke Schaap",
+   "artwork_subject": "bron, waterval en fontein",
+   "artwork_type": "installation",
+   "material": "stone",
+   "name": "Waterval - Virtual fountains",
+   "old_name": "WEstLAndWElls",
+   "old_start_date": "2009",
+   "start_date": "2022-11-17",
+   "tourism": "artwork",
+   "wikidata": "Q116740012",
+   "wikipedia": "nl:Virtual fountains"
+  },
+  "wikidata": {
+   "id": "Q116740012",
+   "he": "",
+   "en": "Virtual fountains",
+   "nl": "Virtual fountains",
+   "desc": "work of art in Amsterdam, the Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "בית חב\"ד ובתי כנסת באמסטרדם (438 מ')"
+ },
+ {
+  "k": "n4370463063",
+  "name": "Woman with child on shoulder",
+  "la": 52.342112,
+  "ln": 4.857783,
+  "district": "זאוד ואמסטלפלד",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Hildo Krop",
+   "artwork_type": "sculpture",
+   "name": "Woman with child on shoulder",
+   "start_date": "1938",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "האצטדיון האולימפי של 1928 (265 מ')"
+ },
+ {
+  "k": "n4730014481",
+  "name": "Your life is calling",
+  "la": 52.340224,
+  "ln": 4.883669,
+  "district": "זאוד ואמסטלפלד",
+  "center": 0,
+  "osm_tags": {
+   "artwork_type": "sculpture",
+   "name": "Your life is calling",
+   "tourism": "artwork",
+   "wikidata": "Q56395578",
+   "wikipedia": "nl:Your life is calling"
+  },
+  "wikidata": {
+   "id": "Q56395578",
+   "he": "",
+   "en": "Your life is calling",
+   "nl": "Your life is calling",
+   "desc": "sculpture in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "פארק ביאטריקס ומרכז הכנסים RAI (306 מ')"
+ },
+ {
+  "k": "n4370431587",
+  "name": "beschermster en beschermer van de sociale wetgeving en gerechtigheid",
+  "la": 52.348667,
+  "ln": 4.882536,
+  "district": "זאוד ואמסטלפלד",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Hildo Krop",
+   "artwork_type": "statue",
+   "name": "beschermster en beschermer van de sociale wetgeving en gerechtigheid",
+   "start_date": "1954",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "אסכולת אמסטרדם בתוכנית זאוד (540 מ')"
+ },
+ {
+  "k": "n4405982278",
+  "name": "primum movens ultimum moriens",
+  "la": 52.3466,
+  "ln": 4.873567,
+  "district": "זאוד ואמסטלפלד",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Lucien den Arend",
+   "artwork_type": "sculpture",
+   "memorial": "Prof. Durrer",
+   "name": "primum movens ultimum moriens",
+   "name:nl": "wat het eerst beweegt sterft het laatst.",
+   "start_date": "1986",
+   "tourism": "artwork",
+   "wikidata": "Q59384082"
+  },
+  "wikidata": {
+   "id": "Q59384082",
+   "he": "",
+   "en": "Gedenkteken Prof. Dr. Dirk Durrer",
+   "nl": "Gedenkteken Prof. Dr. Dirk Durrer",
+   "desc": "public artwork in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "פארק ביאטריקס ומרכז הכנסים RAI (705 מ')"
+ }
+]

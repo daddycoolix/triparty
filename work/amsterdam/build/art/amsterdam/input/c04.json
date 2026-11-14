@@ -1,0 +1,559 @@
+[
+ {
+  "k": "n4526213510",
+  "name": "De Denker",
+  "la": 52.350947,
+  "ln": 4.871353,
+  "district": "רובע המוזיאונים, פונדלפארק ודה פייפ",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q30755",
+   "artist_name": "Auguste Rodin",
+   "artwork_type": "statue",
+   "name": "De Denker",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "הקונצרטחבאו (785 מ')"
+ },
+ {
+  "k": "n13081530985",
+  "name": "Eerste steen voor Comeniusmonument",
+  "la": 52.351275,
+  "ln": 4.864887,
+  "district": "רובע המוזיאונים, פונדלפארק ודה פייפ",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Jan Štursa;Pavel Janak;Jan Lauda",
+   "name": "Eerste steen voor Comeniusmonument",
+   "start_date": "1920",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "הפונדלפארק (788 מ')"
+ },
+ {
+  "k": "n4370456235",
+  "name": "Faun met harmonica",
+  "la": 52.349784,
+  "ln": 4.884853,
+  "district": "רובע המוזיאונים, פונדלפארק ודה פייפ",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Hildo Krop",
+   "artwork_type": "statue",
+   "description": "ornamentation on bridge",
+   "name": "Faun met harmonica",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "אסכולת אמסטרדם בתוכנית זאוד (466 מ')"
+ },
+ {
+  "k": "n4370504654",
+  "name": "Faun with guitar",
+  "la": 52.349571,
+  "ln": 4.884415,
+  "district": "רובע המוזיאונים, פונדלפארק ודה פייפ",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Hildo Krop",
+   "artwork_type": "statue",
+   "name": "Faun with guitar",
+   "start_date": "1927",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "אסכולת אמסטרדם בתוכנית זאוד (475 מ')"
+ },
+ {
+  "k": "n2641661902",
+  "name": "Hommage aan Paradjanov",
+  "la": 52.34981,
+  "ln": 4.889353,
+  "district": "רובע המוזיאונים, פונדלפארק ודה פייפ",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Thom Puckey",
+   "artwork_type": "sculpture",
+   "name": "Hommage aan Paradjanov",
+   "start_date": "2004",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "חוות הילדים של דה פייפ (244 מ')"
+ },
+ {
+  "k": "n13156100298",
+  "name": "Kyoko San",
+  "la": 52.360601,
+  "ln": 4.885286,
+  "district": "רובע המוזיאונים, פונדלפארק ודה פייפ",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Isamu Noguchi",
+   "artwork_type": "sculpture",
+   "name": "Kyoko San",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "הרייקסמוזיאום (84 מ')"
+ },
+ {
+  "k": "n3931172926",
+  "name": "Mercurius",
+  "la": 52.360658,
+  "ln": 4.885156,
+  "district": "רובע המוזיאונים, פונדלפארק ודה פייפ",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Ferdinand Leenhoff",
+   "artwork_type": "statue",
+   "name": "Mercurius",
+   "start_date": "1898",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "הרייקסמוזיאום (89 מ')"
+ },
+ {
+  "k": "n4401128545",
+  "name": "Nachtwacht",
+  "la": 52.357172,
+  "ln": 4.892855,
+  "district": "רובע המוזיאונים, פונדלפארק ודה פייפ",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Lisa Couwenbergh",
+   "artwork_type": "sculpture",
+   "name": "Nachtwacht",
+   "start_date": "2008",
+   "tourism": "artwork",
+   "wikidata": "Q22572452",
+   "wikipedia": "nl:Nachtwacht (beeld)"
+  },
+  "wikidata": {
+   "id": "Q22572452",
+   "he": "",
+   "en": "",
+   "nl": "Nachtwacht",
+   "desc": "sculpture in Amsterdam, the Netherlands",
+   "wikipedia_in": [
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "חוויית הייניקן (100 מ')"
+ },
+ {
+  "k": "n4552204531",
+  "name": "Ontwakend Africa",
+  "la": 52.354403,
+  "ln": 4.862822,
+  "district": "רובע המוזיאונים, פונדלפארק ודה פייפ",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Wessel Couzijn",
+   "artwork_type": "sculpture",
+   "name": "Ontwakend Africa",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "הפונדלפארק (560 מ')"
+ },
+ {
+  "k": "w592346736",
+  "name": "Oprichtersbank",
+  "la": 52.358006,
+  "ln": 4.863059,
+  "district": "רובע המוזיאונים, פונדלפארק ודה פייפ",
+  "center": 0,
+  "osm_tags": {
+   "alt_name": "Jubileumbank",
+   "amenity": "bench",
+   "area": "yes",
+   "artwork_type": "sculpture",
+   "backrest": "yes",
+   "name": "Oprichtersbank",
+   "start_date": "1939",
+   "tourism": "artwork",
+   "wikidata": "Q85308201",
+   "wikipedia": "nl:Jubileumbank Vondelpark"
+  },
+  "wikidata": {
+   "id": "Q85308201",
+   "he": "",
+   "en": "Jubileumbank Vondelpark",
+   "nl": "Jubileumbank Vondelpark",
+   "desc": "",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "הפונדלפארק (376 מ')"
+ },
+ {
+  "k": "n10157974803",
+  "name": "Paleisbeeld",
+  "la": 52.355033,
+  "ln": 4.897476,
+  "district": "רובע המוזיאונים, פונדלפארק ודה פייפ",
+  "center": 0,
+  "osm_tags": {
+   "artwork_type": "installation",
+   "name": "Paleisbeeld",
+   "tourism": "artwork",
+   "wikidata": "Q110739515",
+   "wikipedia": "nl:Paleisbeeld"
+  },
+  "wikidata": {
+   "id": "Q110739515",
+   "he": "",
+   "en": "Paleisbeeld",
+   "nl": "Paleisbeeld",
+   "desc": "kunstwerk in Amsterdam, Nederland",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "פארק סרפאטי (99 מ')"
+ },
+ {
+  "k": "n3931171036",
+  "name": "Personage 1",
+  "la": 52.360665,
+  "ln": 4.885277,
+  "district": "רובע המוזיאונים, פונדלפארק ודה פייפ",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Isamu Noguchi",
+   "artwork_type": "sculpture",
+   "name": "Personage 1",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "הרייקסמוזיאום (91 מ')"
+ },
+ {
+  "k": "n4501136323",
+  "name": "Phoenix",
+  "la": 52.361627,
+  "ln": 4.887292,
+  "district": "רובע המוזיאונים, פונדלפארק ודה פייפ",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q2872481",
+   "artist_name": "Willem Reijers",
+   "artwork_type": "sculpture",
+   "material": "bronze",
+   "name": "Phoenix",
+   "start_date": "1974",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "רובע העתיקות שפיחלקווארטיר (97 מ')"
+ },
+ {
+  "k": "n13424234424",
+  "name": "Portrait",
+  "la": 52.358722,
+  "ln": 4.882064,
+  "district": "רובע המוזיאונים, פונדלפארק ודה פייפ",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Marcel Wanders",
+   "artwork_type": "sculpture",
+   "name": "Portrait",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "מוזיאון מוקו (7 מ')"
+ },
+ {
+  "k": "n13424234426",
+  "name": "Reflecting Forward",
+  "la": 52.358685,
+  "ln": 4.88175,
+  "district": "רובע המוזיאונים, פונדלפארק ודה פייפ",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Studio Irma",
+   "artwork_type": "sculpture",
+   "name": "Reflecting Forward",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "מוזיאון מוקו (14 מ')"
+ },
+ {
+  "k": "n560616773",
+  "name": "Sarphatimonument",
+  "la": 52.354462,
+  "ln": 4.895573,
+  "district": "רובע המוזיאונים, פונדלפארק ודה פייפ",
+  "center": 0,
+  "osm_tags": {
+   "heritage": "2",
+   "heritage:operator": "rce",
+   "historic": "memorial",
+   "memorial": "bust",
+   "name": "Sarphatimonument",
+   "ref:rce": "527847",
+   "wikidata": "Q15625206",
+   "wikipedia": "nl:Sarphatimonument"
+  },
+  "wikidata": {
+   "id": "Q15625206",
+   "he": "",
+   "en": "Sarphati Memorial",
+   "nl": "Sarphatimonument",
+   "desc": "memorial in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "פארק סרפאטי (49 מ')"
+ },
+ {
+  "k": "n13424234425",
+  "name": "Tempter",
+  "la": 52.358593,
+  "ln": 4.881919,
+  "district": "רובע המוזיאונים, פונדלפארק ודה פייפ",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "MARCEL WANDERS",
+   "artwork_type": "sculpture",
+   "name": "Tempter",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "מוזיאון מוקו (14 מ')"
+ },
+ {
+  "k": "n11596405448",
+  "name": "The Regenerator",
+  "la": 52.349058,
+  "ln": 4.877526,
+  "district": "רובע המוזיאונים, פונדלפארק ודה פייפ",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Marina Abramović",
+   "artwork_type": "sculpture",
+   "name": "The Regenerator",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "פארק ביאטריקס ומרכז הכנסים RAI (759 מ')"
+ },
+ {
+  "k": "n2655813687",
+  "name": "Van Buurenmonument",
+  "la": 52.350509,
+  "ln": 4.899041,
+  "district": "רובע המוזיאונים, פונדלפארק ודה פייפ",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Piet Kramer",
+   "historic": "memorial",
+   "memorial": "sculpture",
+   "name": "Van Buurenmonument",
+   "wikidata": "Q17292273",
+   "wikipedia": "nl:Van Buurenmonument"
+  },
+  "wikidata": {
+   "id": "Q17292273",
+   "he": "",
+   "en": "",
+   "nl": "Van Buurenmonument",
+   "desc": "Rijksmonument op Coöperatiehof tegenover 14",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "חוות הילדים של דה פייפ (447 מ')"
+ },
+ {
+  "k": "n286575969",
+  "name": "Van Randwijk-monument",
+  "la": 52.358647,
+  "ln": 4.891456,
+  "district": "רובע המוזיאונים, פונדלפארק ודה פייפ",
+  "center": 0,
+  "osm_tags": {
+   "historic": "memorial",
+   "inscription": "Een volk dat voor tirannen zwicht ...",
+   "memorial": "war_memorial",
+   "name": "Van Randwijk-monument",
+   "wikidata": "Q62109549"
+  },
+  "wikidata": {
+   "id": "Q62109549",
+   "he": "",
+   "en": "Van Randwijk-monument",
+   "nl": "Van Randwijk-monument",
+   "desc": "oorlogsmonument bij Weteringcircuit in Amsterdam, Nederland",
+   "wikipedia_in": [
+    "co"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "חוויית הייניקן (96 מ')"
+ },
+ {
+  "k": "n13081530991",
+  "name": "With a little help by Frankey",
+  "la": 52.360496,
+  "ln": 4.881855,
+  "district": "רובע המוזיאונים, פונדלפארק ודה פייפ",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Streetart Frankey",
+   "artwork_type": "sculpture",
+   "name": "With a little help by Frankey",
+   "start_date": "2024",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "האוס אוף בולס, מוזיאון הליקר (166 מ')"
+ },
+ {
+  "k": "n4370511448",
+  "name": "de kunstenaar wijst de weg naar de hemel",
+  "la": 52.349654,
+  "ln": 4.886442,
+  "district": "רובע המוזיאונים, פונדלפארק ודה פייפ",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Hildo Krop",
+   "artwork_type": "statue",
+   "name": "de kunstenaar wijst de weg naar de hemel",
+   "start_date": "1927",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "אסכולת אמסטרדם בתוכנית זאוד (381 מ')"
+ },
+ {
+  "k": "n4370515011",
+  "name": "dochter",
+  "la": 52.350586,
+  "ln": 4.865601,
+  "district": "רובע המוזיאונים, פונדלפארק ודה פייפ",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Hildo Krop",
+   "artwork_type": "statue",
+   "name": "dochter",
+   "start_date": "1928",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "הפונדלפארק (847 מ')"
+ },
+ {
+  "k": "n4370515012",
+  "name": "moeder en dochter",
+  "la": 52.350782,
+  "ln": 4.865072,
+  "district": "רובע המוזיאונים, פונדלפארק ודה פייפ",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Hildo Krop",
+   "artwork_type": "statue",
+   "name": "moeder en dochter",
+   "start_date": "1928",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "הפונדלפארק (836 מ')"
+ },
+ {
+  "k": "n4370513107",
+  "name": "vader en zoon",
+  "la": 52.350854,
+  "ln": 4.865347,
+  "district": "רובע המוזיאונים, פונדלפארק ודה פייפ",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Hildo Krop",
+   "artwork_type": "statue",
+   "name": "vader en zoon",
+   "start_date": "1928",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "הפונדלפארק (823 מ')"
+ },
+ {
+  "k": "n4370515010",
+  "name": "zoon",
+  "la": 52.350485,
+  "ln": 4.865217,
+  "district": "רובע המוזיאונים, פונדלפארק ודה פייפ",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Hildo Krop",
+   "artwork_type": "statue",
+   "name": "zoon",
+   "start_date": "1928",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "הפונדלפארק (865 מ')"
+ }
+]

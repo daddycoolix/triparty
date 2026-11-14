@@ -1,6 +1,20 @@
 # -*- coding: utf-8 -*-
 # כרטיסים קיימים בקובץ העיר שמסומנים גם כיצירות (שדה e -> aw). המזהים מ-OpenStreetMap.
-MARK = {}
+MARK = {
+ "Homomonument": {"k": "w37737807", "t": "אנדרטה", "p": ["h3"], "z": 1},
+ "National Monument on Dam Square": {"k": "w168680619", "t": "אנדרטה", "p": ["h2"], "z": 1},
+ "Hollandsche Schouwburg (National Holocaust Memorial)": {"k": "n432506873", "t": "אנדרטה", "p": ["jew", "h2"], "z": 0},
+ "National Holocaust Names Monument": {"k": "n9104808940", "t": "אנדרטה", "p": ["jew", "h2"], "z": 0},
+ "The Dockworker statue (De Dokwerker) and Jonas Daniel Meijerplein": {"k": "n34051159", "t": "פסל", "p": ["jew", "h2"], "z": 0},
+ "Westermarkt statue of Anne Frank and the Westerkerk tower": {"k": "n1843810119", "t": "פסל", "p": ["jew", "h2", "ppl"], "z": 1},
+ "National Slavery Monument (Oosterpark)": {"k": "w1387185788", "t": "אנדרטה", "p": ["h3"], "z": 0},
+ "Auschwitz Monument (Nooit Meer Auschwitz) in Wertheimpark": {"k": "n440085927", "t": "אנדרטה", "p": ["jew", "h2"], "z": 0},
+ "Rembrandtplein": {"k": "n295868730", "t": "פסל", "p": ["h1", "ppl"], "z": 1},
+ "Spui and the Spui book market": {"k": "n3975877474", "t": "פסל", "p": ["h3"], "z": 1},
+ "Torensluis bridge and the Multatuli statue": {"k": "n287752748", "t": "פסל", "p": ["ppl"], "z": 1},
+ "Rivierenbuurt and Merwedeplein (Anne Frank's neighbourhood)": {"k": "n13033889130", "t": "פסל", "p": ["jew", "ppl"], "z": 0},
+ "Vondelpark": {"k": "w73999192", "t": "פסל", "p": ["h1", "ppl"], "z": 0},
+}
 # כרטיסים שנכתבו אך הוסרו אחרי בדיקה (כולל כפילויות של הכרטיסים שב-MARK)
-SKIP = set()
+SKIP = {"w37737807", "w168680619", "n432506873", "n9104808940", "n34051159", "n1843810119", "w1387185788", "n440085927", "n295868730", "n3975877474", "n287752748", "n13033889130", "w73999192"}
 SRC = "הנתונים שנאספו (OpenStreetMap, ויקידאטה ומקורות כלליים)"

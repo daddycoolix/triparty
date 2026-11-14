@@ -1,0 +1,379 @@
+[
+ {
+  "k": "n4531828514",
+  "name": "Living by Numbers",
+  "la": 52.378431,
+  "ln": 4.906168,
+  "district": "חזית המים: תחנת המרכז, איי והאיים המזרחיים",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Jean-Michel Othoniel",
+   "artwork_type": "sculpture",
+   "historic": "memorial",
+   "memorial": "sculpture",
+   "name": "Living by Numbers",
+   "start_date": "2016-12-01",
+   "tourism": "artwork",
+   "website": "https://www.aidsmonument.nl/",
+   "wikidata": "Q68103938",
+   "wikipedia": "nl:HIV/AIDSmonument"
+  },
+  "wikidata": {
+   "id": "Q68103938",
+   "he": "",
+   "en": "HIV/AIDSmonument",
+   "nl": "HIV/AIDSmonument",
+   "desc": "memorial in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "ספריית OBA (297 מ')"
+ },
+ {
+  "k": "n3799154957",
+  "name": "Maan over Ameland",
+  "la": 52.377753,
+  "ln": 4.910286,
+  "district": "חזית המים: תחנת המרכז, איי והאיים המזרחיים",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Bert de Laaf",
+   "artwork_type": "installation",
+   "name": "Maan over Ameland",
+   "start_date": "1971",
+   "tourism": "artwork",
+   "website": "http://adambeeldenva1900.blogspot.nl/2014/04/bert-de-laaf-maan-over-ameland.html",
+   "wikidata": "Q66310067",
+   "wikipedia": "nl:Maan over Ameland"
+  },
+  "wikidata": {
+   "id": "Q66310067",
+   "he": "",
+   "en": "Maan over Ameland",
+   "nl": "Maan over Ameland",
+   "desc": "sculpture in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "מוזיקחבאו אן הת איי וביםהאוס (183 מ')"
+ },
+ {
+  "k": "n7623789414",
+  "name": "Sirene",
+  "la": 52.370119,
+  "ln": 4.909018,
+  "district": "חזית המים: תחנת המרכז, איי והאיים המזרחיים",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Nic Jonk",
+   "artwork_type": "sculpture",
+   "material": "stone",
+   "name": "Sirene",
+   "tourism": "artwork",
+   "wikidata": "Q101623673",
+   "wikipedia": "nl:Sirene (Nic. Jonk, Amsterdam)"
+  },
+  "wikidata": {
+   "id": "Q101623673",
+   "he": "",
+   "en": "Sirene",
+   "nl": "Sirene",
+   "desc": "sculpture in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "אנדרטת אושוויץ בפארק ורטהיים (242 מ')"
+ },
+ {
+  "k": "n4743986694",
+  "name": "Tafels voor de bijen",
+  "la": 52.372849,
+  "ln": 4.933829,
+  "district": "חזית המים: תחנת המרכז, איי והאיים המזרחיים",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Frank Mandersloot",
+   "artwork_type": "sculpture",
+   "material": "concrete;wood",
+   "name": "Tafels voor de bijen",
+   "start_date": "2004",
+   "tourism": "artwork",
+   "wikidata": "Q30140596",
+   "wikipedia": "nl:Voor de bijen"
+  },
+  "wikidata": {
+   "id": "Q30140596",
+   "he": "",
+   "en": "Voor de bijen",
+   "nl": "Voor de bijen",
+   "desc": "kunstwerk in Amsterdam-Oost",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "מלון לויד (157 מ')"
+ },
+ {
+  "k": "n4572292789",
+  "name": "The sailing man",
+  "la": 52.371112,
+  "ln": 4.91572,
+  "district": "חזית המים: תחנת המרכז, איי והאיים המזרחיים",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Alphons Freijmuth",
+   "artwork_type": "sculpture",
+   "name": "The sailing man",
+   "start_date": "1987",
+   "tourism": "artwork",
+   "wikidata": "Q70328183",
+   "wikipedia": "nl:The sailing man"
+  },
+  "wikidata": {
+   "id": "Q70328183",
+   "he": "",
+   "en": "The sailing man",
+   "nl": "The sailing man",
+   "desc": "sculpture in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "מוזיאון הים (סחיפוורטמוזיאום) (118 מ')"
+ },
+ {
+  "k": "n5553461624",
+  "name": "Zeeman op de uitkijk",
+  "la": 52.379565,
+  "ln": 4.917974,
+  "district": "חזית המים: תחנת המרכז, איי והאיים המזרחיים",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Pieter Starreveld",
+   "artwork_type": "sculpture",
+   "language:en": "yes",
+   "language:nl": "yes",
+   "name": "Zeeman op de uitkijk",
+   "name:en": "Sailor on Lookout",
+   "start_date": "1950",
+   "tourism": "artwork",
+   "wikidata": "Q65552786",
+   "wikipedia": "nl:Zeeman op de uitkijk"
+  },
+  "wikidata": {
+   "id": "Q65552786",
+   "he": "",
+   "en": "Zeeman op de uitkijk",
+   "nl": "Zeeman op de uitkijk",
+   "desc": "war memorial in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "מוזיקחבאו אן הת איי וביםהאוס (380 מ')"
+ },
+ {
+  "k": "n5238675596",
+  "name": "fragment van een huiskamer",
+  "la": 52.373822,
+  "ln": 4.949255,
+  "district": "חזית המים: תחנת המרכז, איי והאיים המזרחיים",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Mark Manders",
+   "artwork_type": "sculpture",
+   "name": "fragment van een huiskamer",
+   "start_date": "2001",
+   "tourism": "artwork",
+   "wikidata": "Q109451669",
+   "wikipedia": "nl:Fragment van een huiskamer"
+  },
+  "wikidata": {
+   "id": "Q109451669",
+   "he": "",
+   "en": "Fragment of a living room",
+   "nl": "Fragment van een huiskamer",
+   "desc": "sculpture by Mark Manders in Amsterdam",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "האיים המזרחיים (KNSM, ג'אווה, בורנאו־ספורנבורח) (377 מ')"
+ },
+ {
+  "k": "w310310442",
+  "name": "Amphitrite",
+  "la": 52.377063,
+  "ln": 4.937694,
+  "district": "חזית המים: תחנת המרכז, איי והאיים המזרחיים",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Albert Termote",
+   "artwork_type": "sculpture",
+   "name": "Amphitrite",
+   "tourism": "artwork",
+   "wikidata": "Q17484332",
+   "wikipedia": "nl:Amphitrite (kunstwerk)"
+  },
+  "wikidata": {
+   "id": "Q17484332",
+   "he": "",
+   "en": "Amphitrite",
+   "nl": "Amphitrite",
+   "desc": "sculpture group in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "מלון לויד (380 מ')"
+ },
+ {
+  "k": "w316926797",
+  "name": "Bandenboot",
+  "la": 52.370211,
+  "ln": 4.922815,
+  "district": "חזית המים: תחנת המרכז, איי והאיים המזרחיים",
+  "center": 0,
+  "osm_tags": {
+   "area": "yes",
+   "artist_name": "Robert Jasper Grootveld",
+   "artwork_type": "installation",
+   "material": "tire",
+   "name": "Bandenboot",
+   "tourism": "artwork",
+   "wikidata": "Q30022310",
+   "wikipedia": "nl:Bandenboot"
+  },
+  "wikidata": {
+   "id": "Q30022310",
+   "he": "",
+   "en": "Bandenboot",
+   "nl": "Bandenboot",
+   "desc": "kunstwerk van RJ Grootveld in Amsterdam",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "אנטרפוטדוק (409 מ')"
+ },
+ {
+  "k": "w968258802",
+  "name": "Facade 027E",
+  "la": 52.37399,
+  "ln": 4.914414,
+  "district": "חזית המים: תחנת המרכז, איי והאיים המזרחיים",
+  "center": 0,
+  "osm_tags": {
+   "area": "yes",
+   "artwork_type": "building",
+   "building:part": "yes",
+   "description:nl": "027 E en W werden in 1966 gebouwd voor de Technische Opleidingen van de Koninklijke Marine (Elektrotechniek en Werktuigkunde). De E-vleugel is in 2016 gerenoveerd. Opvallend is de houten zonwering in de vorm van de vlaggen van de landen van de EU.",
+   "name": "Facade 027E",
+   "tourism": "artwork",
+   "website": "https://www.bureausla.nl/project/gebouw-27e-marineterrein-amsterdam/",
+   "wikidata": "Q107689406"
+  },
+  "wikidata": {
+   "id": "Q107689406",
+   "he": "",
+   "en": "Facade 027E",
+   "nl": "Facade 027E",
+   "desc": "027 E en W werden in 1966 gebouwd voor de Technische Opleidingen van de Koninklijke Marine (Elektrotechniek en Werktuigkunde). De E-vleugel is in 2016 gerenoveerd. Opvallend is de houten zonwering in de vorm van de vlaggen van de landen van de EU.",
+   "wikipedia_in": []
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "מרינטריין (98 מ')"
+ },
+ {
+  "k": "n13639776930",
+  "name": "Het Palenhuis",
+  "la": 52.372867,
+  "ln": 4.961437,
+  "district": "חזית המים: תחנת המרכז, איי והאיים המזרחיים",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Piet van Wijk",
+   "artwork_type": "sculpture",
+   "material": "steel",
+   "name": "Het Palenhuis",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "האיים המזרחיים (KNSM, ג'אווה, בורנאו־ספורנבורח) (1170 מ')"
+ },
+ {
+  "k": "n13018134294",
+  "name": "Huil van de Wolff",
+  "la": 52.378428,
+  "ln": 4.912585,
+  "district": "חזית המים: תחנת המרכז, איי והאיים המזרחיים",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Martijn Padding",
+   "artwork_subject": "Jan Wolff",
+   "artwork_type": "installation",
+   "inscription": "Elke 22e van de maand om 20:00 u klinkt hier Huil van de Wolff. Een eerbetoon aan geestelijk vader van het Muziekgebouw Jan Wolff (1941-2012)",
+   "name": "Huil van de Wolff",
+   "start_date": "2015",
+   "tourism": "artwork",
+   "wikipedia": "nl:Huil van de Wolff"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "מוזיקחבאו אן הת איי וביםהאוס (19 מ')"
+ },
+ {
+  "k": "n6895883285",
+  "name": "Zeeman",
+  "la": 52.370524,
+  "ln": 4.912714,
+  "district": "חזית המים: תחנת המרכז, איי והאיים המזרחיים",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q613525",
+   "artist_name": "Joost Barbiers",
+   "artwork_type": "statue",
+   "name": "Zeeman",
+   "start_date": "1980",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "ARCAM, מרכז האדריכלות (110 מ')"
+ }
+]

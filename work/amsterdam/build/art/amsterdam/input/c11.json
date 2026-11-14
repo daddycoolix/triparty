@@ -1,0 +1,663 @@
+[
+ {
+  "k": "n13839961330",
+  "name": "Played Rack",
+  "la": 52.372687,
+  "ln": 4.826805,
+  "district": "וסט: וסטרפארק, אאוד־וסט וההארלמרבורט",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Maze de Boer",
+   "artwork_type": "sculpture",
+   "material": "metal",
+   "name": "Played Rack",
+   "tourism": "artwork",
+   "wikidata": "Q68467203"
+  },
+  "wikidata": {
+   "id": "Q68467203",
+   "he": "",
+   "en": "Played rack",
+   "nl": "Played rack",
+   "desc": "public artwork of Maze de Boer in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "הסלוטרפלאס (949 מ')"
+ },
+ {
+  "k": "n7480635621",
+  "name": "Pluk de Dag",
+  "la": 52.379718,
+  "ln": 4.85465,
+  "district": "וסט: וסטרפארק, אאוד־וסט וההארלמרבורט",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Judith Kox",
+   "artwork_type": "statue",
+   "material": "bronze",
+   "name": "Pluk de Dag",
+   "start_date": "2018",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "חוות הילדים בווסטרפארק (1120 מ')"
+ },
+ {
+  "k": "n7358422560",
+  "name": "Poort",
+  "la": 52.382792,
+  "ln": 4.874969,
+  "district": "וסט: וסטרפארק, אאוד־וסט וההארלמרבורט",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Dicky Brand",
+   "artwork_type": "sculpture",
+   "material": "concrete",
+   "name": "Poort",
+   "start_date": "1988",
+   "tourism": "artwork",
+   "wikidata": "Q92771468",
+   "wikipedia": "nl:Blauwe poort (Amsterdam)"
+  },
+  "wikidata": {
+   "id": "Q92771468",
+   "he": "",
+   "en": "",
+   "nl": "Blauwe poort",
+   "desc": "kunstwerk in Amsterdam, Nederland",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "פבריק דה לומייר (415 מ')"
+ },
+ {
+  "k": "n9033315168",
+  "name": "Potkachel",
+  "la": 52.37232,
+  "ln": 4.846198,
+  "district": "וסט: וסטרפארק, אאוד־וסט וההארלמרבורט",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q97396180",
+   "artist_name": "Eveline van Duyl",
+   "artwork_type": "sculpture",
+   "name": "Potkachel",
+   "tourism": "artwork",
+   "wikidata": "Q40165706",
+   "wikipedia": "nl:De potkachel"
+  },
+  "wikidata": {
+   "id": "Q40165706",
+   "he": "",
+   "en": "",
+   "nl": "De potkachel",
+   "desc": "",
+   "wikipedia_in": [
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "רמברנדטפארק (941 מ')"
+ },
+ {
+  "k": "n13037613713",
+  "name": "Raammannetjes",
+  "la": 52.364299,
+  "ln": 4.836716,
+  "district": "וסט: וסטרפארק, אאוד־וסט וההארלמרבורט",
+  "center": 0,
+  "osm_tags": {
+   "name": "Raammannetjes",
+   "tourism": "artwork",
+   "wikidata": "Q104664948",
+   "wikipedia": "nl:Raammannetjes"
+  },
+  "wikidata": {
+   "id": "Q104664948",
+   "he": "",
+   "en": "Raammannetjes",
+   "nl": "Raammannetjes",
+   "desc": "sculpture in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "רמברנדטפארק (730 מ')"
+ },
+ {
+  "k": "n8975310277",
+  "name": "Raphael",
+  "la": 52.39188,
+  "ln": 4.864336,
+  "district": "וסט: וסטרפארק, אאוד־וסט וההארלמרבורט",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Henk Spreeuwenberg",
+   "artwork_type": "statue",
+   "material": "steel",
+   "name": "Raphael",
+   "start_date": "2009",
+   "tourism": "artwork",
+   "website": "https://amsterdam.kunstwacht.nl/kunstwerken/bekijk/6573-de-drie-aartsengelen-van-sint-barbara-gabriel-michael-en-rafael"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "חוות הילדים בווסטרפארק (526 מ')"
+ },
+ {
+  "k": "n7272571646",
+  "name": "Rembo",
+  "la": 52.365538,
+  "ln": 4.847832,
+  "district": "וסט: וסטרפארק, אאוד־וסט וההארלמרבורט",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Bastienne Kramer",
+   "artwork_type": "sculpture",
+   "material": "ceramic",
+   "name": "Rembo",
+   "start_date": "2005",
+   "tourism": "artwork",
+   "wikidata": "Q53997633"
+  },
+  "wikidata": {
+   "id": "Q53997633",
+   "he": "",
+   "en": "Rembo",
+   "nl": "Rembo",
+   "desc": "statue in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "רמברנדטפארק (187 מ')"
+ },
+ {
+  "k": "n2595391173",
+  "name": "Rustende tuinder",
+  "la": 52.375796,
+  "ln": 4.863773,
+  "district": "וסט: וסטרפארק, אאוד־וסט וההארלמרבורט",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q2927060",
+   "artist_name": "Jan Havermans",
+   "artwork_type": "statue",
+   "name": "Rustende tuinder",
+   "start_date": "1938",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "דה הלן ורחוב קינקרסטראט (1025 מ')"
+ },
+ {
+  "k": "n13839961331",
+  "name": "Speeltoestel Van Eesteren Museum",
+  "la": 52.372974,
+  "ln": 4.826509,
+  "district": "וסט: וסטרפארק, אאוד־וסט וההארלמרבורט",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Aldo van Eyck",
+   "artwork_type": "sculpture",
+   "material": "metal",
+   "name": "Speeltoestel Van Eesteren Museum",
+   "tourism": "artwork",
+   "wikidata": "Q101623409"
+  },
+  "wikidata": {
+   "id": "Q101623409",
+   "he": "",
+   "en": "Speeltoestel Van Eesteren Museum",
+   "nl": "Speeltoestel Van Eesteren Museum",
+   "desc": "sculpture in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "הסלוטרפלאס (965 מ')"
+ },
+ {
+  "k": "n13018166416",
+  "name": "Stoere Bloemen",
+  "la": 52.373121,
+  "ln": 4.844573,
+  "district": "וסט: וסטרפארק, אאוד־וסט וההארלמרבורט",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Marieke Bolhuis",
+   "artwork_type": "sculpture",
+   "name": "Stoere Bloemen",
+   "start_date": "2023",
+   "tourism": "artwork",
+   "wikipedia": "nl:Stoere bloemen"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "רמברנדטפארק (1045 מ')"
+ },
+ {
+  "k": "n13081530986",
+  "name": "The Underground Tree",
+  "la": 52.386616,
+  "ln": 4.873717,
+  "district": "וסט: וסטרפארק, אאוד־וסט וההארלמרבורט",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Tanja Smeets",
+   "artwork_type": "sculpture",
+   "material": "metal",
+   "name": "The Underground Tree",
+   "start_date": "2024",
+   "tourism": "artwork",
+   "website": "https://www.tanjasmeets.nl/"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "פבריק דה לומייר (121 מ')"
+ },
+ {
+  "k": "n9199244050",
+  "name": "Troost",
+  "la": 52.363616,
+  "ln": 4.866948,
+  "district": "וסט: וסטרפארק, אאוד־וסט וההארלמרבורט",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q3942427",
+   "artist_name": "Hildo Krop",
+   "artwork_type": "statue",
+   "name": "Troost",
+   "start_date": "1928",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "פודהאלן, אולם האוכל של דה הלן (342 מ')"
+ },
+ {
+  "k": "n7288612302",
+  "name": "Twee Hondjes",
+  "la": 52.36414,
+  "ln": 4.847381,
+  "district": "וסט: וסטרפארק, אאוד־וסט וההארלמרבורט",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Marjolijn Mandersloot",
+   "artwork_type": "sculpture",
+   "layer": "1",
+   "material": "polyester",
+   "name": "Twee Hondjes",
+   "start_date": "2002",
+   "tourism": "artwork",
+   "wikidata": "Q96146294"
+  },
+  "wikidata": {
+   "id": "Q96146294",
+   "he": "",
+   "en": "Twee hondjes",
+   "nl": "Twee hondjes",
+   "desc": "Statue in Amsterdam, the Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "רמברנדטפארק (30 מ')"
+ },
+ {
+  "k": "n9008862687",
+  "name": "Under Heaven 02",
+  "la": 52.381528,
+  "ln": 4.844774,
+  "district": "וסט: וסטרפארק, אאוד־וסט וההארלמרבורט",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Leonard van Munster",
+   "artwork_type": "installation",
+   "name": "Under Heaven 02",
+   "tourism": "artwork",
+   "wikidata": "Q56395591",
+   "wikipedia": "nl:Under Heaven 02"
+  },
+  "wikidata": {
+   "id": "Q56395591",
+   "he": "",
+   "en": "Under Heaven 02",
+   "nl": "Under Heaven 02",
+   "desc": "public artwork in Amsterdam, the Netherlands",
+   "wikipedia_in": [
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "חוות הילדים בווסטרפארק (1555 מ')"
+ },
+ {
+  "k": "n9008862685",
+  "name": "Under Heaven 03",
+  "la": 52.381832,
+  "ln": 4.838066,
+  "district": "וסט: וסטרפארק, אאוד־וסט וההארלמרבורט",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Leonard van Munster",
+   "artwork_type": "installation",
+   "name": "Under Heaven 03",
+   "tourism": "artwork",
+   "wikidata": "Q56642182",
+   "wikipedia": "nl:Under Heaven 03"
+  },
+  "wikidata": {
+   "id": "Q56642182",
+   "he": "",
+   "en": "Under Heaven 03",
+   "nl": "Under Heaven 03",
+   "desc": "public artwork in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "חוות הילדים בווסטרפארק (1971 מ')"
+ },
+ {
+  "k": "n11627427966",
+  "name": "Venus",
+  "la": 52.378399,
+  "ln": 4.83603,
+  "district": "וסט: וסטרפארק, אאוד־וסט וההארלמרבורט",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Wicher Meursing",
+   "artwork_type": "sculpture",
+   "material": "limestone",
+   "name": "Venus",
+   "tourism": "artwork",
+   "wikidata": "Q110051879",
+   "wikipedia": "nl:De geboorte van Venus (Meursing)"
+  },
+  "wikidata": {
+   "id": "Q110051879",
+   "he": "",
+   "en": "De geboorte van Venus",
+   "nl": "De geboorte van Venus",
+   "desc": "sculpture in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "רמברנדטפארק (1789 מ')"
+ },
+ {
+  "k": "n6411836164",
+  "name": "Verloren stad",
+  "la": 52.388323,
+  "ln": 4.87069,
+  "district": "וסט: וסטרפארק, אאוד־וסט וההארלמרבורט",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Harald Schone",
+   "artwork_type": "sculpture",
+   "name": "Verloren stad",
+   "start_date": "1989",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "וסטרפארק ווסטרחספבריק (142 מ')"
+ },
+ {
+  "k": "n9088913195",
+  "name": "Voetbal",
+  "la": 52.385485,
+  "ln": 4.827868,
+  "district": "וסט: וסטרפארק, אאוד־וסט וההארלמרבורט",
+  "center": 0,
+  "osm_tags": {
+   "alt_name": "De Grote Voetbal",
+   "artwork_type": "sculpture",
+   "description": "Een gigantisch beeld van een voetbal.",
+   "material": "concrete",
+   "name": "Voetbal",
+   "start_date": "1975",
+   "tourism": "artwork",
+   "wikidata": "Q118138878"
+  },
+  "wikidata": {
+   "id": "Q118138878",
+   "he": "",
+   "en": "Voetbal Spieringhorn",
+   "nl": "Voetbal Spieringhorn",
+   "desc": "sculpture in Amsterdam, Netherlands",
+   "wikipedia_in": []
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "הסלוטרפלאס (2292 מ')"
+ },
+ {
+  "k": "n13037591492",
+  "name": "Vogelvlucht",
+  "la": 52.371136,
+  "ln": 4.83739,
+  "district": "וסט: וסטרפארק, אאוד־וסט וההארלמרבורט",
+  "center": 0,
+  "osm_tags": {
+   "artwork_type": "statue",
+   "name": "Vogelvlucht",
+   "tourism": "artwork",
+   "wikidata": "Q108959670",
+   "wikipedia": "nl:Vogelvlucht (Jan Bons)"
+  },
+  "wikidata": {
+   "id": "Q108959670",
+   "he": "",
+   "en": "Vogelvlucht",
+   "nl": "Vogelvlucht",
+   "desc": "work of art in Amsterdam, The Netherlands",
+   "wikipedia_in": [
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "רמברנדטפארק (1057 מ')"
+ },
+ {
+  "k": "n7395600605",
+  "name": "Vuurtoren met sinaasappels",
+  "la": 52.363247,
+  "ln": 4.849784,
+  "district": "וסט: וסטרפארק, אאוד־וסט וההארלמרבורט",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q2524865",
+   "artist_name": "Hans van den Ban",
+   "artwork_type": "sculpture",
+   "material": "steel",
+   "name": "Vuurtoren met sinaasappels",
+   "start_date": "1991",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "רמברנדטפארק (173 מ')"
+ },
+ {
+  "k": "n8718656073",
+  "name": "Wiel",
+  "la": 52.387684,
+  "ln": 4.843432,
+  "district": "וסט: וסטרפארק, אאוד־וסט וההארלמרבורט",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Jeroen Henneman",
+   "artwork_type": "sculpture",
+   "name": "Wiel",
+   "tourism": "artwork",
+   "wikidata": "Q101229967",
+   "wikipedia": "nl:Het wiel (Jeroen Henneman)"
+  },
+  "wikidata": {
+   "id": "Q101229967",
+   "he": "",
+   "en": "Het wiel",
+   "nl": "Het wiel",
+   "desc": "public artwork in Amsterdam, the Netherlands",
+   "wikipedia_in": [
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "חוות הילדים בווסטרפארק (1514 מ')"
+ },
+ {
+  "k": "n1999705582",
+  "name": "Wolk",
+  "la": 52.369862,
+  "ln": 4.84791,
+  "district": "וסט: וסטרפארק, אאוד־וסט וההארלמרבורט",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Hans Schuil",
+   "artwork_type": "sculpture",
+   "material": "steel",
+   "name": "Wolk",
+   "start_date": "2003",
+   "tourism": "artwork",
+   "wikidata": "Q53576240",
+   "wikipedia": "nl:Wolk (beeld)"
+  },
+  "wikidata": {
+   "id": "Q53576240",
+   "he": "",
+   "en": "",
+   "nl": "Wolk",
+   "desc": "kunstwerk van Han Schuil in Amsterdam",
+   "wikipedia_in": [
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "רמברנדטפארק (665 מ')"
+ },
+ {
+  "k": "w1215278812",
+  "name": "Zeeslagenkaart",
+  "la": 52.384765,
+  "ln": 4.855031,
+  "district": "וסט: וסטרפארק, אאוד־וסט וההארלמרבורט",
+  "center": 0,
+  "osm_tags": {
+   "area": "yes",
+   "artist_name": "Lobke Alkemade",
+   "artwork_type": "sculpture",
+   "name": "Zeeslagenkaart",
+   "surface": "wood",
+   "tourism": "artwork",
+   "wikidata": "Q135976058"
+  },
+  "wikidata": {
+   "id": "Q135976058",
+   "he": "",
+   "en": "",
+   "nl": "Zeeslagenkaart",
+   "desc": "object aan Haarlemmerweg in Amsterdam",
+   "wikipedia_in": [
+    "co"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "חוות הילדים בווסטרפארק (773 מ')"
+ },
+ {
+  "k": "n4742077887",
+  "name": "koningin Wilhelmina",
+  "la": 52.35562,
+  "ln": 4.840949,
+  "district": "וסט: וסטרפארק, אאוד־וסט וההארלמרבורט",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Nico Onkenhout",
+   "artwork_type": "statue",
+   "name": "koningin Wilhelmina",
+   "start_date": "1968",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "רמברנדטפארק (1016 מ')"
+ },
+ {
+  "k": "n9465999990",
+  "name": "waterdraagster",
+  "la": 52.368021,
+  "ln": 4.867665,
+  "district": "וסט: וסטרפארק, אאוד־וסט וההארלמרבורט",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Leo Braat",
+   "artwork_type": "statue",
+   "material": "bronze",
+   "name": "waterdraagster",
+   "tourism": "artwork",
+   "wikidata": "Q109837763",
+   "wikipedia": "nl:Waterdraagster met vissen"
+  },
+  "wikidata": {
+   "id": "Q109837763",
+   "he": "",
+   "en": "Waterdraagster met vissen",
+   "nl": "Waterdraagster met vissen",
+   "desc": "sculpture in Amsterdam, Netherlands",
+   "wikipedia_in": [
+    "co",
+    "nl"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "דה הלן ורחוב קינקרסטראט (139 מ')"
+ }
+]
