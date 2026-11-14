@@ -1,0 +1,775 @@
+{
+ "overpass": {
+  "art": "[out:json][timeout:180][bbox:41.095,-8.730,41.215,-8.540];(nwr[\"tourism\"=\"artwork\"];nwr[\"historic\"~\"^(memorial|monument)$\"];nwr[\"amenity\"=\"fountain\"][\"name\"];nwr[\"amenity\"=\"fountain\"][\"wikidata\"];);out center tags;",
+  "poi": "[out:json][timeout:180][bbox:41.095,-8.730,41.215,-8.540];(nwr[\"tourism\"~\"^(attraction|museum|gallery|viewpoint|zoo|aquarium)$\"][\"name\"];nwr[\"historic\"][\"name\"];nwr[\"amenity\"~\"^(place_of_worship|marketplace|theatre|arts_centre|nightclub|cafe)$\"][\"name\"];nwr[\"leisure\"~\"^(park|garden|water_park)$\"][\"name\"];nwr[\"building\"][\"wikidata\"][\"name\"];nwr[\"shop\"~\"^(mall|department_store|wine|books)$\"][\"name\"];nwr[\"natural\"=\"beach\"];nwr[\"place\"=\"square\"][\"name\"];nwr[\"aerialway\"=\"station\"];nwr[\"railway\"=\"tram_stop\"];);out center tags;",
+  "fun": "[out:json][timeout:180][bbox:40.95,-8.85,41.45,-8.20];(nwr[\"leisure\"~\"^(escape_game|amusement_arcade|bowling_alley|high_ropes_course|skatepark|water_park|trampoline_park|miniature_golf)$\"];nwr[\"sport\"~\"karting|paintball|laser_tag|billiards|snooker|bowling|10pin|surfing\"];nwr[\"sport\"~\"climbing\"][\"leisure\"];nwr[\"tourism\"=\"theme_park\"];nwr[\"attraction\"~\"summer_toboggan|roller_coaster|alpine_coaster\"];nwr[\"aerialway\"=\"zip_line\"];nwr[\"theatre:genre\"=\"circus\"];nwr[\"leisure\"][\"name\"~\"jet ski|jetski|virtual|quad|buggy|rage|circus|circo|escape|laser\",i];nwr[\"amenity\"][\"name\"~\"jet ski|jetski|virtual|quad|buggy|rage|circus|circo|escape|laser\",i];nwr[\"shop\"][\"name\"~\"jet ski|jetski|virtual|quad|buggy|rage|escape|laser\",i];nwr[\"tourism\"][\"name\"~\"jet ski|jetski|virtual|quad|buggy|rage|circo|escape|laser\",i];);out center tags;",
+  "kosher": "[out:json][timeout:90][bbox:41.08,-8.75,41.25,-8.50];(nwr[\"diet:kosher\"];nwr[\"amenity\"=\"place_of_worship\"][\"religion\"=\"jewish\"];nwr[\"cuisine\"~\"kosher|jewish|israeli\"];nwr[\"name\"~\"kosher|chabad|sinagoga|judaico|holocausto\",i];nwr[\"tourism\"=\"museum\"][\"name\"~\"juda|holocaust\",i];);out center tags;"
+ },
+ "wikidata_from": "art",
+ "wikivoyage": {
+  "wv_en_Porto": "https://en.wikivoyage.org/w/index.php?action=raw&title=Porto",
+  "wv_en_Gaia": "https://en.wikivoyage.org/w/index.php?action=raw&title=Vila_Nova_de_Gaia",
+  "wv_en_Matosinhos": "https://en.wikivoyage.org/w/index.php?action=raw&title=Matosinhos",
+  "wv_he_Porto": "https://he.wikivoyage.org/w/index.php?action=raw&title=%D7%A4%D7%95%D7%A8%D7%98%D7%95",
+  "wv_en_Braga": "https://en.wikivoyage.org/w/index.php?action=raw&title=Braga",
+  "wv_en_Guimaraes": "https://en.wikivoyage.org/w/index.php?action=raw&title=Guimar%C3%A3es"
+ },
+ "nominatim": [
+  [
+   "000",
+   "Praça da Ribeira, Porto"
+  ],
+  [
+   "001",
+   "Ponte Luís I, Porto"
+  ],
+  [
+   "002",
+   "Sé do Porto"
+  ],
+  [
+   "003",
+   "Palácio da Bolsa, Porto"
+  ],
+  [
+   "004",
+   "Igreja de São Francisco, Porto"
+  ],
+  [
+   "005",
+   "Casa do Infante, Porto"
+  ],
+  [
+   "006",
+   "Rua das Flores, Porto"
+  ],
+  [
+   "007",
+   "Igreja da Misericórdia do Porto"
+  ],
+  [
+   "008",
+   "Muralha Fernandina, Porto"
+  ],
+  [
+   "009",
+   "Funicular dos Guindais"
+  ],
+  [
+   "010",
+   "Cais da Estiva, Porto"
+  ],
+  [
+   "011",
+   "Rua Escura, Porto"
+  ],
+  [
+   "012",
+   "Mercado Ferreira Borges"
+  ],
+  [
+   "013",
+   "Praça do Infante D. Henrique, Porto"
+  ],
+  [
+   "014",
+   "Igreja de São Nicolau, Porto"
+  ],
+  [
+   "015",
+   "Casa-Museu Guerra Junqueiro"
+  ],
+  [
+   "016",
+   "Igreja de Santa Clara, Porto"
+  ],
+  [
+   "017",
+   "Igreja de São Lourenço, Porto"
+  ],
+  [
+   "018",
+   "Paço Episcopal do Porto"
+  ],
+  [
+   "019",
+   "Escadas do Codeçal, Porto"
+  ],
+  [
+   "020",
+   "Museu das Marionetas do Porto"
+  ],
+  [
+   "021",
+   "Casa Portuguesa do Pastel de Bacalhau, Rua das Flores, Porto"
+  ],
+  [
+   "022",
+   "Ponte do Infante, Porto"
+  ],
+  [
+   "023",
+   "Rua de São Miguel, Porto"
+  ],
+  [
+   "024",
+   "Cais da Ribeira, Porto"
+  ],
+  [
+   "025",
+   "Estação de São Bento, Porto"
+  ],
+  [
+   "026",
+   "Câmara Municipal do Porto"
+  ],
+  [
+   "027",
+   "Mercado do Bolhão, Porto"
+  ],
+  [
+   "028",
+   "Café Majestic, Porto"
+  ],
+  [
+   "029",
+   "Rua de Santa Catarina, Porto"
+  ],
+  [
+   "030",
+   "Capela das Almas, Porto"
+  ],
+  [
+   "031",
+   "Igreja de Santo Ildefonso, Porto"
+  ],
+  [
+   "032",
+   "Teatro Nacional São João"
+  ],
+  [
+   "033",
+   "Confeitaria do Bolhão"
+  ],
+  [
+   "034",
+   "Café Santiago, Porto"
+  ],
+  [
+   "035",
+   "Cervejaria Gazela, Porto"
+  ],
+  [
+   "036",
+   "Via Catarina Shopping, Porto"
+  ],
+  [
+   "037",
+   "Igreja dos Congregados, Porto"
+  ],
+  [
+   "038",
+   "A Pérola do Bolhão, Porto"
+  ],
+  [
+   "039",
+   "Café Guarany, Porto"
+  ],
+  [
+   "040",
+   "Teatro Rivoli, Porto"
+  ],
+  [
+   "041",
+   "Coliseu do Porto, Porto"
+  ],
+  [
+   "042",
+   "Maus Hábitos, Porto"
+  ],
+  [
+   "043",
+   "Igreja da Trindade, Porto"
+  ],
+  [
+   "044",
+   "Praça da Liberdade, Porto"
+  ],
+  [
+   "045",
+   "Manteigaria, Porto"
+  ],
+  [
+   "046",
+   "Teatro Sá da Bandeira, Porto"
+  ],
+  [
+   "047",
+   "Rua do Almada, Porto"
+  ],
+  [
+   "048",
+   "Padaria Ribeiro, Porto"
+  ],
+  [
+   "049",
+   "Praça de D. João I, Porto"
+  ],
+  [
+   "050",
+   "Rua de 31 de Janeiro, Porto"
+  ],
+  [
+   "051",
+   "Torre dos Clérigos"
+  ],
+  [
+   "052",
+   "Livraria Lello, Porto"
+  ],
+  [
+   "053",
+   "Igreja do Carmo, Porto"
+  ],
+  [
+   "054",
+   "Jardim da Cordoaria, Porto"
+  ],
+  [
+   "055",
+   "Centro Português de Fotografia"
+  ],
+  [
+   "056",
+   "Miradouro da Vitória, Porto"
+  ],
+  [
+   "057",
+   "Rua Galeria de Paris, Porto"
+  ],
+  [
+   "058",
+   "Passeio dos Clérigos, Porto"
+  ],
+  [
+   "059",
+   "Reitoria da Universidade do Porto"
+  ],
+  [
+   "060",
+   "Mosteiro de São Bento da Vitória"
+  ],
+  [
+   "061",
+   "Plano B, Porto"
+  ],
+  [
+   "062",
+   "Praça de Carlos Alberto, Porto"
+  ],
+  [
+   "063",
+   "A Vida Portuguesa, Porto"
+  ],
+  [
+   "064",
+   "Casa Oriental, Porto"
+  ],
+  [
+   "065",
+   "Igreja de São José das Taipas"
+  ],
+  [
+   "066",
+   "Teatro Carlos Alberto, Porto"
+  ],
+  [
+   "067",
+   "Praça de Guilherme Gomes Fernandes, Porto"
+  ],
+  [
+   "068",
+   "Hospital de Santo António, Porto"
+  ],
+  [
+   "069",
+   "Jardins do Palácio de Cristal"
+  ],
+  [
+   "070",
+   "Museu Nacional Soares dos Reis"
+  ],
+  [
+   "071",
+   "Rua de Miguel Bombarda, Porto"
+  ],
+  [
+   "072",
+   "Museu Romântico da Quinta da Macieirinha"
+  ],
+  [
+   "073",
+   "Igreja da Lapa, Porto"
+  ],
+  [
+   "074",
+   "Igreja de São Martinho de Cedofeita"
+  ],
+  [
+   "075",
+   "Rua de Cedofeita, Porto"
+  ],
+  [
+   "076",
+   "World of Discoveries, Porto"
+  ],
+  [
+   "077",
+   "Alfândega do Porto"
+  ],
+  [
+   "078",
+   "Museu do Vinho do Porto"
+  ],
+  [
+   "079",
+   "Miragaia, Porto"
+  ],
+  [
+   "080",
+   "Passeio das Virtudes, Porto"
+  ],
+  [
+   "081",
+   "Rua do Breyner, Porto"
+  ],
+  [
+   "082",
+   "Igreja de São Pedro de Miragaia"
+  ],
+  [
+   "083",
+   "Travessa de Cedofeita, Porto"
+  ],
+  [
+   "084",
+   "Casa-Museu Marta Ortigão Sampaio"
+  ],
+  [
+   "085",
+   "Estádio do Dragão"
+  ],
+  [
+   "086",
+   "Igreja do Bonfim, Porto"
+  ],
+  [
+   "087",
+   "Casa Guedes, Porto"
+  ],
+  [
+   "088",
+   "Jardim de São Lázaro, Porto"
+  ],
+  [
+   "089",
+   "Alameda das Fontainhas, Porto"
+  ],
+  [
+   "090",
+   "Cemitério do Prado do Repouso"
+  ],
+  [
+   "091",
+   "Estação de Campanhã"
+  ],
+  [
+   "092",
+   "Palácio do Freixo"
+  ],
+  [
+   "093",
+   "Alameda Shop & Spot, Porto"
+  ],
+  [
+   "094",
+   "Museu Militar do Porto"
+  ],
+  [
+   "095",
+   "Rua de Santa Catarina 1000, Porto"
+  ],
+  [
+   "096",
+   "Museu de Serralves"
+  ],
+  [
+   "097",
+   "Pérgola da Foz, Porto"
+  ],
+  [
+   "098",
+   "Farolim de Felgueiras"
+  ],
+  [
+   "099",
+   "Castelo do Queijo"
+  ],
+  [
+   "100",
+   "Jardim do Passeio Alegre"
+  ],
+  [
+   "101",
+   "Praia dos Ingleses, Porto"
+  ],
+  [
+   "102",
+   "Infante, Porto tram stop"
+  ],
+  [
+   "103",
+   "Museu do Carro Eléctrico"
+  ],
+  [
+   "104",
+   "Ponte da Arrábida"
+  ],
+  [
+   "105",
+   "Sea Life Porto"
+  ],
+  [
+   "106",
+   "Parque da Cidade do Porto"
+  ],
+  [
+   "107",
+   "Igreja de São João da Foz"
+  ],
+  [
+   "108",
+   "Jardim Botânico do Porto"
+  ],
+  [
+   "109",
+   "Planetário do Porto"
+  ],
+  [
+   "110",
+   "Mercado da Foz do Douro"
+  ],
+  [
+   "111",
+   "Praia do Homem do Leme"
+  ],
+  [
+   "112",
+   "Forte de São João Baptista da Foz"
+  ],
+  [
+   "113",
+   "Praia do Carneiro, Porto"
+  ],
+  [
+   "114",
+   "Avenida do Brasil, Porto"
+  ],
+  [
+   "115",
+   "Rua do Padrão, Porto"
+  ],
+  [
+   "116",
+   "Casa da Música"
+  ],
+  [
+   "117",
+   "Rotunda da Boavista"
+  ],
+  [
+   "118",
+   "Mercado do Bom Sucesso"
+  ],
+  [
+   "119",
+   "Sinagoga Kadoorie Mekor Haim"
+  ],
+  [
+   "120",
+   "Museu do Holocausto do Porto"
+  ],
+  [
+   "121",
+   "Chabad Porto"
+  ],
+  [
+   "122",
+   "Rua de Guerra Junqueiro 340, Porto"
+  ],
+  [
+   "123",
+   "Cemitério de Agramonte"
+  ],
+  [
+   "124",
+   "Casa-Museu Fernando de Castro"
+  ],
+  [
+   "125",
+   "Avenida da Boavista, Porto"
+  ],
+  [
+   "126",
+   "Edifício Vodafone, Avenida da Boavista, Porto"
+  ],
+  [
+   "127",
+   "Igreja de Santo António das Antas"
+  ],
+  [
+   "128",
+   "Jardim de Arca d'Água"
+  ],
+  [
+   "129",
+   "Cais de Gaia"
+  ],
+  [
+   "130",
+   "Mosteiro da Serra do Pilar"
+  ],
+  [
+   "131",
+   "Teleférico de Gaia"
+  ],
+  [
+   "132",
+   "Jardim do Morro"
+  ],
+  [
+   "133",
+   "Graham's, Vila Nova de Gaia"
+  ],
+  [
+   "134",
+   "Sandeman, Vila Nova de Gaia"
+  ],
+  [
+   "135",
+   "Taylor's, Vila Nova de Gaia"
+  ],
+  [
+   "136",
+   "Cálem, Vila Nova de Gaia"
+  ],
+  [
+   "137",
+   "World of Wine, Vila Nova de Gaia"
+  ],
+  [
+   "138",
+   "Mercado Beira-Rio"
+  ],
+  [
+   "139",
+   "Afurada"
+  ],
+  [
+   "140",
+   "Praia de Lavadores"
+  ],
+  [
+   "141",
+   "Capela do Senhor da Pedra"
+  ],
+  [
+   "142",
+   "Zoo Santo Inácio"
+  ],
+  [
+   "143",
+   "El Corte Inglés, Vila Nova de Gaia"
+  ],
+  [
+   "144",
+   "Reserva Natural Local do Estuário do Douro"
+  ],
+  [
+   "145",
+   "Casa-Museu Teixeira Lopes"
+  ],
+  [
+   "146",
+   "Espaço Porto Cruz"
+  ],
+  [
+   "147",
+   "Ramos Pinto, Vila Nova de Gaia"
+  ],
+  [
+   "148",
+   "Ferreira, Vila Nova de Gaia"
+  ],
+  [
+   "149",
+   "Casa Barbot"
+  ],
+  [
+   "150",
+   "Arrábida Shopping"
+  ],
+  [
+   "151",
+   "Convento Corpus Christi, Vila Nova de Gaia"
+  ],
+  [
+   "152",
+   "Praia de Matosinhos"
+  ],
+  [
+   "153",
+   "Piscina das Marés"
+  ],
+  [
+   "154",
+   "Casa de Chá da Boa Nova"
+  ],
+  [
+   "155",
+   "Mercado Municipal de Matosinhos"
+  ],
+  [
+   "156",
+   "Rua Heróis de França, Matosinhos"
+  ],
+  [
+   "157",
+   "Farol de Leça"
+  ],
+  [
+   "158",
+   "Forte de Nossa Senhora das Neves"
+  ],
+  [
+   "159",
+   "She Changes, Matosinhos"
+  ],
+  [
+   "160",
+   "Terminal de Cruzeiros de Leixões"
+  ],
+  [
+   "161",
+   "Igreja do Bom Jesus de Matosinhos"
+  ],
+  [
+   "162",
+   "NorteShopping"
+  ],
+  [
+   "163",
+   "Quinta da Conceição, Matosinhos"
+  ],
+  [
+   "164",
+   "Praia de Leça da Palmeira"
+  ],
+  [
+   "165",
+   "Praia de Matosinhos"
+  ],
+  [
+   "166",
+   "Real Vinícola, Matosinhos"
+  ],
+  [
+   "167",
+   "Zoo da Maia"
+  ],
+  [
+   "168",
+   "Parque Biológico de Gaia"
+  ],
+  [
+   "169",
+   "Mosteiro de Leça do Balio"
+  ],
+  [
+   "170",
+   "Praia da Aguda"
+  ],
+  [
+   "171",
+   "Vila do Conde Porto Fashion Outlet"
+  ],
+  [
+   "172",
+   "Sé de Braga"
+  ],
+  [
+   "173",
+   "Castelo de Guimarães"
+  ],
+  [
+   "174",
+   "Aveiro"
+  ],
+  [
+   "175",
+   "Pinhão"
+  ],
+  [
+   "176",
+   "Amarante"
+  ],
+  [
+   "177",
+   "Universidade de Coimbra"
+  ],
+  [
+   "178",
+   "Viana do Castelo"
+  ],
+  [
+   "179",
+   "Santuário de Nossa Senhora dos Remédios, Lamego"
+  ],
+  [
+   "180",
+   "Castelo de Santa Maria da Feira"
+  ],
+  [
+   "181",
+   "Barcelos"
+  ],
+  [
+   "182",
+   "Ponte de Lima"
+  ],
+  [
+   "183",
+   "Vila do Gerês"
+  ],
+  [
+   "184",
+   "Vila do Conde"
+  ],
+  [
+   "185",
+   "Casa de Mateus"
+  ],
+  [
+   "186",
+   "Estação de Peso da Régua"
+  ],
+  [
+   "187",
+   "Espinho"
+  ],
+  [
+   "188",
+   "Citânia de Briteiros"
+  ]
+ ]
+}
