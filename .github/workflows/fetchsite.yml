@@ -1,0 +1,29 @@
+name: fetchsite
+on:
+  workflow_dispatch: {}
+permissions:
+  contents: write
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download deployed site files
+        run: |
+          rm -rf snapshot; mkdir -p snapshot
+          while read -r p; do
+            [ -z "$p" ] && continue
+            mkdir -p "snapshot/$(dirname "$p")"
+            code=$(curl -sS -L -o "snapshot/$p" -w "%{http_code}" "https://triparty.pages.dev/$p" || echo 000)
+            ct=$(file -b --mime-type "snapshot/$p" 2>/dev/null)
+            echo "$code $ct $p" >> snapshot/_report.txt
+            if [ "$code" != "200" ]; then rm -f "snapshot/$p"; fi
+          done < fetch/site_paths.txt
+      - name: Commit
+        run: |
+          git config user.name "triparty-bot"
+          git config user.email "triparty-bot@users.noreply.github.com"
+          git add -A snapshot
+          git commit -m "snapshot: deployed site $(date -u +%Y-%m-%dT%H:%MZ)" || echo nothing
+          git pull --rebase origin ${{ github.ref_name }} || true
+          git push
