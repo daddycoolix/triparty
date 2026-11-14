@@ -1,0 +1,208 @@
+{{pagebanner|Zaanse Schans banner.jpg}}
+The '''[http://www.zaanseschans.nl/ Zaanse Schans]''' is an open air conservation area and museum, on the bank of the Zaan River, north of [[Zaandam]] in the [[Netherlands]]. It displays the traditional architecture of the area (green wooden houses) and has several functioning windmills and craftsman's workshops, which are open to visitors. Located next to it is the regional museum, the '''Zaans Museum'''.
+
+==Get in==
+[[Image:Zaanse Schans - Windmills 3.jpg|thumb|Windmills]]
+
+===By train===
+To get there, take a train to railway station '''Zaandijk Zaanse Schans'''. The ride is several stops from Amsterdam Central Station and takes 18 minutes. From there, walk 10–15 minutes along Stationsstraat in the village of '''Zaandijk''' until you see a windmill, and then cross the river on a bridge by that windmill.
+
+===By bus===
+Alternatively, '''[https://www.ebs-ov.nl/ EBS]''' serves the area with buses. Take bus '''800''' from Amsterdam Central Station which has its terminus right beside the main entrance of the Zaanse Schans. The bus ride takes you there in around 24 minutes and the bus leaves every 15 minutes in peak tourist season. The bus link at Central Station is at the bus station at the east side of the main station entrance, at the bridge. The buses are painted red, so you can't miss them.
+
+===By car===
+You can also reach it by car: From Amsterdam take the A7 in the direction of Leeuwarden and take exit 2 '''Zaanstad-Het Kalf''', then turn left and follow the signs for Zaanse Schans.
+
+===By boat===
+The [https://www.zaanferry.com '''Zaanferry''']{{Dead link|date=March 2023 |bot=InternetArchiveBot }} is a boat connection from Amsterdam Central Station to the Zaanse Schans. The Zaanferry leaves every Thursday, Friday, Saturday and in the summer also on Sunday from Amsterdam Central Station (steiger 14) to the Zaanse Schans and back. A single ticket costs €10 and a return €15. The ticket is valid all day and you can board and disembark an unlimited number of times.
+
+Several tour companies also offer half-day trips to Zaanse Schans, with transportation to/from Amsterdam included.
+
+==Get around==
+{{mapframe}}
+Walking to the end of the area is about a kilometer, so you can easily get around on foot. It is also popular to navigate through the surrounding area by bicycle. You cannot rent a bicycle at the Zaanse Schans or Koog-Zaandijk railway station, but you can at the railway stations in [[Zaandam]] and [[Amsterdam]].
+
+==See==
+
+===Open air museum===
+The access for the open air museum is free, the wooden houses are mainly normal living houses. Most of the windmills can be visited for a small fee.
+
+====Industrial mills====
+* {{see
+| name=Saw Mill De Gekroonde Poelenburg | url= | email=
+| address=Kalverringdijk 27 | lat=52.47421 | long=4.81761 | directions=
+| phone= | tollfree= | fax=
+| hours=Every second Sat 10:00-17:00 | price=
+| content=
+}}
+* {{see
+| name=Paint Mill De Kat | url= | email=
+| address=Kalverringdijk 29 | lat=52.47502 | long=4.81784 | directions=
+| phone=+31 75 621-0477 | tollfree= | fax=
+| hours=09:00-17:00 daily | price=
+| content=
+}}
+* {{see
+| name=Oil Mill De Zoeker | url= | email=
+| address=Kalverringdijk 31 | lat=52.47602 | long=4.81755 | directions=
+| phone=+31 75 628-7942 | tollfree= | fax=
+| hours=Sun-Fri 9:30-16:30 | price=
+| content=
+}}
+* {{see
+| name=Oil Mill De Bonte Hen | alt= | url= | email=
+| address=Kalverringdijk 39 | lat=52.47803 | long=4.81328 | directions=
+| phone=+31 75 621-7452 | tollfree=
+| hours=Sat 10:00-16:00 | price=€ 7,50
+| content=
+}}
+* {{see
+| name=Saw Mill Het Jonge Schaap | alt= | url=http://www.hetjongeschaap.nl/ | email=
+| address=Kalverringdijk 31a | lat=52.47616 | long=4.81658 | directions=
+| phone=+31 75 640-1377 | tollfree=
+| hours=Apr-Sep Mon-Sat 09:30-16:30, Oct-Mar Mon-Fri 09:30-16:30 | price=€7,50 , children 4- 17 €3,75
+| content=
+}}
+
+====Museums====
+* {{see
+| name=Zaans Museum and Verkade Paviljoen | url=http://www.zaansmuseum.nl/ | email=
+| address=Schansend 7 | lat=52.47362 | long=4.82234 | directions=
+| phone=+31 75 681-0000 | tollfree= | fax=
+| hours=10:00-17:00 daily | price=€7.50, children €4
+| content=
+}}
+* {{see
+| name=Grocery Museum Albert Heijn | url= | email=
+| address=Kalverringdijk 5 | lat=52.47197 | long=4.81539 | directions=
+| phone=+31 75 616-9619 | tollfree= | fax=
+| hours= | price=Free
+| content=Old coffee grinders, coffee storage boxes and commercial posters from the history of the most famous Dutch grocery store chain.
+}}
+* {{see
+| name=Bakery Museum In De Gecroonde Duijvekater | url= | email=
+| address=Zeilenmakerspad 4 | lat=52.47319 | long=4.81773 | directions=
+| phone=+31 75 617-3522 | tollfree= | fax=
+| hours= | price=€1, children €0.50
+| content=
+}}
+* {{see
+| name=Museum of the Dutch Clock | url=http://www.mnuurwerk.nl/ | email=
+| address=Kalverringdijk 3 | lat=52.47184 | long=4.81540 | directions=
+| phone=+31 75 617-9769 | tollfree= | fax=
+| hours=Apr-Oct Tue-S 11:00-17:00, Nov-Mar Sun 11:00-17:00 | price=€6, children €4
+| content=
+}}
+* {{see
+| name=Distillery Museum De Tweekoppige Phoenix | url= | email=
+| address=Kraaienest 3 | lat=52.47313 | long=4.82057 | directions=
+| phone=+31 75 635-3111 | tollfree= | fax=
+| hours=09:00-18:00 daily | price=
+| content=
+}}
+
+====Crafts====
+* {{see
+| name=Wooden Shoe Workshop De Zaanse Schans | url=http://www.woodenshoeworkshop.nl/ | email=
+| address=Kraaienest 4 | lat=52.47297 | long=4.81972 | directions=
+| phone=+31 75 617-7121 | tollfree= | fax=
+| hours= | price=Free
+| content=A small and interesting collection of many types of both old, original clogs (for every day life and special occasions) and new artistic versions of clogs. Every ten minutes or so there is a live demonstration of modern machinery clog making.
+}}
+* {{see
+| name=Pewter Foundry De Tinkoepel | url=http://www.tinkoepel.nl/ | email=
+| address=Kalverringdijk 1 | lat=52.47171 | long=4.81514 | directions=
+| phone=+31 75 617-6204 | tollfree= | fax=
+| hours=Jan-Mar Sat-Sun 11:00-16:00, Apr Sat-Sun 10:00-17:00, May-Oct 10:00-17:00 daily, Nov-Dec 11:00-16:00 daily | price=
+| content=
+}}
+* {{see
+| name=Craft Centre De Saense Lelie | url=http://www.saenselelie.nl/ | email=
+| address=Zeilenmakerspad 7 | lat=52.47324 | long=4.81962 | directions=
+| phone=+31 75 635-4622 | tollfree= | fax=
+| hours=08:30-18:00 daily | price=
+| content=
+}}
+* {{see
+| name=The Coopery | url=http://www.zaansmuseum.nl/ | email=
+| address=Kalverringdijk 27 | lat= | long= | directions=
+| phone=+31 75 681-0000 | tollfree= | fax=
+| hours= | price=€2, free entry with Zaans Museum ticket
+| content=
+}}
+
+===Zaandijk===
+Zaandijk is the community lying between the railway line and the bridge to Zaanse Schans. The street Lagedijk, running by the windmill ''De Bleeke Dood'', is mostly lined with attractive Dutch houses between Boschjesstraat at the south end and the canal Zaandijker Sluisloot at the north end.
+* {{see
+| name=De Bleeke Dood | alt=the pale dead
+| url=https://www.zaanschemolen.nl/en/molen/de-bleeke-dood/
+| address=Lagedijk 28 | lat=52.4714 | long=4.8114
+| directions=at the bridge to Zaanse Schans
+| phone=+31 75 628 5602 
+| hours=Fri 09.30–16.30 | price= 
+| wikipedia=
+| lastedit=2018-10-02
+| content=This windmill, named ''De Bleeke Dood'', was built in 1656 and operated until 1931. In 2000, the mill was restored to operational condition, and grinds corn every Friday. It has a store selling its products.
+}}
+
+==Do==
+==Buy==
+[[Image:Zaanse Schans2 050924.jpg|thumb|Zaan houses]]
+
+There are many gift shops selling much of the same touristy things. However there is a clog workshop with a store selling many designs and sizes. The cheesemaking workshop too has a shop selling a variety of cheeses.
+
+The bakery In den Gecroonde Duyvekater sells typical sweet bread and self-made candies. The grocery store of Albert Heijn gives you an idea how the first grocery around 1900 was set up. This was the first store of Albert Heijn, which is the largest supermarket chain in the Netherlands. They sell some tourist-oriented products of Albert Heijn.
+*{{buy
+| name=Hip aan 't Glop | url= | email=
+| address=Kalverringdijk 21 | lat= | long= | directions=
+| phone=+31 75 670-1290 | tollfree= | fax=
+| hours=Apr-Oct 10:00-17:00 daily, Nov-Mar Sat-Sun 12:00-17:00 | price=
+| content=This building dates from the 19th century, but the porch is as old as from 1630. The building has functioned as a book shop annex library at the Rozengracht in Zaandam, but now is a design and gift shop with watches, bags, ceramics, jewellery and many other small products.
+}}
+
+==Eat==
+There is also a smaller cafe, a fried food snack bar and many gift shops. Not to mention the cheese available on site.
+
+*{{eat
+| name=De Hoop op d'Swarte Walvis | url=http://www.dewalvis.eu/ | email=
+| address=Kalverringdijk 15 | lat= | long= | directions=
+| phone=+31 75 616-5629 | tollfree= | fax=
+| hours=11:00-22:00 daily | price=€40
+| content=
+}}
+* {{eat
+| name=De Kraai | url=http://www.dekraai.nl/ | email=
+| address=Kraaienpad 1 | lat= | long= | directions=
+| phone=+31 75 615-6403 | tollfree= | fax=
+| hours=Mar-Oct 09:00-18:00 daily, Nov-Dec, Feb 10:00-17:00 daily, Jan closed | price=
+| content=This is an excellent pancake house in an authentic former granary. Their specialty are Dutch pancakes, but they also have a range of cakes, salads, soups, snacks, and drinks.
+}}
+
+==Drink==
+* {{drink
+| name=Museum Cafe | url= | email=
+| address=Schansend 7 | lat= | long= | directions=at the Zaans Museum
+| phone=+31 75 681-0000 | tollfree= | fax=
+| hours=10:00-17:00 daily | price=
+| content=Before or after heading out for the windmills you can have a cup of coffee or tea at the Museum Cafe. There is a beautiful view of the Kalverpolder and the lined-up windmills at the banks of the Zaan River.
+}}
+* {{drink
+| name=Brouwerij Hoop | alt= | url=https://www.brouwerijhoop.nl/ | email=
+| address=Lagedijk 71, 1544 BC Zaandijk | lat=52.476143 | long=4.811067 | directions=
+| phone=+31 75 207 7000 | tollfree=
+| hours= | price=
+| lastedit=2019-04-13
+| content=
+}}
+
+==Sleep==
+*{{sleep | name=Heerlijck Slaapen | url=http://www.zaanseschansbedenbreakfast.nl/ | email= | address=Kalverringdijk 17-21 | lat= | long= | directions= | phone=+31 75 670-1290 | tollfree= | fax= | hours= | price=€65+ | checkin= | checkout= | content=This bed and breakfast is the only accommodation in the Zaanse Schans. There are three rooms in unique old Zaan houses that are protected as monuments. Price includes breakfast.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+
+==Go next==
+
+There are many other interesting villages in [[Zaanstreek-Waterland]], including [[Broek in Waterland]], [[Edam]], [[Marken]], [[Monnickendam]], and [[Volendam]].
+
+{{geo|52.473889|4.816389}}
+{{isPartOf|Zaanstreek-Waterland}}
+{{usablecity}}

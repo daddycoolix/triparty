@@ -1,0 +1,471 @@
+{{pagebanner|Amsterdam Oost WV Banner.jpg|caption=Entrance to Flevopark Amsterdam|pgname=Amsterdam-Oost}}
+'''Oost''' ([[Dutch phrasebook|Dutch]] for ''East'') is a borough of [[Amsterdam]]. It lies between the Amstel River in the west and the IJ in the east. It should not be regarded as a homogeneous area, as there are many different neighbourhoods with their own cultures and identities. The main area is around the Oosterpark. The Eastern Docklands and IJburg are also lively upper middle class areas and their modern architecture shows a completely different side of Amsterdam.
+
+==Understand==
+[[File:Amsterdam Javaeiland Lamonggracht.JPG|thumb|250px|Modern architecture at Java-eiland, Eastern Docklands]]
+Directly south of the [[Amsterdam/Plantage|Plantage]] is the '''Oosterpark''', the first large park financed by the municipality of Amsterdam, as it dates from 1891. The Vondelpark is older and larger, but that initially was a private project. Activities can be undertaken in and around the park, and you can visit the nearby Wereldmuseum. South of the Oosterpark are some ethnically mixed working-class neighbourhoods that originate from the late 19th century. The ethnic make-up of the area is best reflected in the local markets. The '''Dappermarkt''', a designated market street since 1910, has products for sale that primarily aim to a Dutch Antillean, Moroccan, Surinamese and Turkish clientele. The Indische Buurt is another working-class neighbourhood with a large immigrant population, as can be seen at the street market along the Javastraat.
+
+The '''Eastern Docklands''' (''Oostelijk Havengebied'') date from the nineteenth century, and as the name suggests, used to be a port that served the growing trade with the Dutch East Indies. In the first half of the twentieth century, this area was in full development as warehouses were constructed to facilitate trade with the colonies. After the Great Depression, World War II and the subsequent decolonisation, the area fell into decay. It was only in the 1990s that this area was reconstructed and turned into an upper-class residential area modeled after the [[London/East End|Docklands]] in London. There are some truly stunning examples of modern architecture to be found here. Following this project, '''IJburg''' was a new middle-class neighbourhood on artificial islands reclaimed from the IJ in the 2000s. More islands are being reclaimed to build the Amsterdam of the future.
+
+Further south is the Amsterdam Amstel railway station, an emerging business district. In 1994 the Rembrandt Tower was completed, 135 metres the tallest skyscraper in Amsterdam and the first in a series of towers named after famous Dutch painters. In 2001, the tower was accompanied by the Breitner Tower and the Mondriaan Tower, both in the same area. East of these lies the '''Watergraafsmeer''', formerly a polder that was incorporated in Amsterdam in 1921. It was home to Stadium De Meer, the home of Ajax football club until its destruction in 1996. It is a green neighbourhood with many trees and sports facilities, as it used to be a popular getaway for affluent citizens of Amsterdam. Now it is becoming Amsterdam's knowledge centre due to the development of the Amsterdam Science Park. This science complex is home to the Amsterdam Internet Exchange (AMS-IX), the second-largest Internet exchange point in the world.
+
+==Get in==
+{{Mapframe|52.36148|4.96086|zoom=13|width=780|height=500|name=Amsterdam-Oost}}
+{{Mapmask |52.3592,4.9047 |52.3561,4.9059 |52.3534,4.9086 |52.3500,4.9110 |52.3481,4.9123 |52.3473,4.9128 |52.3463,4.9132 |52.3419,4.9149 |52.3404,4.9143 |52.3381,4.9079 |52.3338,4.9052 |52.3332,4.8993 |52.3323,4.8982 |52.3302,4.8993 |52.3239,4.8951 |52.3224,4.8963 |52.3219,4.8971 |52.3216,4.8983 |52.3216,4.8993 |52.3216,4.9009 |52.3215,4.9016 |52.3214,4.9021 |52.3213,4.9025 |52.3204,4.9047 |52.3195,4.9078 |52.3188,4.9091 |52.3183,4.9091 |52.3183,4.9107 |52.3182,4.9124 |52.3204,4.9143 |52.3211,4.9127 |52.3211,4.9126 |52.3213,4.9125 |52.3219,4.9107 |52.3229,4.9114 |52.3236,4.9103 |52.3240,4.9110 |52.3242,4.9113 |52.3243,4.9121 |52.3246,4.9139 |52.3305,4.9129 |52.3307,4.9142 |52.3313,4.9169 |52.3322,4.9196 |52.3324,4.9204 |52.3328,4.9217 |52.3331,4.9226 |52.3332,4.9224 |52.3337,4.9231 |52.3343,4.9235 |52.3348,4.9237 |52.3354,4.9238 |52.3354,4.9258 |52.3358,4.9269 |52.3360,4.9268 |52.3366,4.9285 |52.3355,4.9342 |52.3355,4.9356 |52.3346,4.9365 |52.3350,4.9377 |52.3352,4.9381 |52.3356,4.9395 |52.3356,4.9400 |52.3355,4.9417 |52.3364,4.9417 |52.3367,4.9438 |52.3367,4.9437 |52.3369,4.9442 |52.3377,4.9468 |52.3379,4.9479 |52.3384,4.9495 |52.3384,4.9496 |52.3385,4.9499 |52.3387,4.9497 |52.3391,4.9506 |52.3397,4.9519 |52.3404,4.9531 |52.3411,4.9538 |52.3444,4.9570 |52.3469,4.9597 |52.3472,4.9599 |52.3474,4.9599 |52.3489,4.9614 |52.3504,4.9625 |52.3533,4.9650 |52.3547,4.9658 |52.3542,4.9662 |52.3549,4.9683 |52.3551,4.9687 |52.3555,4.9695 |52.3556,4.9695 |52.3556,4.9693 |52.3561,4.9696 |52.3560,4.9702 |52.3561,4.9702 |52.3560,4.9704 |52.3560,4.9704 |52.3555,4.9722 |52.3552,4.9732 |52.3547,4.9745 |52.3444,4.9937 |52.3443,4.9941 |52.3422,4.9980 |52.3415,4.9993 |52.3419,4.9999 |52.3422,5.0007 |52.3424,5.0021 |52.3426,5.0042 |52.3426,5.0046 |52.3425,5.0054 |52.3419,5.0082 |52.3419,5.0089 |52.3420,5.0095 |52.3426,5.0109 |52.3430,5.0116 |52.3433,5.0120 |52.3437,5.0122 |52.3440,5.0124 |52.3443,5.0124 |52.3483,5.0159 |52.3546,5.0391 |52.3754,5.0377 |52.3703,5.0165 |52.3690,5.0048 |52.3685,5.0001 |52.3683,4.9932 |52.3688,4.9876 |52.3702,4.9821 |52.3717,4.9782 |52.3811,4.9618 |52.3822,4.9595 |52.3824,4.9574 |52.3821,4.9524 |52.3820,4.9315 |52.3808,4.9198 |52.3800,4.9110 |52.3768,4.9118 |52.3768,4.9131 |52.3752,4.9236 |52.3732,4.9305 |52.3718,4.9325 |52.3700,4.9330 |52.3688,4.9328 |52.3666,4.9319 |52.3665,4.9272 |52.3637,4.9223 |52.3632,4.9199 |52.3622,4.9183 |52.3612,4.9118 |52.3605,4.9102 |52.3606,4.9083 |52.3597,4.9067 |52.3592,4.9047}}
+{{Mapshapes|Q2060132|stroke-width=2.5}}
+{{Mapshapes|Q260870}}
+.<!--The period forces the following section title to display.-->
+===By public transit===
+[[File:AmsterdamTram.svg|thumbnail|right|Amsterdam tram & metro system]]
+You can reach most of the district easily by public transport.
+* Metro lines {{rint|amsterdam|51}}, {{rint|amsterdam|53}} and {{rint|amsterdam|54}} all run along the west side of the Oost district between Amsterdam Centraal station and Amstelstation. There are several metro stations in Oost, some with tram connections.
+* {{go
+| name=Tram {{rint|amsterdam|3}} | alt=Westergasfabriek to Flevopark | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2025-11-27
+| content=Runs via Overtoom (one block north of Leidseplein) passing '''Wibautstraat''' metro station to terminate at Flevopark.
+}}
+* {{go
+| name=Tram {{rint|amsterdam|7}} | alt=Slotermeer to Azartplein | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2025-11-27
+| content=Runs via Leidseplein passing '''Weesperplein''' metro station to terminate at Azartplein.
+}}
+* {{go
+| name=Tram {{rint|amsterdam|14}} | alt=Centraal Station to Javaplein | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2025-11-27
+| content=Runs from Amsterdam Centraal passing '''Waterlooplein''' metro station terminating at Javaplein.
+}}
+* {{go
+| name=Tram 19 | alt=Station Sloterdijk to Diemen Sniep | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2025-11-27
+| content=Runs via Leidseplein passing metro station '''Weesperplein''' serving Watergraafsmeer to terminate at Diemen Sniep. The stops Oostpoort, Hogeweg, and Hugo de Vrieslaan are in the heart of the Watergraafsmeer neighbourhood.
+}}
+* {{go
+| name=Tram {{rint|amsterdam|26}} | alt=Centraal Station to IJburg | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2025-11-27
+| content=Runs from Amsterdam Centraal to IJburg in the Western Docklands.
+}}
+* {{go
+| name=Bus 66 | alt= | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2025-11-27
+| content=Runs from Amsterdam Bijlmer ArenA to Vennepluimstraat on IJburg.
+}}
+
+===By auto===
+You can also reach IJburg by car. Take Amsterdam's city ring '''A10''' exit S114 (Zeeburg/IJburg), take highway A1 exit 3 (Muiden) or take Piet Heintunnel from the centre of Amsterdam. And you can reach IJburg by bike. Take one of the two bridges: the Nesciobrug or the Enneüs Heermabrug.
+
+==Get around==
+
+===By public transit===
+
+====Metro====
+
+Metro lines {{rint|amsterdam|51}}, {{rint|amsterdam|53}} and {{rint|amsterdam|54}} follow the Amstel River along the western part of Oost. If you're coming from Centraal Station, you can just hop on any train on the upper platform as they are all going in the same direction. The first useful stop is '''Weesperplein''', which is just over the border in [[Amsterdam/Plantage|Plantage]], but only is a short walk to the Oosterpark. The metro lines then head southwards passing Wibautstraat, Amsterdam Amstel station, Spaklerweg and Overamstel, before heading to the [[Amsterdam/Zuid|Zuid]] or [[Amsterdam/Zuidoost|Zuidoost]].
+
+====Tram====
+'''Tram''' {{rint|amsterdam|26}} travels to IJburg from the centre. This is the only tram in Amsterdam on which you can bring your bicycle. The tram runs 9 times per hour during rush hour.
+
+A plethora of tram lines connect the rest of Oost with other districts in the city:
+* '''Tram''' {{rint|amsterdam|14}} starts at Amsterdam Centraal and passes by Dam Square in the [[Amsterdam/Binnenstad|Binnenstad]]. From there, it continues along the edge of Oost.
+* '''Tram 19''' starts at Amsterdam Sloterdijk in West and on the longest tram route in Amsterdam passes Leidseplein and the Spiegelgracht (Rijksmuseum) before passing straight through Oost. The stop '''Eerste van Swindenstraat''' is close to the Oosterpark, the Wereldmuseum Amsterdam (formerly Tropenmuseum) and the Dappermarkt.
+
+===By bus===
+
+There are plenty of bus connections to Oost, but it is better to take the metro or tram as they are less confusing. Night bus line N87 from Central Station follows tram line 19 through the Linnaeusstraat and the Middenweg. It goes right through the middle of the district. An important stop is the '''Eerste van Swindenstraat''' close to the Oosterpark, but you might as well take the tram if it is still running.
+
+===By bicycle===
+
+Most locals get around by bicycle, and so should you. Most arterial roads have bicycle paths attached to them. IJburg is hard to access by bike because it is an island. It is connected to the city centre by the Piet Hein Tunnel, but it is not allowed to traverse it by bicycle. You can take tram 26 to IJburg as you are allowed to bring bicycles on board for exactly this reason. If you're coming from [[Amsterdam/Plantage|Plantage]], you can cycle through the Zeeburgerdijk and cross the water using the bridges of the Zuiderzeeweg.
+
+==See==
+* {{see
+| name=Amstelstation murals | alt= | url= | email=
+| address=Julianaplein 1, Amstelstation | lat=52.346657 | long=4.918595 | directions=metro 51, 53, 54, tram 12, train, bus
+| phone= | tollfree=
+| hours= | price=
+| wikipedia=Amsterdam Amstel station
+| lastedit=2025-11-27
+| content=In the hall of Amstel railway station, there are several murals created in 1939 by Dutch artist Peter Alma, including a large mural at each end of the hall with a train motif.
+}}
+
+===IJburg===
+The '''architecture''' at IJburg is worth seeing. The first island you reach by tram is Steigereiland. At Steigereiland-Zuid many residents got the chance to design their houses themselves. Steigereiland-Noord is all about water and air, with a basin full of floating homes. Haveneiland is the main island, and is called after its harbour. Many buildings here are modern interpretations of the old city centre.
+
+IJburg consists of several islands connected by bridges, with a harbour and a beach. The first house at IJburg was built in 2002. The islands have a population of 15,000 and it's still growing. The two main islands are Steigereiland (Pier Island) and Haveneiland (Harbour Island). Amongst the attractions are modern architecture, the waterfront, nature, good restaurants, entertainment venues and hip shops.
+
+* {{see
+| name=Floating houses | alt=
+| url= 
+| address=Haringbuisdijk, Steigereiland | lat=52.363695 | long=4.983658
+| directions=tram 26 stop Steigereiland
+| phone= 
+| hours= | price= 
+| wikipedia=
+| lastedit=2021-04-25
+| content=There are two clusters of floating houses over a body of water. These small, modern houses are linked by a grid of walkways lined with railings holding life preservers and bicycles.
+}}
+
+===Museums===
+[[File:2010-01 Tropenmuseum.JPG|thumb|250px|The interior of the Wereldmuseum]]
+* {{see
+| name=Wereldmuseum Amsterdam | alt=formerly named Tropenmuseum | url=https://amsterdam.wereldmuseum.nl/ | email=
+| address=Linnaeusstraat 2 | lat=52.3625 | long=4.921111 | directions=tram 1, 7 to Linnaeusstraat, tram 19 to Eerste van Swindenstraat or tram 14 to Alexanderplein
+| phone=+31 20 568-8200 | tollfree=
+| hours=Tue-Sun 10:00-17:00 | price=€20.00, conc. €9.00
+| wikipedia=Wereldmuseum_Amsterdam | image=Ingang Tropenmuseum.jpg | wikidata=Q1131589
+| lastedit=2025-11-27
+| content=Ethnographic and cultural museum about Africa, Asia and South America. Includes an excellent cafe which sells food from around the world. Tickets are discounted if reserved online.
+}}
+
+===Parks===
+* {{see
+| name=Oosterpark | alt= | url= | email=
+| address= | lat=52.360278 | long=4.919722 | directions=behind the Wereldmuseum
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Oosterpark (Amsterdam) | image=Oosterpark7.JPG | wikidata=Q2718912
+|lastedit=2024-08-19| content=Close to [[Amsterdam/Plantage|Plantage]], this park holds several multicultural festivals throughout the year.
+}}
+* {{see
+| name=Diemerpark | alt= | url= | email=
+| address= | lat=52.352433 | long=4.986933 | directions=next to IJburg
+| phone= | tollfree= | fax=
+| hours= | price=
+| image=DiemerparkZomer2007.JPG | wikidata=Q1220779
+| content=This is a large park, a little like a dune park.
+}}
+* {{see
+| name=Flevopark | alt= | url= | email=
+| address= | lat=52.36139 | long=4.95056 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Flevopark | image=Flevopark.JPG | wikidata=Q2335366
+|lastedit=2024-08-19| content=The Flevopark is in the Indische Buurt, at the eastern end of the Insulindeweg, next to the Jewish cemetery, the Flevoparkbad swimming pool, and the Nieuwe Diep inlet. There are two cafés open in spring/summer/autumn time and one festival each year.
+}}
+* {{see
+| name=Frankendael | alt= | url= | email=
+| address= | lat=52.35111 | long=4.93333 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| image=Frankendael (Amsterdam).JPG | wikidata=Q2195300
+| content=Frankendael is a house built in 1733 in Watergraafsmeer. The house is surrounded by a pleasant park. Take tram 9, get off at the stop "Hugo de Vrieslaan".
+}}
+
+==Do==
+
+Going out at harbour club The Lighthouse, cool restaurant and bar N.A.P. or Dok48. Enjoying the water, the architecture, the nice shops and restaurants.
+
+*{{do | name=Bimhuis | url=http://www.bimhuis.nl/index.php?&lang=en | email= | address=Piet Heinkade 3 | lat=52.37796 | long=4.91289 | directions=tram 26 to Muziekgebouw Bimhuis | phone=+31 20 788-2150 | tollfree= | fax= | hours= | price=€14-18 | content=World-class jazz and improvised music venue, five minutes by foot from Centraal Station.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+* {{do | name=Muziekgebouw aan't IJ | alt= | url=http://www.muziekgebouw.nl/informatie/english | email= | address=Piet Heinkade 1 | lat=52.37827 | long=4.91310 | directions=tram 26 to Muziekgebouw/Bimhuis | phone=+31 20 788-2000 | tollfree= | fax= | hours=Mon-Sat 12:00-18:00 | price=€20 | content=Modern music concerts and classical music with a twist. A free concert is given every second Tuesday of the month at 12:30.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+
+==Buy==
+
+===Street markets===
+
+* {{buy
+| name=Dappermarkt | alt= | url= | email=
+| address=Dapperstraat | lat=52.36258 | long=4.92753 | directions=
+| phone=+31 20 694-7495 | tollfree= | fax=
+| hours=Mon-Sat 09:00-17:00 | price=
+| content=In the east, behind the zoo, and was voted best market in the Netherlands.
+}}
+
+===IJburg===
+
+IJburg has a lot of interesting shops, especially about design, home decoration and boutiques.
+
+* {{buy
+| name=Bij'tij | alt= | url= | email=
+| address=Krijn Taconiskade 126 | lat=52.35272 | long=5.00357 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Boutique.
+}}
+* {{buy | name=Bliksem en Sterren | alt= | url=http://www.bliksemensterren.com/ | email= | address=IJburglaan 1153 | lat=52.35524 | long=4.99573 | directions=tram 26 to Diemerparklaan | phone=+31 20 416-6617 | tollfree= | fax= | hours=Tue-Fri 09:00-17:30, Sat 10:00-17:00 | price= | content=For kids's clothing.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+* {{buy
+| name=Design020 | url= | email=
+| address=Pedro de Medinalaan 89 | lat=52.36227 | long=4.97560 | directions=
+| phone= | tollfree= | fax=
+| hours=Tue-Sat 10:00-18:00 | price=
+| content=A large interior design centre that is an architectural highlight by itself. Plenty of interesting interior shops like Kartell and Kasstoor, and also don't miss the café as it has a roof terrace with a great view on the water. Free parking.
+}}
+* {{buy
+| name=Flo 4 Kidz | alt= | url=http://flo4kidz.nl/Flo_4_Kidz.html | email=
+| address=IJburglaan 1273-1275 | lat=52.35514 | long=4.99594 | directions=
+| phone=+31 20 662-5007 | tollfree= | fax=
+| hours=Tue 12:00-17:30, Wed-Sat 10:00-17:30 | price=
+| content=For kids' clothing.
+}}
+* {{buy
+| name=Frontrow | alt= | url= | email=
+| address=IJburglaan 1277 | lat=52.35503 | long=4.99616 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Boutique.
+}}
+* {{buy
+| name=Ien Lifestyleshop | alt= | url= | email=
+| address=Diemerparklaan 52 | lat=52.35513 | long=4.99597 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Boutique.
+}}
+* {{buy
+| name=Sevenlands | alt= | url= | email=
+| address=IJburglaan 1359 | lat=52.35349 | long=4.99910 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Boutique.
+}}
+* {{buy
+| name=SUBURB Denim | alt= | url= | email=
+| address=IJburglaan 1499 | lat=52.35126 | long=5.00325 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Boutique.
+}}
+* {{buy
+| name=Tjikky+Ko | alt= | url= | email=
+| address=Krijn Taconiskade 128P | lat=52.35267 | long=5.00367 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=For kids's clothing.
+}}
+
+==Eat==
+
+{{eatpricerange|Below €20|€20-50|€50+}}
+
+IJburg is a favourite among Amsterdam's locals. There are some special food shops and deli shops in IJburg and it further has about 25 restaurants and lunchrooms.
+
+===Deli shops===
+
+* {{eat
+| name=Boerenjongens Eetwinkel | url= | email=
+| address=Talbotstraat 3 | lat=52.35667 | long=4.99327 | directions=
+| phone=+31 20 416-7059 | tollfree= | fax=
+| hours= | price=
+| content=A deli shop annex lunch room with products from the region.
+}}
+* {{eat
+| name=IJsburg | url= | email=
+| address=Pampuslaan 41 | lat=52.35225 | long=5.007687 | directions=tram 26 to IJburg
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Ice cream shop.
+}}
+
+===Budget===
+
+*{{eat
+| name=Biertuin | url=http://www.debiertuin.nl/ | email=
+| address=Linnaeusstraat 29 | lat=52.36230 | long=4.92416 | directions=tram 9 to Eerste van Swindenstraat
+| phone=+31 20 665-0956 | tollfree= | fax=
+| hours=Sun-Thu 11:00-01:00, Fri Sat 11:00-03:00 | price=€15-20
+| content=Oktoberfest-style biergarten, so expect long tables and a wide variety of bottled beers available. It has a nice atmosphere during warm summer evenings. Try the Hamburger Deluxe or chicken menus. And come early, as it is often crowded. Reservations cannot be made, but you can wait outside with a beer until seating is available.
+}}
+*{{eat
+| name=Bloem op IJburg | url=http://www.bloemopijburg.nl/ | email=
+| address=IJburglaan 1289 | lat=52.35446 | long=4.99714 | directions=tram 26 to Diemerparklaan
+| phone=+31 20 416-0677 | tollfree= | fax=
+| hours=17:30-22:00 daily | price=€15-20
+| content=Italian restaurant.
+}}
+
+===Mid-range===
+
+*{{eat | name=Silk Road Restaurant | alt= | url=http://www.movenpick.com/en/europe/netherlands/amsterdam/hotel-amsterdam/restaurants/restaurants/silk-road-restaurant/ | email= | address=2F, Mövenpick Hotel, Piet Heinkade 11 | lat=52.37799 | long=4.91377 | directions=tram 26 to Muziekgebouw Bimhuis | phone=+31 20 519-1200 | tollfree= | fax= | hours= | price=€25-40 | content=Eastern and Western fusion meals with both à la carte and (on highly occupied days o­nly) a live cooking theme buffet. The restaurant has a view of the river IJ. Open 7 days per week for lunch and dinner.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+
+===Splurge===
+
+==Drink==
+
+===Cafes===
+* {{drink
+| name=Dok48 | url=http://www.dok48.nl/ | email=
+| address=Krijn Taconiskade 328 | lat=52.35282 | long=5.00534 | directions=tram 26 to IJburg
+| phone=+31 20 330-6817 | tollfree= | fax=
+| hours= | price=
+| content=
+}}
+* {{drink
+| name=Espressofabriek | url= | email=
+| address=IJburglaan 1489 | lat=52.35187 | long=5.00209 | directions=tram 26 to IJburg
+| phone=+31 20 774-7965 | tollfree= | fax=
+| hours= | price=
+| content=Coffee bar.
+}}
+* {{drink
+| name=The Lighthouse | url= | email=
+| address=Krijn Taconiskade 432 | lat=52.35365 | long=5.00648 | directions=tram 26 to IJburg
+| phone=+31 20 750-8395 | tollfree= | fax=
+| hours= | price=
+| content=
+}}
+* {{drink
+| name=N.A.P. | url=http://www.napamsterdam.nl/ | email=
+| address=Krijn Taconiskade 124 | lat=52.35286 | long=5.00334 | directions=tram 26 to IJburg
+| phone=+31 20 416-4000 | tollfree= | fax=
+| hours= | price=
+| content=A harbour-side cafe and restaurant with a view of the marina. You can just stop by for a cup of coffee, have breakfast, lunch or dinner. Stylish interior.
+}}
+* {{drink | name=Delirium Café Amsterdam | alt= | url=https://deliriumcafeamsterdam.nl/en | email= | address=Piet Heinkade 4, 1019 BR Amsterdam | lat=52.377545 | long=4.912773 | directions= | phone=+31 20 811 0381 | tollfree= | hours= | price= | lastedit=2019-04-13 | content=With over 500 bottled beers and 20 craft beers on draft, the biggest craft beer bar in Amsterdam.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+
+===Nightclubs===
+
+* {{drink
+| name=Odessa | url=http://odessapizzagrill.nl/ | email=
+| address=Veemkade 259 | lat=52.37451 | long=4.93763 | directions=tram 26 to Rietlandpark
+| phone=+31 20 419-3010 | tollfree= | fax=
+| hours= | price=
+| content=
+}}
+* {{drink
+| name=Panama | url=http://www.panama.nl | email=
+| address=Oostelijke Handelskade 4 | lat=52.37491 | long=4.93021 | directions=tram 26 to Rietlandpark
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=This nightclub is relatively close to the city centre. It has its fair share of nice nights and the view on the water is excellent.
+}}
+* {{drink
+| name=Tonight Club | url=http://www.hotelarena.nl | email=
+| address=Hotel Arena, 's Gravesandestraat 51 | lat=52.36123 | long=4.91630 | directions=tram 7 or 10 to Korte 's-Gravezandestraat, tram 9 or 14 to Alexanderplein, metro 51, 52 or 53 to Weesperplein
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=
+}}
+* {{drink | name=Canvas | alt= | url=http://www.canvasopde7e.nl/ | email= | address=7F, Volkshotel, Wibautstraat 150 | lat=52.35378 | long=4.91195 | directions=metro 51, 53 or 54 to Wibautstraat | phone=+31 20 261-2100 | tollfree= | fax= | hours=Mon-Thu 07:00-01:00, Fri 07:00-04:00, Sat 08:00-04:00, Sun 08:00-01:00 | price= | content=A restaurant-bar-club, this urban and edgy den in a former newspaper office is a great place to go out at night. With nice views of the city and a varied music repertoire (alternative, jazz, funk), it's one of the hidden secrets too often overlooked by foreign visitors. Try one of the cocktails.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+
+==Sleep==
+{{sleeppricerange|Under €80|€80 to €150|Over €150}}
+===Budget===
+
+* {{sleep
+| name=Camping Zeeburg | url= | email=
+| address=Zuider IJdijk 20 | lat=52.36522 | long=4.96071 | directions=tram 26 to Zuiderzeeweg
+| phone=+31 20 694-4430 | tollfree= | fax=
+| hours= | price=
+| checkin= | checkout=
+| content=This campground is near the city. It has camping cabins, wagonettes, tent sites and RV sites. A good store, free wifi and restaurant/bar round out the amenities. A good, clean and cheap place to stay if you do not mind walking to the bathroom and paying €.80 for a hot shower.
+}}
+* {{sleep
+| name=Stayokay Zeeburg | alt= | url=http://www.stayokay.com/ | email=zeeburg@stayokay.com
+| address=Timorplein 21 | lat=52.36533 | long=4.93550 | directions=tram 14 to Zeeburgerdijk
+| phone=+31 20 551-3190 | tollfree=
+| checkin= | checkout= | price=
+| content=This 480-bed hostel is located to the east of the city centre in a typical Amsterdam neighbourhood. Amsterdam's historic centre is less than 15 minutes away by bike or tram. The hostel is in the same building as Studio K, a budget diner and movie theatre. Children under 12 must stay in private rooms and everyone under 18 must be accompanied by an adult.
+}}
+* {{sleep
+| name=Generator Hostel Amsterdam | alt=Generator Amsterdam | url=https://generatorhostels.com/en/destinations/amsterdam/ | email=amsterdam@generatorhostels.com
+| address=Mauritskade 57, 1092 AD, Amsterdam, Netherlands | lat=52.3608454 | long=4.918902000000003 | directions=Tram 9 going towards Diemen (Sniep). Get out at Alexanderplein and it's a 5-minute walk to the hostel.
+| phone=+31 207085600 | tollfree= | fax=
+| checkin= | checkout= | price=From €60
+| lastedit=2016-12-06
+| content=This former university building can host up to 564 guests in twin and quadruple rooms. It has spacious social areas with creative design touches all over the building. The old lecture rooms and hall have been turned into bars and a relaxation room. This place is excellent value for groups and budget travellers, with quadruple rooms for €60 or single (bunk) beds in shared rooms for €15. Bathrooms are en-suite. If you're under 18 and travelling without an adult, you'll need written consent from your parents and you'll need to book a private room.
+}}
+
+===Mid-range===
+
+* {{sleep
+| name=B&B Lieve Nachten | url=http://lievenachten.nl | email=info@lievenachten.nl
+| address=Jan Olphert Vaillantlaan 77 | lat=52.36177 | long=4.97719 | directions=tram 26 to Steigereiland
+| phone=+31 6 2457-0925 | tollfree= | fax=
+| hours= | price=
+| checkin= | checkout=
+| content=
+}}
+* {{sleep
+| name=Bastion Hotel Amsterdam Amstel |alt=| url=https://www.bastionhotels.com/en-gb/hotels/hotel-amsterdam-amstel | email=
+| address=Verlengde van Marwijk Kooystraat 30 | lat=52.33366 | long=4.92761 | directions=metro 50 or 51 to Overamstel
+| phone=+31 20 663-4567 | tollfree= | fax=
+| hours= | price=€70
+| checkin=15:00 | checkout=11:00
+|lastedit=2019-02-14| content=3 star-hotel with 192 rooms. Due to its central location, the Amsterdam RAI, Amsterdam ArenA and Ziggo Dome are very well accessible from Bastion Hotel Amsterdam Amstel. Public transport is located within a 10-minute walk.
+}}
+*{{sleep | name=Mövenpick Hotel | url=http://www.moevenpick-hotels.com/ | email=hotel.amsterdam@moevenpick.com | address=Piet Heinkade 11 | lat=52.37801 | long=4.91363 | directions=tram 26 to Muziekgebouw Bimhuis | phone=+31 20 519-1200 | tollfree= | fax=+31 20 519 1239 | hours= | price=€149 | checkin= | checkout= | content=The hotel is in the Eastern Docklands, the renewed area of the city centre.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{sleep
+| name=The Lancaster Hotel Amsterdam | alt= | url=https://www.thelancasterhotelamsterdam.com/en/ | email=info.lancaster@edenhotels.nl
+| address=Plantage Middenlaan 48 | lat= | long= | directions=
+| phone=+31 20 535 6888 | tollfree=
+| checkin=15:00 | checkout=11:00 | price=
+| lastedit=2019-07-18
+| content=
+}}
+* {{sleep
+| name=The Manor Amsterdam | alt= | url=https://www.themanorhotelamsterdam.com/en/ | email=info.manor@edenhotels.nl
+| address=Linnaeusstraat 89 | lat= | long= | directions=inside the former Burgerziekenhuis
+| phone=+31 20 700 8400 | tollfree=
+| checkin=15:00 | checkout=11:00 | price=
+| lastedit=2019-07-18
+| content=
+}}
+
+==Connect==
+
+==Go next==
+
+{{routebox
+| image1=Amsterdam unofficial metro icon line 50.svg
+| imagesize1=22
+| directionl1=W
+| majorl1=[[Amsterdam/West|West]]
+| minorl1=[[Amsterdam/Zuid|Zuid]]
+| directionr1=E
+| majorr1=[[Amsterdam/Zuidoost|Zuidoost]]
+| minorr1=
+
+| image2=Amsterdam unofficial metro icon line 51.svg
+| imagesize2=22
+| directionl2=N
+| majorl2=[[Amsterdam/Binnenstad|Binnenstad]]
+| minorl2=[[Amsterdam/Plantage|Plantage]]
+| directionr2=S
+| majorr2=[[Amsterdam/West|West]]
+| minorr2=[[Amsterdam/Zuid|Zuid]]
+
+| image3=Amsterdam unofficial metro icon line 53.svg
+| imagesize3=22
+| directionl3=N
+| majorl3=[[Amsterdam/Binnenstad|Binnenstad]]
+| minorl3=[[Amsterdam/Plantage|Plantage]]
+| directionr3=S
+| majorr3=[[Amsterdam/Zuidoost|Zuidoost]]
+| minorr3=
+
+| image4=Amsterdam unofficial metro icon line 54.svg
+| imagesize4=22
+| directionl4=N
+| majorl4=[[Amsterdam/Binnenstad|Binnenstad]]
+| minorl4=[[Amsterdam/Plantage|Plantage]]
+| directionr4=S
+| majorr4=[[Amsterdam/Zuidoost|Zuidoost]]
+| minorr4=
+}}
+
+{{usabledistrict}}
+{{IsPartOf|Amsterdam}}
+{{geo|52.35967|4.96239|zoom=13}}

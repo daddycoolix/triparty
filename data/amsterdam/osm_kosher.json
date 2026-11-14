@@ -1,0 +1,1012 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2026-11-14T17:13:51Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 34044700,
+  "lat": 52.3572137,
+  "lon": 4.8797759,
+  "tags": {
+    "addr:city": "Amsterdam",
+    "addr:country": "NL",
+    "addr:housenumber": "33A",
+    "addr:postcode": "1071AP",
+    "addr:street": "Van Baerlestraat",
+    "brand": "Albert Heijn",
+    "brand:website": "https://www.ah.nl/",
+    "brand:wikidata": "Q1653985",
+    "brand:wikipedia": "nl:Albert Heijn (supermarkt)",
+    "diet:halal": "yes",
+    "diet:kosher": "yes",
+    "name": "Albert Heijn",
+    "opening_hours": "Mo-Su 08:00-22:00",
+    "operator": "Albert Heijn",
+    "phone": "+31 20 662 0416",
+    "ref": "1391",
+    "shop": "supermarket",
+    "source": "BAG",
+    "source:date": "2014-03-24",
+    "website": "https://www.ah.nl/winkel/1391",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 441674928,
+  "lat": 52.3676180,
+  "lon": 4.9051203,
+  "tags": {
+    "addr:city": "Amsterdam",
+    "addr:housenumber": "3",
+    "addr:postcode": "1011RD",
+    "addr:street": "Meester Visserplein",
+    "amenity": "place_of_worship",
+    "check_date": "2026-10-05",
+    "denomination": "sephardi",
+    "name": "Portugees-Israelitische Gemeente",
+    "phone": "+31 20 531 0380",
+    "religion": "jewish",
+    "source": "BAG",
+    "source:date": "2014-03-24",
+    "website": "https://www.portugesesynagoge.nl/eng",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 768575159,
+  "lat": 52.3510433,
+  "lon": 4.8565512,
+  "tags": {
+    "addr:city": "Amsterdam",
+    "addr:housenumber": "224",
+    "addr:postcode": "1075XT",
+    "addr:street": "Amstelveenseweg",
+    "amenity": "restaurant",
+    "cuisine": "jewish",
+    "name": "Glatt Kosjer",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 963802742,
+  "lat": 52.3668547,
+  "lon": 4.8940976,
+  "tags": {
+    "addr:city": "Amsterdam",
+    "addr:housenumber": "9",
+    "addr:postcode": "1017CL",
+    "addr:street": "Reguliersbreestraat",
+    "air_conditioning": "yes",
+    "alt_name": "Burger Bar",
+    "amenity": "fast_food",
+    "check_date": "2025-05-03",
+    "check_date:diet:halal": "2025-05-03",
+    "check_date:diet:kosher": "2025-05-03",
+    "check_date:diet:vegetarian": "2025-05-03",
+    "contact:facebook": "BurgerBarNL",
+    "contact:instagram": "burgerbarnl",
+    "contact:website": "https://www.burgerbar.nl/locations/",
+    "cuisine": "burger",
+    "diet:halal": "no",
+    "diet:kosher": "no",
+    "diet:vegetarian": "no",
+    "name": "Burgerbar",
+    "opening_hours": "Su-Th 11:00-03:00; Fr-Sa 11:00-04:00",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+31 20 330 5968",
+    "source": "BAG",
+    "source:date": "2014-02-11",
+    "website": "https://www.burgerbar.nl/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1843775915,
+  "lat": 52.3676105,
+  "lon": 4.8988548,
+  "tags": {
+    "historic": "memorial",
+    "memorial": "obelisk",
+    "name": "Monument Joods Verzet 1940-'45",
+    "name:en": "Jewish WW2 resistance memorial",
+    "name:nl": "Monument Joods Verzet 1940-'45",
+    "name:ru": "Мемориал еврейским жертвам Второй мировой войны",
+    "ref:4en5mei": "1631",
+    "war_memorial": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q2280024",
+    "wikimedia_commons": "File:Monument Joods verzet.jpg",
+    "wikipedia": "nl:Joods Verzetsmonument"
+  }
+},
+{
+  "type": "node",
+  "id": 2366138172,
+  "lat": 52.3572876,
+  "lon": 4.9149998,
+  "tags": {
+    "check_date": "2024-06-02",
+    "diet:halal": "yes",
+    "diet:kosher": "yes",
+    "name": "Avondverkoop",
+    "opening_hours": "Mo-Sa 15:00-03:00",
+    "payment:credit_cards": "no",
+    "payment:debit_cards": "yes",
+    "shop": "convenience",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 2415203521,
+  "lat": 52.3545940,
+  "lon": 4.9126544,
+  "tags": {
+    "addr:city": "Amsterdam",
+    "addr:housenumber": "125",
+    "addr:postcode": "1091GL",
+    "addr:street": "Wibautstraat",
+    "air_conditioning": "yes",
+    "amenity": "restaurant",
+    "diet:halal": "no",
+    "diet:kosher": "no",
+    "diet:vegan": "no",
+    "diet:vegetarian": "yes",
+    "internet_access": "wlan",
+    "name": "Baut oost",
+    "opening_hours": "Su-Th 11:00-01:00, Fr,Sa 11:00-03:00",
+    "outdoor_seating": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+31 20 210 3011",
+    "smoking": "outside",
+    "source": "BAG",
+    "source:date": "2014-03-24",
+    "website": "https://bautoost.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 2506549948,
+  "lat": 52.3570574,
+  "lon": 4.8978616,
+  "tags": {
+    "addr:city": "Amsterdam",
+    "addr:housenumber": "238",
+    "addr:postcode": "1073XC",
+    "addr:street": "Gerard Doustraat",
+    "alt_name": "Tesjoengat Israël",
+    "amenity": "place_of_worship",
+    "check_date": "2026-01-14",
+    "denomination": "orthodox",
+    "email": "info@gerard-dou.nl",
+    "name": "Gerard Dou Synagogue",
+    "name:en": "Gerard Dou Synagogue",
+    "religion": "jewish",
+    "source": "BAG",
+    "source:date": "2014-03-24",
+    "website": "https://www.gerard-dou.nl/",
+    "wikidata": "Q9349121",
+    "wikipedia": "nl:Synagoge Gerard Doustraat"
+  }
+},
+{
+  "type": "node",
+  "id": 2512596944,
+  "lat": 52.3525574,
+  "lon": 4.8774960,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "Raw Aron Schuster Synagoge",
+    "religion": "jewish",
+    "wikidata": "Q2692567"
+  }
+},
+{
+  "type": "node",
+  "id": 2626560698,
+  "lat": 52.3704166,
+  "lon": 4.8851104,
+  "tags": {
+    "addr:city": "Amsterdam",
+    "addr:housenumber": "32",
+    "addr:postcode": "1016EP",
+    "addr:street": "Wolvenstraat",
+    "branch": "Amsterdam Wolvenstraat",
+    "brand": "Jumbo",
+    "brand:website": "https://www.jumbo.com",
+    "brand:wikidata": "Q2262314",
+    "brand:wikipedia": "nl:Jumbo Supermarkten",
+    "check_date": "2026-07-18",
+    "diet:halal": "yes",
+    "diet:kosher": "yes",
+    "name": "Jumbo",
+    "opening_hours": "Mo-Su 08:00-22:00",
+    "operator": "Jumbo",
+    "payment:cards": "yes",
+    "payment:cash:machine": "cashier",
+    "payment:contactless": "yes",
+    "payment:visa": "yes",
+    "phone": "+31 20 280 9370",
+    "self_checkout": "yes",
+    "shop": "supermarket",
+    "website": "https://www.jumbo.com/winkel/amsterdam/jumbo-amsterdam-wolvenstraat",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2632628717,
+  "lat": 52.3288375,
+  "lon": 4.9555098,
+  "tags": {
+    "addr:city": "Diemen",
+    "addr:housenumber": "1009",
+    "addr:postcode": "1112XC",
+    "addr:street": "Dalsteindreef",
+    "brand": "Albert Heijn",
+    "brand:wikidata": "Q1653985",
+    "brand:wikipedia": "nl:Albert Heijn (supermarkt)",
+    "check_date": "2026-09-29",
+    "check_date:opening_hours": "2026-09-29",
+    "diet:halal": "yes",
+    "diet:kosher": "yes",
+    "level": "0",
+    "name": "Albert Heijn",
+    "opening_hours": "Mo-Sa 08:00-22:00; Su 10:00-22:00",
+    "panoramax": "699e10af-71c0-4b93-b427-3572dcabdda7",
+    "payment:cash": "no",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "shop": "supermarket",
+    "source": "BAG",
+    "source:date": "2016-02-07",
+    "website": "https://www.ah.nl/winkel/8757",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2722023232,
+  "lat": 52.3680936,
+  "lon": 4.8863164,
+  "tags": {
+    "addr:city": "Amsterdam",
+    "addr:housenumber": "380",
+    "addr:postcode": "1016CJ",
+    "addr:street": "Herengracht",
+    "amenity": "library",
+    "name": "NIOD Instituut voor Oorlogs-, Holocaust- en Genocidestudies",
+    "name:en": "NIOD Institute for War, Holocaust, and Genocide Studies",
+    "name:nl": "NIOD Instituut voor Oorlogs-, Holocaust- en Genocidestudies",
+    "opening_hours": "Tu-Fr 09:00-17:30",
+    "short_name": "NIOD",
+    "short_name:en": "NIOD",
+    "source": "BAG",
+    "source:date": "2014-02-11",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.niod.nl/",
+    "wheelchair": "yes",
+    "wikidata": "Q474823"
+  }
+},
+{
+  "type": "node",
+  "id": 2742884279,
+  "lat": 52.3668719,
+  "lon": 4.9110104,
+  "tags": {
+    "addr:city": "Amsterdam",
+    "addr:housenumber": "27",
+    "addr:postcode": "1018DB",
+    "addr:street": "Plantage Middenlaan",
+    "air_conditioning": "yes",
+    "check_date": "2026-11-02",
+    "description": "The former Hervormde Kweekschool, opened approx April 2016. National Holocaust Museum is opened in 2024",
+    "fee": "yes",
+    "internet_access": "wlan",
+    "museum_type": "national",
+    "name": "Nationaal Holocaustmuseum",
+    "name:en": "National Holocaust Museum",
+    "name:nl": "Nationaal Holocaustmuseum",
+    "name:ru": "Национальный музей Холокоста",
+    "opening_hours": "10:00-17:00",
+    "payment:museumkaart": "yes",
+    "source": "BAG",
+    "source:date": "2014-03-24",
+    "tourism": "museum",
+    "website": "https://jck.nl/locatie/nationaal-holocaustmuseum",
+    "wikidata": "Q26822174",
+    "wikimedia_commons": "Category:Nationaal Holocaust Museum"
+  }
+},
+{
+  "type": "node",
+  "id": 2743479207,
+  "lat": 52.3699591,
+  "lon": 4.9198033,
+  "tags": {
+    "addr:city": "Amsterdam",
+    "addr:housenumber": "18",
+    "addr:postcode": "1018LW",
+    "addr:street": "Kleine Wittenburgerstraat",
+    "brand": "Albert Heijn",
+    "brand:wikidata": "Q1653985",
+    "brand:wikipedia": "nl:Albert Heijn (supermarkt)",
+    "check_date": "2026-03-31",
+    "description": "AH [Amsterdam] Kleine Wittenburgerstr 14",
+    "diet:halal": "yes",
+    "diet:kosher": "yes",
+    "name": "Albert Heijn",
+    "opening_hours": "Mo-Sa 07:45-22:00; Su 08:00-22:00",
+    "phone": "+31 20 320 1678",
+    "ref": "8634",
+    "shop": "supermarket",
+    "source": "BAG",
+    "source:date": "2014-03-24",
+    "website": "https://www.ah.nl/winkel/8634",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2795117885,
+  "lat": 52.3634979,
+  "lon": 4.8274664,
+  "tags": {
+    "addr:city": "Amsterdam",
+    "addr:housenumber": "73",
+    "addr:postcode": "1065HW",
+    "addr:street": "Johan Huizingalaan",
+    "diet:halal": "no",
+    "diet:kosher": "no",
+    "name": "Vivant Miko",
+    "shop": "convenience",
+    "source": "BAG",
+    "source:date": "2014-03-24"
+  }
+},
+{
+  "type": "node",
+  "id": 2817558650,
+  "lat": 52.3569334,
+  "lon": 4.8991595,
+  "tags": {
+    "addr:city": "Amsterdam",
+    "addr:housenumber": "276-H",
+    "addr:postcode": "1073BR",
+    "addr:street": "Albert Cuypstraat",
+    "check_date": "2026-01-31",
+    "diet:kosher": "yes",
+    "email": "info@kosher-point.com",
+    "name": "Kosher Point",
+    "opening_hours": "Mo-Th 11:00-19:00; Fr 09:00-16:00; Su 12:00-19:00",
+    "phone": "+31 20 7865435",
+    "shop": "supermarket",
+    "source": "BAG",
+    "source:date": "2014-03-24",
+    "website": "https://kosher-point.com"
+  }
+},
+{
+  "type": "node",
+  "id": 2817558656,
+  "lat": 52.3569608,
+  "lon": 4.8992499,
+  "tags": {
+    "addr:city": "Amsterdam",
+    "addr:housenumber": "278",
+    "addr:postcode": "1073BR",
+    "addr:street": "Albert Cuypstraat",
+    "amenity": "fast_food",
+    "check_date": "2026-01-31",
+    "cuisine": "sandwich",
+    "diet:kosher": "yes",
+    "drive_through": "no",
+    "email": "info@labisskosher.com",
+    "name": "La Biss - Kosher Street Food",
+    "opening_hours": "Su-Th 12:00-22:00; Sa 20:00-23:00",
+    "source": "BAG",
+    "source:date": "2014-03-24",
+    "website": "https://www.labisskosher.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 2818626617,
+  "lat": 52.3319389,
+  "lon": 4.8843047,
+  "tags": {
+    "addr:city": "Amsterdam",
+    "addr:housenumber": "185",
+    "addr:postcode": "1083GV",
+    "addr:street": "Arent Janszoon Ernststraat",
+    "name": "Kosher Point",
+    "shop": "supermarket",
+    "source": "BAG",
+    "source:date": "2014-03-24",
+    "website": "https://kosher-point.com"
+  }
+},
+{
+  "type": "node",
+  "id": 2818708251,
+  "lat": 52.3259468,
+  "lon": 4.8834472,
+  "tags": {
+    "addr:city": "Amsterdam",
+    "addr:housenumber": "65",
+    "addr:postcode": "1083CC",
+    "addr:street": "Kastelenstraat",
+    "amenity": "restaurant",
+    "diet:kosher": "yes",
+    "name": "Meat Me Kosher",
+    "smoking": "no",
+    "source": "BAG",
+    "source:date": "2014-03-24",
+    "website": "https://www.facebook.com/MeatMeKosher/"
+  }
+},
+{
+  "type": "node",
+  "id": 3739706215,
+  "lat": 52.3545279,
+  "lon": 4.9503331,
+  "tags": {
+    "addr:city": "Amsterdam",
+    "addr:housenumber": "3192",
+    "addr:postcode": "1098XK",
+    "addr:street": "Carolina MacGillavrylaan",
+    "alt_name": "SPAR city Amsterdam Sciencepark",
+    "branch": "Amsterdam Sciencepark",
+    "brand": "SPAR city",
+    "brand:website": "https://www.spar.nl/city/",
+    "brand:wikidata": "Q124630664",
+    "check_date:opening_hours": "2026-09-18",
+    "diet:halal": "yes",
+    "diet:kosher": "yes",
+    "email": "sciencepark@despar.info",
+    "internet_access": "wlan",
+    "name": "SPAR city",
+    "opening_hours": "Mo-Su 08:00-22:00",
+    "operator": "SPAR",
+    "operator:wikidata": "Q610492",
+    "phone": "+31 20 205 1061",
+    "shop": "convenience",
+    "website": "https://www.spar.nl/winkels/spar-city-amsterdam-sciencepark-793/"
+  }
+},
+{
+  "type": "node",
+  "id": 3840705549,
+  "lat": 52.3721955,
+  "lon": 4.8874104,
+  "tags": {
+    "addr:city": "Amsterdam",
+    "addr:housenumber": "245",
+    "addr:postcode": "1018BH",
+    "addr:street": "Herengracht",
+    "diet:kosher": "no",
+    "name": "Juicebrothers",
+    "shop": "convenience",
+    "website": "https://www.juicebro.com"
+  }
+},
+{
+  "type": "node",
+  "id": 4815531723,
+  "lat": 52.3557689,
+  "lon": 4.8939613,
+  "tags": {
+    "addr:city": "Amsterdam",
+    "addr:housenumber": "165",
+    "addr:street": "Albert Cuypstraat",
+    "amenity": "community_centre",
+    "check_date": "2026-01-18",
+    "email": "Info@chabadamsterdamcenter.com",
+    "internet_access": "wlan",
+    "name": "Chabad Center Amsterdam",
+    "name:en": "Chabad Center Amsterdam",
+    "name:he": "בית חב\"ד למטייל מרכז אמסטרדם",
+    "name:nl": "Chabad Center Amsterdam",
+    "opening_hours": "Su-Th 13:00-20:00; Sa 12:00+",
+    "phone": "+31 6 10442770",
+    "website": "https://www.chabadamsterdamcenter.com"
+  }
+},
+{
+  "type": "node",
+  "id": 4866685853,
+  "lat": 52.3740465,
+  "lon": 4.8989357,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "The Tabernacle",
+    "religion": "jewish"
+  }
+},
+{
+  "type": "node",
+  "id": 4906585871,
+  "lat": 52.3254721,
+  "lon": 4.8682029,
+  "tags": {
+    "addr:city": "Amsterdam",
+    "addr:housenumber": "158B",
+    "addr:postcode": "1081AB",
+    "addr:street": "Buitenveldertselaan",
+    "check_date": "2024-05-27",
+    "diet:kosher": "yes",
+    "name": "David's Nasjville",
+    "shop": "deli",
+    "source": "BAG",
+    "source:date": "2017-06-09",
+    "website": "https://www.facebook.com/davidsnasjville/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4913392670,
+  "lat": 52.3991339,
+  "lon": 4.8930985,
+  "tags": {
+    "addr:city": "Amsterdam",
+    "addr:housenumber": "59",
+    "addr:postcode": "1033WB",
+    "addr:street": "tt. Neveritaweg",
+    "amenity": "restaurant",
+    "check_date": "2025-08-02",
+    "check_date:opening_hours": "2025-08-02",
+    "diet:kosher": "no",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "email": "info@pllek.nl",
+    "indoor_seating": "yes",
+    "internet_access": "wlan",
+    "internet_access:fee": "customers",
+    "name": "Pllek",
+    "opening_hours": "Su-Th 09:30-01:00, Fr,Sa 09:30-03:00",
+    "opening_hours:kitchen": "Mo-Th, Su 09:30-22:00; Fr, Sa 09:30-22:00",
+    "outdoor_seating": "yes",
+    "payment:cash": "no",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+31 20 290 0020",
+    "source": "BAG",
+    "source:date": "2017-06-13",
+    "toilets:wheelchair": "yes",
+    "website": "https://pllek.nl/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 5050596458,
+  "lat": 52.3694082,
+  "lon": 4.8871515,
+  "tags": {
+    "addr:city": "Amsterdam",
+    "addr:housenumber": "339",
+    "addr:postcode": "1016AZ",
+    "addr:street": "Herengracht",
+    "amenity": "restaurant",
+    "check_date": "2026-10-29",
+    "diet:kosher": "no",
+    "indoor_seating": "yes",
+    "name": "Brasserie Ambassade",
+    "outdoor_seating": "no",
+    "website": "https://brasserieambassade.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 6488569530,
+  "lat": 52.3719726,
+  "lon": 4.8873969,
+  "tags": {
+    "amenity": "restaurant",
+    "diet:kosher": "no",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Lotti's Dinner",
+    "outdoor_seating": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9104808940,
+  "lat": 52.3657056,
+  "lon": 4.9049750,
+  "tags": {
+    "architect": "Daniel Libeskind",
+    "historic": "memorial",
+    "inscription": "Ter herinnering",
+    "inscription:he": "לזכר",
+    "memorial": "war_memorial",
+    "name": "Nationaal Holocaust Namenmonument",
+    "start_date": "2021-09-19",
+    "survey:date": "2026-06-27",
+    "website": "https://www.holocaustnamenmonument.nl/",
+    "wikidata": "Q66023853",
+    "wikimedia_commons": "Category:Holocaust Namenmonument",
+    "wikipedia": "nl:Holocaust Namenmonument"
+  }
+},
+{
+  "type": "node",
+  "id": 10017601617,
+  "lat": 52.3513367,
+  "lon": 4.8506019,
+  "tags": {
+    "addr:city": "Amsterdam",
+    "addr:housenumber": "6H",
+    "addr:postcode": "1058PD",
+    "addr:street": "Hoofddorpplein",
+    "air_conditioning": "yes",
+    "amenity": "cafe",
+    "changing_table": "no",
+    "contact:facebook": "https://www.facebook.com/Bunocoffee-Amsterdam-110422264421003/",
+    "contact:instagram": "https://www.instagram.com/bunocoffeeamsterdam/",
+    "cuisine": "brazilian;coffee_shop",
+    "diet:gluten_free": "yes",
+    "diet:halal": "no",
+    "diet:kosher": "no",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "name": "Buno Coffee",
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa-Su 09:00-18:00",
+    "outdoor_seating": "sidewalk",
+    "payment:cash": "yes",
+    "payment:credit_cards": "no",
+    "payment:debit_cards": "yes",
+    "phone": "+31 20 362 7419",
+    "smoking": "outside",
+    "website": "https://www.bunocoffeeamsterdam.nl/buno-coffee-hoofddorpplein.html",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11587693970,
+  "lat": 52.3387581,
+  "lon": 4.9013153,
+  "tags": {
+    "artist_name": "Hans Ittman",
+    "artwork_type": "sculpture",
+    "material": "bronze",
+    "name": "Joods Monument",
+    "start_date": "1965",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 11762262980,
+  "lat": 52.3221781,
+  "lon": 4.8595924,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "modern_orthodox",
+    "full_name": "Amsterdamse Modern Orthodoxe Sjoel",
+    "name": "AMOS",
+    "religion": "jewish",
+    "website": "https://www.amossjoel.nl",
+    "wikidata": "Q125143413"
+  }
+},
+{
+  "type": "node",
+  "id": 11889703130,
+  "lat": 52.3654172,
+  "lon": 4.9048711,
+  "tags": {
+    "camera:direction": "55",
+    "camera:mount": "pole",
+    "camera:type": "dome",
+    "contact:webcam": "https://www.youtube.com/watch?v=pdw42t9h5F8",
+    "man_made": "surveillance",
+    "name": "Live stream Holocaust Namenmonument Nederland",
+    "surveillance": "webcam",
+    "surveillance:type": "camera",
+    "surveillance:zone": "monument"
+  }
+},
+{
+  "type": "node",
+  "id": 13706283045,
+  "lat": 52.3671549,
+  "lon": 4.9124417,
+  "tags": {
+    "name": "Artis/Holocaustmuseum",
+    "network": "GVB Amsterdam",
+    "operator": "GVB Amsterdam",
+    "public_transport": "stop_position",
+    "railway": "tram_stop",
+    "tram": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 57855159,
+  "center": {
+    "lat": 52.3319428,
+    "lon": 4.8613261
+  },
+  "tags": {
+    "building": "synagogue",
+    "height": "10.3",
+    "name": "Joods Cultureel Centrum",
+    "ref:bag": "0363100012146056",
+    "source": "BAG",
+    "source:date": "2014-03-24",
+    "source:height": "3DBAG",
+    "source:height:date": "2025-09-03",
+    "start_date": "1967"
+  }
+},
+{
+  "type": "way",
+  "id": 57857987,
+  "center": {
+    "lat": 52.3671501,
+    "lon": 4.9038182
+  },
+  "tags": {
+    "addr:city": "Amsterdam",
+    "addr:housenumber": "1",
+    "addr:postcode": "1011PL",
+    "addr:street": "Nieuwe Amstelstraat",
+    "building": "yes",
+    "fee": "yes",
+    "name": "Joods Museum",
+    "name:de": "Jüdisches Museum",
+    "name:en": "Jewish Museum",
+    "name:nl": "Joods Museum",
+    "name:ru": "Еврейский исторический музей",
+    "name:uk": "Єврейський історичний музей",
+    "opening_hours": "Mo-Su 11:00-17:00",
+    "payment:museumkaart": "yes",
+    "ref:bag": "0363100012182037",
+    "source": "BAG",
+    "source:date": "2014-03-24",
+    "start_date": "1005",
+    "tourism": "museum",
+    "website": "https://www.jhm.nl",
+    "wheelchair": "yes",
+    "wikidata": "Q702726",
+    "wikimedia_commons": "Category:Joods Historisch Museum",
+    "wikipedia": "nl:Joods Museum (Nederland)"
+  }
+},
+{
+  "type": "way",
+  "id": 57861363,
+  "center": {
+    "lat": 52.3675391,
+    "lon": 4.9053431
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "synagogue",
+    "denomination": "sephardi",
+    "name": "Portugese Synagoge",
+    "name:de": "Portugiesische Synagoge",
+    "name:es": "Sinagoga Portuguesa",
+    "name:nl": "Portugese Synagoge",
+    "name:ru": "Португальская синагога",
+    "ref:bag": "0363100012170255",
+    "religion": "jewish",
+    "source": "BAG",
+    "source:date": "2014-03-24",
+    "start_date": "1675",
+    "tourism": "attraction",
+    "wheelchair": "yes",
+    "wikidata": "Q1853707"
+  }
+},
+{
+  "type": "way",
+  "id": 75541017,
+  "center": {
+    "lat": 52.3447092,
+    "lon": 4.9705446
+  },
+  "tags": {
+    "landuse": "cemetery",
+    "name": "Joodse begraafplaats",
+    "religion": "jewish"
+  }
+},
+{
+  "type": "way",
+  "id": 75774090,
+  "center": {
+    "lat": 52.4319865,
+    "lon": 4.7994343
+  },
+  "tags": {
+    "amenity": "grave_yard",
+    "name": "Joodse begraafplaats Zaandam",
+    "religion": "jewish"
+  }
+},
+{
+  "type": "way",
+  "id": 268782551,
+  "center": {
+    "lat": 52.3701759,
+    "lon": 4.9053404
+  },
+  "tags": {
+    "alt_name": "Uilenburgersjoel",
+    "amenity": "place_of_worship",
+    "building": "synagogue",
+    "check_date": "2025-02-16",
+    "contact:instagram": "https://www.instagram.com/uilenburgersjoel",
+    "denomination": "Beit Ha'Chidush",
+    "height": "15",
+    "historic": "yes",
+    "name": "Uilenburger Synagoge",
+    "ref:bag": "0363100012181889",
+    "religion": "jewish",
+    "source": "BAG",
+    "source:date": "2014-03-24",
+    "source:height": "3DBAG",
+    "source:height:date": "2025-09-03",
+    "start_date": "1766",
+    "website": "https://www.uilenburgersjoel.nl/",
+    "wikidata": "Q2802476"
+  }
+},
+{
+  "type": "way",
+  "id": 276105746,
+  "center": {
+    "lat": 52.3068163,
+    "lon": 4.8745447
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "synagogue",
+    "building:levels": "2",
+    "denomination": "NIK",
+    "name": "Sjoel Amstelveen",
+    "old_name": "Bankraskerk",
+    "ref:bag": "0362100001059917",
+    "religion": "jewish",
+    "source": "BAG",
+    "source:date": "2014-03-24",
+    "start_date": "1971",
+    "website": "http://sjoelamstelveen.nl",
+    "wikidata": "Q118954889",
+    "wikimedia_commons": "Category:Bankraskerk"
+  }
+},
+{
+  "type": "way",
+  "id": 277300134,
+  "center": {
+    "lat": 52.3441196,
+    "lon": 4.9029186
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "architect": "A. Elzas",
+    "building": "yes",
+    "height": "15.5",
+    "heritage": "2",
+    "heritage:operator": "rce",
+    "heritage:website": "https://monumentenregister.cultureelerfgoed.nl/monumenten/526707",
+    "historic": "building",
+    "name": "Lekstraatsynagoge",
+    "ref:bag": "0363100012104516",
+    "ref:rce": "526707",
+    "religion": "jewish",
+    "source": "BAG",
+    "source:date": "2014-03-24",
+    "source:height": "3DBAG",
+    "source:height:date": "2025-09-03",
+    "start_date": "1937",
+    "wikidata": "Q2488878",
+    "wikipedia": "nl:Lekstraatsynagoge"
+  }
+},
+{
+  "type": "way",
+  "id": 277313909,
+  "center": {
+    "lat": 52.3378323,
+    "lon": 4.8978168
+  },
+  "tags": {
+    "addr:city": "Amsterdam",
+    "addr:country": "NL",
+    "addr:housenumber": "41",
+    "addr:postcode": "1079RK",
+    "addr:street": "Zuidelijke Wandelweg",
+    "amenity": "place_of_worship",
+    "building": "synagogue",
+    "denomination": "liberal",
+    "height": "17.4",
+    "name": "LJG",
+    "note": "Liberaal Joodse Gemeente Amsterdam, opening 1 august 2010",
+    "ref:bag": "0363100012241744",
+    "religion": "jewish",
+    "source": "BAG",
+    "source:date": "2014-03-24",
+    "source:height": "3DBAG",
+    "source:height:date": "2025-09-03",
+    "start_date": "2010",
+    "website": "https://www.ljgamsterdam.nl/",
+    "wikipedia": "nl:Liberaal Joodse Gemeente Amsterdam"
+  }
+},
+{
+  "type": "way",
+  "id": 282076742,
+  "center": {
+    "lat": 52.3081352,
+    "lon": 5.0416549
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "synagogue",
+    "building:levels": "2",
+    "name": "Synagoge Masorti Nederland",
+    "ref:bag": "0457100000054855",
+    "religion": "jewish",
+    "source": "BAG",
+    "source:date": "2014-05-07",
+    "start_date": "1840",
+    "website": "https://www.synagogeweesp.nl"
+  }
+},
+{
+  "type": "relation",
+  "id": 10212125,
+  "center": {
+    "lat": 52.3434045,
+    "lon": 4.9776555
+  },
+  "tags": {
+    "landuse": "cemetery",
+    "name": "Joodse begraafplaats",
+    "religion": "jewish",
+    "type": "multipolygon",
+    "wikidata": "Q2311316",
+    "wikipedia": "nl:Joodse begraafplaats (Diemen)"
+  }
+},
+{
+  "type": "relation",
+  "id": 19558128,
+  "center": {
+    "lat": 52.3616878,
+    "lon": 4.9484658
+  },
+  "tags": {
+    "landuse": "cemetery",
+    "name": "Joodse begraafplaats Zeeburg",
+    "religion": "jewish",
+    "type": "multipolygon",
+    "wikidata": "Q17189368",
+    "wikipedia": "nl:Joodse Begraafplaats Zeeburg"
+  }
+}
+
+  ]
+}

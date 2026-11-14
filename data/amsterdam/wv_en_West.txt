@@ -1,0 +1,303 @@
+{{pagebanner|Amsterdam-West Vondelpark banner 2.png|pgname=Amsterdam-West|caption=Vondelpark|origin=0.3,0}}
+While often overlooked by foreign visitors, locals know that the '''west''' of [[Amsterdam]] has a lot to offer visitors. There's whole neighborhoods in unique 19th-century architectural styles, some of the best bars and clubs in Amsterdam, and the quickly gentrifying Oud-West. Administratively, the district consists of two boroughs, '''West''' and '''Nieuw-West''', and '''Westpoort''', a port along the IJ directly controlled by the municipal authorities.
+
+==Understand==
+[[File:Amsterdam Het Schip 007.JPG|350px|thumb|right|'Het Schip' in Amsterdam School style]]
+Due to a strong population increase in the second half of the 19th century, Amsterdam needed to expand in a westwards direction from the city center. The first street that was built was the Vondelstraat in an area now known as the '''Vondelbuurt'''. It was designed by the architect Pierre Cuypers. It is an affluent street with stately mansions bordering the Vondelpark. The horse tram ran through this street from 1877 till 1903, but was then superseded by electric tram line 1 along the '''Overtoom''' just north of it (still going strong). Together with the '''Kinkerstraat''', these streets are the oldest of the area and thus known as '''Oud-West''' ("Old West").
+
+In 1921, Amsterdam absorbed the former municipality of Sloten. A year later, the Plan West was launched that proposed the construction of 6000 new houses in the neighborhood now known as '''De Baarsjes'''. They were to be built in the Amsterdam School style, an Expressionist style that was critical of the Neo-Renaissance style in which many buildings were designed before. Construction of the neighborhood took place between 1925 and 1927, and some areas were built in the contrasting New Objectivity style, such as the Mercatorplein by H. P. Berlage. The best examples of the Amsterdam School style can be found in the '''Spaarndammerbuurt''', for example 'Het Schip' by Michel de Klerk in the Zaanstraat and Oostzaanstraat, which now houses a museum dedicated to the style.
+
+The '''Westerpark''' was constructed in 1890 at the site of the city's former gasworks. It's a cultural hotspot for artists and students with hip cafes, eateries, galleries, clubs and an art house cinema. The '''Houthavens''' east of the park has some remarkable architecture: the Silodam, basically a giant horizontal Jenga tower on water, surrounded by the historical Graansilo and Stenen Silo, old grain silos built in the late 19th century. '''Sloterdijk''' is a booming business center and Intercity station with connections to Schiphol Airport and Amsterdam Central Station. You can find excellent hotels here for affordable prices, but views will consist entirely of modern office blocks.
+
+After 1950, construction works began on a large residential area west of the motorway A10. They were called the Westelijke Tuinsteden, but are now administratively part of the borough of '''Nieuw-West''' ("New West") and usually called out by that name.
+
+==Get in==
+{{Mapframe|52.37866|4.81142|width=500|height=500|zoom=12}}
+{{Mapmask |52.3888,4.8957 |52.3933,4.8928 |52.3988,4.8851 |52.3994,4.8862 |52.4150,4.8649 |52.4170,4.8564 |52.4167,4.8561 |52.4176,4.8508 |52.4223,4.8157 |52.4264,4.7834 |52.4285,4.7675 |52.4275,4.7672 |52.4296,4.7502 |52.4311,4.7392 |52.4296,4.7387 |52.4289,4.7390 |52.4004,4.7292 |52.3969,4.7565 |52.3968,4.7565 |52.3966,4.7579 |52.3965,4.7581 |52.3964,4.7583 |52.3937,4.7585 |52.3892,4.7585 |52.3875,4.7588 |52.3877,4.7583 |52.3872,4.7585 |52.3844,4.7589 |52.3793,4.7591 |52.3780,4.7573 |52.3778,4.7564 |52.3770,4.7570 |52.3762,4.7575 |52.3751,4.7580 |52.3740,4.7584 |52.3733,4.7585 |52.3716,4.7586 |52.3692,4.7580 |52.3584,4.7549 |52.3579,4.7548 |52.3572,4.7549 |52.3568,4.7551 |52.3565,4.7553 |52.3562,4.7557 |52.3558,4.7561 |52.3552,4.7573 |52.3496,4.7717 |52.3418,4.7905 |52.3413,4.7914 |52.3410,4.7918 |52.3356,4.7973 |52.3353,4.7978 |52.3350,4.7982 |52.3279,4.8154 |52.3274,4.8164 |52.3325,4.8211 |52.3332,4.8242 |52.3316,4.8330 |52.3317,4.8351 |52.3324,4.8405 |52.3338,4.8432 |52.3361,4.8465 |52.3364,4.8468 |52.3369,4.8470 |52.3381,4.8469 |52.3380,4.8452 |52.3383,4.8437 |52.3387,4.8428 |52.3394,4.8421 |52.3433,4.8419 |52.3435,4.8418 |52.3460,4.8415 |52.3460,4.8442 |52.3464,4.8456 |52.3521,4.8455 |52.3521,4.8447 |52.3554,4.8446 |52.3555,4.8488 |52.3579,4.8488 |52.3579,4.8504 |52.3578,4.8519 |52.3581,4.8538 |52.3579,4.8547 |52.3578,4.8546 |52.3573,4.8544 |52.3564,4.8541 |52.3563,4.8548 |52.3601,4.8699 |52.3600,4.8699 |52.3604,4.8714 |52.3606,4.8713 |52.3606,4.8715 |52.3604,4.8717 |52.3609,4.8739 |52.3610,4.8739 |52.3610,4.8740 |52.3609,4.8741 |52.3608,4.8751 |52.3606,4.8757 |52.3608,4.8764 |52.3606,4.8766 |52.3607,4.8769 |52.3609,4.8768 |52.3610,4.8772 |52.3608,4.8774 |52.3620,4.8820 |52.3631,4.8814 |52.3635,4.8807 |52.3643,4.8794 |52.3650,4.8793 |52.3658,4.8787 |52.3668,4.8775 |52.3685,4.8767 |52.3698,4.8755 |52.3719,4.8745 |52.3726,4.8746 |52.3734,4.8754 |52.3743,4.8756 |52.3813,4.8799 |52.3819,4.8796 |52.3823,4.8805 |52.3843,4.8818 |52.3883,4.8847 |52.3882,4.8858 |52.3885,4.8912 |52.3888,4.8957}}
+{{Mapshapes|Q2060132|stroke-width=2.5}}
+{{Mapshapes|Q260870}}
+=== By train ===
+The line between ''Amsterdam Centraal'', Amsterdam's main train station in the heart of its [[Amsterdam/Binnenstad|city centre]], and [[Amsterdam Airport Schiphol]] runs through the middle of Amsterdam-West. There are two stations on that line - '''Amsterdam Lelylaan''' and '''Amsterdam Sloterdijk'''.  Sloterdijk is a major interchange, situated on a railway crossing between the north-south line (serving all of [[North Holland]] north of Amsterdam and connecting to [[South Holland]] via Schiphol) and the east-west line between Amsterdam and [[Haarlem]]. Sloterdijk is served by both Intercity and Sprinter services, Lelylaan is served by Sprinter services only.
+
+=== By metro ===
+Metro lines '''50''' and '''51''' both pass westbound through Amsterdam Zuid station then turn northbound through the West district, terminating at Isolatorweg. Line '''50''' comes via [[Amsterdam/Zuid|Zuid]] from [[Amsterdam/Zuidoost|Zuidoost]] while line '''51''' comes via Zuid from Amsterdam Centraal Station in the [[Amsterdam/Binnenstad|city centre]]. Several metro stations with tram connections are: Heemstedestraat, Lelylaan, Jan van Galenstraat, Burgemeester de Vlugtlaan and Sloterdijk.
+
+[[File:AmsterdamTram.svg|thumbnail|right|Amsterdam tram & metro system]]
+
+=== By tram ===
+These are the tram lines serving the West district as of January 2020:
+* {{go | name=Tram {{rint|amsterdam|1}} | alt=Muiderspoortstation to Osdorp de Akker | url=https://reisinfo.gvb.nl/en/lijnen/1 | email= | address= | lat= | long= | directions= | phone= | tollfree= | hours= | price= | lastedit=2023-11-21 | content=Passes westbound through Leidseplein and Vondelbuurt as it passes to metro station Lelylaan and terminates at Osdorp de Akker.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+* {{go | name=Tram {{rint|amsterdam|2}} | alt=Amsterdam Centraal to Nieuw Sloten | url=https://reisinfo.gvb.nl/en/lijnen/2 | email= | address= | lat= | long= | directions= | phone= | tollfree= | hours= | price= | lastedit=2023-11-21 | content=runs from Amsterdam Centraal via Leidseplein towards Rijksmuseum, passes Vondelpark on the southern side, passes metro station Heemsteedestraat and terminates at Nieuw Sloten in the south-west.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+* {{go | name=Tram {{rint|amsterdam|5}} | alt=Westergasfabriek to Amstelveen Stadshart | url=https://reisinfo.gvb.nl/en/lijnen/5 | email= | address= | lat= | long= | directions= | phone= | tollfree= | hours= | price= | lastedit=2023-11-21 | content=passes Leidseplein traveling north to Van Halsstraat (Westergasfabrik) near Westerpark which has an old gas plant (''gasfabrik'') converted into a cultural centre. Note: Until November 2022, Westergasfabrik is temporarily served by tram '''3''' from Marnixplein instead of line 5.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+* {{go | name=Tram {{rint|amsterdam|7}} | alt=Slotermeer to Azartplein | url=https://reisinfo.gvb.nl/en/lijnen/7 | email= | address= | lat= | long= | directions= | phone= | tollfree= | hours= | price= | lastedit=2023-11-21 | content=runs westbound through Leidseplein with a zig-zag route via Marnixstraat, west on Elandsgracht and Kinkerstraat, north on Hoofdweg, west passing Burgemeester de Vlugtlaan metro station and south on Slotermeerlaan to terminate at Sloterpark (Slotermeer).
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+* {{go | name=Tram {{rint|amsterdam|13}} | alt=Amsterdam Centraal to Geuzenveld | url=https://reisinfo.gvb.nl/en/lijnen/13 | email= | address= | lat= | long= | directions= | phone= | tollfree= | hours= | price= | lastedit=2023-11-21 | content=runs from Amsterdam Centraal through Jordaan and northern Oud-West, then stops at the north end of Rembrandtpark, metro station Jan van Galen-Straat and terminates in Geuzenveld.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+* {{go | name=Tram {{rint|amsterdam|17}} | alt=Amsterdam Centraal to Osdorp Dijkgraafplein | url=https://reisinfo.gvb.nl/en/lijnen/17 | email= | address= | lat= | long= | directions= | phone= | tollfree= | hours= | price= | lastedit=2023-11-21 | content=runs from Amsterdam Centraal through Jordaan, but traverses Oud West further south than '''Tram''' {{rint|amsterdam|13}} and partly overlaps the route of '''Tram''' {{rint|amsterdam|1}}. It passes Lelylaan metro station to terminate at Osdorp Dijkgraafplein.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+* {{go | name=Tram 19 | alt=Diemen Sniep to Sloterdijk | url=https://reisinfo.gvb.nl/en/lijnen/19 | email= | address= | lat= | long= | directions= | phone= | tollfree= | hours= | price= | lastedit=2023-11-21 | content=Passes through Leidseplein on a roughly northwest route to terminate at metro station Sloterdijk.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+
+=== '''By bus''' ===
+* Bus '''18''' runs regularly from Slotervaart via Mercatorplein, de Markthallen, Frederik hendrikbuurt and Haarlemmerplein to Amsterdam Centraal station
+* Bus '''21''' runs regularly from Geuzenveld via Slotermeer, Bos en Lommerplein, Staatsliedenbuurt, (the beautiful) Frederik hendrikplantsoen and Haarlemmer Houttuinen to Amsterdam Centraal station
+[[File:Dog statue.JPG|thumbnail|right|Dog statue in Rembrandpark]]
+
+==See==
+
+===Museums===
+
+* {{see
+| name=Museum Het Schip | alt= | url=https://www.hetschip.nl/en/ | email=
+| address= | lat=52.390514 | long=4.873233 | directions=
+| phone= | tollfree=
+| hours=Tue to Sun 11:00 to 17:00 | price={{currency|EUR|15}} ({{currency|EUR|7.50}} student) includes 20 min. guided tour
+| wikipedia=Het Schip | image=Amsterdam Het Schip 006.JPG | wikidata=Q1616115
+| lastedit=2023-08-27
+| content=A museum about the Amsterdam School architectural style, housed in a building that is probably the city's best example of that style entrance.
+}}
+
+[[File:Westerpark westergasfabriek.jpg|thumbnail|Westergasfabriek, the cultural events venue in Westerpark]]
+
+===Parks===
+
+* {{see
+| name=Rembrandtpark | alt= | url= | email=
+| address= | lat=52.36278 | long=4.84556 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=nl:Rembrandtpark | image=Rembrandtpark1.jpg | wikidata=Q3460619
+| content=Not too far west of the Vondelpark, but much quieter and larger in size.
+}}
+* {{see
+| name=Westerpark | alt= | url=http://www.westergasfabriek.nl/en/ | email=
+| address= | lat=52.38611 | long=4.8775 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Westerpark (park) | image=Westerpark zomer.jpg | wikidata=Q2187279
+| content=A park at the western edge of the centre, with cultural activities in a former gas factory (Westergasfabriek). Access from Haarlemmerweg.
+}}
+
+[[File:1200-roe.jpg|thumbnail|right|De 1200 Roe]]
+
+===Windmills===
+
+Scattered over the district are plenty of windmills. Although only one of them is open to the public, all look good on pictures.
+
+* {{see
+| name=De 1100 Roe (1674) | alt= | url= | email=
+| address= | lat=52.367222 | long=4.797778 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=nl:De 1100 Roe | image=De-1100-Roe-molen.jpg | wikidata=Q2246537
+| content=In the Ookmeer sports fields along Ma Braunpad.
+}}
+* {{see
+| name=De 1200 Roe (1632) | alt= | url= | email=
+| address=Haarlemmerweg 701 | lat=52.384167 | long=4.815 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=nl:De 1200 Roe | image=1200 Roe.jpg | wikidata=Q2677461
+| content=Near Seineweg.
+}}
+
+[[File:WestermarktkanaalmetdeBloem.jpg|thumbnail|right|De Bloem seen from Westermarktkanal]]
+* {{see
+| name=De Bloem (1878) | alt= | url= | email=
+| address=Haarlemmerweg 465 | lat=52.384444 | long=4.86 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=nl:De Bloem | image=De Bloem molen.jpg | wikidata=Q1822494
+| content=at Nieuwpoortkade.
+}}
+* {{see
+| name=De Otter (1631) | alt= | url= | email=
+| address= | lat=52.376111 | long=4.870833 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=De Otter, Amsterdam | image=Otter-mollen-800.jpg | wikidata=Q2746079
+| content=A restored and functioning sawmill, opposite Buyskade, west of the Jordaan.
+}}
+* {{see
+| name=Molen van Sloten | alt= | url=http://www.molenvansloten.nl/en/ | email=
+| address=Akersluis 10 | lat=52.341389 | long=4.792222 | directions=about 10 minutes walk from the terminus of tram line 2
+| phone=+31 20 669 0412 | tollfree= | fax=
+| hours= daily 10:00-16:00 | price=
+| wikipedia=nl:Molen van Sloten | image=Molen-van-Sloten.jpg | wikidata=Q1925731
+| content=In Zuid, the only one open for visitors
+}}
+
+==Do==
+
+==Buy==
+* {{buy
+| name=Ten Katemarkt | alt= | url=http://tenkatemarkt.nl | email=
+| address=Ten Katestraat 97-99 | lat=52.366868 | long=4.866848 | directions=
+| phone= | tollfree= | fax=
+| hours=Mon-Sat 08:00-17:00 | price=
+| image=Amsterdam-TenKatestraatMarkt-20081229.jpg
+| content=Third largest in Amsterdam with food, households, flowers and clothing.
+}}
+
+==Eat==
+* {{eat
+| name=Dosa | alt= | url=https://www.dosarestaurant.nl/ | email=
+| address=Overtoom 146 | lat=52.362458 | long=4.873326 | directions=Vondelpark
+| phone=+31 20 6164 838 | tollfree=
+| hours= | price=€16+ per main
+| lastedit=2023-08-27
+| content=They specialise in traditional Southern Indian cuisine, especially the eponymous 'Dosa' (a rice and lentil pancake with a variety of fillings). The food is outstanding and well worth hunting out. The dosas are exceptional and a treat worthy of a visit by themselves.
+}}
+* {{eat
+| name=Foodhallen | alt= | url=https://www.foodhallen.nl/venues/amsterdam | email=
+| address=Bellamyplein 51 | lat=52.3671 | long=4.8681 | directions=
+| phone= | tollfree=
+| hours=Sun-Thu 12:00-23:00, Fri Sat 12:00-00:00 | price=€10+
+| lastedit=2023-08-27
+| content=International food court with 20 food-stands housed in a large building that was once a tram depot.
+}}
+* {{eat
+| name=Hap Hmm | alt= | url=https://www.hap-hmm.nl/ | email=
+| address=Eerste Helmersstraat 33, 1054 CZ, Amsterdam | lat=52.36371 | long=4.87645 | directions=
+| phone=+312 07708924 | tollfree=
+| hours=Mon-Fri 17:00-21:15, closed Sat Sun | price=€12+ mains
+| lastedit=2023-08-27
+| content=Traditional Dutch cuisine. The restaurant may be cramped, but it does serve some quality and rustic Dutch fare. This place is cash only.
+}}
+* {{eat
+| name=Sora Sapporo Ramen - West | alt= | url=https://ramensora.nl/ | email=
+| address=Marco Polostraat 223H | lat=52.37113 | long=4.85513 | directions=just off the Marco Polostratt tram & bus stop
+| phone=+31 202390780 | tollfree=
+| hours=Mon-Fri 12:30-15:00, 17:00-21:00; Sat Sun 12:00-21:00 | price=€16+
+| lastedit=2023-08-27
+| content=Small ramen restaurant with friendly staff, quick service, and good selection of ramen & appetizers. Also serve beer & sake. Closes early and small seating so might want to reserve on weekends.
+}}
+
+==Drink==
+
+* {{drink
+| name=TonTon Club West | alt= | url=https://tontonclub.nl/ | email=reserveren@tontonclub.nl
+| address=Polonceaukade 27 | lat=52.38601 | long=4.86605 | directions=Bus Van Hallstraat
+| phone=+31 6 13300314 | tollfree=
+| hours=Daily 13:00-01:00 | price=€15+ per main, €1 per game
+| lastedit=2023-08-27
+| content=TonTon Club is an excellent place for a good night out. The place has a unique atmosphere with Japan as its inspiration. Upstairs there are arcades and button bashers, downstairs there's room for drinks and board games. You can also order Japanese snacks. Be early as tables are often reserved.
+}}
+* {{drink
+| name=Cafe L'Affice | alt= | url=http://www.cafelaffiche.nl/ | email=
+| address=Jacob van Lennepstraat 39 | lat=52.36658 | long=4.87475 | directions=
+| phone=+31 2 06121959 | tollfree=
+| hours=Fri Sat 11:30-01:00, Sun-Thu 11:30-00:30 | price=
+| lastedit=2022-06-01
+| content=Small bar with friendly staff and a cosy and candle-lit atmosphere. Selection of beers on tap and in bottles, including a triple blonde specially made for the bar. Small selection of bar food as well.
+}}
+===Nightclubs===
+
+* {{drink | name=Club 8 | alt= | url=https://club-8.nl/ | email= | address=Admiraal de Ruijterweg 56b | lat=52.371253 | long=4.859715 | directions= | phone= | tollfree= | hours= | price= | content=A large alternative place with lots of art on its walls. There's ping pong, a very local and fairly young crowd.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+
+==Sleep==
+=== Budget ===
+* {{sleep
+| name=Hotel ABBA | alt= | url=http://www.hotel-abba.nl/ | email=
+| address=Overtoom 118-122 | lat=52.362765 | long=4.874552 | directions=Vondelpark, Tram: Overtoom or Eerste Constantijn Huygensstraat
+| phone=+31 20 618 3058 | tollfree= | fax=
+| checkin= | checkout= | price=
+| content=Cheap but clean hotel, close to the Van Gogh and Rijksmuseum.
+}}
+* {{sleep | name=MissOrtelia | alt=Baarjes | url=http://www.missortelia.com | email=info@missortelia.com | address=Orteliuskade 51-I | lat= | long= | directions= | phone=+31 616 111 349 | tollfree= | fax= | hours= | price=€40/90 | checkin=flexible | checkout=10:30. Free luggage store | content=Free bikes - Wi-fi free - breakfast included.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+* {{sleep
+| name=Holiday Inn Express Amsterdam - Sloterdijk Station | alt= | url= | email=
+| address= Zaventemweg 3 | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| checkin= | checkout= | price=
+| lastedit=2015-03-23
+| content=This HIExpress is right in the midst of the web of tracks extending around Sloterdijk station, making it very convenient for travel to just about any point in Amsterdam. That said, the actual area around the hotel is a sombre office park and a huge "transferium", so it is best to only come there to sleep and have (free) breakfast.
+}}
+* {{sleep
+| name=Meininger Hotel Amsterdam City West | alt= | url= | email=
+| address=Orlyplein 1-67 | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| checkin= | checkout= | price=€41
+| lastedit=2015-03-23
+| content=The Meininger chain's properties sit somewhere between budget hotels and hostels, with available multi-person rooms with bunk beds and on-site laundrette. The hotel is relatively new and visually attractive if rather basic inside. Again, staying in the midst of Sloterdijk is great for transit possibilities and rather unexciting regarding everything else.
+}}
+* {{sleep
+| name=Stayokay Vondelpark | url=http://www.stayokay.com/vondelpark | email=vondelpark@stayokay.com
+| address=Zandpad 5 | lat=52.361146 | long=4.878186 | directions=Tram Stadhouderskade
+| phone=+31 20 589 8996 | tollfree= | fax=+31 20 589 8955
+| hours= | price=Dorms from €17, privates from €50
+| checkin=early check-in begins at 07:30, rooms available at 14:00 | checkout=10:30
+| content=Fairly large youth hostel, very clean and professional, operated by the Dutch affiliate of Hostelling International. Next to the pleasant Vondelpark, puts you on the south-western side of the city center and just a few blocks from the Van Gogh Museum and the Rijksmuseum. The breakfast is filling and has a social atmosphere. This location is popular with school groups. Bring a padlock for your locker, or purchase one at the desk.
+}}
+
+=== Mid-range ===
+* {{sleep
+| name=Bastion Hotel Amsterdam Zuidwest |alt=| url=https://www.bastionhotels.com/nl-nl/hotels/hotel-amsterdam-zuidwest | email=
+| address=Nachtwachtlaan 11 | lat= | long= | directions=
+| phone=+31 20 669 1621 | tollfree= | fax=
+| hours= | price=
+| checkin= | checkout=
+|lastedit=2019-01-24| content=
+}}
+* {{sleep
+| name=Ramada Apollo Amsterdam Centre | alt= | url= | email=
+| address=Staalmeesterslaan 410 | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| checkin= | checkout= | price=
+| lastedit=2015-03-23
+| content=The Ramada is a solid property, but calling it "Amsterdam Centre" was not even close to reality, as the hotel is at the remote end of Rembrandtpark, close to the A10 ring road running across Amsterdam-West. That said, you will find getting to the city quite easy thanks to them tram 13 stop at the hotel's back and the park provides a tranquil environment. The best rooms have great views of Amsterdam over the park; the less fortunate guests will have to enjoy residential blocks of Slotervaart. The good news is that the hotel has a top-floor restaurant, bar and terrace for everybody to enjoy the best views.
+}}
+* {{sleep
+| name=Roemer Hotel | alt= | url=http://www.hotelroemer.com/en | email=
+| address=Roemer Visscherstraat 10 | lat=52.361774 | long=4.877998 | directions=
+| phone=+31 20 612 01 20 | tollfree= | fax=
+| checkin= | checkout= | price=Doubles from €129
+| content=Trendy boutique hotel.
+}}
+* {{sleep
+| name=Hotel Espresso City Center | alt= 
+| url=https://www.hotelespresso.nl/ | email=
+| address=Overtoom 57 | lat=52.3629 | long=4.8764
+| directions=at Eerste Constantijn Huygensstraat
+| phone=+31 20 412 0880 | tollfree= | fax=
+| hours= | price= 
+| checkin= | checkout=
+| lastedit=2021-11-07
+| content=Near Leidseplein with tram connections and bus to airport. Near Vondelpark and Museumplein. Buffet breakfast available at extra cost. Unlimited free coffee (including koffie verkeerd, the Dutch equivalent of café au lait) for guests in the lobby area.  
+}}
+
+=== Splurge ===
+* {{sleep
+| name=Amsterdam Marriott Hotel | alt= | url=https://www.marriott.com/hotels/travel/amsnt-amsterdam-marriott-hotel/ | email=
+| address=Stadhouderskade 12 | lat=52.362557 | long=4.880102 | directions=
+| phone= | tollfree= | fax=
+| checkin= | checkout= | price=
+| lastedit=2015-03-23
+| content=At the border of ''Oud-West'' and the [[Amsterdam/Canal District|Canal District]], this old-fashioned Marriott can offer a relatively attractive rate and still has a convenient location for exploring the city centre.
+}}
+* {{sleep | name=Park Plaza Amsterdam Airport | url=http://www.parkplaza.com/hotels/netairp | email=ppaares@pphe.com | address=Melbournestraat 1, Lijnden | lat=52.348587 | long=4.765281 | directions= | phone=+31 20 6580 580 | tollfree= | fax=+31 20 6580 585 | hours= | price=From €79 | checkin= | checkout= | content=The hotel has 19 meeting rooms as well as 6 business suites. The hotel provides free shuttle service from and to the airport as well as free wi-fi in public areas.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+
+==Connect==
+
+==Go next==
+
+{{routebox
+| image1=Amsterdam unofficial metro icon line 50.svg
+| imagesize1=22
+| directionl1=W
+| majorl1=END
+| minorl1=
+| directionr1=E
+| majorr1=[[Amsterdam/Binnenstad|Binnenstad]]
+| minorr1=[[Amsterdam/Zuid|Zuid]]
+}}
+
+{{usabledistrict}}
+{{IsPartOf|Amsterdam}}
+{{geo|52.36963|4.84549|zoom=13}}

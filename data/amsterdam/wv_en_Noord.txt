@@ -1,0 +1,148 @@
+{{pagebanner|Ndsm-werf-banner.jpg|pgname=Amsterdam-Noord|caption=Street art at the NDSM-werf|origin=-1,0}}
+[[File:Stadsstrand Pllek.JPG|thumbnail|right|Stadsstrand Pllek]]
+'''Noord''' ([[Dutch phrasebook|Dutch]] for ''North'') is the borough of [[Amsterdam]] north of the IJ. It is a residential district, and with about 86,000 inhabitants, it is a medium-sized city (and it is growing at a rapid pace—three new neighbourhoods are under construction). This district has remained well off the radar among tourists visiting Amsterdam, so amenities are not well-developed. It looks strikingly different from the city centre, so get in with an open mind. Yet, there is more to see than you might think. The ferry to it in itself is a breeze, crossing the river IJ and showing the urban landscape of Noord. Get off at the NDSM shipyard, which functioned as a shipyard until the 1980s, but now boasts a lively art scene. Urban culture comes alive in its large skate park. Then patch up your bicycle, and ride it through the rural farmland in the east. The picturesque villages Ransdorp and Zunderdorp are favourites among the locals for their traditional Dutch farmhouses.
+
+==Get in==
+{{Mapframe|height=350|width=600|52.401|4.915|zoom=12|align=center}}
+{{Mapmask |52.4170,4.8564 |52.4150,4.8649 |52.3994,4.8862 |52.3988,4.8851 |52.3933,4.8928 |52.3888,4.8957 |52.3835,4.8971 |52.3828,4.8984 |52.3810,4.9018 |52.3799,4.9058 |52.3800,4.9110 |52.3808,4.9198 |52.3820,4.9315 |52.3821,4.9524 |52.3824,4.9574 |52.3822,4.9595 |52.3811,4.9618 |52.3717,4.9782 |52.3702,4.9821 |52.3688,4.9876 |52.3683,4.9932 |52.3685,5.0001 |52.3690,5.0048 |52.3703,5.0165 |52.3754,5.0377 |52.3847,5.0671 |52.3887,5.0792 |52.4138,5.0743 |52.4165,5.0683 |52.4166,5.0679 |52.4172,5.0654 |52.4164,5.0637 |52.4163,5.0632 |52.4162,5.0626 |52.4162,5.0621 |52.4165,5.0578 |52.4159,5.0547 |52.4153,5.0509 |52.4151,5.0492 |52.4165,5.0445 |52.4170,5.0426 |52.4172,5.0408 |52.4174,5.0394 |52.4181,5.0369 |52.4182,5.0363 |52.4183,5.0359 |52.4183,5.0355 |52.4183,5.0352 |52.4182,5.0350 |52.4181,5.0348 |52.4178,5.0344 |52.4172,5.0341 |52.4167,5.0335 |52.4163,5.0325 |52.4156,5.0300 |52.4162,5.0301 |52.4168,5.0301 |52.4172,5.0299 |52.4177,5.0297 |52.4189,5.0290 |52.4192,5.0287 |52.4194,5.0284 |52.4198,5.0275 |52.4199,5.0273 |52.4200,5.0269 |52.4201,5.0265 |52.4201,5.0261 |52.4202,5.0256 |52.4201,5.0250 |52.4201,5.0243 |52.4203,5.0236 |52.4204,5.0232 |52.4208,5.0224 |52.4209,5.0222 |52.4211,5.0219 |52.4212,5.0216 |52.4211,5.0213 |52.4211,5.0212 |52.4203,5.0207 |52.4201,5.0205 |52.4200,5.0204 |52.4199,5.0203 |52.4198,5.0202 |52.4198,5.0199 |52.4197,5.0197 |52.4194,5.0190 |52.4191,5.0185 |52.4191,5.0182 |52.4254,5.0003 |52.4254,4.9914 |52.4255,4.9904 |52.4251,4.9904 |52.4245,4.9904 |52.4233,4.9891 |52.4233,4.9890 |52.4233,4.9883 |52.4233,4.9878 |52.4232,4.9877 |52.4228,4.9871 |52.4229,4.9871 |52.4268,4.9826 |52.4228,4.9734 |52.4221,4.9563 |52.4220,4.9559 |52.4225,4.9559 |52.4224,4.9547 |52.4222,4.9541 |52.4222,4.9536 |52.4229,4.9529 |52.4235,4.9524 |52.4232,4.9513 |52.4230,4.9516 |52.4225,4.9516 |52.4219,4.9515 |52.4219,4.9498 |52.4219,4.9497 |52.4215,4.9487 |52.4214,4.9485 |52.4216,4.9478 |52.4171,4.9457 |52.4153,4.9450 |52.4148,4.9446 |52.4143,4.9441 |52.4139,4.9427 |52.4132,4.9396 |52.4124,4.9365 |52.4120,4.9351 |52.4117,4.9311 |52.4116,4.9307 |52.4119,4.9304 |52.4121,4.9304 |52.4124,4.9297 |52.4186,4.9157 |52.4187,4.9147 |52.4185,4.9146 |52.4185,4.9140 |52.4199,4.9105 |52.4207,4.9087 |52.4209,4.9080 |52.4211,4.9081 |52.4212,4.9075 |52.4221,4.9057 |52.4230,4.9036 |52.4236,4.9020 |52.4243,4.8997 |52.4249,4.8967 |52.4255,4.8923 |52.4256,4.8898 |52.4256,4.8874 |52.4256,4.8852 |52.4255,4.8830 |52.4258,4.8826 |52.4259,4.8823 |52.4260,4.8818 |52.4258,4.8806 |52.4257,4.8794 |52.4257,4.8785 |52.4259,4.8777 |52.4262,4.8768 |52.4270,4.8753 |52.4280,4.8743 |52.4280,4.8741 |52.4295,4.8733 |52.4295,4.8727 |52.4299,4.8723 |52.4300,4.8717 |52.4302,4.8710 |52.4304,4.8707 |52.4297,4.8697 |52.4302,4.8690 |52.4305,4.8679 |52.4307,4.8667 |52.4307,4.8660 |52.4304,4.8642 |52.4302,4.8642 |52.4299,4.8627 |52.4298,4.8626 |52.4295,4.8628 |52.4291,4.8627 |52.4288,4.8625 |52.4251,4.8582 |52.4247,4.8579 |52.4242,4.8578 |52.4237,4.8579 |52.4211,4.8598 |52.4208,4.8599 |52.4205,4.8599 |52.4203,4.8598 |52.4200,4.8596 |52.4198,4.8595 |52.4170,4.8564}}
+{{Mapshapes|Q2060132|stroke-width=2.5}} 
+{{Mapshapes|Q260870}}
+
+[[File:Amsterdam Metro M52 diagram.png|thumb|250px|Map of Line 52]]
+[[File:Ijveer 56 amsterdam 2.jpg|thumbnail|right|IJveren (ferries across the IJ) provide a picturesque connection between [[Amsterdam/Binnenstad|Amsterdam Centraal]] and the Noord]]
+The north lies fairly isolated from the rest of Amsterdam, but there is a free GVB ferry from Centraal Station in the [[Amsterdam/Binnenstad|Binnenstad]]. Instead of just being a way to get in, the ferry ride is an attraction in itself. It gives a great view over the urban harbour-front, and shows the diversity of the north's residents. Large signs show when the next boat is departing, and when it does, expect masses of locals to get on with their bicycles. Getting on just before the boat leaves seems to have turned into a sport here. You can take off at different piers, the NDSM shipyard being the most notable. If you want to do some further exploring, be sure to bring a bicycle and a decent map.
+
+Noord is also connected to the rest of Amsterdam by the ''Schellingwouderbrug'' bridge and the three road tunnels ''the Coentunnel'', ''IJtunnel'', and ''Zeeburgertunnel''. Amsterdam's Centraal Station connects via metro line 52, the North/South-line, which has two stops in Noord: {{marker|type=go|name={{Station|Noorderpark|city=Amsterdam|52}}|lat=52.3886 | long=4.9182}} and {{marker|type=go|name={{Station|Noord|city=Amsterdam|52}}|lat=52.4021 | long=4.9325}}. Line 52 is served by one train every six minutes, or ten per hour going either direction. Hence, planning your journey isn't a necessity.
+
+==See==
+
+There's not much to see around here, but you might want to check out the windmill. It's not open to the public. The NDSM-shipyard is also home to the headquarters of Greenpeace.
+
+* {{see
+| name=D'Admiraal (1792) | alt= | url=http://www.krijtmolen.nl/ | email=
+| address=Noordhollandschkanaaldijk 21 | lat=52.4025 | long=4.923333 | directions=12 minutes walk from {{station|Amsterdam, Noord|city=Amsterdam|52}}, 
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=nl:D'Admiraal | image=Molen d'Admiraal.jpg | wikidata=Q3325601
+| content=Windmill on the bank of the Noordhollands Kanaal in the north, ferry from Central Station.
+}}
+
+[[File:EYE Filmmuseum.jpg|thumbnail|right|EYE Film Institute]]
+* {{see
+| name=STRAAT Museum | alt= | url=https://straatmuseum.com/en | email=
+| address=NDSM-Plein 1 | lat=52.4017 | long=4.8942 | directions=on the former NDSM shipyard
+| phone=+31 20 370 9630 | tollfree=
+| hours=Mon 12:00&ndash;17:00, Tue&ndash;Sun 10:00&ndash;17:00 | price=Adults {{EUR|19.50}}, 13-18 yrs {{EUR|9.50}}, 0-12 yrs free
+| wikidata=Q110322021
+| lastedit=2025-12-10
+| content=Museum depicting street art in a large indoor exhibition.
+}}
+
+==Do==
+
+Take the '''ferry over the IJ''' that runs on the north side of Amsterdam Centraal. These are free of charge and provide nice views of the harbor and skyline. Take the ferry to '''Buiksloterweg''' and make a short walk to the EYE Film Institute for its architecture and free exhibition in the basement.
+
+* {{do
+| name=EYE Film Institute Netherlands | alt= | url=https://www.eyefilm.nl/en | email=
+| address=IJpromenade 1 | lat=52.384411 | long=4.900594 | directions={{station|Veer Buiksloterweg (''Ferry Buiksloterweg'') {{RbE|901|mo=Ferry Amsterdam Centraal - Buiksloterweg}} {{RbE|38|mo=Bus 38 - Buiksloterweg - Buiksloterham}} }}
+| phone=+31 20 589-1400 | tollfree= | fax=
+| hours=Sun-Thu 10:00-22:00, Fri Sat 10:00-23:00 | price=
+| wikipedia=EYE Film Institute Netherlands | image=EYE Filmmuseum.jpg | wikidata=Q1538389
+| content=EYE is an institute dedicated to the preservation of film for future generations. It is the successor of the Filmmuseum. It has four film theatres with alternative screenings such as art films. In April the Imagine Film Festival is held here with screenings dedicated to exploitation, cult and lower-budget films. Well worth it if you're a fan of the genre.
+}}
+
+==Buy==
+
+* {{buy
+| name=Buikslotermeerplein Boven 't Y Shopping Mall | alt=Boven 't Y | url=http://www.boventy.nl | email=info@boventy.nl
+| address=Buikslotermeerplein Amsterdam | lat=52.39861 | long=4.93778 | directions={{Station|Hildsven {{RbE|31}} {{RbE|36}} {{RbE|37}} }}
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=nl:Boven 't Y | image=Boven 't Y.JPG | wikidata=Q2436715
+| content=
+}}
+
+==Eat==
+* {{eat
+| name=Café Modern B.V. | alt= | url=https://modernamsterdam.nl/ | email=
+| address=Meidoornweg 2 | lat=52.38646 | long=4.90912 | directions=
+| phone=+31 20 494 0684 | tollfree=
+| hours= | price=
+| wikipedia= | wikidata=
+| lastedit=2018-03-19
+| content=A restaurant and cafe in a hall which used to be a bank.
+}}
+* {{eat | name=Café-restaurant Stork | alt= | url=http://restaurantstork.nl/en/ | email=info@restaurantstork.nl | address=Gedempt Hamerkanaal 201 | lat=52.3823 | long=4.9203 | directions= | phone=+31 20 634 4000 | tollfree= | hours= | price= | wikipedia= | wikidata= | lastedit=2018-03-19 | content=A fish and seafood restaurant in an old factory on the banks of the river. 
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+* {{eat
+| name=Hangar Amsterdam | alt= | url=https://hangar.amsterdam/ | email=info@hangar.amsterdam
+| address=Aambeeldstraat 36 | lat=52.3839 | long=4.9305 | directions=Next to Hotel Goudfazant
+| phone=+31 20 363 8657 | tollfree=
+| hours= | price=
+| wikipedia= | wikidata=
+| lastedit=2018-03-19
+| content=A redesigned aircraft hangar, turned restaurant.
+}}
+* {{eat
+| name=Mount Everest Tandoori | alt= | url=http://mteveresttandoori.nl/ | email=info@mteveresttandoori.nl
+| address=Spreeuwenpark 3 | lat=52.3839 | long=4.9129 | directions=
+| phone=+31 20 632 6055 | tollfree=
+| hours= | price=
+| wikipedia= | wikidata=
+| lastedit=2018-03-19
+| content=An Indian and Nepalese restaurant. Vegetarian friendly. 
+}}
+* {{eat
+| name=Pllek | alt= | url=http://www.pllek.nl/ | email=info@pllek.nl
+| address=Tt. Neveritaweg 59 | lat=52.3992 | long=4.8930 | directions=
+| phone=+31 20 290 0020 | tollfree=
+| hours= | price=
+| wikipedia= | wikidata=
+| lastedit=2018-03-19
+| content=A bar and restaurant in an old industrial area, by the river.
+}}
+[[File:Flickr - NewsPhoto! - opening 'over het IJ festival' 2009 (3).jpg|thumbnail|right|Over het IJ Festival at NDSM]]
+
+==Drink==
+
+* {{drink
+| name=Cafe De Pont | alt= | url=http://cafedepont.nl | email=
+| address=Buiksloterweg 3-5, 1031 CC Amsterdam | lat=52.38254 | long=4.90338 | directions=
+| phone=+31 20 636 3388 | tollfree= | fax=
+| hours= | price=
+| content=
+}}
+* {{drink
+| name=Tolhuistuin | alt= | url=http://tolhuistuin.nl | email=
+| address=Tolhuisweg 5, 1031 CL Amsterdam | lat=52.38310 | long=4.90483 | directions=
+| phone=+31 20 7630650 | tollfree= | fax=
+| hours= | price=
+| content=
+}}
+
+==Sleep==
+
+* {{sleep
+| name=NH Galaxy | alt= | url=http://nh-hotels.nl | email=
+| address=Distelkade 21, 1031 XP Amsterdam | lat=52.39234 | long=4.91060 | directions={{Station|Mosplein {{RbE|34}} {{RbE|35}} {{RbE|36}} {{RbE|391|red}} {{RbE|394|red}} }}
+| phone=+31 20 634-800 | tollfree= | fax=
+| checkin= | checkout= | price=
+| content=
+}}
+* {{sleep
+| name=Bastion Hotel Amsterdam Noord | alt= | url=https://www.bastionhotels.com/en-gb/hotels/hotel-amsterdam-noord | email=
+| address=Rode Kruisstraat 28 | lat=52.396059 | long=4.928639 | directions=
+| phone=+31 20 632-3131 | tollfree= | fax=
+| checkin= | checkout= | price=
+|lastedit=2019-01-24| content=3-star hotel with 86 rooms.
+}}
+
+==Connect==
+
+==Go next==
+
+You can make a full-day cycling tour along the coast, taking in [[Marken]], [[Monnickendam]], [[Volendam]], [[Edam]], [[Broek in Waterland]] and other villages of the [[Zaanstreek-Waterland|Waterland]] region.
+
+{{usabledistrict}}
+{{IsPartOf|Amsterdam}}
+{{geo|52.39991|4.95930|zoom=13}}

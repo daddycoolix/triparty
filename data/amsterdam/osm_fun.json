@@ -1,0 +1,5921 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-11-14T17:02:51Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 73066821,
+  "lat": 52.3555886,
+  "lon": 4.9250023,
+  "tags": {
+    "amenity": "recycling",
+    "name": "Joe's Garage",
+    "recycling:batteries": "no",
+    "recycling:books": "yes",
+    "recycling:cans": "no",
+    "recycling:cardboard": "no",
+    "recycling:clothes": "yes",
+    "recycling:electrical_appliances": "yes",
+    "recycling:glass": "no",
+    "recycling:glass_bottles": "no",
+    "recycling:green_waste": "no",
+    "recycling:magazines": "no",
+    "recycling:newspaper": "no",
+    "recycling:paper": "no",
+    "recycling:paper_packaging": "no",
+    "recycling:plastic": "no",
+    "recycling:plastic_bottles": "no",
+    "recycling:plastic_packaging": "no",
+    "recycling:scrap_metal": "no",
+    "recycling:small_appliances": "yes",
+    "recycling:waste": "no",
+    "recycling:wood": "no",
+    "recycling_type": "centre",
+    "source": "knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 251528269,
+  "lat": 52.3664188,
+  "lon": 4.8963193,
+  "tags": {
+    "addr:city": "Amsterdam",
+    "addr:country": "NL",
+    "addr:housenumber": "11",
+    "addr:postcode": "1017CT",
+    "addr:street": "Rembrandtplein",
+    "amenity": "nightclub",
+    "check_date": "2024-07-19",
+    "email": "contact@escape.nl",
+    "name": "Escape",
+    "phone": "+31 20 622 1111",
+    "source": "BAG",
+    "source:date": "2014-02-11",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 252315515,
+  "lat": 52.3964212,
+  "lon": 4.7589632,
+  "tags": {
+    "created_by": "JOSM",
+    "name": "Paintball Jungle",
+    "sport": "paintball"
+  }
+},
+{
+  "type": "node",
+  "id": 349012999,
+  "lat": 52.3619174,
+  "lon": 4.8991929,
+  "tags": {
+    "addr:housenumber": "119",
+    "addr:street": "Utrechtsestraat",
+    "amenity": "pub",
+    "check_date": "2025-06-06",
+    "internet_access": "wlan",
+    "internet_access:fee": "customers",
+    "name": "Onder de Ooievaar",
+    "opening_hours": "Mo-Th 10:00-01:00; Fr-Sa 10:00-03:00; Su 10:30-01:00",
+    "outdoor_seating": "yes",
+    "sport": "billiards",
+    "toilets": "yes",
+    "toilets:menstrual_products": "no",
+    "toilets:wheelchair": "no",
+    "website": "https://www.onderdeooievaar.nl",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 411682188,
+  "lat": 52.3692190,
+  "lon": 4.8515383,
+  "tags": {
+    "access": "yes",
+    "amenity": "parking",
+    "capacity": "208",
+    "fee": "yes",
+    "name": "Parkeergarage Mercatorplein",
+    "parking": "underground"
+  }
+},
+{
+  "type": "node",
+  "id": 520151326,
+  "lat": 52.3641699,
+  "lon": 4.8781170,
+  "tags": {
+    "addr:city": "Amsterdam",
+    "addr:housenumber": "5",
+    "addr:postcode": "1054CX",
+    "addr:street": "Eerste Helmersstraat",
+    "amenity": "pub",
+    "check_date": "2026-10-14",
+    "indoor_seating": "yes",
+    "name": "Keu Poolcafe",
+    "outdoor_seating": "no",
+    "sport": "billiards",
+    "website": "https://www.dekeu.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 528819856,
+  "lat": 52.3771504,
+  "lon": 4.6368548,
+  "tags": {
+    "access": "yes",
+    "amenity": "parking_entrance",
+    "maxheight": "2",
+    "name": "Parkeergarage de Kamp",
+    "parking": "multi-storey"
+  }
+},
+{
+  "type": "node",
+  "id": 564721624,
+  "lat": 52.3051345,
+  "lon": 4.6953443,
+  "tags": {
+    "amenity": "parking_entrance",
+    "brand": "Q-Park",
+    "brand:wikidata": "Q1127798",
+    "capacity": "220",
+    "fee": "yes",
+    "name": "Q-Park Centrumgarage",
+    "operator": "Q-Park",
+    "operator:wikidata": "Q1127798",
+    "parking": "multi-storey"
+  }
+},
+{
+  "type": "node",
+  "id": 602819468,
+  "lat": 52.3027198,
+  "lon": 4.8585454,
+  "tags": {
+    "addr:city": "Amstelveen",
+    "addr:housenumber": "101",
+    "addr:postcode": "1181ZM",
+    "addr:street": "Stadsplein",
+    "amenity": "parking_entrance",
+    "brand": "Q-Park",
+    "brand:wikidata": "Q1127798",
+    "brand:wikipedia": "en:Q-Park",
+    "capacity": "600",
+    "fee": "yes",
+    "name": "Q-Park Schouwburggarage",
+    "opening_hours": "24/7",
+    "operator": "Q-Park",
+    "operator:wikidata": "Q1127798",
+    "operator:wikipedia": "en:Q-Park",
+    "parking": "multi-storey"
+  }
+},
+{
+  "type": "node",
+  "id": 667482303,
+  "lat": 52.3944604,
+  "lon": 4.6385002,
+  "tags": {
+    "access": "yes",
+    "addr:city": "Haarlem",
+    "addr:housenumber": "12",
+    "addr:postcode": "2023JG",
+    "addr:street": "Kleverlaan",
+    "amenity": "parking_entrance",
+    "level": "-1",
+    "maxheight": "2.1",
+    "name": "Parkeergarage Cronjé",
+    "parking": "underground",
+    "source": "BAG",
+    "source:date": "2017-06-08"
+  }
+},
+{
+  "type": "node",
+  "id": 675693819,
+  "lat": 52.3815604,
+  "lon": 4.6290132,
+  "tags": {
+    "access": "yes",
+    "addr:city": "Haarlem",
+    "addr:country": "NL",
+    "addr:housenumber": "45",
+    "addr:postcode": "2011VB",
+    "addr:street": "Zijlvest",
+    "amenity": "parking_entrance",
+    "level": "-1",
+    "maxheight": "2",
+    "name": "Parkeergarage Raaks",
+    "parking": "underground"
+  }
+},
+{
+  "type": "node",
+  "id": 677422242,
+  "lat": 52.3802454,
+  "lon": 4.6394029,
+  "tags": {
+    "access": "yes",
+    "addr:city": "Haarlem",
+    "addr:housenumber": "12",
+    "addr:street": "Damstraat",
+    "amenity": "parking_entrance",
+    "level": "-1",
+    "maxheight": "2",
+    "name": "Parkeergarage Appelaar",
+    "parking": "underground"
+  }
+},
+{
+  "type": "node",
+  "id": 685340424,
+  "lat": 52.4134040,
+  "lon": 4.6795720,
+  "tags": {
+    "name": "Garage Spaarndam",
+    "shop": "car",
+    "source": "local survey 04-02-17"
+  }
+},
+{
+  "type": "node",
+  "id": 685340478,
+  "lat": 52.4134224,
+  "lon": 4.6793918,
+  "tags": {
+    "name": "Garage Spaarndam",
+    "shop": "bicycle"
+  }
+},
+{
+  "type": "node",
+  "id": 775870806,
+  "lat": 52.3466165,
+  "lon": 4.8329482,
+  "tags": {
+    "addr:city": "Amsterdam",
+    "addr:housenumber": "3",
+    "addr:postcode": "1066BP",
+    "addr:street": "Aletta Jacobslaan",
+    "branch": "Amsterdam West",
+    "brand": "Shurgard Storage Centers",
+    "brand:wikidata": "Q3482670",
+    "name": "Shurgard Self-Storage",
+    "phone": "+31 20 511 0900",
+    "phone:NL": "0800 4100",
+    "shop": "storage_rental",
+    "source": "BAG",
+    "source:date": "2014-03-24",
+    "website": "https://www.shurgard.com/nl-nl/opslagruimte-in-nederland/amsterdam/amsterdam-west"
+  }
+},
+{
+  "type": "node",
+  "id": 872644505,
+  "lat": 52.3776204,
+  "lon": 4.9149869,
+  "tags": {
+    "access": "yes",
+    "addr:city": "Amsterdam",
+    "addr:country": "NL",
+    "addr:housenumber": "59",
+    "addr:postcode": "1019GM",
+    "addr:street": "Piet Heinkade",
+    "amenity": "parking",
+    "capacity": "400",
+    "capacity:charging": "20",
+    "capacity:disabled": "5",
+    "charge": "5.16 EUR/hour;51.60 EUR/day;0.86 Eur/10minutes",
+    "fee": "yes",
+    "layer": "-1",
+    "maxheight": "2.6",
+    "name": "Piet Hein garage",
+    "opening_hours": "24/7",
+    "parking": "underground",
+    "payment:american_express": "yes",
+    "payment:cash": "no",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:v_pay": "yes",
+    "payment:visa": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1052799818,
+  "lat": 52.3712791,
+  "lon": 4.8620491,
+  "tags": {
+    "amenity": "pub",
+    "name": "Club 8",
+    "sport": "billiards"
+  }
+},
+{
+  "type": "node",
+  "id": 1223057292,
+  "lat": 52.3822050,
+  "lon": 4.8881724,
+  "tags": {
+    "addr:city": "Amsterdam",
+    "addr:housenumber": "44-H",
+    "addr:postcode": "1013JD",
+    "addr:street": "Haarlemmerdijk",
+    "amenity": "pub",
+    "check_date": "2026-04-24",
+    "indoor_seating": "yes",
+    "internet_access": "wlan",
+    "internet_access:fee": "customers",
+    "name": "Café de Poort",
+    "opening_hours": "Mo-Th, Su 11:00-01:00; Fr, Sa 11:00-03:00",
+    "outdoor_seating": "yes",
+    "phone": "+31 20 624 7283",
+    "source": "BAG",
+    "source:date": "2014-02-11",
+    "sport": "billiards",
+    "website": "https://cafedepoort.amsterdam",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1330076805,
+  "lat": 52.3814070,
+  "lon": 4.6311032,
+  "tags": {
+    "addr:city": "Haarlem",
+    "addr:housenumber": "16",
+    "addr:postcode": "2011XW",
+    "addr:street": "Drossestraat",
+    "leisure": "amusement_arcade",
+    "name": "The Game Box",
+    "source": "BAG",
+    "source:date": "2014-02-11",
+    "website": "https://thegamebox.nl/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1413233649,
+  "lat": 52.3078014,
+  "lon": 5.2418536,
+  "tags": {
+    "addr:city": "Huizen",
+    "addr:housenumber": "295",
+    "addr:postcode": "1271GD",
+    "addr:street": "Havenstraat",
+    "email": "info@coronel.nl",
+    "fax": "+31 35 526 8074",
+    "leisure": "sports_centre",
+    "name": "Coronel Kartracing",
+    "phone": "+31 35 526 5053",
+    "source": "BAG",
+    "source:date": "2014-05-20",
+    "sport": "karting",
+    "website": "https://www.coronel.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 1436379684,
+  "lat": 52.3610861,
+  "lon": 4.8699879,
+  "tags": {
+    "addr:housenumber": "209",
+    "addr:street": "Overtoom",
+    "amenity": "pub",
+    "name": "Plan B",
+    "opening_hours": "Fr 14:00-03:00; Sa 11:00-03:00; Su 11:00-01:00; Mo-Th 14:00-01:00",
+    "phone": "+31 20 845 6221",
+    "sport": "billiards",
+    "website": "https://www.planbovertoom.nl/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1436381222,
+  "lat": 52.3640800,
+  "lon": 4.8864459,
+  "tags": {
+    "leisure": "sports_centre",
+    "name": "Snooker - FinalTouch",
+    "sport": "billiards",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1436385094,
+  "lat": 52.3527910,
+  "lon": 4.8955288,
+  "tags": {
+    "amenity": "pub",
+    "name": "Van den Broek Biljarts",
+    "sport": "billiards"
+  }
+},
+{
+  "type": "node",
+  "id": 1655770343,
+  "lat": 52.3589585,
+  "lon": 4.8256258,
+  "tags": {
+    "name": "Schinkel Garage",
+    "shop": "car_repair"
+  }
+},
+{
+  "type": "node",
+  "id": 1695924107,
+  "lat": 52.4250005,
+  "lon": 4.9952885,
+  "tags": {
+    "artist_name": "Heleen Levano",
+    "artwork_type": "statue",
+    "material": "bronze",
+    "model": "Arie Stolk (ⴕ)",
+    "name": "De Turfdrager",
+    "source": "https://www.volgermeer.nl/dossiers/geschiedenis",
+    "tourism": "artwork",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1702587593,
+  "lat": 52.3443624,
+  "lon": 4.8913872,
+  "tags": {
+    "addr:city": "Amsterdam",
+    "addr:housenumber": "3",
+    "addr:postcode": "1078GR",
+    "addr:street": "Scheldeplein",
+    "email": "info@knijnbowling.nl",
+    "fax": "+31 20 679 8931",
+    "leisure": "bowling_alley",
+    "name": "Knijn Bowling",
+    "opening_hours": "Mo-Th 10:00-00:00; Fr 10:00-00:30; Sa 12:00-00:30; Su 12:00-23:00",
+    "phone": "+31 20 664 2211",
+    "sport": "10pin",
+    "website": "https://www.knijnbowling.nl"
+  }
+},
+{
+  "type": "node",
+  "id": 1723227279,
+  "lat": 52.3702870,
+  "lon": 4.8802861,
+  "tags": {
+    "addr:city": "Amsterdam",
+    "addr:housenumber": "119",
+    "addr:street": "Elandsstraat",
+    "amenity": "pub",
+    "check_date": "2024-05-20",
+    "description": "Women's bar in the Jordaan area",
+    "lgbtq": "primary",
+    "lgbtq:women": "primary",
+    "name": "Saarein",
+    "opening_hours": "Mo off; Tu-Th 17:00-01:00; Sa, Su 17:00-02:00",
+    "sport": "billiards",
+    "website": "https://cafesaarein.nl/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1744125977,
+  "lat": 52.2776573,
+  "lon": 4.8366705,
+  "tags": {
+    "addr:city": "Amstelveen",
+    "addr:housenumber": "81",
+    "addr:postcode": "1187XC",
+    "addr:street": "Bovenkerkerweg",
+    "description": "Sport- en Partycentrum De Kegel",
+    "email": "info@dekegel.nl",
+    "fax": "+31 87 784 9083",
+    "leisure": "sports_centre",
+    "name": "De Kegel",
+    "opening_hours": "We,Su 13:00-22:00; Th,Sa 13:00-24:00; Fr 15:00-24:00",
+    "phone": "+31 20 645 5557",
+    "sport": "10pin",
+    "website": "https://www.dekegel.nl"
+  }
+},
+{
+  "type": "node",
+  "id": 1790354616,
+  "lat": 52.4547986,
+  "lon": 5.0388603,
+  "tags": {
+    "name": "Garage Boom",
+    "shop": "car_repair"
+  }
+},
+{
+  "type": "node",
+  "id": 1809706199,
+  "lat": 52.3683667,
+  "lon": 5.2178478,
+  "tags": {
+    "access": "yes",
+    "amenity": "parking_entrance",
+    "name": "Schippergarage",
+    "parking": "underground"
+  }
+},
+{
+  "type": "node",
+  "id": 1809708766,
+  "lat": 52.3699585,
+  "lon": 5.2174937,
+  "tags": {
+    "amenity": "parking_entrance",
+    "entrance": "entrance",
+    "fee": "yes",
+    "layer": "-1",
+    "name": "Krakelinggarage",
+    "parking": "underground"
+  }
+},
+{
+  "type": "node",
+  "id": 1809708811,
+  "lat": 52.3700405,
+  "lon": 5.2174526,
+  "tags": {
+    "amenity": "parking_entrance",
+    "entrance": "exit",
+    "fee": "yes",
+    "layer": "-1",
+    "name": "Krakelinggarage",
+    "parking": "underground"
+  }
+},
+{
+  "type": "node",
+  "id": 1862125350,
+  "lat": 52.2710186,
+  "lon": 5.2433537,
+  "tags": {
+    "amenity": "fuel",
+    "name": "Garage en servicestation Vos"
+  }
+},
+{
+  "type": "node",
+  "id": 1898305092,
+  "lat": 52.2972426,
+  "lon": 5.2345411,
+  "tags": {
+    "amenity": "parking",
+    "capacity": "120",
+    "fee": "no",
+    "layer": "-1",
+    "maxstay": "2 hours",
+    "name": "AH garage",
+    "parking": "underground",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 1898305099,
+  "lat": 52.2970178,
+  "lon": 5.2332563,
+  "tags": {
+    "amenity": "parking",
+    "capacity": "81",
+    "layer": "-1",
+    "name": "Blokker garage",
+    "parking": "underground",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 1979808767,
+  "lat": 52.4310807,
+  "lon": 4.6440988,
+  "tags": {
+    "addr:city": "Santpoort-Noord",
+    "addr:housenumber": "172",
+    "addr:postcode": "2071EM",
+    "addr:street": "Hoofdstraat",
+    "name": "De Laserspecialist",
+    "shop": "beauty",
+    "source": "BAG",
+    "source:date": "2014-03-24",
+    "website": "https://delaserspecialistsantpoort.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 2149148737,
+  "lat": 52.3862038,
+  "lon": 4.6362921,
+  "tags": {
+    "addr:city": "Haarlem",
+    "addr:housenumber": "68A",
+    "addr:postcode": "2011LE",
+    "addr:street": "Kruisweg",
+    "amenity": "clinic",
+    "healthcare": "clinic",
+    "name": "Lasercentrum Haarlem",
+    "source": "BAG",
+    "source:date": "2014-02-11",
+    "website": "https://www.lasercentrumbiltstraat.nl/vestigingen/lasercentrum-haarlem/"
+  }
+},
+{
+  "type": "node",
+  "id": 2222293341,
+  "lat": 52.4165457,
+  "lon": 4.6471977,
+  "tags": {
+    "access": "yes",
+    "addr:city": "Haarlem",
+    "addr:housenumber": "128",
+    "addr:postcode": "2025ND",
+    "addr:street": "Generaal Spoorlaan",
+    "amenity": "parking_entrance",
+    "image": "https://www.masset.nl/wp-content/uploads/2021/02/Slider-2-Parkeergarage-Marsmanplein-1700x1330.jpg",
+    "level": "0",
+    "name": "Parkeergarage Marsmanplein",
+    "parking": "underground",
+    "source": "BAG",
+    "source:date": "2014-02-11"
+  }
+},
+{
+  "type": "node",
+  "id": 2231887299,
+  "lat": 52.3748833,
+  "lon": 4.8419930,
+  "tags": {
+    "addr:city": "Amsterdam",
+    "addr:housenumber": "297",
+    "addr:postcode": "1061MD",
+    "addr:street": "Erasmusgracht",
+    "bar": "yes",
+    "climbing:boulder": "yes",
+    "climbing:length:max": "15",
+    "climbing:sport": "yes",
+    "currency:XBT": "no",
+    "fee": "yes",
+    "indoor": "yes",
+    "leisure": "sports_centre",
+    "name": "Climbing Center Amsterdam",
+    "opening_hours": "Mo-Tu,Th-Fr 12:00-23:00; We 09:00-23:00; Sa-Su 09:00-21:00",
+    "operator": "Climbing Network",
+    "outdoor": "yes",
+    "panoramax": "fccaa3f0-7010-4988-bf2d-2d27ba5e28a6",
+    "payment:coins": "no",
+    "payment:contactless": "yes",
+    "payment:cryptocurrencies": "no",
+    "payment:debit_cards": "yes",
+    "payment:notes": "no",
+    "phone": "+31 88 123 6835",
+    "shop": "climbing",
+    "source": "BAG",
+    "source:date": "2014-03-24",
+    "sport": "bouldering;climbing;fitness",
+    "terrace": "yes",
+    "website": "https://www.climbingnetwork.nl/indoor/locatie/climbingcenter-amsterdam",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 2270458123,
+  "lat": 52.3834746,
+  "lon": 4.9292779,
+  "tags": {
+    "addr:city": "Amsterdam",
+    "addr:housenumber": "26",
+    "addr:postcode": "1021KB",
+    "addr:street": "Aambeeldstraat",
+    "check_date": "2026-06-01",
+    "climbing:boulder": "yes",
+    "email": "amsterdam@monk.nl",
+    "fee": "yes",
+    "indoor": "yes",
+    "internet_access": "wlan",
+    "internet_access:fee": "customers",
+    "leisure": "sports_centre",
+    "level": "0",
+    "name": "MONK bouldergym Amsterdam",
+    "opening_hours": "09:00-24:00",
+    "opening_hours:url": "https://monk.nl/amsterdam/openingstijden/",
+    "outdoor": "no",
+    "payment:cash": "no",
+    "phone": "+31 20 737 0598",
+    "sport": "climbing",
+    "toilets:menstrual_products": "yes",
+    "toilets:unisex": "yes",
+    "website": "https://monk.nl/amsterdam/"
+  }
+},
+{
+  "type": "node",
+  "id": 2297656840,
+  "lat": 52.3580125,
+  "lon": 4.7963193,
+  "tags": {
+    "addr:city": "Amsterdam",
+    "addr:housenumber": "2",
+    "addr:postcode": "1069DH",
+    "addr:street": "Emmikhovenstraat",
+    "name": "Garage Tussenmeer",
+    "phone": "+31 20 619 9242",
+    "shop": "car_repair"
+  }
+},
+{
+  "type": "node",
+  "id": 2376930912,
+  "lat": 52.3626253,
+  "lon": 4.9094860,
+  "tags": {
+    "addr:city": "Amsterdam",
+    "addr:housenumber": "110",
+    "addr:postcode": "1018WT",
+    "addr:street": "Nieuwe Achtergracht",
+    "amenity": "bar",
+    "contact:email": "info@indegracht.nl",
+    "contact:facebook": "https://www.facebook.com/poollokaaldegracht/",
+    "name": "De Gracht",
+    "name:prefix": "Poollokaal",
+    "opening_hours": "Su-Th 12:00-01:00; Fr-Sa 12:00-03:00",
+    "phone": "+31 20 620 1908",
+    "sport": "pool;billiards;darts;chess",
+    "website": "https://indegracht.nl",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2421194275,
+  "lat": 52.3656911,
+  "lon": 4.8698336,
+  "tags": {
+    "name": "Garage Billy",
+    "shop": "car_repair",
+    "source": "knowledge",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2592755331,
+  "lat": 52.3683880,
+  "lon": 5.2180007,
+  "tags": {
+    "access": "yes",
+    "amenity": "parking_entrance",
+    "name": "Schippergarage",
+    "parking": "underground"
+  }
+},
+{
+  "type": "node",
+  "id": 2593810294,
+  "lat": 52.5217926,
+  "lon": 4.7053225,
+  "tags": {
+    "addr:city": "Uitgeest",
+    "addr:housenumber": "73",
+    "addr:postcode": "1911HC",
+    "addr:street": "Wethouder Twaalfhovenstraat",
+    "name": "Garage Van West",
+    "shop": "car_repair",
+    "source": "BAG",
+    "source:date": "2014-05-28"
+  }
+},
+{
+  "type": "node",
+  "id": 2608423865,
+  "lat": 52.3495482,
+  "lon": 5.2236074,
+  "tags": {
+    "name": "Garagebedrijf Anslijn",
+    "shop": "car_repair"
+  }
+},
+{
+  "type": "node",
+  "id": 2613478153,
+  "lat": 52.3693653,
+  "lon": 4.8511962,
+  "tags": {
+    "amenity": "parking_entrance",
+    "name": "Parkeergarage Mercatorplein",
+    "parking": "underground"
+  }
+},
+{
+  "type": "node",
+  "id": 2681364161,
+  "lat": 52.3378382,
+  "lon": 5.2221108,
+  "tags": {
+    "artist_name": "Maarten Manson",
+    "name": "Escape 2",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 2681364162,
+  "lat": 52.3379388,
+  "lon": 5.2221482,
+  "tags": {
+    "artist_name": "Maarten Manson",
+    "name": "Escape 2",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 2711747972,
+  "lat": 52.3723045,
+  "lon": 4.6338576,
+  "tags": {
+    "addr:city": "Haarlem",
+    "addr:housenumber": "1",
+    "addr:postcode": "2012BG",
+    "addr:street": "Twijnderslaan",
+    "name": "Garage Spaarnehout",
+    "shop": "car_repair",
+    "source": "BAG",
+    "source:date": "2014-02-11",
+    "website": "https://garagespaarnehout.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 2714788715,
+  "lat": 52.3879124,
+  "lon": 4.6086343,
+  "tags": {
+    "addr:city": "Overveen",
+    "addr:housenumber": "18",
+    "addr:postcode": "2051BB",
+    "addr:street": "Zijlweg",
+    "amenity": "pub",
+    "contact:email": "info@cafesligting.nl",
+    "contact:phone": "+31 23 527 7453",
+    "food": "no",
+    "name": "Café Sligting",
+    "opening_hours": "Mo-Fr 15:00-23:59; Sa 15:00-23:00; Su 16:00-21:00",
+    "smoking": "isolated",
+    "source": "BAG",
+    "source:date": "2014-02-11",
+    "sport": "billiards",
+    "start_date": "1905",
+    "website": "https://www.cafesligting.nl"
+  }
+},
+{
+  "type": "node",
+  "id": 2715834740,
+  "lat": 52.3912893,
+  "lon": 4.6493244,
+  "tags": {
+    "addr:city": "Haarlem",
+    "addr:housenumber": "120B",
+    "addr:postcode": "2021KA",
+    "addr:street": "Spaarndamseweg",
+    "brand": "De Klimmuur",
+    "brand:website": "https://www.deklimmuur.nl/",
+    "check_date": "2023-10-11",
+    "climbing:boulder": "yes",
+    "climbing:sport": "yes",
+    "email": "haarlem@deklimmuur.nl",
+    "fee": "yes",
+    "indoor": "yes",
+    "internet_access": "wlan",
+    "internet_access:fee": "customers",
+    "leisure": "sports_centre",
+    "name": "Klimmuur Haarlem",
+    "opening_hours": "Mo-Fr 13:00-23:00; Sa 09:00-18:00; Su 09:00-23:00",
+    "operator:website": "https://www.deklimmuur.nl/klimmen/klimmuur-haarlem/",
+    "phone": "+31 23 525 9997",
+    "source": "BAG",
+    "source:date": "2014-02-11",
+    "sport": "climbing",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2715840417,
+  "lat": 52.3935283,
+  "lon": 4.6415838,
+  "tags": {
+    "addr:city": "Haarlem",
+    "addr:housenumber": "46",
+    "addr:postcode": "2021JJ",
+    "addr:street": "Generaal Cronjéstraat",
+    "beauty": "eyelash;nails",
+    "name": "Beauty Garage",
+    "shop": "hairdresser",
+    "source": "BAG",
+    "source:date": "2014-02-11",
+    "website": "https://beauty-garage.eu/"
+  }
+},
+{
+  "type": "node",
+  "id": 2720651492,
+  "lat": 52.3949369,
+  "lon": 4.6530428,
+  "tags": {
+    "addr:city": "Haarlem",
+    "addr:housenumber": "1",
+    "addr:postcode": "2031EL",
+    "addr:street": "Pieter Goedkoopweg",
+    "branch": "Haarlem",
+    "brand": "Shurgard Storage Centers",
+    "brand:wikidata": "Q3482670",
+    "name": "Shurgard Self-Storage",
+    "phone": "+31 23 5530540",
+    "phone:NL": "0800 4100",
+    "shop": "storage_rental",
+    "source": "BAG",
+    "source:date": "2014-02-11",
+    "website": "https://www.shurgard.com/nl-nl/opslagruimte-in-nederland/haarlem/haarlem"
+  }
+},
+{
+  "type": "node",
+  "id": 2720651585,
+  "lat": 52.3862348,
+  "lon": 4.6632433,
+  "tags": {
+    "addr:city": "Haarlem",
+    "addr:housenumber": "141",
+    "addr:postcode": "2031CC",
+    "addr:street": "Oudeweg",
+    "branch": "Haarlem",
+    "brand": "Eurobox Self Storage",
+    "brand:website": "https://www.euroboxselfstorage.nl",
+    "brand:wikidata": "Q135337900",
+    "name": "Eurobox Self Storage",
+    "phone": "+31 23 5248284",
+    "shop": "storage_rental",
+    "source": "BAG",
+    "source:date": "2014-02-11",
+    "website": "https://www.euroboxselfstorage.nl/vestigingen/noord-holland/haarlem"
+  }
+},
+{
+  "type": "node",
+  "id": 2721832932,
+  "lat": 52.3736633,
+  "lon": 4.8823475,
+  "tags": {
+    "addr:city": "Amsterdam",
+    "addr:housenumber": "9-H",
+    "addr:postcode": "1016LP",
+    "addr:street": "Rozengracht",
+    "amenity": "fast_food",
+    "check_date": "2023-06-18",
+    "cuisine": "burger",
+    "drive_through": "no",
+    "mobile": "+31 6 57439738",
+    "name": "Maijard Smashburgers",
+    "name:nl": "Maijard Smashburgers",
+    "panoramax": "142b4f44-0cdd-451a-b991-dbd7fbc37632",
+    "payment:cash": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "smoking": "no",
+    "source": "BAG;survey",
+    "source:date": "2014-02-11",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 2722209323,
+  "lat": 52.3708300,
+  "lon": 4.8893549,
+  "tags": {
+    "addr:city": "Amsterdam",
+    "addr:housenumber": "245-H",
+    "addr:postcode": "1012VP",
+    "addr:street": "Spuistraat",
+    "amenity": "pub",
+    "brewery": "budels",
+    "name": "The Minds",
+    "opening_hours": "Mo-Th, Su 21:00-03:00; Fr, Sa 21:00-04:00",
+    "source": "BAG",
+    "source:date": "2014-02-11",
+    "sport": "billiards",
+    "website": "https://theminds.nl/en/"
+  }
+},
+{
+  "type": "node",
+  "id": 2724317306,
+  "lat": 52.3758819,
+  "lon": 4.9004440,
+  "tags": {
+    "addr:city": "Amsterdam",
+    "addr:housenumber": "12",
+    "addr:postcode": "1012AX",
+    "addr:street": "Zeedijk",
+    "amenity": "bar",
+    "cocktails": "yes",
+    "name": "Dutch Courage",
+    "opening_hours": "Su-Th 17:00-01:00, Fr,Sa 15:00-03:00",
+    "website": "https://www.dutchcouragecocktails.com",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2731267877,
+  "lat": 52.3213845,
+  "lon": 4.6644053,
+  "tags": {
+    "addr:city": "Hoofddorp",
+    "addr:housenumber": "19",
+    "addr:postcode": "2131LX",
+    "addr:street": "Bosweg",
+    "leisure": "bowling_alley",
+    "name": "Claus",
+    "source": "BAG",
+    "source:date": "2014-02-11"
+  }
+},
+{
+  "type": "node",
+  "id": 2732764877,
+  "lat": 52.3134883,
+  "lon": 4.6915534,
+  "tags": {
+    "addr:city": "Hoofddorp",
+    "addr:housenumber": "40",
+    "addr:postcode": "2131AC",
+    "addr:street": "Graftermeerstraat",
+    "climbing:boulder": "yes",
+    "leisure": "sports_centre",
+    "name": "Boulderhal de Fabriek",
+    "source": "BAG",
+    "source:date": "2014-02-11",
+    "sport": "climbing",
+    "website": "https://boulderhaldefabriek.nl/boulderen-3/de-fabriek-hoofddorp/"
+  }
+},
+{
+  "type": "node",
+  "id": 2733560596,
+  "lat": 52.3036338,
+  "lon": 4.6915785,
+  "tags": {
+    "addr:city": "Hoofddorp",
+    "addr:housenumber": "12",
+    "addr:postcode": "2132DP",
+    "addr:street": "Tuinweg",
+    "amenity": "bar",
+    "name": "Potters",
+    "source": "BAG",
+    "source:date": "2014-02-11",
+    "sport": "billiards;darts",
+    "website": "https://www.poolendartcafepotters.nl/poolen/"
+  }
+},
+{
+  "type": "node",
+  "id": 2733772564,
+  "lat": 52.2911897,
+  "lon": 4.6897908,
+  "tags": {
+    "addr:city": "Hoofddorp",
+    "addr:housenumber": "2",
+    "addr:postcode": "2132WS",
+    "addr:street": "Parellaan",
+    "branch": "Hoofddorp",
+    "brand": "Eurobox Self Storage",
+    "brand:website": "https://www.euroboxselfstorage.nl",
+    "brand:wikidata": "Q135337900",
+    "description": "Opslagruimte te huur voor bedrijf en particulier",
+    "email": "hoofddorp@euroboxselfstorage.nl",
+    "name": "Eurobox Self Storage",
+    "phone": "+31 23 55 7 99 11",
+    "shop": "storage_rental",
+    "source": "BAG",
+    "source:date": "2014-02-11",
+    "website": "https://www.euroboxselfstorage.nl/vestigingen/noord-holland/hoofddorp"
+  }
+},
+{
+  "type": "node",
+  "id": 2734899331,
+  "lat": 52.2628953,
+  "lon": 4.6335025,
+  "tags": {
+    "addr:city": "Nieuw-Vennep",
+    "addr:housenumber": "11",
+    "addr:postcode": "2153BD",
+    "addr:street": "Kerkstraat",
+    "brand": "Vakgarage",
+    "brand:wikidata": "Q124053196",
+    "name": "Vakgarage Spijker en Vergunst",
+    "opening_hours": "Mo-Fr 08:00-18:00; Sa 09:00-13:00; Su off",
+    "phone": "+31 252 620 190",
+    "shop": "car_repair",
+    "source": "BAG",
+    "source:date": "2014-02-11",
+    "website": "https://www.vakgaragespijkerenvergunst.nl",
+    "website:booking": "https://www.vakgaragespijkerenvergunst.nl/garageafspraak"
+  }
+},
+{
+  "type": "node",
+  "id": 2734903321,
+  "lat": 52.2526518,
+  "lon": 4.6276167,
+  "tags": {
+    "addr:city": "Nieuw-Vennep",
+    "addr:housenumber": "39",
+    "addr:postcode": "2153PJ",
+    "addr:street": "Pesetaweg",
+    "leisure": "escape_game",
+    "name": "Escaperoom Nieuw-Vennep",
+    "opening_hours": "Mo-We off; Th,Fr 16:00-23:30; Sa,Su 12:00-22:30",
+    "phone": "+31 252 543 622",
+    "source": "BAG",
+    "source:date": "2014-02-11",
+    "website": "https://www.escaperoomnieuwvennep.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 2735595216,
+  "lat": 52.3897591,
+  "lon": 4.7851209,
+  "tags": {
+    "addr:city": "Amsterdam",
+    "addr:housenumber": "46",
+    "addr:postcode": "1046AM",
+    "addr:street": "Portsmuiden",
+    "branch": "Amsterdam Portsmuiden",
+    "brand": "Shurgard Storage Centers",
+    "brand:wikidata": "Q3482670",
+    "name": "Shurgard Self-Storage",
+    "phone": "+31 20 6800160",
+    "phone:NL": "0800 4100",
+    "shop": "storage_rental",
+    "source": "BAG",
+    "source:date": "2014-02-11",
+    "website": "https://www.shurgard.com/nl-nl/opslagruimte-in-nederland/amsterdam/amsterdam-portsmuiden"
+  }
+},
+{
+  "type": "node",
+  "id": 2736534902,
+  "lat": 52.2719982,
+  "lon": 4.6284537,
+  "tags": {
+    "addr:city": "Nieuw-Vennep",
+    "addr:housenumber": "34",
+    "addr:postcode": "2152CX",
+    "addr:street": "Staringstraat",
+    "name": "Garage Roeleveld",
+    "opening_hours": "Mo-Fr 07:30-17:30; Sa 08:00-16:00; Su off",
+    "phone": "+31 252 621 911",
+    "phone:mobile": "+31 6 513 19961",
+    "shop": "car_repair",
+    "source": "BAG",
+    "source:date": "2014-02-11",
+    "website": "https://www.garageroeleveld.nl"
+  }
+},
+{
+  "type": "node",
+  "id": 2736625488,
+  "lat": 52.3912220,
+  "lon": 4.8008347,
+  "tags": {
+    "addr:city": "Amsterdam",
+    "addr:housenumber": "5A",
+    "addr:postcode": "1046CB",
+    "addr:street": "Berchvliet",
+    "name": "Garage A10",
+    "phone": "+31 20 363 9055",
+    "shop": "car_repair",
+    "source": "BAG",
+    "source:date": "2014-02-11"
+  }
+},
+{
+  "type": "node",
+  "id": 2736625494,
+  "lat": 52.3912213,
+  "lon": 4.8006878,
+  "tags": {
+    "addr:city": "Amsterdam",
+    "addr:housenumber": "5B",
+    "addr:postcode": "1046CB",
+    "addr:street": "Berchvliet",
+    "name": "Garage Berchvliet",
+    "shop": "car_repair",
+    "source": "BAG",
+    "source:date": "2014-02-11"
+  }
+},
+{
+  "type": "node",
+  "id": 2736756394,
+  "lat": 52.2664879,
+  "lon": 4.6447166,
+  "tags": {
+    "addr:city": "Nieuw-Vennep",
+    "addr:housenumber": "9",
+    "addr:postcode": "2153GE",
+    "addr:street": "Tarwestraat",
+    "name": "Garage Johan Oldenhage B.V.",
+    "opening_hours": "Mo-Fr 08:00-17:30",
+    "phone": "+31 252 675 041",
+    "shop": "car_repair",
+    "source": "BAG",
+    "source:date": "2014-02-11",
+    "website": "https://www.oldenhage.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 2736913079,
+  "lat": 52.2578178,
+  "lon": 4.7145077,
+  "tags": {
+    "addr:city": "Rijsenhout",
+    "addr:housenumber": "19",
+    "addr:postcode": "1435CE",
+    "addr:street": "Bennebroekerweg",
+    "name": "Garage Vermeulen",
+    "shop": "car_repair",
+    "source": "BAG",
+    "source:date": "2014-02-11",
+    "website": "http://www.garagevermeulen.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 2737949021,
+  "lat": 52.3596226,
+  "lon": 4.8929000,
+  "tags": {
+    "addr:city": "Amsterdam",
+    "addr:housenumber": "187A-H",
+    "addr:postcode": "1017XE",
+    "addr:street": "Weteringschans",
+    "air_conditioning": "yes",
+    "amenity": "theatre",
+    "check_date": "2024-07-26",
+    "email": "play@myescape.club",
+    "internet_access": "yes",
+    "name": "MyEscape.Club",
+    "operator": "MyEscape.Club",
+    "payment:cards": "yes",
+    "payment:cash": "yes",
+    "payment:contactless": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:mastercard": "yes",
+    "payment:telephone_cards": "yes",
+    "payment:visa": "yes",
+    "payment:visa_debit": "yes",
+    "payment:visa_electron": "yes",
+    "phone": "+31 6 27000080",
+    "source": "BAG",
+    "source:date": "2014-02-11",
+    "website": "https://myescape.club"
+  }
+},
+{
+  "type": "node",
+  "id": 2738247135,
+  "lat": 52.3924924,
+  "lon": 4.8547636,
+  "tags": {
+    "addr:city": "Amsterdam",
+    "addr:housenumber": "24",
+    "addr:postcode": "1014AK",
+    "addr:street": "Transformatorweg",
+    "branch": "Amsterdam Centrum",
+    "brand": "Shurgard",
+    "brand:wikidata": "Q3482670",
+    "name": "Shurgard Self-Storage",
+    "phone": "+31 20 6800160",
+    "phone:NL": "0800 4100",
+    "shop": "storage_rental",
+    "source": "BAG",
+    "source:date": "2014-02-11",
+    "website": "https://www.shurgard.com/nl-nl/opslagruimte-in-nederland/amsterdam/amsterdam-centrum"
+  }
+},
+{
+  "type": "node",
+  "id": 2738247156,
+  "lat": 52.3924398,
+  "lon": 4.8510914,
+  "tags": {
+    "addr:city": "Amsterdam",
+    "addr:housenumber": "32",
+    "addr:postcode": "1014AK",
+    "addr:street": "Transformatorweg",
+    "climbing:boulder": "yes",
+    "leisure": "sports_centre",
+    "name": "Het Lab",
+    "opening_hours": "Mo-Fr 13:00-23:00, Sa-Su 09:00-23:00",
+    "source": "BAG",
+    "source:date": "2014-02-11",
+    "sport": "climbing",
+    "website": "https://beestboulders.com/vestigingen/het-lab-amsterdam/"
+  }
+},
+{
+  "type": "node",
+  "id": 2738247421,
+  "lat": 52.3901522,
+  "lon": 4.8538590,
+  "tags": {
+    "addr:city": "Amsterdam",
+    "addr:housenumber": "5",
+    "addr:postcode": "1014CC",
+    "addr:street": "Magneetstraat",
+    "check_date": "2024-05-02",
+    "currency:EUR": "yes",
+    "email": "info@blastgalaxy.nl",
+    "leisure": "amusement_arcade",
+    "name": "Blast Galaxy",
+    "opening_hours": "Mo-Tu off; We 12:00-18:00; Th 16:00-23:00; Fr 16:00-00:30; Sa 12:00-00:30; Su 12:00-20:00",
+    "operator": "Blast Galaxy",
+    "payment:maestro": "yes",
+    "phone": "+31 6 18743090",
+    "source": "BAG",
+    "source:date": "2014-02-11",
+    "survey:date": "2024-03-08",
+    "tourism": "attraction",
+    "website": "https://blastgalaxy.nl"
+  }
+},
+{
+  "type": "node",
+  "id": 2743587102,
+  "lat": 52.3766271,
+  "lon": 4.9115779,
+  "tags": {
+    "addr:city": "Amsterdam",
+    "addr:housenumber": "2",
+    "addr:postcode": "1019BS",
+    "addr:street": "Dijksgracht",
+    "alt_name": "Klimmuur Amsterdam",
+    "climbing:boulder": "yes",
+    "climbing:sport": "yes",
+    "climbing:toprope": "yes",
+    "diet:vegetarian": "yes",
+    "email": "amsterdam@deklimmuur.nl",
+    "fee": "yes",
+    "indoor": "yes",
+    "leisure": "sports_centre",
+    "name": "Klimmuur Centraal",
+    "outdoor": "no",
+    "phone": "+31 20 427 5777",
+    "source": "BAG",
+    "source:date": "2014-03-24",
+    "sport": "climbing",
+    "website": "https://www.deklimmuur.nl/klimmen/klimmuur-centraal/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2743728908,
+  "lat": 52.3777948,
+  "lon": 4.9090747,
+  "tags": {
+    "addr:city": "Amsterdam",
+    "addr:housenumber": "151",
+    "addr:postcode": "1011AC",
+    "addr:street": "De Ruijterkade",
+    "check_date": "2026-09-02",
+    "contact:instagram": "https://www.instagram.com/aloha.nl/",
+    "contact:tripadvisor": "https://www.tripadvisor.com/Attraction_Review-g188590-d22952343-Reviews-ALOHA-Amsterdam_North_Holland_Province.html",
+    "email": "aloha@aloha.nl",
+    "leisure": "bowling_alley",
+    "name": "Aloha",
+    "old_name": "Powerzone",
+    "opening_hours": "Mo-We 12:00-22:00; Th,Fr 12:00-01:00; Sa 11:00-01:00; Su 11:00-22:00",
+    "phone": "+31 20 7607600",
+    "source": "BAG",
+    "source:date": "2014-03-24",
+    "website": "https://aloha.nl",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 2744619517,
+  "lat": 52.3466075,
+  "lon": 4.7651697,
+  "tags": {
+    "addr:city": "Lijnden",
+    "addr:housenumber": "2",
+    "addr:postcode": "1175RB",
+    "addr:street": "Tokyostraat",
+    "branch": "Amsterdam Schiphol",
+    "brand": "Shurgard Storage Centers",
+    "brand:wikidata": "Q3482670",
+    "name": "Shurgard Self-Storage",
+    "phone": "+31 20 4496490",
+    "phone:NL": "0800 4100",
+    "shop": "storage_rental",
+    "source": "BAG",
+    "source:date": "2014-03-24",
+    "website": "https://www.shurgard.com/nl-nl/opslagruimte-in-nederland/amsterdam/amsterdam-schiphol"
+  }
+},
+{
+  "type": "node",
+  "id": 2745068199,
+  "lat": 52.2844497,
+  "lon": 4.7333645,
+  "tags": {
+    "addr:city": "Rozenburg",
+    "addr:housenumber": "379",
+    "addr:postcode": "1437CH",
+    "addr:street": "Kruisweg",
+    "name": "APK Garage I. Kantarevic",
+    "service": "inspection",
+    "shop": "car_repair",
+    "source": "BAG",
+    "source:date": "2014-03-24"
+  }
+},
+{
+  "type": "node",
+  "id": 2746268749,
+  "lat": 52.2910261,
+  "lon": 4.5850615,
+  "tags": {
+    "addr:city": "Hillegom",
+    "addr:housenumber": "37",
+    "addr:postcode": "2181AK",
+    "addr:street": "Marconistraat",
+    "check_date:opening_hours": "2026-09-05",
+    "name": "Garagebedrijf van Saase",
+    "opening_hours": "Mo-Fr 08:00-12:30,13:00-17:30",
+    "opening_hours:url": "https://www.garagebedrijfvansaase.nl/contact",
+    "phone": "+31 252 530 051",
+    "shop": "car_repair",
+    "source": "BAG",
+    "source:date": "2014-03-24",
+    "source:opening_hours": "website",
+    "website": "https://www.garagebedrijfvansaase.nl"
+  }
+},
+{
+  "type": "node",
+  "id": 2767114856,
+  "lat": 52.2746551,
+  "lon": 4.7800272,
+  "tags": {
+    "addr:city": "Aalsmeer",
+    "addr:housenumber": "101",
+    "addr:postcode": "1432CJ",
+    "addr:street": "Aalsmeerderweg",
+    "name": "Garage Aalsmeer",
+    "shop": "car_repair",
+    "source": "BAG",
+    "source:date": "2014-03-24",
+    "website": "https://www.garageaalsmeer.nl/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2776648472,
+  "lat": 52.3446924,
+  "lon": 4.6288758,
+  "tags": {
+    "addr:city": "Heemstede",
+    "addr:housenumber": "29",
+    "addr:postcode": "2102LS",
+    "addr:street": "Cruquiusweg",
+    "branch": "Heemstede",
+    "brand": "Shurgard",
+    "brand:wikidata": "Q3482670",
+    "name": "Shurgard Self-Storage",
+    "phone": "+31 23 5483350",
+    "phone:NL": "0800 4100",
+    "shop": "storage_rental",
+    "source": "BAG",
+    "source:date": "2014-03-24",
+    "website": "https://www.shurgard.com/nl-nl/opslagruimte-in-nederland/haarlem/heemstede"
+  }
+},
+{
+  "type": "node",
+  "id": 2776950753,
+  "lat": 52.2749706,
+  "lon": 4.7925485,
+  "tags": {
+    "addr:city": "Aalsmeer",
+    "addr:housenumber": "133",
+    "addr:postcode": "1432EP",
+    "addr:street": "Machineweg",
+    "name": "Garage van ENZO",
+    "shop": "car_repair",
+    "source": "BAG",
+    "source:date": "2014-03-24",
+    "website": "https://www.garagevanenzo.com"
+  }
+},
+{
+  "type": "node",
+  "id": 2777427324,
+  "lat": 52.3595738,
+  "lon": 4.6163122,
+  "tags": {
+    "addr:city": "Heemstede",
+    "addr:housenumber": "4",
+    "addr:postcode": "2106CN",
+    "addr:street": "Zandvoortselaan",
+    "name": "Garage Heemstede",
+    "shop": "car_repair",
+    "source": "BAG",
+    "source:date": "2014-03-24",
+    "website": "https://garageheemstede.wixsite.com/home"
+  }
+},
+{
+  "type": "node",
+  "id": 2788449104,
+  "lat": 52.3860627,
+  "lon": 4.8661218,
+  "tags": {
+    "addr:city": "Amsterdam",
+    "addr:housenumber": "27",
+    "addr:postcode": "1014DA",
+    "addr:street": "Polonceaukade",
+    "amenity": "bar",
+    "leisure": "amusement_arcade",
+    "name": "TonTon Club Westergas",
+    "opening_hours": "Mo-Th 16:00-01:00, Su 13:00-01:00, Fr 14:00-24:00+, Sa 13:00-24:00+",
+    "phone": "+31 20 261 8924",
+    "smoking": "no",
+    "source": "BAG",
+    "source:date": "2014-03-24",
+    "toilets:wheelchair": "no",
+    "website": "https://tontonclub.nl/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 2797099456,
+  "lat": 52.3587687,
+  "lon": 4.8053128,
+  "tags": {
+    "addr:city": "Amsterdam",
+    "addr:housenumber": "771",
+    "addr:postcode": "1068TC",
+    "addr:street": "Osdorpplein",
+    "leisure": "amusement_arcade",
+    "name": "Molly's Arena",
+    "source": "BAG",
+    "source:date": "2014-03-24",
+    "website": "https://www.mollys-arena.nl/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2807389402,
+  "lat": 52.3020446,
+  "lon": 4.8629486,
+  "tags": {
+    "addr:city": "Amstelveen",
+    "addr:housenumber": "35",
+    "addr:postcode": "1181ZH",
+    "addr:street": "Binnenhof",
+    "leisure": "amusement_arcade",
+    "name": "Childzplay",
+    "source": "BAG",
+    "source:date": "2014-03-24",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2808266873,
+  "lat": 52.2926809,
+  "lon": 4.8359250,
+  "tags": {
+    "addr:city": "Amstelveen",
+    "addr:housenumber": "99",
+    "addr:postcode": "1187AC",
+    "addr:street": "Noorddammerlaan",
+    "description": "lasergame",
+    "leisure": "sports_centre",
+    "name": "Spokk",
+    "source": "BAG",
+    "source:date": "2014-03-24",
+    "sport": "laser_tag",
+    "website": "https://www.spokk.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 2809424209,
+  "lat": 52.2801386,
+  "lon": 4.8389273,
+  "tags": {
+    "addr:city": "Amstelveen",
+    "addr:housenumber": "11",
+    "addr:postcode": "1185ZM",
+    "addr:street": "Zanderij",
+    "branch": "Amstelveen",
+    "brand": "Shurgard Storage Centers",
+    "brand:wikidata": "Q3482670",
+    "name": "Shurgard Self-Storage",
+    "phone": "+31 20 4266190",
+    "phone:NL": "0800 4100",
+    "shop": "storage_rental",
+    "source": "BAG",
+    "source:date": "2014-03-24",
+    "website": "https://www.shurgard.com/nl-nl/opslagruimte-in-nederland/amsterdam/amstelveen"
+  }
+},
+{
+  "type": "node",
+  "id": 2809476172,
+  "lat": 52.2808781,
+  "lon": 4.8365296,
+  "tags": {
+    "addr:city": "Amstelveen",
+    "addr:housenumber": "7",
+    "addr:postcode": "1185XT",
+    "addr:street": "Langs de Werf",
+    "leisure": "amusement_arcade",
+    "name": "Fun Center Amstelveen",
+    "source": "BAG",
+    "source:date": "2014-03-24",
+    "website": "https://funcenteramstelveen.nl"
+  }
+},
+{
+  "type": "node",
+  "id": 2809481255,
+  "lat": 52.2794136,
+  "lon": 4.8338452,
+  "tags": {
+    "addr:city": "Amstelveen",
+    "addr:housenumber": "9",
+    "addr:postcode": "1185ZT",
+    "addr:street": "Grutterij",
+    "brand": "Volvo",
+    "brand:wikidata": "Q215293",
+    "name": "Volvo Bangarage",
+    "opening_hours": "Mo-Fr 09:00-18:00; Sa 10:00-17:00",
+    "shop": "car_repair",
+    "source": "BAG",
+    "source:date": "2014-03-24"
+  }
+},
+{
+  "type": "node",
+  "id": 2809594812,
+  "lat": 52.3764475,
+  "lon": 4.8713885,
+  "tags": {
+    "addr:city": "Amsterdam",
+    "addr:housenumber": "62",
+    "addr:postcode": "1052VK",
+    "addr:street": "Gillis van Ledenberchstraat",
+    "check_date": "2025-01-25",
+    "climbing:boulder": "yes",
+    "email": "amsterdam@boulderneoliet.nl",
+    "fee": "yes",
+    "indoor": "yes",
+    "internet_access": "wlan",
+    "internet_access:fee": "customers",
+    "leisure": "sports_centre",
+    "name": "Boulder Amsterdam",
+    "opening_hours": "Mo-Fr 10:00-23:00; Sa 09:00-19:00; Su 09:00-21:00",
+    "operator": "Neoliet",
+    "outdoor": "no",
+    "phone": "+31 85 004 9608",
+    "source": "BAG",
+    "source:date": "2014-03-24",
+    "sport": "climbing",
+    "website": "https://boulderneoliet.nl/nl/amsterdam/"
+  }
+},
+{
+  "type": "node",
+  "id": 2809594813,
+  "lat": 52.3752269,
+  "lon": 4.8709778,
+  "tags": {
+    "addr:city": "Amsterdam",
+    "addr:housenumber": "62",
+    "addr:postcode": "1052LG",
+    "addr:street": "Tweede Hugo de Grootstraat",
+    "amenity": "pub",
+    "name": "Café Marktzicht",
+    "source": "BAG",
+    "source:date": "2014-03-24",
+    "sport": "billiards"
+  }
+},
+{
+  "type": "node",
+  "id": 2814622048,
+  "lat": 52.3398940,
+  "lon": 4.8424523,
+  "tags": {
+    "addr:city": "Amsterdam",
+    "addr:housenumber": "75",
+    "addr:postcode": "1059CP",
+    "addr:street": "Anthony Fokkerweg",
+    "climbing:boulder": "yes",
+    "contact:facebook": "https://www.facebook.com/boulderhal_luchthaven/",
+    "contact:instagram": "https://www.instagram.com/boulderhal_luchthaven/",
+    "email": "info@boulderhalluchthaven.nl",
+    "leisure": "sports_centre",
+    "name": "Boulderhal Luchthaven",
+    "old_name": "Be Boulder",
+    "opening_hours": "Mo-Fr 09:00-23:00; Sa 09:00-22:00; Su 09:00-22:00",
+    "phone": "+31 20 248 0084",
+    "source": "BAG",
+    "source:date": "2014-03-24",
+    "sport": "climbing",
+    "website": "https://www.boulderhalluchthaven.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 2815512499,
+  "lat": 52.3441243,
+  "lon": 4.8559540,
+  "tags": {
+    "addr:city": "Amsterdam",
+    "addr:housenumber": "18",
+    "addr:postcode": "1076CM",
+    "addr:street": "Stadionplein",
+    "climbing:boulder": "yes",
+    "climbing:speed": "no",
+    "climbing:sport": "no",
+    "climbing:toprope": "no",
+    "fee": "yes",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "leisure": "sports_centre",
+    "name": "Beta Boulders",
+    "opening_hours": "Mo-Fr 08:00-23:00; Sa-Su 09:00-21:00",
+    "service:climbing_shoes:rental": "yes",
+    "service:climbing_shoes:rental:fee": "yes",
+    "shower": "hot",
+    "source": "BAG",
+    "source:date": "2014-03-24",
+    "sport": "climbing",
+    "website": "https://betaboulders.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 2817455250,
+  "lat": 52.3548846,
+  "lon": 4.8892527,
+  "tags": {
+    "addr:city": "Amsterdam",
+    "addr:housenumber": "59-H",
+    "addr:postcode": "1072CM",
+    "addr:street": "Albert Cuypstraat",
+    "amenity": "fast_food",
+    "branch": "Amsterdam Smashed Burger",
+    "check_date": "2026-01-08",
+    "cuisine": "burger",
+    "delivery": "yes",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "drive_through": "no",
+    "name": "The Butcher Smashed Burger",
+    "opening_hours": "Su-Th 12:00-23:00; Fr-Sa 12:00-01:00",
+    "operator": "The Butcher",
+    "source": "BAG",
+    "source:date": "2014-03-24",
+    "takeaway": "yes",
+    "website": "https://the-butcher.com/smashedburger/"
+  }
+},
+{
+  "type": "node",
+  "id": 2817534360,
+  "lat": 52.3555458,
+  "lon": 4.9029687,
+  "tags": {
+    "addr:city": "Amsterdam",
+    "addr:housenumber": "231-H",
+    "addr:postcode": "1074CW",
+    "addr:street": "Ceintuurbaan",
+    "beauty": "tattoo_removal;aesthetic",
+    "check_date": "2026-01-15",
+    "email": "info@newskinlaserclinic.nl",
+    "level": "0",
+    "name": "New Skin Laserclinic",
+    "opening_hours": "Tu-We,Fr-Sa 10:00-18:00; Th 12:00-21:00",
+    "phone": "+31 20 7750621",
+    "shop": "beauty",
+    "source": "BAG",
+    "source:date": "2014-03-24",
+    "website": "https://newskinlaserclinic.nl"
+  }
+},
+{
+  "type": "node",
+  "id": 2817534519,
+  "lat": 52.3566949,
+  "lon": 4.8999592,
+  "tags": {
+    "addr:city": "Amsterdam",
+    "addr:housenumber": "25-H",
+    "addr:postcode": "1074AB",
+    "addr:street": "Van Woustraat",
+    "amenity": "bar",
+    "check_date": "2026-01-16",
+    "name": "Café Biljart Van Wou",
+    "source": "BAG",
+    "source:date": "2014-03-24",
+    "sport": "billiards"
+  }
+},
+{
+  "type": "node",
+  "id": 2817610652,
+  "lat": 52.3545348,
+  "lon": 4.8908273,
+  "tags": {
+    "addr:city": "Amsterdam",
+    "addr:housenumber": "122-H",
+    "addr:postcode": "1072EM",
+    "addr:street": "Govert Flinckstraat",
+    "amenity": "restaurant",
+    "check_date": "2026-01-28",
+    "cuisine": "burger",
+    "internet_access": "wlan",
+    "internet_access:fee": "customers",
+    "name": "Le Smash",
+    "opening_hours": "Mo-Su 12:00-22:00",
+    "payment:cash": "no",
+    "payment:contactless": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "phone": "+31 20 205 1146",
+    "source": "BAG",
+    "source:date": "2014-03-24",
+    "website": "https://le-smash.com",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 2825117517,
+  "lat": 52.3514513,
+  "lon": 4.9125492,
+  "tags": {
+    "addr:city": "Amsterdam",
+    "addr:housenumber": "48",
+    "addr:postcode": "1091TK",
+    "addr:street": "Marcusstraat",
+    "amenity": "arts_centre",
+    "check_date": "2025-05-18",
+    "name": "Circuswerkplaats Boost",
+    "source": "BAG",
+    "source:date": "2014-03-24",
+    "website": "https://cwboost.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 2827483269,
+  "lat": 52.3316608,
+  "lon": 4.9195899,
+  "tags": {
+    "addr:city": "Amsterdam-Duivendrecht",
+    "addr:housenumber": "11",
+    "addr:postcode": "1114AG",
+    "addr:street": "Van Marwijk Kooystraat",
+    "branch": "Amsterdam Amstel",
+    "brand": "Shurgard Storage Centers",
+    "brand:wikidata": "Q3482670",
+    "name": "Shurgard Self-Storage",
+    "phone": "+31 20 4635200",
+    "phone:NL": "0800 4100",
+    "shop": "storage_rental",
+    "source": "BAG",
+    "source:date": "2014-03-24",
+    "website": "https://www.shurgard.com/nl-nl/opslagruimte-in-nederland/amsterdam/amsterdam-amstel"
+  }
+},
+{
+  "type": "node",
+  "id": 2827485872,
+  "lat": 52.3292574,
+  "lon": 4.9237954,
+  "tags": {
+    "addr:city": "Amsterdam-Duivendrecht",
+    "addr:housenumber": "63",
+    "addr:postcode": "1114AJ",
+    "addr:street": "Pieter Braaijweg",
+    "name": "Garage H&R",
+    "shop": "car_repair",
+    "source": "BAG",
+    "source:date": "2014-03-24"
+  }
+},
+{
+  "type": "node",
+  "id": 2827485880,
+  "lat": 52.3277070,
+  "lon": 4.9286147,
+  "tags": {
+    "addr:city": "Amsterdam-Duivendrecht",
+    "addr:housenumber": "69",
+    "addr:postcode": "1114AE",
+    "addr:street": "Spaklerweg",
+    "email": "bo448@bo-rent.nl",
+    "name": "Bo-Rent Self-Storage",
+    "phone": "+31 20 665 6556",
+    "shop": "storage_rental",
+    "source": "BAG",
+    "source:date": "2014-03-24",
+    "website": "https://self-storage.borent.nl/vestigingen/amsterdam"
+  }
+},
+{
+  "type": "node",
+  "id": 2827529161,
+  "lat": 52.3635335,
+  "lon": 4.9333364,
+  "tags": {
+    "addr:city": "Amsterdam",
+    "addr:housenumber": "40-H",
+    "addr:postcode": "1094HJ",
+    "addr:street": "Javastraat",
+    "amenity": "restaurant",
+    "name": "Le Smash",
+    "source": "BAG",
+    "source:date": "2014-03-24"
+  }
+},
+{
+  "type": "node",
+  "id": 2831609279,
+  "lat": 52.3332916,
+  "lon": 4.9780045,
+  "tags": {
+    "addr:city": "Diemen",
+    "addr:housenumber": "21",
+    "addr:postcode": "1112AG",
+    "addr:street": "Sniep",
+    "branch": "Diemen Sniep",
+    "brand": "Shurgard Storage Centers",
+    "brand:wikidata": "Q3482670",
+    "name": "Shurgard Self-Storage",
+    "phone": "+31 20 4950400",
+    "phone:NL": "0800 4100",
+    "shop": "storage_rental",
+    "source": "BAG",
+    "source:date": "2014-03-24",
+    "website": "https://www.shurgard.com/nl-nl/opslagruimte-in-nederland/amsterdam/diemen-sniep"
+  }
+},
+{
+  "type": "node",
+  "id": 2835826129,
+  "lat": 52.3661640,
+  "lon": 5.1727692,
+  "tags": {
+    "addr:city": "Almere",
+    "addr:housenumber": "2",
+    "addr:postcode": "1311GA",
+    "addr:street": "Josephine Bakerstraat",
+    "charge": "119 euro",
+    "fee": "yes",
+    "internet_access": "yes",
+    "internet_access:fee": "yes",
+    "leisure": "escape_game",
+    "name": "Sky High Escape Room Almere",
+    "office": "company",
+    "opening_hours": "Mo-Su 12:45-22:00",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "source": "BAG",
+    "source:date": "2014-03-24",
+    "website": "https://www.skyhighescaperoom.nl"
+  }
+},
+{
+  "type": "node",
+  "id": 2839357306,
+  "lat": 52.3408111,
+  "lon": 4.9437056,
+  "tags": {
+    "addr:city": "Amsterdam",
+    "addr:housenumber": "82",
+    "addr:postcode": "1097VP",
+    "addr:street": "Brinkstraat",
+    "name": "Brink Garage Amsterdam",
+    "opening_hours": "Mo-Fr 08:30-18:00",
+    "phone": "+31 20 6931747",
+    "shop": "car_repair",
+    "source": "BAG",
+    "source:date": "2014-03-24",
+    "website": "https://www.brinkgarage.nl"
+  }
+},
+{
+  "type": "node",
+  "id": 2839650180,
+  "lat": 52.3565675,
+  "lon": 5.1936002,
+  "tags": {
+    "addr:city": "Almere",
+    "addr:housenumber": "15",
+    "addr:postcode": "1324KT",
+    "addr:street": "Omroepweg",
+    "name": "Garage Almere Roos",
+    "shop": "car_repair",
+    "source": "BAG",
+    "source:date": "2014-03-24"
+  }
+},
+{
+  "type": "node",
+  "id": 2839650887,
+  "lat": 52.3522604,
+  "lon": 5.1955900,
+  "tags": {
+    "addr:city": "Almere",
+    "addr:housenumber": "26",
+    "addr:postcode": "1324KS",
+    "addr:street": "Zenderstraat",
+    "branch": "Almere Stad",
+    "brand": "Shurgard",
+    "brand:wikidata": "Q3482670",
+    "name": "Shurgard Self-Storage",
+    "phone": "+31 36 5488240",
+    "phone:NL": "0800 4100",
+    "shop": "storage_rental",
+    "source": "BAG",
+    "source:date": "2014-03-24",
+    "website": "https://www.shurgard.com/nl-nl/opslagruimte-in-nederland/almere/almere-stad"
+  }
+},
+{
+  "type": "node",
+  "id": 2839713294,
+  "lat": 52.3684960,
+  "lon": 5.2186805,
+  "tags": {
+    "addr:city": "Almere",
+    "addr:housenumber": "4",
+    "addr:postcode": "1315TK",
+    "addr:street": "Traverse",
+    "check_date": "2026-03-03",
+    "email": "info@thegamebox.nl",
+    "leisure": "amusement_arcade",
+    "name": "The Game Box",
+    "opening_hours": "Mo-We 12:00-21:00; Th 12:00-23:00; Fr 12:00-24:00; Sa 11:00-24:00; Su 12:00-22:00",
+    "phone": "+31 85 401 9320",
+    "source": "BAG",
+    "source:date": "2014-03-24",
+    "website": "https://www.thegamebox.nl/locaties-contact/game-box-almere",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2844615751,
+  "lat": 52.4925362,
+  "lon": 5.0564617,
+  "tags": {
+    "addr:city": "Volendam",
+    "addr:housenumber": "1",
+    "addr:postcode": "1132DA",
+    "addr:street": "Heideweg",
+    "leisure": "bowling_alley",
+    "name": "Bowling- en Partycentrum De Zedde",
+    "source": "BAG",
+    "source:date": "2014-05-07",
+    "sport": "10pin",
+    "website": "https://www.bowlingdezedde.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 2846598679,
+  "lat": 52.4149557,
+  "lon": 4.9105608,
+  "tags": {
+    "addr:city": "Amsterdam",
+    "addr:housenumber": "4",
+    "addr:postcode": "1035NB",
+    "addr:street": "Sportpark Kadoelen",
+    "leisure": "trampoline_park",
+    "name": "You Jump",
+    "source": "BAG",
+    "source:date": "2014-05-07",
+    "sport": "fitness",
+    "website": "https://www.trampolinepark.nl/nl/locaties/amsterdam-noord"
+  }
+},
+{
+  "type": "node",
+  "id": 2847027262,
+  "lat": 52.4094607,
+  "lon": 4.8855696,
+  "tags": {
+    "addr:city": "Amsterdam",
+    "addr:housenumber": "4",
+    "addr:postcode": "1033ML",
+    "addr:street": "Softwareweg",
+    "branch": "Amsterdam Noord",
+    "brand": "Shurgard Storage Centers",
+    "brand:wikidata": "Q3482670",
+    "name": "Shurgard Self-Storage",
+    "phone": "+31 20 6301060",
+    "phone:NL": "0800 4100",
+    "shop": "storage_rental",
+    "source": "BAG",
+    "source:date": "2014-05-07",
+    "website": "https://www.shurgard.com/nl-nl/opslagruimte-in-nederland/amsterdam/amsterdam-noord"
+  }
+},
+{
+  "type": "node",
+  "id": 2847159912,
+  "lat": 52.3899890,
+  "lon": 4.9039617,
+  "tags": {
+    "addr:city": "Amsterdam",
+    "addr:housenumber": "19E-1",
+    "addr:postcode": "1031HL",
+    "addr:street": "Asterweg",
+    "leisure": "amusement_arcade",
+    "name": "Lightning VR",
+    "source": "BAG",
+    "source:date": "2014-05-07",
+    "virtual_reality": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2848300806,
+  "lat": 52.3991268,
+  "lon": 4.9375241,
+  "tags": {
+    "addr:city": "Amsterdam",
+    "addr:housenumber": "145",
+    "addr:postcode": "1025ET",
+    "addr:street": "Buikslotermeerplein",
+    "check_date": "2024-10-27",
+    "leisure": "sports_hall",
+    "name": "Snooker en biljartcentrum Boven 't IJ",
+    "opening_hours": "Mo-Th,Su 12:00-01:00; Fr-Sa 12:00-03:00",
+    "source": "BAG",
+    "source:date": "2014-05-07",
+    "sport": "snooker",
+    "website": "https://boventij.com"
+  }
+},
+{
+  "type": "node",
+  "id": 2848305627,
+  "lat": 52.3980523,
+  "lon": 4.9409585,
+  "tags": {
+    "addr:city": "Amsterdam",
+    "addr:housenumber": "543",
+    "addr:postcode": "1025XH",
+    "addr:street": "Buikslotermeerplein",
+    "check_date": "2025-03-13",
+    "name": "Reach Care Laser en skin clinic",
+    "shop": "beauty",
+    "source": "BAG",
+    "source:date": "2014-05-07"
+  }
+},
+{
+  "type": "node",
+  "id": 2848743801,
+  "lat": 52.3865224,
+  "lon": 4.9234011,
+  "tags": {
+    "addr:city": "Amsterdam",
+    "addr:housenumber": "122-H",
+    "addr:postcode": "1021JN",
+    "addr:street": "Meeuwenlaan",
+    "air_conditioning": "yes",
+    "check_date": "2024-12-21",
+    "description": "Stap samen met maximaal 8 spelers in de meest epic VR ervaring. Nog nooit hadden spelers zoveel bewegingsvrijheid in Nederlands grootste VR-arena. Kom oog in oog te staan met Vaas uit Far Cry of vecht tegen hordes zombies in een race tegen de klok.",
+    "email": "info@zerolatencyvr.nl",
+    "leisure": "amusement_arcade",
+    "name": "Zero Latency VR",
+    "operator": "Zero Latency VR",
+    "operator:website": "https://www.zerolatencyvr.nl",
+    "phone": "+31 85 822 3579",
+    "source": "BAG",
+    "source:date": "2014-05-07",
+    "virtual_reality": "yes",
+    "website": "https://www.zerolatencyvr.nl/vr-amsterdam"
+  }
+},
+{
+  "type": "node",
+  "id": 2862127095,
+  "lat": 52.3041892,
+  "lon": 4.9982755,
+  "tags": {
+    "addr:city": "Amsterdam",
+    "addr:housenumber": "25",
+    "addr:postcode": "1108AJ",
+    "addr:street": "Driemondweg",
+    "club": "sport",
+    "name": "WSZGaasperplas",
+    "source": "BAG",
+    "source:date": "2014-05-07",
+    "sport": "swimming;windsurfing;suppen;hppts://www.wszgaasperplas.nl",
+    "website": "https://www.wszgaasperplas.nl"
+  }
+},
+{
+  "type": "node",
+  "id": 2862978503,
+  "lat": 52.3044358,
+  "lon": 4.9337467,
+  "tags": {
+    "addr:city": "Amsterdam",
+    "addr:housenumber": "15",
+    "addr:postcode": "1101AR",
+    "addr:street": "Kollenbergweg",
+    "brand": "Volvo",
+    "brand:wikidata": "Q215293",
+    "contact:facebook": "Bangarage",
+    "contact:instagram": "bangarage",
+    "name": "Volvo Bangarage",
+    "opening_hours": "Mo-Fr 09:00-18:00; Sa 10:00-17:00",
+    "phone": "+31 20 452 2020",
+    "shop": "car",
+    "source": "BAG",
+    "source:date": "2014-05-07",
+    "website": "https://www.bangarage.nl/vestigingen/volvo-bangarage-amsterdam-zuidoost/"
+  }
+},
+{
+  "type": "node",
+  "id": 2862979504,
+  "lat": 52.3062225,
+  "lon": 4.9403412,
+  "tags": {
+    "addr:city": "Amsterdam",
+    "addr:housenumber": "69",
+    "addr:postcode": "1101BB",
+    "addr:street": "Hoogoorddreef",
+    "branch": "Amsterdam Zuidoost",
+    "brand": "Shurgard Storage Centers",
+    "brand:wikidata": "Q3482670",
+    "name": "Shurgard Self-Storage",
+    "phone": "+31 20 6513030",
+    "phone:NL": "0800 4100",
+    "shop": "storage_rental",
+    "source": "BAG",
+    "source:date": "2014-05-07",
+    "website": "https://www.shurgard.com/nl-nl/opslagruimte-in-nederland/amsterdam/amsterdam-zuidoost"
+  }
+},
+{
+  "type": "node",
+  "id": 2871167492,
+  "lat": 52.3044115,
+  "lon": 5.2459985,
+  "tags": {
+    "addr:city": "Huizen",
+    "addr:housenumber": "26",
+    "addr:postcode": "1271EA",
+    "addr:street": "Nijverheidsweg",
+    "name": "A&J Garagebedrijf",
+    "service": "dealer;repair",
+    "shop": "car",
+    "source": "BAG",
+    "source:date": "2014-05-20"
+  }
+},
+{
+  "type": "node",
+  "id": 2871168286,
+  "lat": 52.3043184,
+  "lon": 5.2463668,
+  "tags": {
+    "addr:city": "Huizen",
+    "addr:housenumber": "60",
+    "addr:postcode": "1271ZB",
+    "addr:street": "Bestevaer",
+    "name": "A&J Garagebedrijf",
+    "shop": "car",
+    "source": "BAG",
+    "source:date": "2014-05-20"
+  }
+},
+{
+  "type": "node",
+  "id": 2871365724,
+  "lat": 52.2990806,
+  "lon": 5.2412911,
+  "tags": {
+    "addr:city": "Huizen",
+    "addr:housenumber": "13",
+    "addr:postcode": "1271KK",
+    "addr:street": "Plein 2000",
+    "email": "bowling-centrum-huizen@planet.nl",
+    "leisure": "bowling_alley",
+    "name": "Bowlingcentrum Huizen",
+    "source": "BAG",
+    "source:date": "2014-05-20",
+    "website": "https://bowling-huizen.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 2875315447,
+  "lat": 52.2081825,
+  "lon": 4.8660058,
+  "tags": {
+    "addr:city": "Mijdrecht",
+    "addr:housenumber": "37A",
+    "addr:postcode": "3641EA",
+    "addr:street": "Dorpsstraat",
+    "email": "info@turfmijdrecht.nl",
+    "leisure": "escape_game",
+    "name": "TURF",
+    "phone": "+31 297 370766",
+    "source": "BAG",
+    "source:date": "2014-05-20",
+    "website": "https://turfmijdrecht.nl"
+  }
+},
+{
+  "type": "node",
+  "id": 2875416048,
+  "lat": 52.2539131,
+  "lon": 5.2295329,
+  "tags": {
+    "addr:city": "Laren",
+    "addr:housenumber": "31",
+    "addr:postcode": "1251MA",
+    "addr:street": "Plein 1945",
+    "name": "Garage Koster",
+    "service": "repair",
+    "shop": "car_repair",
+    "source": "BAG",
+    "source:date": "2014-05-20",
+    "website": "https://www.garagekoster.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 2875613695,
+  "lat": 52.5147072,
+  "lon": 4.9930839,
+  "tags": {
+    "addr:city": "Purmerend",
+    "addr:housenumber": "9",
+    "addr:postcode": "1446TA",
+    "addr:street": "Maxwellstraat",
+    "name": "Garage Ton Jorritsma",
+    "phone": "+31 299 667 320",
+    "service:vehicle:inspection": "yes",
+    "service:vehicle:maintenance": "yes",
+    "service:vehicle:repairs": "yes",
+    "shop": "car_repair",
+    "source": "BAG",
+    "source:date": "2014-05-20"
+  }
+},
+{
+  "type": "node",
+  "id": 2875938994,
+  "lat": 52.5033355,
+  "lon": 4.9878825,
+  "tags": {
+    "addr:city": "Purmerend",
+    "addr:housenumber": "1",
+    "addr:postcode": "1445EA",
+    "addr:street": "Geersstraat",
+    "email": "vragen@garagedepurmer.nl",
+    "name": "Garage De Purmer",
+    "opening_hours": "Mo-Th 08:00-17:00; Fr 08:00-16:00",
+    "phone": "+31 299 641 915",
+    "shop": "car_repair",
+    "source": "BAG",
+    "source:date": "2014-05-20",
+    "website": "http://www.garagedepurmer.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 2877536872,
+  "lat": 52.5160583,
+  "lon": 4.9766459,
+  "tags": {
+    "addr:city": "Purmerend",
+    "addr:housenumber": "379",
+    "addr:postcode": "1442LB",
+    "addr:street": "Van IJsendijkstraat",
+    "branch": "Purmerend",
+    "brand": "Shurgard Storage Centers",
+    "brand:wikidata": "Q3482670",
+    "name": "Shurgard Self-Storage",
+    "phone": "+31 299 413520",
+    "phone:NL": "0800 4100",
+    "shop": "storage_rental",
+    "source": "BAG",
+    "source:date": "2014-05-24",
+    "website": "https://www.shurgard.com/nl-nl/opslagruimte-in-nederland/amsterdam/purmerend"
+  }
+},
+{
+  "type": "node",
+  "id": 2877537056,
+  "lat": 52.5153513,
+  "lon": 4.9789017,
+  "tags": {
+    "addr:city": "Purmerend",
+    "addr:housenumber": "5",
+    "addr:postcode": "1442LA",
+    "addr:street": "Kwadijkerkoogweg",
+    "leisure": "bowling_alley",
+    "name": "Bowling Split",
+    "source": "BAG",
+    "source:date": "2014-05-24"
+  }
+},
+{
+  "type": "node",
+  "id": 2877653597,
+  "lat": 52.5218998,
+  "lon": 4.9642234,
+  "tags": {
+    "addr:city": "Purmerend",
+    "addr:housenumber": "22",
+    "addr:postcode": "1444HV",
+    "addr:street": "Karekietpark",
+    "club": "sport",
+    "email": "biljartcentrumpurmerend@gmail.com;sbptoernooien@gmail.com",
+    "name": "Stichting BIljartcentrum Purmerend",
+    "phone": "+31 299 436402",
+    "phone:mobile": "+31 6 28931615",
+    "ref:kvk": "41234933",
+    "source": "BAG",
+    "source:date": "2014-05-24",
+    "sport": "billiards",
+    "website": "https://www.stichtingbiljartcentrumpurmerend.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 2878025025,
+  "lat": 52.2205586,
+  "lon": 5.1476043,
+  "tags": {
+    "addr:city": "Hilversum",
+    "addr:housenumber": "14",
+    "addr:postcode": "1216CJ",
+    "addr:street": "Zuiderloswal",
+    "branch": "Hilversum",
+    "brand": "Shurgard Storage Centers",
+    "brand:wikidata": "Q3482670",
+    "name": "Shurgard Self-Storage",
+    "phone": "+31 30 7999030",
+    "phone:NL": "0800 4100",
+    "shop": "storage_rental",
+    "source": "BAG",
+    "source:date": "2014-05-24",
+    "website": "https://www.shurgard.com/nl-nl/opslagruimte-in-nederland/hilversum/hilversum"
+  }
+},
+{
+  "type": "node",
+  "id": 2879035444,
+  "lat": 52.2198971,
+  "lon": 5.1492304,
+  "tags": {
+    "addr:city": "Hilversum",
+    "addr:housenumber": "5",
+    "addr:postcode": "1216CG",
+    "addr:street": "Vreelandseweg",
+    "brand": "Monk",
+    "charge": "14.50 EUR",
+    "contact:facebook": "monkhilversum",
+    "contact:instagram": "monk_hilversum",
+    "contact:toplogger": "monk-hilversum",
+    "contact:youtube": "UCIRGOg6c16k3_wZVuQgbmXg",
+    "email": "hilversum@monk.nl",
+    "fee": "yes",
+    "leisure": "sports_centre",
+    "name": "Monk",
+    "opening_hours": "Mo-Fr 14:00-23:00; Sa-Su 09:00-18:00",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+31 35 2057386",
+    "source": "BAG",
+    "source:date": "2014-05-24",
+    "sport": "climbing",
+    "website": "https://monk.nl/hilversum/"
+  }
+},
+{
+  "type": "node",
+  "id": 2884845286,
+  "lat": 52.5215109,
+  "lon": 4.7046820,
+  "tags": {
+    "addr:city": "Uitgeest",
+    "addr:housenumber": "35",
+    "addr:postcode": "1911HA",
+    "addr:street": "Spoorlaan",
+    "name": "Autofirst Garage Piet Sanders",
+    "shop": "car_repair",
+    "source": "BAG",
+    "source:date": "2014-05-28"
+  }
+},
+{
+  "type": "node",
+  "id": 2885624490,
+  "lat": 52.5016477,
+  "lon": 4.7912014,
+  "tags": {
+    "addr:city": "Wormerveer",
+    "addr:housenumber": "18",
+    "addr:postcode": "1521PW",
+    "addr:street": "Vlasblomweg",
+    "name": "Garagebedrijf Henny Veenings",
+    "phone": "+31 75 621 1219",
+    "shop": "car",
+    "source": "BAG",
+    "source:date": "2014-05-28"
+  }
+},
+{
+  "type": "node",
+  "id": 2893598285,
+  "lat": 52.4448126,
+  "lon": 4.8186722,
+  "tags": {
+    "addr:city": "Zaandam",
+    "addr:housenumber": "8",
+    "addr:postcode": "1506WD",
+    "addr:street": "Parkstraat",
+    "check_date": "2026-08-15",
+    "name": "The Squad",
+    "opening_hours": "Mo-Su 10:00-22:00",
+    "shop": "cannabis",
+    "source": "BAG",
+    "source:date": "2014-06-01"
+  }
+},
+{
+  "type": "node",
+  "id": 2893994225,
+  "lat": 52.4280574,
+  "lon": 4.8229404,
+  "tags": {
+    "addr:city": "Zaandam",
+    "addr:housenumber": "20",
+    "addr:postcode": "1506SW",
+    "addr:street": "Stormhoek",
+    "branch": "Garage Zaandam",
+    "brand": "Loods 5",
+    "brand:wikidata": "Q129101186",
+    "name": "Loods 5 Garage",
+    "opening_hours": "Mo-Sa 10:00-18:00; Su 12:00-18:00",
+    "shop": "furniture",
+    "source": "BAG",
+    "source:date": "2014-06-01",
+    "website": "https://loods5.nl/winkels/garage"
+  }
+},
+{
+  "type": "node",
+  "id": 2895397141,
+  "lat": 52.4440991,
+  "lon": 4.8369622,
+  "tags": {
+    "addr:city": "Zaandam",
+    "addr:housenumber": "3",
+    "addr:postcode": "1503MC",
+    "addr:street": "Vrieschgroenstraat",
+    "leisure": "bowling_alley",
+    "name": "Bowling & Partycentrum Zaandam",
+    "phone": "+31 75 616 0000",
+    "shoes:rental": "yes",
+    "source": "BAG",
+    "source:date": "2014-06-02",
+    "website": "https://bowlingzaandam.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 2896077063,
+  "lat": 52.4324320,
+  "lon": 4.8445197,
+  "tags": {
+    "addr:city": "Zaandam",
+    "addr:housenumber": "147",
+    "addr:postcode": "1505WE",
+    "addr:street": "Pieter Jelles Troelstralaan",
+    "email": "garage@garagelangendijk.nl",
+    "name": "Garage Langendijk",
+    "phone": "+31 75 616 4400",
+    "shop": "car_repair",
+    "source": "BAG",
+    "source:date": "2014-06-02",
+    "website": "http://www.garagelangendijk.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 2896536597,
+  "lat": 52.4291143,
+  "lon": 4.8412524,
+  "tags": {
+    "addr:city": "Zaandam",
+    "addr:housenumber": "6",
+    "addr:postcode": "1505HX",
+    "addr:street": "Pieter Lieftinckweg",
+    "branch": "Zaandam",
+    "brand": "Shurgard Storage Centers",
+    "brand:wikidata": "Q3482670",
+    "name": "Shurgard Self-Storage",
+    "phone": "+31 75 6536390",
+    "phone:NL": "0800 4100",
+    "shop": "storage_rental",
+    "source": "BAG",
+    "source:date": "2014-06-02",
+    "website": "https://www.shurgard.com/nl-nl/opslagruimte-in-nederland/amsterdam/zaandam"
+  }
+},
+{
+  "type": "node",
+  "id": 2904080227,
+  "lat": 52.5047580,
+  "lon": 4.6521351,
+  "tags": {
+    "addr:city": "Heemskerk",
+    "addr:housenumber": "27",
+    "addr:postcode": "1969NB",
+    "addr:street": "Lijnbaan",
+    "name": "Garageservice Peter Breed",
+    "shop": "car_repair",
+    "source": "BAG",
+    "source:date": "2014-06-06"
+  }
+},
+{
+  "type": "node",
+  "id": 2904081161,
+  "lat": 52.5026370,
+  "lon": 4.6549373,
+  "tags": {
+    "addr:city": "Heemskerk",
+    "addr:housenumber": "8",
+    "addr:postcode": "1969NE",
+    "addr:street": "Lijnbaan",
+    "name": "Garage van Tunen",
+    "shop": "car_repair",
+    "source": "BAG",
+    "source:date": "2014-06-06"
+  }
+},
+{
+  "type": "node",
+  "id": 2907018751,
+  "lat": 52.4780372,
+  "lon": 4.6676047,
+  "tags": {
+    "addr:city": "Beverwijk",
+    "addr:housenumber": "11A",
+    "addr:postcode": "1948PA",
+    "addr:street": "Industrieweg",
+    "name": "Garage Maalman",
+    "opening_hours": "Mo-Fr 08:30-17:30",
+    "service:vehicle:used_car_sales": "yes",
+    "shop": "car_repair",
+    "source": "BAG",
+    "source:date": "2014-06-09"
+  }
+},
+{
+  "type": "node",
+  "id": 2907018767,
+  "lat": 52.4803827,
+  "lon": 4.6653058,
+  "tags": {
+    "addr:city": "Beverwijk",
+    "addr:housenumber": "120B",
+    "addr:postcode": "1948NN",
+    "addr:street": "Parallelweg",
+    "check_date": "2026-09-20",
+    "check_date:opening_hours": "2026-09-20",
+    "leisure": "sports_centre",
+    "name": "Boulderwijk",
+    "opening_hours": "Su 11:00-18:00; Mo-Fr 14:00-23:00; Sa 10:00-18:00",
+    "source": "BAG",
+    "source:date": "2014-06-09",
+    "sport": "climbing",
+    "website": "http://boulderwijk.nl"
+  }
+},
+{
+  "type": "node",
+  "id": 2907019057,
+  "lat": 52.4758192,
+  "lon": 4.6822785,
+  "tags": {
+    "addr:city": "Beverwijk",
+    "addr:housenumber": "13A",
+    "addr:postcode": "1948PJ",
+    "addr:street": "Noorderweg",
+    "leisure": "sports_centre",
+    "name": "Vuurlinie Beverwijk",
+    "source": "BAG",
+    "source:date": "2014-06-09",
+    "sport": "laser_tag"
+  }
+},
+{
+  "type": "node",
+  "id": 2907019532,
+  "lat": 52.4789413,
+  "lon": 4.6625852,
+  "tags": {
+    "addr:city": "Beverwijk",
+    "addr:housenumber": "45-1",
+    "addr:postcode": "1948NK",
+    "addr:street": "Parallelweg",
+    "leisure": "bowling_alley",
+    "name": "Bij45",
+    "source": "BAG",
+    "source:date": "2014-06-09"
+  }
+},
+{
+  "type": "node",
+  "id": 2909579661,
+  "lat": 52.4921025,
+  "lon": 4.6719992,
+  "tags": {
+    "addr:city": "Beverwijk",
+    "addr:housenumber": "100A",
+    "addr:postcode": "1946AB",
+    "addr:street": "Laan der Nederlanden",
+    "name": "Garage van Hilst",
+    "shop": "car_repair",
+    "source": "BAG",
+    "source:date": "2014-06-10",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2909584113,
+  "lat": 52.4861638,
+  "lon": 4.6664124,
+  "tags": {
+    "addr:city": "Beverwijk",
+    "addr:housenumber": "16",
+    "addr:postcode": "1947KV",
+    "addr:street": "Brink",
+    "name": "Garage Wijkeroog",
+    "shop": "car_repair",
+    "source": "BAG",
+    "source:date": "2014-06-10"
+  }
+},
+{
+  "type": "node",
+  "id": 2915171033,
+  "lat": 52.3766126,
+  "lon": 4.9054459,
+  "tags": {
+    "amenity": "parking_entrance",
+    "capacity": "1300",
+    "contact:website": "http://www.oosterdokparking.nl",
+    "entrance": "yes",
+    "fee": "yes",
+    "foot": "yes",
+    "motor_vehicle": "no",
+    "name": "Oosterdok Parkeergarage",
+    "note": "Voetgangersingang Oosterdokgarage",
+    "parking": "underground"
+  }
+},
+{
+  "type": "node",
+  "id": 3086477274,
+  "lat": 52.2245899,
+  "lon": 5.1781790,
+  "tags": {
+    "check_date": "2026-08-15",
+    "leisure": "escape_game",
+    "name": "Escape Cafe Hilversum"
+  }
+},
+{
+  "type": "node",
+  "id": 3158742813,
+  "lat": 52.3657153,
+  "lon": 4.5666418,
+  "tags": {
+    "leisure": "miniature_golf"
+  }
+},
+{
+  "type": "node",
+  "id": 3264217616,
+  "lat": 52.3865797,
+  "lon": 4.6387988,
+  "tags": {
+    "access": "yes",
+    "addr:city": "Haarlem",
+    "addr:housenumber": "11",
+    "addr:street": "Lange Herenstraat",
+    "amenity": "parking_entrance",
+    "maxheight": "2",
+    "name": "Parkeergarage Station",
+    "parking": "underground"
+  }
+},
+{
+  "type": "node",
+  "id": 3970294876,
+  "lat": 52.3766813,
+  "lon": 5.2200081,
+  "tags": {
+    "amenity": "parking_entrance",
+    "name": "Mandelagarage"
+  }
+},
+{
+  "type": "node",
+  "id": 3970294877,
+  "lat": 52.3765695,
+  "lon": 5.2201327,
+  "tags": {
+    "amenity": "parking_entrance",
+    "maxheight": "2.10",
+    "maxweight": "2.5",
+    "name": "Mandelagarage"
+  }
+},
+{
+  "type": "node",
+  "id": 4205434094,
+  "lat": 52.3838533,
+  "lon": 4.7796372,
+  "tags": {
+    "leisure": "escape_game",
+    "name": "Room Escape Amsterdam"
+  }
+},
+{
+  "type": "node",
+  "id": 4229660398,
+  "lat": 52.3866206,
+  "lon": 4.8761122,
+  "tags": {
+    "artist_name": "Nelson Carrilho",
+    "artwork_type": "sculpture",
+    "material": "bronze",
+    "name": "Dragers van verre",
+    "name:en": "Carriers from Afar",
+    "name:nl": "Dragers van verre",
+    "source": "survey",
+    "start_date": "1989",
+    "tourism": "artwork",
+    "wikidata": "Q60269631",
+    "wikimedia_commons": "Category:Bearers from Afar",
+    "wikipedia": "nl:Dragers van verre"
+  }
+},
+{
+  "type": "node",
+  "id": 4270404060,
+  "lat": 52.3744602,
+  "lon": 4.8592888,
+  "tags": {
+    "name": "Euro Garage",
+    "shop": "car_repair",
+    "website": "https://euro-garage.nl"
+  }
+},
+{
+  "type": "node",
+  "id": 4508453364,
+  "lat": 52.4831488,
+  "lon": 4.5777761,
+  "tags": {
+    "name": "Wijk aan Zee Bunker",
+    "sport": "kitesurfing"
+  }
+},
+{
+  "type": "node",
+  "id": 4508456414,
+  "lat": 52.4701579,
+  "lon": 4.5669325,
+  "tags": {
+    "name": "Wijk aan zee: Pier",
+    "sport": "kitesurfing"
+  }
+},
+{
+  "type": "node",
+  "id": 4508458788,
+  "lat": 52.4576685,
+  "lon": 4.5547375,
+  "tags": {
+    "name": "IJmuiden",
+    "sport": "kitesurfing"
+  }
+},
+{
+  "type": "node",
+  "id": 4541676969,
+  "lat": 52.3264900,
+  "lon": 4.9251283,
+  "tags": {
+    "name": "Glasgarage.nl",
+    "shop": "car_repair"
+  }
+},
+{
+  "type": "node",
+  "id": 4614279439,
+  "lat": 52.3833535,
+  "lon": 4.7345696,
+  "tags": {
+    "addr:city": "Zwanenburg",
+    "addr:housenumber": "21",
+    "addr:postcode": "1161AE",
+    "addr:street": "Weerenweg",
+    "description": "Kartbaan",
+    "leisure": "sports_centre",
+    "name": "Silverstone Indoorkarting / Lasergame",
+    "sport": "karting"
+  }
+},
+{
+  "type": "node",
+  "id": 4745422908,
+  "lat": 52.2671482,
+  "lon": 4.7316528,
+  "tags": {
+    "addr:city": "Rijsenhout",
+    "addr:housenumber": "2B",
+    "addr:postcode": "1435CB",
+    "addr:street": "Aarbergerweg",
+    "name": "Garage Rijsenhout V.O.F.",
+    "operator": "Garage Rijsenhout V.O.F.",
+    "shop": "car_repair"
+  }
+},
+{
+  "type": "node",
+  "id": 4804124848,
+  "lat": 52.4084810,
+  "lon": 4.7028996,
+  "tags": {
+    "leisure": "sports_centre",
+    "sport": "climbing"
+  }
+},
+{
+  "type": "node",
+  "id": 4866329036,
+  "lat": 52.3746488,
+  "lon": 4.8954209,
+  "tags": {
+    "check_date": "2024-05-10",
+    "leisure": "escape_game",
+    "name": "Sherlocked",
+    "website": "https://sherlocked.nl"
+  }
+},
+{
+  "type": "node",
+  "id": 4866974721,
+  "lat": 52.3614106,
+  "lon": 4.8580036,
+  "tags": {
+    "check_date": "2025-02-04",
+    "leisure": "fitness_centre",
+    "name": "Yoga Garage",
+    "name:nl": "Yoga Garage",
+    "opening_hours": "\"Na inschrijvijg\"",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4898292256,
+  "lat": 52.2136764,
+  "lon": 5.1452761,
+  "tags": {
+    "addr:city": "Hilversum",
+    "addr:housenumber": "18",
+    "addr:postcode": "1216SK",
+    "addr:street": "Franciscusweg",
+    "email": "info@awesomeretro.org",
+    "leisure": "amusement_arcade",
+    "name": "Awesome Space",
+    "source": "BAG",
+    "source:date": "2017-05-08",
+    "url:spaceapi": "https://state.awesomespace.nl/",
+    "website": "https://awesomespace.nl/",
+    "wikidata": "Q134310154"
+  }
+},
+{
+  "type": "node",
+  "id": 4913636281,
+  "lat": 52.3426746,
+  "lon": 4.6065794,
+  "tags": {
+    "name": "Garage Rekelhof",
+    "shop": "car_repair",
+    "website": "https://www.garagerekelhof.nl"
+  }
+},
+{
+  "type": "node",
+  "id": 4943034926,
+  "lat": 52.3664380,
+  "lon": 4.8686301,
+  "tags": {
+    "name": "Change laserclinic",
+    "shop": "beauty"
+  }
+},
+{
+  "type": "node",
+  "id": 4988000931,
+  "lat": 52.3806818,
+  "lon": 4.6612795,
+  "tags": {
+    "addr:city": "Haarlem",
+    "addr:housenumber": "51A",
+    "addr:postcode": "2033WK",
+    "addr:street": "Prins Bernhardlaan",
+    "name": "The Laser Studio",
+    "shop": "beauty",
+    "source": "BAG",
+    "source:date": "2021-09-25",
+    "website": "https://www.thelaserstudio.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 5048998130,
+  "lat": 52.3404130,
+  "lon": 4.8242153,
+  "tags": {
+    "access": "permissive",
+    "amenity": "parking_entrance",
+    "name": "Uitgang PwC Parkeergarage"
+  }
+},
+{
+  "type": "node",
+  "id": 5088505201,
+  "lat": 52.3832681,
+  "lon": 4.9206637,
+  "tags": {
+    "addr:city": "Amsterdam",
+    "addr:housenumber": "267",
+    "addr:postcode": "1021KP",
+    "addr:street": "Gedempt Hamerkanaal",
+    "leisure": "playground",
+    "name": "Escape Factory"
+  }
+},
+{
+  "type": "node",
+  "id": 5310584450,
+  "lat": 52.3864358,
+  "lon": 4.9318990,
+  "tags": {
+    "addr:city": "Amsterdam",
+    "addr:housenumber": "110",
+    "addr:postcode": "1022AG",
+    "addr:street": "Zamenhofstraat",
+    "loc_name": "De Oudste Eenden Garage van Nederland",
+    "name": "Garage Ruimzicht",
+    "phone": "+31 20 668 2796",
+    "shop": "car_repair",
+    "source": "survey",
+    "website": "https://garageruimzicht.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 5494117151,
+  "lat": 52.3632928,
+  "lon": 4.9003937,
+  "tags": {
+    "name": "Garage Kerkstraat BV",
+    "shop": "car_repair",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5607562023,
+  "lat": 52.3661631,
+  "lon": 4.8731855,
+  "tags": {
+    "addr:city": "Amsterdam",
+    "addr:housenumber": "205",
+    "addr:postcode": "1053KT",
+    "addr:street": "Bilderdijkstraat",
+    "amenity": "cafe",
+    "indoor_seating": "yes",
+    "name": "Café de Vos",
+    "opening_hours": "We, Th 12:00-01:00; Fr, Sa 12:00-03:00; Su 12:00-01:00",
+    "outdoor_seating": "yes",
+    "phone": "+31 20 233 4256",
+    "sport": "billiards",
+    "website": "https://devosamsterdam.nl/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5609737607,
+  "lat": 52.5190878,
+  "lon": 4.9731072,
+  "tags": {
+    "addr:city": "Purmerend",
+    "addr:housenumber": "3",
+    "addr:postcode": "1444GN",
+    "addr:street": "Spinnekop",
+    "leisure": "amusement_arcade",
+    "name": "H20",
+    "opening_hours": "Mo-Fr 09:00-17:30; Sa,Su 12:00-18:00",
+    "source": "BAG",
+    "source:date": "2018-04-08"
+  }
+},
+{
+  "type": "node",
+  "id": 5752552769,
+  "lat": 52.3672501,
+  "lon": 4.8908470,
+  "tags": {
+    "access": "permissive",
+    "addr:city": "Amsterdam",
+    "addr:housenumber": "451C",
+    "addr:postcode": "1012WP",
+    "addr:street": "Singel",
+    "amenity": "parking_entrance",
+    "capacity": "130",
+    "fee": "yes",
+    "maxheight": "1.9",
+    "name": "Parkeergarage Kalverstraat",
+    "operator": "Q-Park",
+    "parking": "underground",
+    "source": "BAG",
+    "source:date": "2014-02-11",
+    "supervised": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5799939636,
+  "lat": 52.3566841,
+  "lon": 4.8868324,
+  "tags": {
+    "addr:city": "Amsterdam",
+    "addr:housenumber": "100",
+    "addr:postcode": "1072AT",
+    "addr:street": "Ruysdaelkade",
+    "amenity": "parking_entrance",
+    "maxheight": "2.1",
+    "motor_vehicle": "yes",
+    "name": "Albert Cuypgarage (Uitgang)",
+    "name:en": "Albert Cuyp Garage (Exit)",
+    "parking": "underground",
+    "website": "https://www.amsterdam.nl/parkeren/gemeentelijke-parkeergarages/overzicht/albert-cuyp/"
+  }
+},
+{
+  "type": "node",
+  "id": 5799939641,
+  "lat": 52.3555490,
+  "lon": 4.8869183,
+  "tags": {
+    "access": "yes",
+    "addr:city": "Amsterdam",
+    "addr:housenumber": "100",
+    "addr:postcode": "1072AT",
+    "addr:street": "Ruysdaelkade",
+    "amenity": "parking_entrance",
+    "maxheight": "2.1",
+    "motor_vehicle": "yes",
+    "name": "Albert Cuypgarage (Ingang)",
+    "name:en": "Albert Cuyp Garage (Entrance)",
+    "parking": "underground",
+    "website": "https://www.amsterdam.nl/parkeren/gemeentelijke-parkeergarages/overzicht/albert-cuyp/"
+  }
+},
+{
+  "type": "node",
+  "id": 5810548990,
+  "lat": 52.4508559,
+  "lon": 4.8854220,
+  "tags": {
+    "leisure": "water_park",
+    "name": "Onderwaterpark Twiske",
+    "sport": "scuba_diving"
+  }
+},
+{
+  "type": "node",
+  "id": 5812407053,
+  "lat": 52.3712911,
+  "lon": 4.8712891,
+  "tags": {
+    "addr:city": "Amsterdam",
+    "addr:housenumber": "34",
+    "addr:street": "De Clercqstraat",
+    "amenity": "fast_food",
+    "cuisine": "burger",
+    "name": "Le Smash"
+  }
+},
+{
+  "type": "node",
+  "id": 5891849386,
+  "lat": 52.3855398,
+  "lon": 4.9256868,
+  "tags": {
+    "amenity": "nightclub",
+    "contact:instagram": "garagenoord",
+    "name": "Garage Noord",
+    "website": "https://garagenoord.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 6757261121,
+  "lat": 52.3708168,
+  "lon": 4.8927076,
+  "tags": {
+    "amenity": "parking_entrance",
+    "motorcar": "yes",
+    "name": "Rokin Garage (uitgang)",
+    "parking": "underground"
+  }
+},
+{
+  "type": "node",
+  "id": 6757261126,
+  "lat": 52.3702757,
+  "lon": 4.8925526,
+  "tags": {
+    "amenity": "parking_entrance",
+    "motor_vehicle": "yes",
+    "name": "Rokin Garage (Ingang)",
+    "parking": "underground"
+  }
+},
+{
+  "type": "node",
+  "id": 6846493891,
+  "lat": 52.3598096,
+  "lon": 5.0138736,
+  "tags": {
+    "leisure": "sports_centre",
+    "name": "Surfcenter IJburg",
+    "sport": "windsurfing",
+    "website": "https://www.surfcenterijburg.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 7142436747,
+  "lat": 52.3898746,
+  "lon": 4.6238784,
+  "tags": {
+    "addr:city": "Haarlem",
+    "addr:country": "NL",
+    "addr:housenumber": "7-9",
+    "addr:postcode": "2023BS",
+    "addr:street": "Korte Verspronckweg",
+    "amenity": "theatre",
+    "email": "info@circushakim.com",
+    "name": "Circus Hakim",
+    "phone": "+31 6 22679941",
+    "website": "https://www.circushakim.com/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 7159590775,
+  "lat": 52.2576424,
+  "lon": 4.7594377,
+  "tags": {
+    "name": "De Fietsgarage",
+    "shop": "bicycle",
+    "website": "https://www.defietsgarage.com"
+  }
+},
+{
+  "type": "node",
+  "id": 7581158630,
+  "lat": 52.3345083,
+  "lon": 4.6129879,
+  "tags": {
+    "artist_name": "Raymond Spierings",
+    "artwork_type": "sculpture",
+    "name": "La Quadrature",
+    "tourism": "artwork",
+    "year": "2009"
+  }
+},
+{
+  "type": "node",
+  "id": 7801983502,
+  "lat": 52.3719386,
+  "lon": 4.9177380,
+  "tags": {
+    "amenity": "parking_entrance",
+    "name": "Hofgarage"
+  }
+},
+{
+  "type": "node",
+  "id": 7801983507,
+  "lat": 52.3738646,
+  "lon": 4.9208877,
+  "tags": {
+    "amenity": "parking_entrance",
+    "name": "Werfgarage"
+  }
+},
+{
+  "type": "node",
+  "id": 7908186654,
+  "lat": 52.4009163,
+  "lon": 4.8755147,
+  "tags": {
+    "access": "yes",
+    "amenity": "parking_entrance",
+    "covered": "yes",
+    "name": "Parkeergarage Houthavens",
+    "parking": "underground"
+  }
+},
+{
+  "type": "node",
+  "id": 8600254159,
+  "lat": 52.3434926,
+  "lon": 4.6313718,
+  "tags": {
+    "access": "unknown",
+    "amenity": "charging_station",
+    "motorcar": "yes",
+    "name": "Mosselgroep Garage",
+    "operator": "Ecotap",
+    "operator:wikidata": "Q123249354",
+    "ref": "E8711",
+    "socket:type2": "1"
+  }
+},
+{
+  "type": "node",
+  "id": 8688788789,
+  "lat": 52.3050217,
+  "lon": 5.2364642,
+  "tags": {
+    "access": "customers",
+    "amenity": "parking",
+    "fee": "no",
+    "layer": "-1",
+    "name": "Lidl garage",
+    "parking": "underground",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 8805218642,
+  "lat": 52.3816671,
+  "lon": 4.8593849,
+  "tags": {
+    "addr:city": "Amsterdam",
+    "addr:housenumber": "338B",
+    "addr:postcode": "1055RD",
+    "addr:street": "Willem de Zwijgerlaan",
+    "check_date": "2026-04-25",
+    "climbing:boulder": "yes",
+    "email": "amsterdam@beestboulders.nl",
+    "fee": "yes",
+    "indoor": "yes",
+    "internet_access": "wlan",
+    "internet_access:fee": "customers",
+    "leisure": "sports_centre",
+    "name": "Beest Boulders Amsterdam",
+    "opening_hours": "Mo-Fr 07:00-23:00; Sa-Su 09:00-23:00",
+    "outdoor": "no",
+    "phone": "+31 20 226 9442",
+    "sport": "climbing",
+    "website": "https://beestboulders.com/beest-boulders-amsterdam/"
+  }
+},
+{
+  "type": "node",
+  "id": 8955199679,
+  "lat": 52.3007519,
+  "lon": 5.2413578,
+  "tags": {
+    "name": "Garage Huizen",
+    "service": "dealer;repair",
+    "shop": "car"
+  }
+},
+{
+  "type": "node",
+  "id": 9011459568,
+  "lat": 52.3650963,
+  "lon": 4.8599450,
+  "tags": {
+    "name": "Kanaal Garage",
+    "shop": "car_repair"
+  }
+},
+{
+  "type": "node",
+  "id": 9033265313,
+  "lat": 52.3756009,
+  "lon": 4.8648040,
+  "tags": {
+    "artist:wikidata": "Q3942427",
+    "artist_name": "Hildo Krop",
+    "artwork_type": "sculpture",
+    "name": "Vijf pakhuizen en lastdragers",
+    "tourism": "artwork",
+    "wikimedia_commons": "File:Brug_382_Jan_van_Galenbrug_pic6.JPG"
+  }
+},
+{
+  "type": "node",
+  "id": 9082251516,
+  "lat": 52.4626629,
+  "lon": 4.6255184,
+  "tags": {
+    "addr:city": "IJmuiden",
+    "addr:housenumber": "9-11",
+    "addr:postcode": "1971AA",
+    "addr:street": "Trompstraat",
+    "name": "Vakgarage Koelemeijer",
+    "phone": "+31 255 520 509",
+    "shop": "car_repair",
+    "website": "https://www.vakgaragekoelemeijer.nl"
+  }
+},
+{
+  "type": "node",
+  "id": 9278233572,
+  "lat": 52.3471853,
+  "lon": 4.9493638,
+  "tags": {
+    "access": "yes",
+    "climbing:boulder": "yes",
+    "climbing:sport": "yes",
+    "climbing:trad": "yes",
+    "fee": "no",
+    "leisure": "pitch",
+    "location": "outdoor",
+    "name": "Boulderwand Meerpark",
+    "opening_hours": "24/7",
+    "outdoor": "yes",
+    "sport": "climbing"
+  }
+},
+{
+  "type": "node",
+  "id": 9455992026,
+  "lat": 52.2051862,
+  "lon": 5.1266022,
+  "tags": {
+    "addr:city": "Loosdrecht",
+    "addr:housenumber": "1c",
+    "addr:postcode": "1231LN",
+    "addr:street": "Oud-Loosdrechtsedijk",
+    "name": "Garagebedrijf Doesburg B.V.",
+    "shop": "car_repair"
+  }
+},
+{
+  "type": "node",
+  "id": 9770346824,
+  "lat": 52.5072066,
+  "lon": 4.9534953,
+  "tags": {
+    "access": "yes",
+    "addr:city": "Purmerend",
+    "addr:housenumber": "44",
+    "addr:postcode": "1441DM",
+    "addr:street": "Purmersteenweg",
+    "amenity": "parking",
+    "capacity": "305",
+    "capacity:disabled": "3",
+    "charge": "Eerste 20min=€0,85, daarna €0,03 per minuut, max. dagtarief=€8,00. Gratis parkeren van 22:00-07:00",
+    "covered": "yes",
+    "description": "Stadhuispleingarage is een 24/7 geopende parkeergarage gelegen aan de Purmersteenweg in Purmerend, direct voor het stadhuis. Er zijn 305 parkeerplaatsen, inclusief 3 gehandicaptenplekken en 6 laadpunten op verdieping -1. De maximale doorrijhoogte is 2,20",
+    "email": "info@p1.nl",
+    "fee": "yes",
+    "image": "https://imgur.com/a/D92rixk",
+    "layer": "-1",
+    "location": "underground",
+    "name": "Stadhuispleingarage",
+    "opening_hours": "24/7",
+    "operator": "Gemeente Purmerend",
+    "operator:type": "public",
+    "parking": "underground",
+    "payment:account_cards": "yes",
+    "payment:credit_cards": "yes",
+    "phone": "+31 88 1261414",
+    "source": "BAG",
+    "source:date": "2022-05-24",
+    "website": "https://purmerend.nl/omgeving/parkeren/waar-parkeren-en-kosten/stadhuispleingarage",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9860578788,
+  "lat": 52.3129716,
+  "lon": 4.6948538,
+  "tags": {
+    "addr:city": "Hoofddorp",
+    "addr:housenumber": "8A",
+    "addr:postcode": "2131AD",
+    "addr:street": "Noordmeerstraat",
+    "leisure": "amusement_arcade",
+    "name": "GO-Esports",
+    "opening_hours": "Tu-Fr 15:00-23:00; Sa 12:00-23:00; Su 12:00-22:00",
+    "website": "http://go-esports.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 9921115646,
+  "lat": 52.2708105,
+  "lon": 5.1622977,
+  "tags": {
+    "amenity": "parking_entrance",
+    "maxheight": "2.1",
+    "name": "Parkeergarage Gewest",
+    "parking": "underground"
+  }
+},
+{
+  "type": "node",
+  "id": 10259244117,
+  "lat": 52.3069296,
+  "lon": 4.9744556,
+  "tags": {
+    "amenity": "parking_entrance",
+    "name": "Parkeergarage Leerdamhof"
+  }
+},
+{
+  "type": "node",
+  "id": 10823781802,
+  "lat": 52.3606311,
+  "lon": 4.8910106,
+  "tags": {
+    "access": "yes",
+    "amenity": "parking_entrance",
+    "name": "Vijzelgracht parkeergarage",
+    "parking": "underground"
+  }
+},
+{
+  "type": "node",
+  "id": 10924243070,
+  "lat": 52.3420092,
+  "lon": 4.9624077,
+  "tags": {
+    "leisure": "amusement_arcade",
+    "name": "Childzplay Diemen"
+  }
+},
+{
+  "type": "node",
+  "id": 11030690537,
+  "lat": 52.2729379,
+  "lon": 4.6302512,
+  "tags": {
+    "leisure": "miniature_golf",
+    "name": "Midgetvoetgolf",
+    "opening_hours": "Fr-We 12:00-17:00; Th off",
+    "phone": "+31 6 50923431",
+    "website": "https://www.midgetvoetgolf.nl"
+  }
+},
+{
+  "type": "node",
+  "id": 11065621726,
+  "lat": 52.3923103,
+  "lon": 4.6478805,
+  "tags": {
+    "addr:city": "Haarlem",
+    "addr:housenumber": "1",
+    "addr:postcode": "2021AA",
+    "addr:street": "Ben Viljoenstraat",
+    "climbing:boulder": "yes",
+    "email": "info@boulderhaldefabriek.nl",
+    "indoor": "yes",
+    "internet_access": "wlan",
+    "internet_access:fee": "customers",
+    "leisure": "sports_centre",
+    "name": "Boulderhal de Fabriek Haarlem",
+    "opening_hours": "Mo-Su 10:00-23:00",
+    "outdoor": "no",
+    "phone": "+31 23 576 5458",
+    "sport": "climbing",
+    "website": "https://boulderhaldefabriek.nl/boulderen-3/de-fabriek-haarlem/"
+  }
+},
+{
+  "type": "node",
+  "id": 11150176239,
+  "lat": 52.5125393,
+  "lon": 5.0065952,
+  "tags": {
+    "email": "info@summagarage.nl",
+    "name": "Summa Garage",
+    "phone": "+31 299 397 751",
+    "shop": "car_repair",
+    "website": "https://summagarage.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 11160745053,
+  "lat": 52.3130181,
+  "lon": 4.9466722,
+  "tags": {
+    "addr:housenumber": "183-187",
+    "addr:postcode": "1107EJ",
+    "addr:street": "Johan Cruijff Boulevard",
+    "branch": "ArenA",
+    "brand": "Gamestate",
+    "brand:website": "https://www.gamestate.com/",
+    "brand:wikidata": "Q124516072",
+    "brand:wikipedia": "nl:Gamestate",
+    "check_date": "2023-09-01",
+    "check_date:opening_hours": "2025-11-17",
+    "contact:facebook": "gamestate.nl",
+    "contact:instagram": "gamestate_official",
+    "email": "info@gamestate.com",
+    "leisure": "amusement_arcade",
+    "name": "Gamestate",
+    "opening_hours": "12:00-24:00",
+    "phone": "+31 20 224 9888",
+    "source:opening_hours": "website",
+    "website": "https://www.gamestate.com/nl/amsterdam-arena"
+  }
+},
+{
+  "type": "node",
+  "id": 11182027670,
+  "lat": 52.3837015,
+  "lon": 4.9026999,
+  "tags": {
+    "addr:city": "Amsterdam",
+    "addr:country": "NL",
+    "addr:housenumber": "15",
+    "addr:postcode": "1031KS",
+    "addr:street": "Overhoeksplein",
+    "email": "sales@adam-vr.com;info@adam-vr.com",
+    "leisure": "amusement_arcade",
+    "name": "A'DAM VR Game Park",
+    "opening_hours": "Mo-Su 12:00-21:00; Fr,Sa 12:00-20:00",
+    "phone": "+31 20 215 9545",
+    "tourism": "attraction",
+    "virtual_reality": "yes",
+    "website": "https://adam-vr.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 11215505662,
+  "lat": 52.3416920,
+  "lon": 4.8932120,
+  "tags": {
+    "artist_name": "Femke Schaap",
+    "artwork_subject": "bron, waterval en fontein",
+    "artwork_type": "installation",
+    "material": "stone",
+    "name": "Fontein - Virtual fountains",
+    "note": "https://stadscuratorium.nl/toespraak-jeroen-boomgaard-bij-opening-virtual-fountains/",
+    "old_name": "WEstLAndWElls",
+    "old_start_date": "2009",
+    "source": "https://amsterdam.kunstwacht.nl/kunstwerken/bekijk/25684-virtual-fountains",
+    "start_date": "2022-11-17",
+    "tourism": "artwork",
+    "wikipedia": "nl:Virtual fountains"
+  }
+},
+{
+  "type": "node",
+  "id": 11215505663,
+  "lat": 52.3415070,
+  "lon": 4.8930063,
+  "tags": {
+    "artist_name": "Femke Schaap",
+    "artwork_subject": "bron, waterval en fontein",
+    "artwork_type": "installation",
+    "material": "stone",
+    "name": "Waterval - Virtual fountains",
+    "note": "https://stadscuratorium.nl/toespraak-jeroen-boomgaard-bij-opening-virtual-fountains/",
+    "old_name": "WEstLAndWElls",
+    "old_start_date": "2009",
+    "source": "https://amsterdam.kunstwacht.nl/kunstwerken/bekijk/25684-virtual-fountains",
+    "start_date": "2022-11-17",
+    "tourism": "artwork",
+    "wikidata": "Q116740012",
+    "wikimedia_commons": "Category:Virtual fountains",
+    "wikipedia": "nl:Virtual fountains"
+  }
+},
+{
+  "type": "node",
+  "id": 11215505703,
+  "lat": 52.3411745,
+  "lon": 4.8929927,
+  "tags": {
+    "artist_name": "Femke Schaap",
+    "artwork_subject": "bron, waterval en fontein",
+    "artwork_type": "installation",
+    "material": "stone",
+    "name": "Bron - Virtual fountains",
+    "note": "https://stadscuratorium.nl/toespraak-jeroen-boomgaard-bij-opening-virtual-fountains/",
+    "old_name": "WEstLAndWElls",
+    "old_start_date": "2009",
+    "source": "https://amsterdam.kunstwacht.nl/kunstwerken/bekijk/25684-virtual-fountains",
+    "start_date": "2022-11-17",
+    "tourism": "artwork",
+    "wikidata": "Q116740012",
+    "wikimedia_commons": "Category:Virtual fountains",
+    "wikipedia": "nl:Virtual fountains"
+  }
+},
+{
+  "type": "node",
+  "id": 11626565728,
+  "lat": 52.4012447,
+  "lon": 4.8977690,
+  "tags": {
+    "leisure": "playground",
+    "name": "Circus Kristal",
+    "website": "https://www.circuskristal.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 11811575064,
+  "lat": 52.3311465,
+  "lon": 4.9741022,
+  "tags": {
+    "addr:city": "Diemen",
+    "addr:housenumber": "11A",
+    "addr:postcode": "1112BA",
+    "addr:street": "Treubweg",
+    "branch": "Diemen Treubweg",
+    "brand": "Shurgard Storage Centers",
+    "brand:wikidata": "Q3482670",
+    "name": "Shurgard Self-Storage",
+    "phone": "+31 20 8097580",
+    "phone:NL": "0800 4100",
+    "shop": "storage_rental",
+    "source": "BAG",
+    "source:date": "2024-04-12",
+    "website": "https://www.shurgard.com/nl-nl/opslagruimte-in-nederland/amsterdam/diemen-treubweg"
+  }
+},
+{
+  "type": "node",
+  "id": 11928804398,
+  "lat": 52.3656248,
+  "lon": 4.8766543,
+  "tags": {
+    "addr:housenumber": "27",
+    "addr:street": "Bosboom Toussaintstraat",
+    "beauty": "hair_removal;laser_hair_removal",
+    "check_date": "2024-05-23",
+    "name": "The Laser Lab",
+    "shop": "beauty",
+    "website": "https://thelaserlabamsterdam.nl/en/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12009585352,
+  "lat": 52.3134858,
+  "lon": 4.9411129,
+  "tags": {
+    "amenity": "parking_entrance",
+    "name": "Parking garage P1 Amsterdam Arena",
+    "parking": "underground"
+  }
+},
+{
+  "type": "node",
+  "id": 12046480540,
+  "lat": 52.3956807,
+  "lon": 4.8620735,
+  "tags": {
+    "leisure": "escape_game",
+    "name": "Locked",
+    "website": "https://lockedamsterdam.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 12051092101,
+  "lat": 52.3963431,
+  "lon": 4.7888644,
+  "tags": {
+    "leisure": "bowling_alley"
+  }
+},
+{
+  "type": "node",
+  "id": 12064977260,
+  "lat": 52.4383314,
+  "lon": 4.8157077,
+  "tags": {
+    "check_date": "2026-08-15",
+    "leisure": "amusement_arcade",
+    "name": "Sir Winston Fun & Games",
+    "website": "https://www.sirwinstonfungames.nl/locaties/zaandam/"
+  }
+},
+{
+  "type": "node",
+  "id": 12147662117,
+  "lat": 52.4291773,
+  "lon": 4.8193683,
+  "tags": {
+    "addr:city": "Zaandam",
+    "addr:housenumber": "45",
+    "addr:postcode": "1506SW",
+    "addr:street": "Stormhoek",
+    "fixme": "There is another node with the same address, I did not see if the design store is still there in a different part of the building maybe. Not sure how to resolve this",
+    "leisure": "amusement_arcade",
+    "name": "Epix Arcade",
+    "opening_hours": "We-Fr 15:00-22:00; Sa 12:00-22:00; Su 12:00-17:00",
+    "virtual_reality": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12149443849,
+  "lat": 52.3835397,
+  "lon": 4.8781761,
+  "tags": {
+    "check_date:opening_hours": "2026-08-10",
+    "name": "Garage Faroek",
+    "opening_hours:signed": "no",
+    "shop": "car_repair"
+  }
+},
+{
+  "type": "node",
+  "id": 12180070884,
+  "lat": 52.3273165,
+  "lon": 4.8557354,
+  "tags": {
+    "addr:city": "Amstelveen",
+    "addr:housenumber": "3",
+    "addr:postcode": "1182DA",
+    "addr:street": "Bosbaanweg",
+    "leisure": "sports_centre",
+    "name": "Fun Forest Amsterdam",
+    "sport": "climbing_adventure",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12582474214,
+  "lat": 52.5071925,
+  "lon": 4.9535787,
+  "tags": {
+    "access": "yes",
+    "amenity": "parking_entrance",
+    "name": "Stadhuispleingarage",
+    "parking": "underground"
+  }
+},
+{
+  "type": "node",
+  "id": 12736749315,
+  "lat": 52.3609566,
+  "lon": 4.9283293,
+  "tags": {
+    "name": "Beauty & Laser Clinic",
+    "opening_hours": "Tu-Sa 10:00-18:00",
+    "shop": "beauty"
+  }
+},
+{
+  "type": "node",
+  "id": 12744651909,
+  "lat": 52.3636226,
+  "lon": 4.9272099,
+  "tags": {
+    "name": "Gordijnen & Vitrage",
+    "opening_hours": "Mo-Sa 09:00-17:00",
+    "shop": "curtain"
+  }
+},
+{
+  "type": "node",
+  "id": 12750058252,
+  "lat": 52.3546656,
+  "lon": 4.9325029,
+  "tags": {
+    "name": "Laser Clinic Amsterdam",
+    "shop": "beauty"
+  }
+},
+{
+  "type": "node",
+  "id": 12826038301,
+  "lat": 52.5297507,
+  "lon": 4.7348699,
+  "tags": {
+    "addr:city": "Uitgeest",
+    "addr:housenumber": "1911",
+    "addr:postcode": "1911MT",
+    "addr:street": "Lagendijk",
+    "leisure": "sports_centre",
+    "name": "Surfstrand Uitgeest",
+    "sport": "windsurfing"
+  }
+},
+{
+  "type": "node",
+  "id": 12888681399,
+  "lat": 52.2086330,
+  "lon": 4.8876465,
+  "tags": {
+    "addr:city": "Mijdrecht",
+    "addr:housenumber": "1A",
+    "addr:postcode": "3641SV",
+    "addr:street": "Ontspanningsweg",
+    "email": "info@bowlingmijdrecht.nl",
+    "leisure": "bowling_alley",
+    "name": "Bowlingcentrum Mijdrecht",
+    "opening_hours": "Mo off; Tu 13:00-18:00; We 13:00-21:00; Th 15:00-21:00; Fr-Sa 13:00-24:00; Su 13:00-21:00",
+    "phone": "+31 297 256945",
+    "source": "BAG",
+    "source:date": "2014-05-20",
+    "website": "https://www.bowlingmijdrecht.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 13331490214,
+  "lat": 52.2992428,
+  "lon": 4.9565593,
+  "tags": {
+    "board_type": "notice",
+    "information": "board",
+    "name": "Parkeergarage Trinity",
+    "tourism": "information"
+  }
+},
+{
+  "type": "node",
+  "id": 13792107302,
+  "lat": 52.3844412,
+  "lon": 4.9288805,
+  "tags": {
+    "addr:city": "Amsterdam",
+    "addr:housenumber": "38",
+    "addr:postcode": "1021KB",
+    "addr:street": "Aambeeldstraat",
+    "check_date": "2026-05-03",
+    "email": "info@parkamsterdam.nl",
+    "name": "PARK",
+    "phone": "+31 6 28739093",
+    "tourism": "theme_park",
+    "website": "https://parkamsterdam.nl"
+  }
+},
+{
+  "type": "node",
+  "id": 13937010043,
+  "lat": 52.3556976,
+  "lon": 4.9558133,
+  "tags": {
+    "access": "yes",
+    "climbing:boulder": "yes",
+    "fee": "no",
+    "leisure": "pitch",
+    "location": "outdoor",
+    "name": "Boulderblok Universum",
+    "opening_hours": "24/7",
+    "outdoor": "yes",
+    "panoramax": "325eb35f-c050-454f-a21e-b0e044701139",
+    "sport": "climbing",
+    "wikipedia": "nl:Boulderblok Universum"
+  }
+},
+{
+  "type": "node",
+  "id": 14051933497,
+  "lat": 52.3546399,
+  "lon": 5.0278862,
+  "tags": {
+    "fee": "no",
+    "leisure": "sports_centre",
+    "sport": "climbing"
+  }
+},
+{
+  "type": "node",
+  "id": 14115033659,
+  "lat": 52.2274963,
+  "lon": 5.1671500,
+  "tags": {
+    "artist_name": "Sven Lamme",
+    "artwork_type": "sculpture",
+    "name": "Een steentje bijdragen",
+    "start_date": "2021",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 14243523281,
+  "lat": 52.3355397,
+  "lon": 4.9267678,
+  "tags": {
+    "addr:city": "Amsterdam-Duivendrecht",
+    "addr:housenumber": "70",
+    "addr:postcode": "1114AD",
+    "addr:street": "H.J.E. Wenckebachweg",
+    "description": "Alfa Romeo specialist",
+    "email": "info@garagegrandprix.nl",
+    "name": "Garage Grand Prix",
+    "opening_hours": "Mo-Fr 08:00-18:00",
+    "phone": "+31 20 665 6574",
+    "service:vehicle:inspection": "yes",
+    "service:vehicle:used_car_sales": "yes",
+    "shop": "car_repair",
+    "website": "https://garagegrandprix.nl/"
+  }
+},
+{
+  "type": "node",
+  "id": 14315036901,
+  "lat": 52.3406479,
+  "lon": 4.8436778,
+  "tags": {
+    "name": "Garage Riband",
+    "shop": "tyres"
+  }
+},
+{
+  "type": "node",
+  "id": 14342109557,
+  "lat": 52.3455520,
+  "lon": 4.6292195,
+  "tags": {
+    "addr:city": "Heemstede",
+    "addr:housenumber": "16",
+    "addr:postcode": "2102LL",
+    "addr:street": "Nijverheidsweg",
+    "name": "Tommys Garage",
+    "opening_hours": "Mo-Fr 08:00-17:00",
+    "phone": "+31235298828",
+    "shop": "car_repair",
+    "website": "https://www.tommysgarage.eu"
+  }
+},
+{
+  "type": "way",
+  "id": 25728982,
+  "center": {
+    "lat": 52.3025336,
+    "lon": 4.8578915
+  },
+  "tags": {
+    "amenity": "parking_entrance",
+    "brand": "Q-Park",
+    "brand:wikidata": "Q1127798",
+    "brand:wikipedia": "en:Q-Park",
+    "building": "parking",
+    "capacity": "600",
+    "fee": "yes",
+    "layer": "1",
+    "name": "Q-Park Schouwburggarage",
+    "note": "this is the parking garage building (which happens to be the roof of the bus station)",
+    "opening_hours": "24/7",
+    "operator": "Q-Park",
+    "operator:wikidata": "Q1127798",
+    "operator:wikipedia": "en:Q-Park",
+    "parking": "multi-storey",
+    "ref:bag": "0362100001111445",
+    "source": "BAG",
+    "source:date": "2014-03-24",
+    "start_date": "1996"
+  }
+},
+{
+  "type": "way",
+  "id": 28987522,
+  "center": {
+    "lat": 52.3253811,
+    "lon": 4.5984020
+  },
+  "tags": {
+    "addr:city": "Bennebroek",
+    "addr:country": "NL",
+    "addr:housenumber": "4",
+    "addr:street": "Rijksstraatweg",
+    "description": "formerly botanic garden",
+    "fee": "yes",
+    "landuse": "recreation_ground",
+    "name": "Linnaeushof",
+    "tourism": "theme_park",
+    "website": "https://www.linnaeushof.nl/",
+    "wikidata": "Q2512374",
+    "wikipedia": "nl:Linnaeushof (Bennebroek)"
+  }
+},
+{
+  "type": "way",
+  "id": 33850993,
+  "center": {
+    "lat": 52.3333741,
+    "lon": 4.8138829
+  },
+  "tags": {
+    "description": "artificial islet",
+    "leisure": "water_park"
+  }
+},
+{
+  "type": "way",
+  "id": 34997508,
+  "center": {
+    "lat": 52.2365447,
+    "lon": 5.1712175
+  },
+  "tags": {
+    "access": "yes",
+    "amenity": "parking",
+    "building": "yes",
+    "fee": "yes",
+    "name": "Parkeerdek en -garage A",
+    "parking": "multi-storey",
+    "ref:bag": "0402100001627374",
+    "source": "BAG",
+    "source:date": "2014-05-24",
+    "start_date": "1994"
+  }
+},
+{
+  "type": "way",
+  "id": 38285681,
+  "center": {
+    "lat": 52.4479965,
+    "lon": 4.6773926
+  },
+  "tags": {
+    "leisure": "track",
+    "name": "Klimmuur Spaarnwoude",
+    "sport": "climbing",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "way",
+  "id": 43266216,
+  "center": {
+    "lat": 52.3389899,
+    "lon": 4.9035802
+  },
+  "tags": {
+    "access": "permissive",
+    "landuse": "recreation_ground",
+    "leisure": "water_park",
+    "name": "De Mirandabad",
+    "operator": "Gemeente Amsterdam",
+    "website": "https://www.amsterdam.nl/demirandabad/"
+  }
+},
+{
+  "type": "way",
+  "id": 46879099,
+  "center": {
+    "lat": 52.3072149,
+    "lon": 4.9551866
+  },
+  "tags": {
+    "amenity": "parking",
+    "building": "yes",
+    "height": "9.3",
+    "maxheight": "2",
+    "name": "Parkeergarage Hakfort",
+    "parking": "multi-storey",
+    "ref:bag": "0363100012079375",
+    "source": "BAG",
+    "source:date": "2014-05-07",
+    "source:height": "3DBAG",
+    "source:height:date": "2025-09-03",
+    "start_date": "1977"
+  }
+},
+{
+  "type": "way",
+  "id": 46879587,
+  "center": {
+    "lat": 52.3067177,
+    "lon": 4.9749277
+  },
+  "tags": {
+    "amenity": "parking",
+    "building": "yes",
+    "height": "10.1",
+    "name": "Parkeergarage Leerdamhof",
+    "parking": "multi-storey",
+    "ref:bag": "0363100012067925",
+    "source": "BAG",
+    "source:date": "2014-05-07",
+    "source:height": "3DBAG",
+    "source:height:date": "2025-09-03",
+    "start_date": "1984"
+  }
+},
+{
+  "type": "way",
+  "id": 46879724,
+  "center": {
+    "lat": 52.3087474,
+    "lon": 4.9857552
+  },
+  "tags": {
+    "amenity": "parking",
+    "building": "yes",
+    "fee": "no",
+    "height": "9.9",
+    "name": "Parkeergarage Liendenhof",
+    "parking": "multi-storey",
+    "ref:bag": "0363100012135622",
+    "source": "BAG",
+    "source:date": "2014-05-07",
+    "source:height": "3DBAG",
+    "source:height:date": "2025-09-03",
+    "start_date": "1984"
+  }
+},
+{
+  "type": "way",
+  "id": 48591633,
+  "center": {
+    "lat": 52.3691606,
+    "lon": 5.2209506
+  },
+  "tags": {
+    "amenity": "parking",
+    "fee": "yes",
+    "name": "Hospitaalgarage",
+    "parking": "multi-storey"
+  }
+},
+{
+  "type": "way",
+  "id": 48621454,
+  "center": {
+    "lat": 52.2959819,
+    "lon": 4.7027908
+  },
+  "tags": {
+    "amenity": "parking",
+    "building": "yes",
+    "name": "Neptunus Garage",
+    "parking": "multi-storey",
+    "ref:bag": "0394100000228395",
+    "source": "BAG",
+    "source:date": "2014-02-11",
+    "start_date": "2004"
+  }
+},
+{
+  "type": "way",
+  "id": 48795388,
+  "center": {
+    "lat": 52.3552625,
+    "lon": 4.7824102
+  },
+  "tags": {
+    "leisure": "water_park",
+    "natural": "water"
+  }
+},
+{
+  "type": "way",
+  "id": 52909722,
+  "center": {
+    "lat": 52.3596598,
+    "lon": 4.6563134
+  },
+  "tags": {
+    "alt_name": "Parkeergarage WKC Schalkwijk",
+    "amenity": "parking",
+    "building": "retail",
+    "name": "Parkeergarage Winkelcentrum Schalkwijk",
+    "parking": "multi-storey",
+    "ref:bag": "0392100000077232",
+    "source": "BAG",
+    "source:date": "2014-02-11",
+    "start_date": "1992",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 52910214,
+  "center": {
+    "lat": 52.3869083,
+    "lon": 4.6389625
+  },
+  "tags": {
+    "access": "yes",
+    "addr:city": "Haarlem",
+    "addr:housenumber": "11",
+    "addr:postcode": "2011LK",
+    "addr:street": "Lange Herenstraat",
+    "alt_name": "Station",
+    "amenity": "parking",
+    "branch": "Haarlem",
+    "brand": "Interparking",
+    "brand:website": "https://interparking.nl",
+    "brand:wikidata": "Q1895863",
+    "brand:wikipedia": "nl:Interparking",
+    "building": "parking",
+    "building:levels": "2",
+    "capacity": "448",
+    "capacity:charging": "2",
+    "capacity:disabled": "2",
+    "contact:website": "https://interparking.nl/nl/parkeren/haarlem/station-haarlem",
+    "description": "Oplaad beschikbaarheid/info ter plaatse: https://chargefinder.com/nl/laadpaal-haarlem-evbox-lange-herenstraat-11/r3w58x",
+    "fee": "yes",
+    "layer": "-1",
+    "location": "underground",
+    "maxheight": "2.0",
+    "name": "Parkeergarage Station",
+    "opening_hours": "24/7",
+    "operator": "Interparking",
+    "operator:type": "business",
+    "owner": "Vastint",
+    "parking": "multi-storey",
+    "ref:bag": "0392100000039323",
+    "source": "BAG;https://goedkoopparkeren.nl/nederland/haarlem/parkeergarage-station-haarlem",
+    "source:date": "2017-06-08",
+    "start_date": "1975",
+    "surface": "asphalt",
+    "traffic_sign": "NL:C19[2.0]",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 57862364,
+  "center": {
+    "lat": 52.3338355,
+    "lon": 4.8307014
+  },
+  "tags": {
+    "addr:city": "Amsterdam",
+    "addr:country": "NL",
+    "addr:housenumber": "40",
+    "addr:postcode": "1066BT",
+    "addr:street": "Riekerweg",
+    "alt_name": "Plankzeilvereniging",
+    "building": "yes",
+    "height": "5.7",
+    "leisure": "sports_centre",
+    "name": "Amsterdam Windsurfing",
+    "ref:bag": "0363100012099662",
+    "source": "BAG",
+    "source:date": "2014-03-24",
+    "source:height": "3DBAG",
+    "source:height:date": "2025-09-03",
+    "sport": "windsurfing",
+    "start_date": "1991",
+    "website": "https://www.amsterdamwindsurfing.nl/"
+  }
+},
+{
+  "type": "way",
+  "id": 59023354,
+  "center": {
+    "lat": 52.3733395,
+    "lon": 5.2213839
+  },
+  "tags": {
+    "amenity": "parking",
+    "building": "yes",
+    "fee": "yes",
+    "name": "Regisseurgarage",
+    "operator": "P1",
+    "parking": "multi-storey",
+    "ref:bag": "0034100000055271",
+    "source": "BAG",
+    "source:date": "2019-07-09",
+    "start_date": "1992",
+    "website": "https://www.p1.nl/parkeren/almere-stad/p3-regisseurgarage"
+  }
+},
+{
+  "type": "way",
+  "id": 59023378,
+  "center": {
+    "lat": 52.3695523,
+    "lon": 5.2167607
+  },
+  "tags": {
+    "access": "yes",
+    "amenity": "parking",
+    "building": "yes",
+    "building:levels": "3",
+    "fee": "yes",
+    "name": "Flevogarage",
+    "parking": "multi-storey",
+    "ref:bag": "0034100000062879",
+    "source": "BAG",
+    "source:date": "2014-03-24",
+    "start_date": "2001",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 59027333,
+  "center": {
+    "lat": 52.3346995,
+    "lon": 5.2199599
+  },
+  "tags": {
+    "access": "yes",
+    "amenity": "parking",
+    "building": "yes",
+    "fee": "no",
+    "name": "Parkeergarage Sluis",
+    "opening_hours": "Mo-Su 00:00-24:00",
+    "park_ride": "no",
+    "parking": "multi-storey",
+    "ref:bag": "0034100000099967",
+    "source": "BAG",
+    "source:date": "2014-03-24",
+    "start_date": "1986",
+    "supervised": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 78757698,
+  "center": {
+    "lat": 52.3558228,
+    "lon": 4.9567727
+  },
+  "tags": {
+    "addr:city": "Amsterdam",
+    "addr:housenumber": "306",
+    "addr:postcode": "1098XH",
+    "addr:street": "Science Park",
+    "building:part": "yes",
+    "email": "usc@uscsport.nl",
+    "layer": "1",
+    "leisure": "sports_centre",
+    "name": "USC Universum",
+    "opening_hours": "Mo-Fr 08:00-23:30; Sa,Su 09:00-21:00",
+    "phone": "+31 20 240 6410",
+    "sport": "multi;climbing;basketball;fitness;futsal;yoga",
+    "website": "https://www.uscsport.nl/vestigingen/universum/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 103064888,
+  "center": {
+    "lat": 52.3254048,
+    "lon": 4.5999566
+  },
+  "tags": {
+    "fee": "yes",
+    "leisure": "miniature_golf",
+    "name": "Minigolf Lineaushof",
+    "operator": "Lineaushof",
+    "source": "3dShapes",
+    "surface": "grass"
+  }
+},
+{
+  "type": "way",
+  "id": 103070264,
+  "center": {
+    "lat": 52.3676554,
+    "lon": 4.6317666
+  },
+  "tags": {
+    "leisure": "miniature_golf",
+    "name": "Midgetgolfbaan Haarlem",
+    "opening_hours": "We,Fr-Su 13:00-17:30",
+    "source": "3dShapes",
+    "website": "https://www.midgetgolfbaanhaarlem.nl/"
+  }
+},
+{
+  "type": "way",
+  "id": 107024439,
+  "center": {
+    "lat": 52.4866577,
+    "lon": 4.7936951
+  },
+  "tags": {
+    "leisure": "sports_centre",
+    "name": "Paintball Jungle",
+    "source": "3dShapes",
+    "sport": "paintball",
+    "website": "https://www.paintballjungle.nl",
+    "wikidata": "Q130550225"
+  }
+},
+{
+  "type": "way",
+  "id": 130008764,
+  "center": {
+    "lat": 52.4536407,
+    "lon": 4.6205897
+  },
+  "tags": {
+    "leisure": "water_park",
+    "name": "Zwembad De Heerenduinen"
+  }
+},
+{
+  "type": "way",
+  "id": 139566093,
+  "center": {
+    "lat": 52.3362165,
+    "lon": 5.1106125
+  },
+  "tags": {
+    "description": "Kitesurfgebied",
+    "seamark:restricted_area:category": "kite_surfing",
+    "seamark:type": "restricted_area",
+    "sport": "kitesurfing"
+  }
+},
+{
+  "type": "way",
+  "id": 147554488,
+  "center": {
+    "lat": 52.3555662,
+    "lon": 4.9249982
+  },
+  "tags": {
+    "addr:city": "Amsterdam",
+    "addr:housenumber": "43",
+    "addr:postcode": "1092EZ",
+    "addr:street": "Pretoriusstraat",
+    "amenity": "community_centre",
+    "building": "yes",
+    "check_date": "2025-10-20",
+    "diet:vegan": "only",
+    "diet:vegetarian": "yes",
+    "drink:club-mate": "yes",
+    "email": "joe@squat.net",
+    "height": "16.6",
+    "name": "Joe's Garage",
+    "ref:bag": "0363100012112805",
+    "source": "BAG;Bing, knowledge",
+    "source:date": "2014-03-24",
+    "source:height": "3DBAG",
+    "source:height:date": "2025-09-03",
+    "squatted": "yes",
+    "start_date": "1908",
+    "toilets:wheelchair": "no",
+    "website": "https://joesgarage.nl",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 160011477,
+  "center": {
+    "lat": 52.3740042,
+    "lon": 5.2211162
+  },
+  "tags": {
+    "amenity": "parking",
+    "building": "yes",
+    "fee": "yes",
+    "name": "Metropolegarage",
+    "parking": "multi-storey",
+    "ref:bag": "0034100000054339",
+    "source": "BAG",
+    "source:date": "2014-03-24",
+    "start_date": "1988"
+  }
+},
+{
+  "type": "way",
+  "id": 164340978,
+  "center": {
+    "lat": 52.3743843,
+    "lon": 5.2167320
+  },
+  "tags": {
+    "amenity": "parking",
+    "building": "yes",
+    "capacity": "350",
+    "fee": "yes",
+    "name": "Schoutgarage",
+    "operator": "p1.nl",
+    "parking": "multi-storey",
+    "payment:coins": "yes",
+    "payment:contactless": "yes",
+    "payment:mastercard": "yes",
+    "payment:notes": "yes",
+    "payment:visa_debit": "yes",
+    "ref:bag": "0034100000053798",
+    "source": "BAG",
+    "source:date": "2014-03-24",
+    "start_date": "1991",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 169813490,
+  "center": {
+    "lat": 52.3712182,
+    "lon": 5.2165615
+  },
+  "tags": {
+    "amenity": "parking",
+    "building": "yes",
+    "fee": "yes",
+    "name": "Muntgarage",
+    "park_ride": "no",
+    "parking": "multi-storey",
+    "supervised": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 177095326,
+  "center": {
+    "lat": 52.4749341,
+    "lon": 4.8182581
+  },
+  "tags": {
+    "name": "Zaanse Schans",
+    "name:ko": "잔세스칸스",
+    "name:nl": "Zaanse Schans",
+    "name:vi": "làng Zaanse Schans",
+    "opening_hours": "24/7",
+    "place": "neighbourhood",
+    "tourism": "theme_park",
+    "website": "https://www.zaanseschans.nl/",
+    "wikidata": "Q136661",
+    "wikimedia_commons": "Category:Zaanse Schans",
+    "wikipedia": "nl:Zaanse Schans"
+  }
+},
+{
+  "type": "way",
+  "id": 177218212,
+  "center": {
+    "lat": 52.3060562,
+    "lon": 5.1915781
+  },
+  "tags": {
+    "name": "Oud Valkeveen",
+    "tourism": "theme_park",
+    "url": "http://www.oudvalkeveen.nl/"
+  }
+},
+{
+  "type": "way",
+  "id": 178673056,
+  "center": {
+    "lat": 52.3771545,
+    "lon": 5.1995192
+  },
+  "tags": {
+    "leisure": "miniature_golf"
+  }
+},
+{
+  "type": "way",
+  "id": 200985423,
+  "center": {
+    "lat": 52.3284951,
+    "lon": 5.1227966
+  },
+  "tags": {
+    "landuse": "grass",
+    "leisure": "miniature_golf"
+  }
+},
+{
+  "type": "way",
+  "id": 217521987,
+  "center": {
+    "lat": 52.3249653,
+    "lon": 4.5986074
+  },
+  "tags": {
+    "highway": "raceway",
+    "sport": "karting",
+    "width": "2"
+  }
+},
+{
+  "type": "way",
+  "id": 265125008,
+  "center": {
+    "lat": 52.3773631,
+    "lon": 4.6370191
+  },
+  "tags": {
+    "access": "yes",
+    "addr:city": "Haarlem",
+    "addr:housenumber": "1",
+    "addr:postcode": "2011DV",
+    "addr:street": "De Witstraat",
+    "alt_name": "de Kamp",
+    "amenity": "parking",
+    "branch": "Haarlem",
+    "building": "parking",
+    "building:levels": "6",
+    "capacity": "395",
+    "capacity:disabled": "2",
+    "capacity:motorcycle": "13",
+    "description": "Aantal oplaadpunten: 2 Locatie oplaadpunten: Niveau 1B, direct naast het hoofdtrappenhuis: https://chargefinder.com/nl/laadpaal-haarlem-witstraat-1/392xpm",
+    "fee": "yes",
+    "maxheight": "2.0",
+    "name": "Parkeergarage de Kamp",
+    "opening_hours": "24/7",
+    "operator": "Gemeente Haarlem & Spaarnelanden",
+    "operator:type": "public/government",
+    "operator:website": "https://www.spaarnelanden.nl/jouw-leefomgeving/parkeren/parkeergarages/parkeergarage-de-kamp/",
+    "parking": "multi-storey",
+    "ref:bag": "0392100000036711",
+    "source": "BAG",
+    "source:date": "2014-02-11",
+    "start_date": "1974",
+    "surface": "concrete"
+  }
+},
+{
+  "type": "way",
+  "id": 265992248,
+  "center": {
+    "lat": 52.3894625,
+    "lon": 4.6488405
+  },
+  "tags": {
+    "access": "private",
+    "amenity": "parking",
+    "building": "yes",
+    "capacity": "99",
+    "layer": "-1",
+    "level": "-1,0",
+    "name": "De Pionier, Stallingsgarage",
+    "parking": "underground",
+    "ref:bag": "0392100000079487",
+    "source": "BAG",
+    "source:date": "2014-02-11",
+    "start_date": "2013",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 267972560,
+  "center": {
+    "lat": 52.3049401,
+    "lon": 4.6955925
+  },
+  "tags": {
+    "amenity": "parking",
+    "brand": "Q-Park",
+    "brand:wikidata": "Q1127798",
+    "building": "parking",
+    "capacity": "220",
+    "fee": "yes",
+    "name": "Q-Park Centrumgarage",
+    "operator": "Q-Park",
+    "operator:wikidata": "Q1127798",
+    "parking": "multi-storey",
+    "ref:bag": "0394100000230495",
+    "source": "BAG",
+    "source:date": "2014-02-11",
+    "start_date": "1939"
+  }
+},
+{
+  "type": "way",
+  "id": 268319778,
+  "center": {
+    "lat": 52.2798075,
+    "lon": 4.6311473
+  },
+  "tags": {
+    "addr:city": "Nieuw-Vennep",
+    "addr:housenumber": "15",
+    "addr:postcode": "2152SJ",
+    "addr:street": "Fandango",
+    "building": "yes",
+    "leisure": "trampoline_park",
+    "name": "Trampoline park JumpKids",
+    "phone": "+31 85 011 0075",
+    "ref:bag": "0394100001021581",
+    "source": "BAG",
+    "source:date": "2014-02-11",
+    "start_date": "2010",
+    "website": "https://jumpkids.nl/"
+  }
+},
+{
+  "type": "way",
+  "id": 269242226,
+  "center": {
+    "lat": 52.2815336,
+    "lon": 4.7562115
+  },
+  "tags": {
+    "access": "private",
+    "amenity": "parking",
+    "building": "garage",
+    "name": "GIP Parkeergarage",
+    "parking": "multi-storey",
+    "ref:bag": "0394100000240477",
+    "source": "BAG",
+    "source:date": "2014-03-24",
+    "start_date": "1993"
+  }
+},
+{
+  "type": "way",
+  "id": 269263481,
+  "center": {
+    "lat": 52.3049161,
+    "lon": 4.8021937
+  },
+  "tags": {
+    "access": "private",
+    "alt_name": "P-KLM",
+    "amenity": "parking",
+    "building": "yes",
+    "height": "11.5",
+    "name": "Parkeergarage Hangar 14",
+    "parking": "multi-storey",
+    "ref:bag": "0394100000208886",
+    "source": "BAG",
+    "source:date": "2014-03-24",
+    "source:height": "3DBAG",
+    "source:height:date": "2025-09-03",
+    "start_date": "1998"
+  }
+},
+{
+  "type": "way",
+  "id": 269874555,
+  "center": {
+    "lat": 52.2633945,
+    "lon": 4.5604249
+  },
+  "tags": {
+    "access": "private",
+    "amenity": "parking",
+    "fee": "no",
+    "layer": "-1",
+    "name": "Privé parkeergarage",
+    "parking": "underground",
+    "ref:bag": "0553100000014217",
+    "source": "BAG",
+    "source:date": "2014-03-24",
+    "start_date": "2004"
+  }
+},
+{
+  "type": "way",
+  "id": 271331963,
+  "center": {
+    "lat": 52.3983178,
+    "lon": 4.6454061
+  },
+  "tags": {
+    "access": "customers",
+    "addr:city": "Haarlem",
+    "addr:housenumber": "18",
+    "addr:postcode": "2022BA",
+    "addr:street": "Soendaplein",
+    "amenity": "parking",
+    "fee": "yes",
+    "layer": "-1",
+    "name": "Albert Heijn parkeergarage",
+    "parking": "underground"
+  }
+},
+{
+  "type": "way",
+  "id": 275109689,
+  "center": {
+    "lat": 52.3489919,
+    "lon": 4.7852080
+  },
+  "tags": {
+    "access": "private",
+    "amenity": "parking",
+    "building:part": "yes",
+    "layer": "-1",
+    "name": "Parkeergarage Ecuplein",
+    "parking": "underground",
+    "ref:bag": "0363100012108888",
+    "source": "BAG",
+    "source:date": "2014-03-24",
+    "start_date": "1999"
+  }
+},
+{
+  "type": "way",
+  "id": 279770873,
+  "center": {
+    "lat": 52.3764727,
+    "lon": 5.2190887
+  },
+  "tags": {
+    "amenity": "parking",
+    "layer": "-2",
+    "level": "2",
+    "name": "Mandelagarage",
+    "parking": "underground",
+    "ref:bag": "0034100000051273",
+    "source": "BAG",
+    "source:date": "2026-05-17",
+    "start_date": "2010"
+  }
+},
+{
+  "type": "way",
+  "id": 279781050,
+  "center": {
+    "lat": 52.3712350,
+    "lon": 5.2145941
+  },
+  "tags": {
+    "amenity": "parking",
+    "building": "yes",
+    "fee": "yes",
+    "name": "Leerlinggarage",
+    "park_ride": "no",
+    "parking": "multi-storey",
+    "ref:bag": "0034100000059790",
+    "source": "BAG",
+    "source:date": "2014-03-24",
+    "start_date": "1999",
+    "supervised": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 282619774,
+  "center": {
+    "lat": 52.2051790,
+    "lon": 5.1266123
+  },
+  "tags": {
+    "addr:city": "Loosdrecht",
+    "addr:housenumber": "1c",
+    "addr:postcode": "1231LN",
+    "addr:street": "Oud-Loosdrechtsedijk",
+    "building": "yes",
+    "name": "Garagebedrijf Doesburg B.V.",
+    "ref:bag": "1696100000008061",
+    "shop": "car_repair",
+    "source": "BAG",
+    "source:date": "2021-11-08",
+    "start_date": "1999"
+  }
+},
+{
+  "type": "way",
+  "id": 284007159,
+  "center": {
+    "lat": 52.2404659,
+    "lon": 5.1684418
+  },
+  "tags": {
+    "access": "customers",
+    "amenity": "parking",
+    "building": "yes",
+    "capacity:disabled": "yes",
+    "fee": "no",
+    "layer": "-1",
+    "location": "surface",
+    "name": "Parkeergarage B",
+    "parking": "underground",
+    "ref:bag": "0402100001618027",
+    "source": "BAG",
+    "source:date": "2014-05-24",
+    "start_date": "1984"
+  }
+},
+{
+  "type": "way",
+  "id": 285230232,
+  "center": {
+    "lat": 52.2596169,
+    "lon": 5.1681444
+  },
+  "tags": {
+    "building": "yes",
+    "leisure": "sports_centre",
+    "ref:bag": "0381100000105647",
+    "source": "BAG",
+    "source:date": "2014-05-30",
+    "sport": "climbing;skiing",
+    "start_date": "1975"
+  }
+},
+{
+  "type": "way",
+  "id": 309324811,
+  "center": {
+    "lat": 52.3258422,
+    "lon": 4.5966567
+  },
+  "tags": {
+    "leisure": "water_park",
+    "name": "De Oase",
+    "sport": "swimming"
+  }
+},
+{
+  "type": "way",
+  "id": 435634595,
+  "center": {
+    "lat": 52.3599158,
+    "lon": 5.1174596
+  },
+  "tags": {
+    "seamark:restricted_area:category": "kite_surfing",
+    "seamark:type": "restricted_area",
+    "source": "RWS BaS 2016.09356.0 / CMIJ BAS nr. 83",
+    "sport": "kitesurfing"
+  }
+},
+{
+  "type": "way",
+  "id": 441124316,
+  "center": {
+    "lat": 52.3642375,
+    "lon": 4.9524403
+  },
+  "tags": {
+    "leisure": "water_park",
+    "name": "Flevoparkbad",
+    "opening_hours": "Mo-Su 10:00-17:30",
+    "sport": "swimming",
+    "start_date": "1967",
+    "website": "https://www.flevoparkbad.com/",
+    "wikidata": "Q134139280",
+    "wikimedia_commons": "Category:Flevoparkbad"
+  }
+},
+{
+  "type": "way",
+  "id": 444294832,
+  "center": {
+    "lat": 52.3922074,
+    "lon": 4.8695250
+  },
+  "tags": {
+    "alt_name": "Bredius openluchtzwembad",
+    "leisure": "water_park",
+    "name": "Brediusbad",
+    "note": "open-air swimming pool",
+    "operator": "Stadsdeel West",
+    "sport": "swimming",
+    "website": "https://www.brediuszwembad.nl"
+  }
+},
+{
+  "type": "way",
+  "id": 449891606,
+  "center": {
+    "lat": 52.3223310,
+    "lon": 4.7689861
+  },
+  "tags": {
+    "access": "yes",
+    "amenity": "parking",
+    "building": "yes",
+    "capacity": "5150",
+    "fee": "yes",
+    "name": "Smart Parking Garage P3",
+    "opening_hours": "24/7",
+    "parking": "multi-storey",
+    "website": "https://www.schiphol.nl/en/parking/product/p3-long-term-parking/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 471509794,
+  "center": {
+    "lat": 52.4012116,
+    "lon": 4.8753693
+  },
+  "tags": {
+    "access": "yes",
+    "amenity": "parking",
+    "building:part": "garage",
+    "layer": "-1",
+    "location": "underground",
+    "name": "Parkeergarage Minervahaven",
+    "note": "Vermoedelijk is dit een parkeergarage, garage ingang moet nog worden ingebracht",
+    "parking": "underground",
+    "ref:bag": "0363100012239975",
+    "source": "BAG",
+    "source:date": "2017-02-02",
+    "start_date": "2011"
+  }
+},
+{
+  "type": "way",
+  "id": 489034618,
+  "center": {
+    "lat": 52.4907256,
+    "lon": 4.5926707
+  },
+  "tags": {
+    "leisure": "miniature_golf",
+    "name": "Duinpark Paasdal"
+  }
+},
+{
+  "type": "way",
+  "id": 499393191,
+  "center": {
+    "lat": 52.3401110,
+    "lon": 4.8696889
+  },
+  "tags": {
+    "access": "private",
+    "amenity": "parking",
+    "building": "parking",
+    "building:part": "yes",
+    "layer": "-1",
+    "location": "underground",
+    "name": "Atrium Parkeergarage",
+    "parking": "underground",
+    "ref:bag": "0363100012244160",
+    "source": "BAG",
+    "source:date": "2017-06-09",
+    "start_date": "2018"
+  }
+},
+{
+  "type": "way",
+  "id": 504617091,
+  "center": {
+    "lat": 52.3807353,
+    "lon": 4.6391678
+  },
+  "tags": {
+    "access": "yes",
+    "addr:city": "Haarlem",
+    "addr:housenumber": "12",
+    "addr:street": "Damstraat",
+    "alt_name": "Appelaar",
+    "amenity": "parking",
+    "branch": "Haarlem",
+    "building:levels": "0",
+    "building:levels:underground": "2",
+    "capacity": "296",
+    "capacity:disabled": "2",
+    "fee": "yes",
+    "image": "https://media.nhnieuws.nl/cache/i/58000/images/58796.w1600.r16-9.a5bf6cf.q90.jpg",
+    "layer": "-1",
+    "level": "-1",
+    "location": "underground",
+    "maxheight": "2.0",
+    "name": "Parkeergarage Appelaar",
+    "opening_hours": "24/7",
+    "operator": "Gemeente Haarlem & Spaarnelanden",
+    "operator:website": "https://haarlembereikbaar.com/parkeren/parkeergarage-appelaar/",
+    "parking": "multi-storey",
+    "ref:bag": "0392100000084792",
+    "source": "BAG",
+    "source:date": "2017-06-08",
+    "start_date": "2004",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 513174055,
+  "center": {
+    "lat": 52.4540614,
+    "lon": 4.8271004
+  },
+  "tags": {
+    "access": "customers",
+    "amenity": "parking",
+    "building": "garage",
+    "fee": "yes",
+    "name": "Parkeergarage Zaans Medisch Centrum",
+    "parking": "multi-storey"
+  }
+},
+{
+  "type": "way",
+  "id": 530890935,
+  "center": {
+    "lat": 52.3975958,
+    "lon": 4.9185828
+  },
+  "tags": {
+    "access": "yes",
+    "leisure": "water_park",
+    "name": "Noorderparkbad",
+    "operator": "Gemeente Amsterdam",
+    "sport": "swimming",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.amsterdam.nl/noorderparkbad",
+    "wheelchair": "limited",
+    "wikidata": "Q41735872",
+    "wikipedia": "nl:Noorderparkbad"
+  }
+},
+{
+  "type": "way",
+  "id": 568693103,
+  "center": {
+    "lat": 52.3713764,
+    "lon": 4.6619464
+  },
+  "tags": {
+    "leisure": "miniature_golf"
+  }
+},
+{
+  "type": "way",
+  "id": 583933071,
+  "center": {
+    "lat": 52.3679615,
+    "lon": 4.8015605
+  },
+  "tags": {
+    "artwork_type": "mural",
+    "leisure": "pitch",
+    "sport": "climbing",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "way",
+  "id": 583933072,
+  "center": {
+    "lat": 52.3678706,
+    "lon": 4.8015564
+  },
+  "tags": {
+    "artwork_type": "mural",
+    "leisure": "pitch",
+    "sport": "climbing",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "way",
+  "id": 583973805,
+  "center": {
+    "lat": 52.3560990,
+    "lon": 4.8867052
+  },
+  "tags": {
+    "access": "yes",
+    "addr:city": "Amsterdam",
+    "addr:housenumber": "100",
+    "addr:postcode": "1072AT",
+    "addr:street": "Ruysdaelkade",
+    "alt_name": "Boerenwetering Buurtgarage",
+    "amenity": "parking",
+    "capacity": "600",
+    "fee": "yes",
+    "layer": "-1",
+    "level": "-1",
+    "location": "underground",
+    "maxstay": "28 days",
+    "name": "Albert Cuypgarage",
+    "opening_hours": "24/7",
+    "operator": "APCOA Parking",
+    "operator:type": "private",
+    "operator:wikidata": "Q296108",
+    "parking": "underground",
+    "payment:cash": "no",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+31 20 6241111",
+    "ref:bag": "0363100012244844",
+    "source": "BAG",
+    "source:date": "2018-04-27",
+    "start_date": "2015",
+    "website": "https://www.amsterdam.nl/parkeren/gemeentelijke-parkeergarages/overzicht/albert-cuyp/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 620153627,
+  "center": {
+    "lat": 52.3587217,
+    "lon": 4.9566252
+  },
+  "tags": {
+    "access": "customers",
+    "email": "info@jeugdlandamsterdam.nl",
+    "leisure": "playground",
+    "max_age": "14",
+    "name": "Jeugdland|Maakland",
+    "opening_hours": "Tu-Su 10:00-17:00",
+    "operator": "Stichting NOWHERE",
+    "phone": "+31 20 665 9885",
+    "tourism": "theme_park",
+    "website": "https://jeugdlandamsterdam.nl/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "way",
+  "id": 633999507,
+  "center": {
+    "lat": 52.3043818,
+    "lon": 5.1902327
+  },
+  "tags": {
+    "attraction": "roller_coaster",
+    "name": "Achtbaan",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 633999515,
+  "center": {
+    "lat": 52.3053994,
+    "lon": 5.1900815
+  },
+  "tags": {
+    "attraction": "roller_coaster",
+    "name": "Vliegende Valk",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 635398044,
+  "center": {
+    "lat": 52.3427691,
+    "lon": 4.6375940
+  },
+  "tags": {
+    "aerialway": "zip_line"
+  }
+},
+{
+  "type": "way",
+  "id": 656199380,
+  "center": {
+    "lat": 52.3761267,
+    "lon": 5.2168847
+  },
+  "tags": {
+    "amenity": "parking",
+    "layer": "-2",
+    "level": "1",
+    "name": "WTC Garage",
+    "parking": "underground"
+  }
+},
+{
+  "type": "way",
+  "id": 694122143,
+  "center": {
+    "lat": 52.3413634,
+    "lon": 4.8730734
+  },
+  "tags": {
+    "access": "yes",
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "building",
+    "capacity": "3750",
+    "covered": "yes",
+    "fee": "yes",
+    "layer": "-1",
+    "name": "Fietsparkeergarage Strawinskylaan"
+  }
+},
+{
+  "type": "way",
+  "id": 719936522,
+  "center": {
+    "lat": 52.3705758,
+    "lon": 4.8925791
+  },
+  "tags": {
+    "access": "yes",
+    "amenity": "parking",
+    "capacity": "293",
+    "fee": "yes",
+    "layer": "-1",
+    "name": "Parkeergarage Rokin",
+    "name:en": "Parking Garage Rokin",
+    "parking": "underground"
+  }
+},
+{
+  "type": "way",
+  "id": 746645831,
+  "center": {
+    "lat": 52.5198612,
+    "lon": 4.9992515
+  },
+  "tags": {
+    "addr:city": "Purmerend",
+    "addr:housenumber": "14",
+    "addr:postcode": "1446AA",
+    "addr:street": "Polderweg",
+    "brand": "GaragePark",
+    "brand:phone": "+31 85 0474083",
+    "capacity": "64",
+    "name": "GaragePark Purmerend Baanstee",
+    "shop": "storage_rental",
+    "website": "https://garagepark.nl/locaties/purmerend-baanstee/"
+  }
+},
+{
+  "type": "way",
+  "id": 845136771,
+  "center": {
+    "lat": 52.4605050,
+    "lon": 4.8139338
+  },
+  "tags": {
+    "addr:city": "Zaandam",
+    "addr:housenumber": "381",
+    "addr:postcode": "1508EP",
+    "addr:street": "Oostzijde",
+    "building": "yes",
+    "climbing:boulder": "yes",
+    "fee": "yes",
+    "indoor": "yes",
+    "leisure": "sports_centre",
+    "name": "BAZ Bouldergym",
+    "sport": "climbing",
+    "start_date": "2020",
+    "website": "https://www.bazbouldergym.nl/"
+  }
+},
+{
+  "type": "way",
+  "id": 863563692,
+  "center": {
+    "lat": 52.3806657,
+    "lon": 4.6168815
+  },
+  "tags": {
+    "description": "Open air swimming, heated",
+    "leisure": "water_park",
+    "name": "De Houtvaart",
+    "phone": "+31 23 524 2233",
+    "sport": "swimming",
+    "website": "https://houtvaart.nl/",
+    "wikidata": "Q17255323",
+    "wikimedia_commons": "Category:De Houtvaart"
+  }
+},
+{
+  "type": "way",
+  "id": 971400236,
+  "center": {
+    "lat": 52.4405337,
+    "lon": 4.8892830
+  },
+  "tags": {
+    "leisure": "sports_centre",
+    "name": "Klimpark Twiske",
+    "sport": "climbing",
+    "website": "https://www.klimparktwiske.nl/"
+  }
+},
+{
+  "type": "way",
+  "id": 984544838,
+  "center": {
+    "lat": 52.3727200,
+    "lon": 4.9670203
+  },
+  "tags": {
+    "leisure": "pitch",
+    "lit": "yes",
+    "sport": "climbing"
+  }
+},
+{
+  "type": "way",
+  "id": 1005808483,
+  "center": {
+    "lat": 52.4560424,
+    "lon": 4.5640441
+  },
+  "tags": {
+    "aerialway": "zip_line",
+    "layer": "1",
+    "operator": "PBN",
+    "source": "HR_Ortho_2021"
+  }
+},
+{
+  "type": "way",
+  "id": 1150990705,
+  "center": {
+    "lat": 52.4676597,
+    "lon": 4.6447431
+  },
+  "tags": {
+    "brand": "Vakgarage",
+    "brand:website": "https://www.vakgarage.nl",
+    "brand:wikidata": "Q124053196",
+    "building": "commercial",
+    "building:levels": "2",
+    "description": "Service & onderhoud aan alle automerken. Check ook de review site over Vakgarage en VakgaragevanZantvliet in het bijzonder: https://www.klantenvertellen.nl/reviews/1048754/vakgarage-thijs-van-zantvliet?lang=nl&limit=25&pageNumber=2",
+    "email": "info@vakgaragethijsvanzantvliet.nl",
+    "image": "https://s3.eu-central-1.amazonaws.com/old-vakgarage-nl/content/content_items/25631/1280x/VG_Thijs_van_Zantvliet_1200x460.jpg;https://files.elfsightcdn.com/65f93c59-5c86-4cd2-b05a-7e0ba8cb35a7/87bbcca1-1418-41f6-bd19-f9f069c7757d/Bestek-tekeningen-Nieuwb",
+    "name": "Vakgarage Thijs van Zantvliet",
+    "operator": "Thijs van Zantvliet",
+    "operator:website": "https://www.vakgaragethijsvanzantvliet.nl",
+    "phone": "+31 251 292 645",
+    "ref:bag": "0453100003162552",
+    "service:vehicle:air_conditioning": "yes",
+    "service:vehicle:brakes": "yes",
+    "service:vehicle:car_parts": "yes",
+    "service:vehicle:car_repair": "yes",
+    "service:vehicle:diagnostics": "yes",
+    "service:vehicle:inspection": "yes",
+    "service:vehicle:motor": "yes",
+    "service:vehicle:oil_change": "yes",
+    "service:vehicle:transmission_repair": "yes",
+    "service:vehicle:tyres": "yes",
+    "service:vehicle:used_car_sales": "yes",
+    "shop": "car_repair",
+    "source": "BAG",
+    "source:date": "2023-03-19",
+    "start_date": "2023"
+  }
+},
+{
+  "type": "way",
+  "id": 1272392064,
+  "center": {
+    "lat": 52.3816376,
+    "lon": 4.6301198
+  },
+  "tags": {
+    "access": "yes",
+    "addr:city": "Haarlem",
+    "addr:country": "NL",
+    "addr:housenumber": "45",
+    "addr:postcode": "2011VB",
+    "addr:street": "Zijlvest",
+    "amenity": "parking",
+    "branch": "Haarlem",
+    "building:levels": "0",
+    "building:levels:underground": "3",
+    "capacity": "960",
+    "capacity:charging": "20",
+    "capacity:disabled": "6",
+    "capacity:motorcycle": "6",
+    "description": "20 elektrische oplaadpunten: verdieping -1: 8 verdieping -4: 12 Beschikbaarheid: https://chargefinder.com/nl/laadpaal-haarlem-parkeergarage-raaks-haarlem/993767",
+    "fee": "yes",
+    "layer": "-1",
+    "level": "-1",
+    "location": "underground",
+    "maxheight": "2.0",
+    "maxstay": "30 days",
+    "name": "Parkeergarage Raaks",
+    "opening_hours": "24/7",
+    "operator": "Gemeente Haarlem & Spaarnelanden",
+    "operator:website": "https://www.spaarnelanden.nl/jouw-leefomgeving/parkeren/parkeergarages/parkeergarage-raaks/",
+    "parking": "multi-storey",
+    "payment:apple_pay": "yes",
+    "payment:cash": "yes",
+    "payment:coins": "yes",
+    "payment:contactless": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "ref:bag": "0392100000079422",
+    "source": "BAG",
+    "source:date": "2024-04-13",
+    "start_date": "2010",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1306379984,
+  "center": {
+    "lat": 52.2001356,
+    "lon": 5.2306375
+  },
+  "tags": {
+    "addr:city": "Lage Vuursche",
+    "addr:housenumber": "9",
+    "addr:postcode": "3749AB",
+    "addr:street": "Hoge Vuurseweg",
+    "email": "lagevuursche@klimbos.nl",
+    "fee": "yes",
+    "fixme": "exacte grens",
+    "landuse": "recreation_ground",
+    "leisure": "sports_centre",
+    "name": "Klimbos Lage Vuursche",
+    "old_name": "Klimbos Gooi Eemland",
+    "operator": "Klimbos Nederland",
+    "operator:wikidata": "Q128776862",
+    "outdoor": "yes",
+    "phone": "+31 88 554 66 36",
+    "sport": "climbing_adventure",
+    "website": "https://klimbos.nl/locaties/lage-vuursche/",
+    "wikidata": "Q128778355"
+  }
+},
+{
+  "type": "way",
+  "id": 1370339992,
+  "center": {
+    "lat": 52.3957578,
+    "lon": 4.6250237
+  },
+  "tags": {
+    "building": "yes",
+    "layer": "-1",
+    "leisure": "bowling_alley",
+    "location": "surface",
+    "name": "Marty's bars & bowling",
+    "note": "Bouwvoortgang: \nhttps://haarlem.nl/nieuwe-locatie-bison-bowling-aan-badmintonpad\nhttps://www.bisonbowlinghaarlem.nl/nieuwbouw\nhttps://vdworp.nl/nieuwbouw-bison-bowling-2/#",
+    "ref:bag": "0392100000091469",
+    "source": "BAG",
+    "source:date": "2025-03-22",
+    "sport": "9pin",
+    "start_date": "2022"
+  }
+},
+{
+  "type": "way",
+  "id": 1387153948,
+  "center": {
+    "lat": 52.5240944,
+    "lon": 5.0707707
+  },
+  "tags": {
+    "seamark:restricted_area:category": "kite_surfing",
+    "seamark:type": "restricted_area",
+    "sport": "kitesurfing"
+  }
+},
+{
+  "type": "way",
+  "id": 1388469576,
+  "center": {
+    "lat": 52.2066025,
+    "lon": 4.8664377
+  },
+  "tags": {
+    "access": "yes",
+    "amenity": "parking",
+    "fee": "no",
+    "fee:conditional": "yes @ stay > 2 hours",
+    "layer": "-1",
+    "name": "Parkeergarage",
+    "parking": "underground",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1452580842,
+  "center": {
+    "lat": 52.2857859,
+    "lon": 4.8565540
+  },
+  "tags": {
+    "addr:city": "Amstelveen",
+    "addr:housenumber": "2",
+    "addr:postcode": "1185XR",
+    "addr:street": "Startbaan",
+    "leisure": "sports_centre",
+    "name": "Park Startbaan",
+    "sport": "tennis;padel;billiards",
+    "website": "https://www.parkstartbaan.nl/"
+  }
+},
+{
+  "type": "way",
+  "id": 1486698769,
+  "center": {
+    "lat": 52.3375510,
+    "lon": 5.2178330
+  },
+  "tags": {
+    "access": "yes",
+    "amenity": "parking",
+    "building:part": "parking",
+    "fee": "no",
+    "name": "Parkeergarage Brink",
+    "park_ride": "no",
+    "parking": "multi-storey",
+    "supervised": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1497713631,
+  "center": {
+    "lat": 52.3553651,
+    "lon": 4.8866983
+  },
+  "tags": {
+    "amenity": "parking",
+    "building": "yes",
+    "capacity": "600",
+    "capacity:disabled": "2",
+    "layer": "-1",
+    "name": "Albert Cuypgarage",
+    "name:uk": "Підводний паркінг «Альберт Куйп»",
+    "parking": "underground",
+    "website": "https://www.zja.nl/nl/Albert-Cuypgarage-Amsterdam"
+  }
+},
+{
+  "type": "way",
+  "id": 1535785342,
+  "center": {
+    "lat": 52.3917613,
+    "lon": 4.8853216
+  },
+  "tags": {
+    "amenity": "parking",
+    "location": "underground",
+    "name": "Pontsteigergarage",
+    "parking": "underground",
+    "ref:bag": "0363100012246895",
+    "source": "BAG",
+    "source:date": "2026-07-06",
+    "start_date": "2019"
+  }
+},
+{
+  "type": "way",
+  "id": 1574216493,
+  "center": {
+    "lat": 52.2103341,
+    "lon": 4.9154772
+  },
+  "tags": {
+    "aerialway": "zip_line"
+  }
+},
+{
+  "type": "relation",
+  "id": 3574000,
+  "center": {
+    "lat": 52.3938638,
+    "lon": 4.6388568
+  },
+  "tags": {
+    "access": "yes",
+    "addr:city": "Haarlem",
+    "addr:housenumber": "12",
+    "addr:street": "Kleverlaan",
+    "alt_name": "Cronjé",
+    "amenity": "parking",
+    "branch": "Haarlem",
+    "building:levels": "2",
+    "building:levels:underground": "2",
+    "capacity": "404",
+    "capacity:disabled": "5",
+    "fee": "yes",
+    "layer": "-1",
+    "level": "-1",
+    "location": "underground",
+    "maxheight": "2.1",
+    "name": "Parkeergarage Cronjé",
+    "opening_hours": "24/7",
+    "operator": "Gemeente Haarlem & Spaarnelanden",
+    "operator:website": "https://haarlembereikbaar.com/parkeren/parkeergarage-cronje/",
+    "parking": "multi-storey",
+    "ref:bag": "0392100000066276",
+    "source": "BAG",
+    "source:date": "2025-07-24",
+    "start_date": "2006",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 20046054,
+  "center": {
+    "lat": 52.4610390,
+    "lon": 4.6228980
+  },
+  "tags": {
+    "access": "customers",
+    "addr:city": "IJmuiden",
+    "addr:housenumber": "10",
+    "addr:postcode": "1971EP",
+    "addr:street": "Dudokplein",
+    "amenity": "parking",
+    "capacity": "100",
+    "fee": "no",
+    "layer": "-1",
+    "maxstay": "no",
+    "name": "Parkeergarage Albert Heijn",
+    "operator": "Albert Heijn",
+    "parking": "underground",
+    "surface": "paved",
+    "type": "multipolygon"
+  }
+}
+
+  ]
+}

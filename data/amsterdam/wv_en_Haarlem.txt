@@ -1,0 +1,587 @@
+{{pagebanner | Haarlem Wikivoyage Banner.png|origin=.5,0}}
+{{hatnote|For the neighborhood in New York City, see [[Manhattan/Harlem and Upper Manhattan]].}}
+'''Haarlem''' is a lovely historical city on the river Spaarne 20 km from [[Amsterdam]]. International tourism finally seems to have discovered the town's many charms, and an increasing number of visitors find their way here each year. A quick glance at the city centre makes it obvious why. Haarlem boasts a magnificent old centre with plenty of monumental buildings. As the city was home to several first class Dutch painters, including Frans Hals, there's a lot of art to go around. And if you're into shopping, a day in Haarlem is a day well spent too, as it was best shopping city of the country several times. Other towns may lay claims to that title, but Haarlem's centre undisputably offers a colorful mix of large chain stores, specialty shops, boutiques and art galleries. A broad range of bars and restaurants makes the picture complete. In short, Haarlem is well worth a visit. For those who are wondering: yes, the famous [[New York City]] neighbourhood of [[Harlem]] is named after this once powerful Dutch city.
+
+==Understand==
+
+Haarlem is the centre of a flower-growing district and a major export point for flower bulbs. However, with some 750,000 people visiting the city each year, tourism makes up an increasingly important part of the town's economy. With about 161,000 inhabitants (2019), Haarlem is the 13th largest city in the Netherlands but when it comes to tourism, it's the 4th most visited city. As for most popular places, this may mean the incidental line and some crowds around main attractions in high season. However, the town is fairly quiet in off season and its growing popularity does come with ample opportunities to eat and sleep.
+
+===History===
+
+The first record of the name 'Haarlem' dates from the 10th century. Located on a busy north/south connection route, the city became the seat of the Counts of Holland. In 1245 the city was granted city rights by Count William II of Holland. Due to the heroic acts of knights from Haarlem during the fifth crusade and their contributions to the siege of Damiate in 1217, Haarlem was granted permission to show a cross and a sword in the city's coat of arms. Haarlem was known for its flower growing district, and also for its textiles, shipyards, engineering plants and textile mills. In 1573, the Spanish ended its charter. In the 16th and 17th centuries, Haarlem was a hotspot for Dutch painting. Frans Hals, Jacob van Ruisdael, and Adriaen van Ostade were all located here. Also in the 17th century it became a refuge for Huguenots.
+
+In the beginning, all of the city's buildings were wooden and the risk of fire was always present. In 1328 most of the city was burnt down. When rebuilding began, yet again in 1347, another fire spread through Haarlem. This time though, it engulfed the Counts' castle and city hall. However, the Count decided that he no longer needed a base in Haarlem and decided to move to The Hague. With that, he donated the land to Haarlem and later a new city hall would be built in its place. It would take over 150 years for the city to be rebuilt.
+
+* {{listing | name=VVV Haarlem | alt=tourist information centre | url=http://www.haarlemmarketing.co.uk/plan-your-visit/tourist-information-centre | email=info@vvvhaarlem.nl | address=Grote Markt 2 | lat=52.381516 | long=4.635109 | directions=at the Stadhuis (City Hall) | phone=+31 23-5317325 | tollfree= | fax= | hours=Apr-Oct: Mon 13:00-17:30, Tue-Fri 09:30-17:30, Sat 10:00-17:99. In winter months limited hours, check website | price= | lastedit=2016-06-14 | content=
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+
+==Get in==
+===By train===
+Haarlem is well-connected by train, with trains from Amsterdam Centraal every 10 minutes. These take 15 min and may be for Leiden and Den Haag or for Alkmaar. 
+
+From [[Amsterdam Schiphol Airport]] ({{IATA|AMS}}), take the frequent train towards Amsterdam Centraal and change at Sloterdijk. The train to Uitgeest, Alkmaar and Hoorn also stops at Sloterdijk but the tracks diverge: you have to exit one part of the station and lump your bags 200 m along the street to reach the platform for Haarlem.
+
+Trains from Hoorn run hourly via Alkmaar. They run every 30 min from Vlissingen via Rotterdam, Den Haag and Leiden, and every 30 min from Zandvoort aan Zee. 
+
+{{go
+| name=Station Haarlem | alt= | url=https://www.ns.nl/stationsinformatie/hlm/ | email=
+| address=Stationsplein 11 L, 2011 LR | lat= | long= | directions=
+| phone= | tollfree= | hours= | price=
+| wikipedia=Haarlem railway station | wikidata=Q800863
+| lastedit=2026-03-20 
+| content=The art nouveau main station, 1 km north of town centre. Use the main entrance east for tickets: west entrance is only for ticket-holders. 
+}}
+
+'''Haarlem Spaarnwounde''' 3 km east and '''Bloemendaal''' 3 km north are halts for the trains from Amsterdam via Haarlem to Hoorn, and '''Overveen''' 3 km west is a halt for trains towards Zandvoort. Nothing of visitor interest nearby so you're unlikely to use them.
+
+===By bus===
+A good alternative is to use the big red and grey "R-net"-bus, line 300. It runs every 6–10 minutes between Schiphol and Haarlem Central Station, or you can get out at Wulft/Centrum.  There are a fair amount of stops along the way, but for a lot of the journey there is no traffic because the bus has its own dedicated lane.  The trip is approximately 45 minutes.  You will need to carry your luggage on the bus with you. As on all public transport in the Netherlands, you can pay with a [[OV-chipkaart]], or tap on and off with a credit or debit card, and a single trip costs €3.64. There are many bus stops clustered in this area—the one for the R-net 300 is across the street, and is indicated on the sign at the bus stop.
+
+'''Haarlem bus station''' is the plaza south side of the railway station.
+
+=== By ferry ===
+[https://www.dfds.com/en-gb/passenger-ferries/ferry-crossings/ferries-to-holland/newcastle-amsterdam DFDS] operate an overnight ferry from [[Newcastle upon Tyne|Newcastle]], UK to IJmuiden, which is only about 30 minutes from Haarlem by local bus. From the ferry terminal, it is a {{Convert|1.5|km|4=0|abbr=on}} walk to <bdi>Planetenweg</bdi> (bus stop <bdi>Zwaanstraat</bdi><bdi>). From here catch the "R-net"-bus, line 385, which runs every 15 minutes and takes you to Haarlem station, cost was €3.00 in 2026.</bdi>
+
+===By bike===
+If you have &ndash; or rent &ndash; a bike, it takes between an hour and an hour and a half to cycle (depending on the cyclist) from the centre of Amsterdam, a fairly relaxing ride on typically level terrain.
+
+==Get around==
+{{mapframe|52.3852|4.6432|zoom=13}}
+<!--{{mapshape|Q9920}}-->
+Haarlem is best seen on foot: it's a 10- to 15-minute walk from the train station to the city centre. If you don't want to walk, bus lines 2, 73 and 300 will take you from the central train and bus station to busstop "Centrum/Verwulft" in about 5 minutes. Buses here are mostly operated by [https://www.connexxion.nl/en/our-routes/travel-areas/haarlem-ijmond Connexxion]. [https://www.arriva.nl/zuidholland.htm Arriva] operates a local bus route to Leiden as well.
+
+Although Haarlem's waterways aren't quite as numerous as those of Amsterdam, there are enough of them to make a tour of the city by boat a nice experience. Boats are operated by [http://www.postverkadegroep.nl/post_verkade_cruises/arrangementen/140/rondje_haarlem_cruise.html Post Verkade cruises]{{Dead link|date=January 2023 |bot=InternetArchiveBot }} (€9.50, Dutch only) and [http://www.haarlemcanaltours.com/en/content/rondvaarten Haarlem Canal Cruises]{{Dead link|date=January 2023 |bot=InternetArchiveBot }} (smaller groups, open boat, €12.50) and leave from opposite Teylers Museum. It's best to call ahead.
+
+==See==
+[[Image:Molen Adriaan Haarlem 2.jpg|thumb|250px|After burning down in 1932, windmill the Adriaan was rebuilt only in 2002 to reclaim its prominent place among Haarlem's attractions.]]
+Haarlem's main sights are its lovely historic centre and its fine art museums. You'll get a good idea of what the city has to offer by just wandering the streets in the centre for a while, as many monumental buildings and the most prominent museums are all there. The tourist information office can provide maps and walking routes as well as guides, if you don't want to miss anything.
+
+===Grote Markt===
+[[Image:Grote-Kerk-Haarlem.jpg|thumb|250px|Saint Bavo Church on the market square]]
+Haarlem's main market square, with the huge Saint Bavo church right on it, is the heart of the old city. Not only the church, but several monumental buildings can be found on different sides of the square and when the weather allows, it's lined with outdoor café terraces. You'll also see the statue of Laurens Janszoon Coster, locally called "Lautje", a pioneer of book printing who has become an icon of Haarlem.
+
+* {{listing
+   | type = see
+   | name = Grote Kerk
+   | alt = Sint-Bavokerk
+   | url = http://www.bavo.nl/en/
+   | email = 
+   | address = Grote Markt 22 (north side) 2011 RD
+   | lat = 52.3813096
+   | long = 4.6373591
+   | directions = 
+   | phone = 
+   | tollfree = 
+   | hours = 
+   | price = €4.00 adults, €2.00 youth 12-16, free for children under 12
+   | wikipedia = Grote Kerk, Haarlem
+   | image = HaarlemGroteMarkt1.JPG
+   | wikidata = Q1545193
+   | lastedit = 2026-03-22
+   | content = This impressive Gothic-style church has been the heart of the city and its main landmark for centuries. It was built in the middle of the Grote Markt as a Catholic church between 1370 and 1520. In 1559 it became the cathedral of the Diocese of Haarlem-Amsterdam, but less than 20 years later it was confiscated in the name of the [[Protestant Reformation]] and it has been a Protestant church ever since. Much of the antique interior remains, including the great Müller-organ that, according to records, has been played by Händel, Mozart, Mendelssohn and other famous people throughout its history. When built, this organ was the largest one in the world, leading Herman Melville in his famous novel Moby Dick to compare the inside of the whale's mouth to the many pipes of Haarlem's great organ.
+}}
+*{{see
+| name=Stadhuis | alt=City Hall | url= | email=
+| address=Grote Markt 2 | lat=52.381389 | long=4.634722 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikipedia=City Hall (Haarlem) | wikidata=Q2587792
+| content=After fires destroyed the Count's castle on this location in the 14th century, this city hall was built. The current façade is slightly younger, and originates from the 17th century.
+}}
+*{{see
+| name=Vleeshal | alt=Meat Hall | url= | email=
+| address=Grote Markt 18 | lat=52.381094 | long=4.636161 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikipedia=Vleeshal | wikidata=Q2657259
+| content=From 1604 until the 18th century, the Meat Hall was the only place in town where it was permitted to sell fresh meat. Butchers had to pay rather steep amounts to be granted a spot in the Dutch Renaissance style building that had been designed and built for the purpose. It's now part of the Frans Hals Museum.
+}}
+*{{see
+| name=Hoofdwacht | alt= | url=http://rijksmonumenten.nl/monument/19249/hoofdwacht/haarlem/ | email=
+| address=Grote Markt 17 | lat=52.381685 | long=4.636469 | directions=Corner of Smedestreet
+| phone= | tollfree=
+| hours= | price=Free
+| wikipedia=Hoofdwacht, Haarlem | wikidata=Q2247412
+| content=Built in the 13th century, this is one of the oldest monuments in the city and the first century of its existence, it served as the first town hall. Later, it was used as private housing for several prominent Haarlem families. From April-Sept, the building is open to visitors but only on weekends.
+}}
+
+===Other sights===
+* {{see | name=Stadsbibliotheek | alt=public library | url=https://www.bibliotheekzuidkennemerland.nl/klantenservice/openingstijden-adressen/detail.263007.html | email=info@bibliotheekzuidkennemerland.nl | address=Gasthuisstraat 32, 2011XP | lat=52.380472 | long=4.630469 | directions= | phone=+31 23 5115300 | tollfree= | hours=Mon Tue 10:00-20:00, Thu-Sat 10:00-18:00, Sun 12:00-16:00 | price= | wikipedia=Stadsbibliotheek Haarlem | wikidata=Q2140069 | lastedit=2016-06-14 | content=
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{see
+| name=Hofje van Oorschot | alt= | url= | email=
+| address=Kruisstraat 44 | lat=52.3832170 | long=4.6350537 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikipedia=Hofje van Oorschot | wikidata=Q2958102
+| lastedit=2019-03-18
+| content=The city is notable for its many ''hofjes'' (almshouses) built around courtyards. More than 20 of them still exist in the city. Some of them are open to the public.
+}}
+* {{see
+| name=Amsterdamse Poort | alt=city gate | url= | email=
+| address= | lat=52.380612 | long=4.646438 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| lastedit=2016-06-14
+| content=Built in 1355 and is the only remaining gate out of 12.
+}}
+* {{see
+| name=Stedelijk Gymnasium Haarlem | alt=Latin School of Haarlem | url= | email=
+| address= | lat=52.381759 | long=4.633731 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| lastedit=2016-06-14
+| content=
+}}
+{{infobox|Gapers (Black Moors Head)|These are an ancient symbol of pharmacy in the Netherlands. They look like people yawning (gapers means yawners in Dutch), but really they have their mouths open to take medicine. Sometimes a pill can be seen on their tongue. These symbols were once common in the Netherlands, especially in Amsterdam. Today they are very rare on buildings.
+
+Usually the head is of a black or Moor man. This is because in the 15th-17th centuries, pharmacists would travel through the country with an assistant trying to sell their medicines. Before an audience the pharmacist would give a pill to his assistant. These were often Moors. The assistant would act better.
+So pharmacies became known by the assistant's head.}}
+* {{see
+| name=Van der Pigge | alt= | url=http://www.vanderpigge.nl/ | email=info@vanderpigge.nl
+| address=Gierstraat 3 2011 GA | lat=52.379558 | long=4.632851 | directions=
+| phone=+31 23 5312454 | tollfree=
+| hours=Mon 11:00-18:00, Tue-Fri 09:30-18:00, Sat 09:30-17:30 | price=
+| wikidata=Q17048308
+| lastedit=2016-06-14
+| content=An old drugstore built in 1849. It still features the original gaper at its facade.
+}}
+* {{see
+| name=Vroom & Dreesmann Haarlem | alt= | url= | email=
+| address=Grote Houtstraat 70, 2011 SR | lat=52.379313 | long=4.632902 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikipedia=Vroom en Dreesmann Haarlem
+| lastedit=2016-06-14
+| content=A building of the former ''Vroom & Dreesmann'' department store which opened in 1887 and went bankrupt in 2015.
+}}
+* {{see
+| name=Villa Welgelegen | alt= | url= | email=
+| address=Kleine Houtweg, 2012 JE | lat=52.371679 | long=4.630727 | directions=
+| phone=+31 23 514 3143 | tollfree=
+| hours=Mon - Fri 08:00 - 18:00 | price=
+| wikipedia=Villa Welgelegen | wikidata=Q1802996
+| lastedit=2019-03-18
+| content=Parts are open to the public. Villa Welgelegen is a historical building in Haarlem, the Netherlands, which houses the offices of the provincial executives of North Holland. Located at the north end of a public park in the city, it is an example of neoclassical architecture, unusual for its style in the Netherlands.
+}}
+* {{see
+| name=Haarlemmerhout | alt= | url= | email=
+| address= | lat=52.36667 | long=4.62417 | directions=
+| phone= | tollfree=
+| hours=24/7 | price=Free
+| wikipedia=Haarlemmerhout | wikidata=Q1566554
+| lastedit=2019-03-18
+| content=It is the oldest public park of the Netherlands. With "Hertenkamp" (Deer-park)
+}}
+* {{see
+| name=Rooms-Katholieke Kathedrale Basiliek Sint Bavo | alt=Cathedral of Saint Bavo | url=http://www.rkbavo.nl/ | email=info@rkbavo.nl
+| address=Leidsevaart 146 | lat=52.376529 | long=4.622133 | directions=
+| phone=+31 23 532 30 77 | tollfree=
+| hours=09.30 - 12.30 | price=
+| wikipedia=Cathedral of St Bavo, Haarlem | wikidata=Q962195
+| lastedit=2019-03-18
+| content=This cathedral, confusingly named after Saint Bavo too, as is the much older church on the Grote Markt, was built by the Catholics from 1895 to 1930. It replaced the former Waterstaatskerk St. Joseph, which was built to replace the confiscated Sint-Bavo church, which had been converted to Protestantism in 1578. The Cathedral became the main cathedral for the Roman Catholic Diocese of Haarlem-Amsterdam, and holds that function still today. A small museum has been created in the former sacristy, allowing visitors to see some historical artefacts from Haarlem's Catholic past.
+}}
+*{{see
+| name=Molen De Adriaan | alt=Windmill | url=http://www.molenadriaan.nl/en/ | email=
+| address= | lat=52.383802 | long=4.642662 | directions=
+| phone= | tollfree=
+| hours= | price=Adults €7.50, children (5-12) €2.50
+| wikipedia=De Adriaan, Haarlem | wikidata=Q2763574
+| lastedit=2019-10-16
+| content=this beautiful windmill on the benches of the river Spaarne was of the main landmarks of Haarlem for centuries, until it was destroyed in a 1932 fire. Several plans to rebuild it failed due to lack of funds, but in 2002 the windmill was finally fully restored to former glory. It's functional, for tourist purposes, and holds a small museum. Guided tours are available.
+}}
+
+===Museums===
+[[Image:Voorgevel Teylers Museum aan het Spaarne.jpg|thumb|250px|Teylers Museum, one of the main museums, is located along the river Spaarne]]
+With 14 large and small museums in town, you won't be hard pressed to get your art and culture here. The most prominent ones are listed here. [[Netherlands#Museumkaart|Museumkaart]] accepted.
+
+* {{see
+| name=Teylers' Museum | alt= | url=http://www.teylersmuseum.nl | email=
+| address=Spaarne 16 | lat=52.380556 | long=4.640278 | directions=
+| phone=+31 23 516 09 60 | tollfree=
+| hours=Tue-Sat 10:00-17:00, Sun & holidays 12:00-17:00, closed on Mondays, Christmas Day and New Year's Day | price=€12
+| wikipedia=Teylers Museum | wikidata=Q474563
+| lastedit=2019-03-17
+| content=Open since 1784, this is the oldest museum in the Netherlands. It's interesting collection is broad, reminding one of 18th-century curiosity cabinets. Apart from a fine collection of paintings and drawings, including works by Rembrandt and Michelangelo, it has a great collection of fossils, minerals and antique scientific instruments on display, but also medals and coins.
+}}
+* {{see
+| name=Frans Hals Museum | alt= | url=https://www.franshalsmuseum.nl/en/ | email=
+| address=Groot Heiligland 62 | lat=52.376667 | long=4.633333 | directions=
+| phone=+31 23 5115775 | tollfree=
+| hours=Tue-Sat 10:00-17:00, Sun & holidays 12:00-17:00, closed on Mondays, Christmas Day and New Year's Day | price=€13
+| wikipedia=Frans Hals Museum | wikidata=Q574961
+| content=Named after one of the great Dutch Golden age painters, this museum boasts a good collection of Dutch Golden Age art. In those days, Haarlem was one of the leading Dutch cities when it came to art and many thousands of works were produced here. This museum's collection holds about a dozen painting by Frans Hals himself as well as works by a list of other renowned artists, including Jacob van Ruisdael and Jan Steen. At a separate location on the Grote Markt, the museum also has several exhibition halls with modern art.
+}}
+* {{see
+| name=Museum het Dolhuys | alt= | url=https://www.hetdolhuys.nl | email=info@hetdolhuys.nl
+| address=Schotersingel 2 | lat=52.39028 | long=4.63778 | directions=
+| phone=+31 23-5410670 | tollfree=
+| hours=Thu Fri 10:00-17:00, Sat Sun 12:00-17:00 | price={{EUR|5.00}}
+| wikipedia=Het Dolhuys | wikidata=Q2050166
+| lastedit=2019-03-17
+| content=Het Dolhuys is a national museum for psychiatry in Haarlem, Netherlands. The museum was founded in 2005 in the newly renovated former old age home known as Schoterburcht, located just across the Schotersingel from the Staten Bolwerk park. The whole complex is much older than that however, having been a hospital for centuries known as the Leproos-, Pest- en Dolhuys.
+}}
+* {{see | name=Ten Boom Museum | alt= | url=http://www.corrietenboom.com/information.htm | email=info@corrietenboom.com | address=Barteljorisstraat 19 | lat=52.382261 | long=4.635404 | directions= | phone= | tollfree= | fax= | hours= | price=Admittance to the museum is free. Donations are appreciated | content=During World War II, the Ten Boom family, who lived and ran a watch shop in this house, used the top floor to hide Jews and others from the Nazis. After being discovered by the Nazis in 1944, only Corrie Ten Boom survived. She wrote several books about her experiences, which served as a basis for the museum that was opened after her death in the 1980s. It's in the centre of town and is run by volunteers. You will have to join one of the guided tours; starting times are indicated on the door. Since it's a small building, you can't wait indoors for the next tour to start.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{see
+| name=ABC Architectuurcentrum Haarlem | alt= | url=https://www.architectuurhaarlem.nl/ | email=info@architectuurhaarlem.nl
+| address=Groot Heiligland 47, 2011 EP | lat=52.3770879 | long=4.6340556 | directions=
+| phone=+31 23 5340584 | tollfree=
+| hours=Sun 13:00 - 17:00, Thu - Sat 13:00 - 17:00 | price=€3.00
+| wikipedia=ABC Architectuurcentrum Haarlem | wikidata=Q4650125
+| lastedit=2019-03-18
+| content=The ABC Architectuurcentrum Haarlem is a center for Architecture in Haarlem, the Netherlands, dedicated to promoting interest and conserving the architectural heritage of Kennemerland.
+}}
+* {{see
+| name=History Museum | alt=city museum Haarlem | url=https://www.museumhaarlem.nl | email=
+| address=Groot Heiligland 47, 2011 EP | lat=52.37722 | long=4.63417 | directions=
+| phone=+31 23 5422427 | tollfree=
+| hours=Sun Mon 12:00 - 17:00, Thu - Sat 11:00 - 17:00 | price=€7.00
+| wikipedia=Museum Haarlem | wikidata=Q2320278
+| lastedit=2019-03-18
+| content=Across the street from the Frans Hals Museum, this small museum offers a glimpse of old Haarlem. During the city's Golden Age four centuries ago, Haarlem was a thriving commercial centre rivalling Amsterdam. Back then, the town was a port on the large Haarlemmer Lake, with the North Sea only about five miles away (threatened by floods, residents eventually diverted the lake into canals to preserve shipping business and then pumped the remaining land dry). As well as being the tulip capital, Haarlem was a manufacturing centre producing wool, silk, lace, damask cloth, furniture, smoking pipes (along with cheap, locally-grown tobacco), and massive quantities of beer. Haarlemmers were notorious consumers of beer. It was a popular breakfast drink, and the average person drank six pints a day.
+}}
+* {{see
+| name=NZH Vervoer Museum | alt=NZH Transport Museum | url=https://www.nzh-vervoermuseum.nl/ | email=
+| address=A. Hofmanweg 35 | lat=52.395755 | long=4.665387 | directions=Bus 15 (weekdays only) to Emrikweg
+| phone= | tollfree=
+| hours=Fri Sat 11:00-16:00 | price=€5
+| wikipedia=NZH Public Transport Museum
+| lastedit=2019-10-15
+| content=The museum displays a number of retired trams and buses, all once belonging to the now defunct NZH public transit company. Staff may be available to provide a narrated tour of the exhibits. There is a book shop within the museum.
+}}
+
+==Do==
+[[File:Road sign Rondje Haarlem April 2019.jpg|thumb|Route sign of cycle route around Haarlem, the Netherlands.]]
+* On summer days, hang out in the sun on Haarlem's '''Grote Markt''' (near the [http://nl.wikipedia.org/wiki/Grote_of_Sint-Bavokerk Grote Kerk]) after a long day of shopping or go sightseeing in Haarlem's ancient city centre.
+* {{do
+| name=Comic convention | alt=Stripdagen Haarlem | url=http://www.stripdagenhaarlem.nl | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree=
+| hours=late May to early June  | price=
+| wikipedia= | wikidata=
+| lastedit=2019-03-14
+| content=In the even years (2024, 2026, etc.) the biggest Dutch comic book convention 'Stripdagen Haarlem' takes place all over Haarlem. With events on the Grote Markt, in art galleries, Teyler Museum, de Toneelschuur and Patronaat.
+}}
+* '''Cycling''': Explore the Haarlem area by bike: [http://www.holland-cycling.com/where-to-go/day-trips/144-haarlem-dunes-cycle-route Haarlem Dunes Cycle Route]{{Dead link|date=February 2026 |bot=InternetArchiveBot }} Coast, polders and nature reserves. Distance: 40 or 29 km.
+** [http://www.holland-cycling.com/where-to-go/day-trips/106-keukenhof-cycle-route Keukenhof Cycle Route]{{Dead link|date=February 2026 |bot=InternetArchiveBot }} Tulip fields in springtime. Distance: 38 or 31 km.
+** [http://www.rondjehaarlem.nl Rondje Haarlem]{{Dead link|date=March 2026 |bot=InternetArchiveBot }} is a cycling route along the beautiful place around Haarlem. The route is almost 50 km long and very worthwhile. Of course it's also possible to do parts of it.
+* {{do
+| name=De Toneelschuur | alt=Theater | url=https://www.toneelschuur.nl | email=informatie@toneelschuur.nl
+| address=Lange Begijnestraat 9 2011 HH | lat=52.381667 | long=4.639167 | directions=
+| phone=+31 23-5173910 | tollfree=
+| hours= | price=
+| wikipedia=Toneelschuur | wikidata=Q2789799
+| lastedit=2019-03-18
+| content=
+}}
+* {{do
+| name=Filmkoepel | alt= | url=https://filmkoepel.nl | email=
+| address=Haarlem Harmenjansweg 4 | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2022-02-06
+| content=Former prison building now serving as a cinema.
+}}
+
+==Buy==
+[[File:011 Haarlem, Netherlands - Kleine Houtstraat.jpg|thumb|Kleine Houtstraat]]
+Haarlem is a popular city for shopping in the region. It has been voted many times as Best Shopping City in the Netherlands and boasts a very diverse range of shops. The Grote Houtstraat, the main shopping street, has most of the obvious shops. The surrounding streets (Kleine Houtstraat and Gierstraat) house smaller shops, where you can browse or buy everything from high-end bicycles to teapots.
+
+Shops are open from Monday to Saturday. Opening times usually are from 09:00 to 17:00, except on Mondays when shops open at 13:00. Many shops in the city centre also open on the first Sunday of the month and usually shops may be open from 19:00 to 21:00 on Thursdays as well, the so-called "avondverkoop" ("evening sale") although no special discounts will be given).
+
+On the main square (Grote Markt) there is on Saturdays a General Market and on Mondays a textile market.
+
+==Eat==
+
+Scattered through the inner city, you'll find a large number of restaurants. There's something for everyone and every budget, with many different styles of restaurants and a broad variety of cuisines.
+
+{{eatpricerange|Below {{EUR|20}}|{{EUR|20-50}}|{{EUR|50}}+}}
+
+===Budget===
+* {{eat
+| name=Eet-Biercafé Bruxelles | alt=Cafe Bruxelles | url=https://www.cafebruxelles.nl/ | email=
+| address=Lange Wijngaardstraat 16 | lat=52.383041 | long=4.636625 | directions=
+| phone=+31 23-5314509 | tollfree=
+| hours=Sun-Thu 17:00-01:00, Wed 17:00-00:00, Tue 17:00-01:00 | price=
+| content=If you're on a budget, Bruxelles' {{EUR|5.5}} or {{EUR|6}} "dish of the day" is a good option. Besides the daily specials, there's a menu with plenty of options under {{EUR|15}}.
+}}
+*{{eat
+| name=Restaurant het Pakhuis | alt= | url=http://www.hetpakhuis.org/haarlem/ | email=info@hetpakhuishaarlem.nl
+| address=Gravinnesteeg 9 | lat=52.378401 | long=4.636830 | directions=
+| phone=+31 23-5322810 | tollfree=
+| hours=Thu-Sun from 17:00 | price=
+| lastedit=2019-03-14
+| content=The people behind Pakhuis restaurant have a vision. They want to sell tasty food for affordable prices. The food isn't spectacular but it's good enough and all menu items cost {{EUR|10}} or less.
+}}
+*{{eat
+| name=Eetcafé de Linde | alt= | url=http://www.cafedelinde.nl/ | email=infocafedelinde@gmail.com
+| address=Botermarkt 21 | lat=52.379838 | long=4.631996 | directions=
+| phone=+31 23 5319688 | tollfree=
+| hours=Kitchen open til 22:00 | price={{EUR|16}}
+| lastedit=2019-03-14
+| content=Typical Dutch "eat-café" with simple food for low prices. It's nothing special but you get a fair portion and it's good value for money. The unlimited spareribs for {{EUR|24.95}} are popular, but you can also choose from steaks, pasta, fried chicken, veggie dishes and more. Good place for lunch, too.
+}}
+* {{eat
+| name=Babbels | alt= | url=https://www.babbels-haarlem.nl | email=
+| address=Lange Veerstraat 23, 2011 DA | lat=52.380078 | long=4.637846 | directions=
+| phone=+31 23 542 3578 | tollfree=
+| hours=kitchen 17:00-22:00 | price={{€|20}}
+| lastedit=2019-03-17
+| content=
+}}
+* {{eat
+| name=El Pincho (tapas) | alt= | url=https://elpincho.nl | email=info@elpincho.nl
+| address=Riviervischmarkt 17-19, 2011HJ | lat=52.381332 | long=4.638323 | directions=
+| phone=+31 23 553 0288 | tollfree=
+| hours=Tue-Thu Sun 17:00-22:00, Fri Sat 16:30 - 23:00 | price=
+| lastedit=2019-03-17
+| content=
+}}
+* {{eat
+| name=La-Plume | alt= | url=http://www.la-plume.nl | email=laplumereserveringen@gmail.com
+| address=Lange Veerstraat 1, 2011 DA | lat=52.380599 | long=4.638167 | directions=
+| phone=+31 23 531 32 02 | tollfree=
+| hours=Mon–Thu 17:00–01:00; Fri–Sun 16:00–01:00 | price={{€|20}}
+| lastedit=2026-08-08
+| content=
+}}
+* {{eat
+| name=Bagels & Beans | alt= | url=https://www.bagelsbeans.nl/ | email=
+| address=Gierstraat 49, 2011 GB | lat=52.378604 | long=4.631814 | directions=
+| phone=+31 23 551 4554 | tollfree=
+| hours= | price=
+| lastedit=2019-03-18
+| content=
+}}
+* {{eat
+| name=SLA | alt= | url=https://ilovesla.com/ | email=
+| address=Kruisweg 68B | lat=52.386179 | long=4.636260 | directions=at Parklaan just south of railway station
+| phone=+31 23 574 7939 | tollfree=
+| hours=11:30 - 20:30 | price=
+| lastedit=2026-08-08
+| content=Salads served in large bowls.
+}}
+
+===Mid-range===
+* {{eat
+| name=Restaurant/Brasserie Stempels | alt= | url=https://www.mlinhaarlem.nl/ | email=welkom@mlinhaarlem.nl
+| address=Klokhuisplein 9, 2011 HK | lat=52.380742 | long=4.638381 | directions=
+| phone=+31 23 512 3910 | tollfree=
+| hours=Thu-Sat from 18:00 | price=
+| lastedit=2019-03-14
+| content=
+}}
+*{{eat
+| name=Restaurant Specktakel | alt= | url=http://www.specktakel.nl/ | email=
+| address=Spekstraat 4, 2011 HM | lat=52.380761 | long=4.636095 | directions=
+| phone=+31 23-5323841 | tollfree=
+| hours=Mon Thu Fri 17:30-22:00, Sat Sun 17:00-22:00 | price={{€|37.50}} for 3 courses
+| content=This place serves nice food from all over the world. Good quality for the price, modern establishment. There's also a good selection of dishes for vegetarians.
+}}
+*{{eat
+| name=De Kloosterkeuken | alt= | url=http://www.dekloosterkeuken.nl | email=info@dekloosterkeuken.nl
+| address=Hagestraat 12 2011 CV | lat=52.378545 | long=4.640331 | directions=
+| phone=+31 23 533 88 85 | tollfree=
+| hours= | price=From {{€|21}} for 3 courses
+| content=A nice restaurant in a historic setting. Throughout the centuries, this place served as a refuge and care centre for pilgrims on the way to Santiago de Compostela and later for the elderly and the poor. De Kloosterkeuken serves simple, pure food for a good price.
+}}
+*{{eat
+| name=Noor | alt= | url=http://www.restaurantnoor.nl | email=info@restaurantnoor.nl
+| address=Bloemendaalseweg 35 2061 CB Bloemendaal | lat=52.405135 | long=4.621449 | directions=
+| phone=+31 23 - 532 47 81 | tollfree=
+| hours=Tue-Sat | price={{€|32}} for 3+course surprise menu
+| content=Popular, modern style restaurant. Not the cheapest place around but the service is good and the food is tasty. If you're not too picky, the surprise menu is good value for money.
+}}
+*{{eat
+| name=De Lachende Javaan | alt= | url=http://www.delachendejavaan.com/ | email=info@delachendejavaan.com
+| address=Frankestraat 27, 2011 HT | lat=52.379404 | long=4.635476 | directions=
+| phone=+31 23-5328792 | tollfree=
+| hours=Thu-Tue Sun 17:00-22:00, Fri Sat 17:00-22:30 | price={{€|18}}
+| content=Well-prepared Indonesian food in a remarkable setting. The combination of the old Dutch building and the Indonesian decorations are interesting at least. All in all, this place gets good reviews across the board.
+}}
+* {{eat
+| name=Brick | alt= | url=https://www.restaurantbrick.nl/ | email=info@restaurantbrick.nl
+| address=Breestraat 24-26, 2011 ZZ | lat=52.378843 | long=4.631171 | directions=
+| phone=+31 235511870 | tollfree=
+| hours=18:00-22:00 | price=4 course {{€|37.50}}
+| lastedit=2019-03-17
+| content=
+}}
+* {{eat
+| name=Parck | alt= | url=http://restaurantparck.nl | email=info@restaurantparck.nl
+| address=Frederikspark 2, 2012 DA | lat=52.373949 | long=4.630858 | directions=
+| phone=+31 23 54 20 91 1 | tollfree=
+| hours=daily 11:00-23:00 | price=€25
+| lastedit=2026-08-08
+| content=Suitable for children.
+}}
+* {{eat
+| name=Wilma & Albert | alt= | url=https://www.wilma-alberts.nl | email=info@wilma-alberts.nl
+| address=Oude Groenmarkt 6, 2011 HL | lat=52.380654 | long=4.636825 | directions=
+| phone=+31 23-532 1256 | tollfree=
+| hours= | price=
+| lastedit=2019-03-18
+| content=
+}}
+
+===Splurge===
+* {{eat | name=ML | alt= | url=https://www.mlinhaarlem.nl/en/ | email= | address=Kleine Houtstraat 70, 2011 DR | lat=52.380806 | long=4.638310 | directions= | phone=+31 23 - 534 53 43 | tollfree= | hours= | price={{EUR|90}} for 4-course surprise menu | content=ML is one of two Michelin-star restaurants in town. As often in establishments like this, the menu is limited and prices are fairly high, but for that you get artistically plated, top class food. Calling ahead is a good idea.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{eat
+| name=Ratatouille | alt= | url=http://www.ratatouillefoodandwine.nl/ | email=info@ratatouillefoodandwine.nl
+| address=Spaarne 96, 2011 CL | lat=52.378699 | long=4.637672 | directions=
+| phone=+31 23 542 7270 | tollfree=
+| hours=Lunch: Wed-Sun 12:00-14:30; dinner: Tue-Thu 18:00-22:00, Fri-Sun 18:30-22:00 | price=4 course {{EUR|61}} {{!}} 6 course {{EUR|81.00}}
+| content=
+}}
+
+==Drink==
+
+Beerbrewing has been a very important industry for Haarlem. The historical Haarlems beer, recreated in 1995 is Jopenbier or Jopen.
+*{{drink
+| name=In den Uiver | alt= | url=http://www.indenuiver.nl/ | email=
+| address=Riviervischmarkt 13, 2011 RZ | lat=52.38145 | long=4.638171 | directions=Walk from the Grote Markt to the river Spaarne
+| phone=+31 23 532 53 99 | tollfree=
+| hours=16:00-01:00 | price=
+| content=Lovely old Proof Lokaal facing the side of the Bavo Kerk. Great choice of beers and friendly staff and customers. Free jazz sessions Sunday evenings and Thursday nights.
+}}
+*{{drink
+| name=Tierney's | alt= | url=https://www.tierneysirishpub.nl | email=
+| address=Spekstraat 8, 2011 HM | lat=52.380755 | long=4.636239 | directions=
+| phone=+31 23 202 0057 | tollfree=+316 5234 7271
+| hours=Mon-Wed 15:00-00:00, Thu 12:00-01:00, Fri 12:00-04:00, Sat 11:00-04:00, Sun 12:00-00:00 | price=
+| content=Just off the Grote Markt, the only traditional Irish pub in Haarlem, friendly, nice crowd, show all major sporting events including Gaelic Athletic Association (GAA) Irish sports (if it doesn't clash with a football match), live Irish session every first Sunday of the month.
+}}
+*{{drink
+| name=De VijfHoek | alt=Café De Vijfhoek | url=http://www.cafedevijfhoek.nl | email=
+| address=Wolstraat 20 2011 ZA | lat=52.378793 | long=4.630144 | directions=
+| phone=+31 23 5317941 | tollfree=
+| hours= | price=
+| content=Cosy, local bar, highly recommended for atmosphere.
+}}
+*{{drink | name=Briljant | alt= | url=http://www.cafebriljant.nl | email=info@cafebriljant.nl | address=Koningstraat 46 black, 2011 TD | lat=52.380081 | long=4.633515 | directions= | phone=+31 23-5512129 | tollfree= | hours=Thu-Tue 18:00-02:00, Fri Sat 16:00-02:00, Sun 16:00-01:00 | price= | content=Good beer!
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+*{{drink
+| name=Jopenkerk | alt= | url=http://www.jopenkerk.nl | email=reserveringen@jopenkerk.nl
+| address=Gedempte Voldersgracht 2, 2011 VV | lat=52.381263 | long=4.629804 | directions=
+| phone=+31 23 533 4114 | tollfree=
+| hours=Sun-Wed 10:00-01:00, Thu-Sat from 17:30 | price=
+| wikipedia=Jopen | wikidata=Q392195
+| content=Can there be anything more Dutch than changing a church into a brewery? Meet locals of all ages and drink special brew: Jopen beer.
+}}
+*{{drink
+| name=Stiels | alt= | url=http://www.stiels.nl | email=info@stiels.nl
+| address=Smedestraat 21, 2011 RE | lat=52.382477 | long=4.636093 | directions=
+| phone=+31 23-5316940 | tollfree=
+| hours= | price=
+| content=R&B like it was supposed to be (hence not R'n'B). Expect blues performances, alternative bands and an occasional unexpected jam session. Good for an alternative dance night on Fridays or Saturdays.
+}}
+*{{drink
+| name=Coffeedate | alt= | url=http://www.coffeedate.nl | email=info@coffeedate.nl
+| address=Paarlaarsteeg 2, 2011 HL | lat=52.380752 | long=4.634980 | directions=from bus stop centrum/verwulft, walk into Koningstraat, {{m|200}} on your right
+| phone=+316 30053934 | tollfree=
+| hours=Mon-Fri 08:00-18:00, Sat 09:00-17:00 | price=Normal Americano {{€|3}}
+| content=Coffeedate is a small and cosy coffeebar, used by students to take away or by workers to read and use the free wifi.
+}}
+* {{drink
+| name=The Patronaat | alt= | url=http://www.patronaat.nl/ | email=info@patronaat.nl
+| address=Zijlsingel 2, 2013 DN | lat=52.383056 | long=4.628611 | directions=from NS Haarlem Station, walk past the bus station, into the Kruisweg, then straight ahead to Kruisstraat, at HEMA go straight into Barteljorisstraat, at the end (before you go up Grote Markt), turn right into Zijlstraat, walk all the way until you reach a canal at the end, cross the pedestrian bridge over water, on the left across the water lies Patronaat
+| phone=+31 23 517 58 58 | tollfree=
+| hours= | price=
+| wikipedia=Patronaat | wikidata=Q2442692
+| lastedit=2019-03-14
+| content=Haarlem's largest venue for live music. Their Fridays and Saturdays are dance nights and generally packed.
+}}
+* {{drink
+| name=Studentencafé de Koning | alt=Students' café 'the King' | url=http://www.dekoning.cafe/ | email=
+| address=Spaarne 78, 2011 CL | lat=52.379254 | long=4.637621 | directions=to get here, follow the mass of teens
+| phone= | tollfree=
+| hours=Tue 21:00-04:00, Fri Sat 23:00 - 04:00 | price=Beer is around {{€|2}}
+| content=If you want to see what the 14- to 18-year-olds do in Haarlem, go for a visit. Even though you won't want to stay long, you have to have seen this.
+}}
+* {{drink
+| name=Cafe van Gunsteren | alt=Ajax cafe | url=https://cafevangunsteren.nl | email=
+| address=Haarlem Breestraat 11 | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2022-02-06
+| content=Typical Ajax cafe, but you can watch other sports as well in this cosy place. The 5 TV screens ensure you a front row seat wherever you sit.
+}}
+
+==Sleep==
+
+*{{sleep
+| name=Stay Okay Haarlem | alt= | url=http://www.stayokay.com/index.php?pageID=3207&hostelID=356041&view_impression=surrounding | email=haarlem@stayokay.com
+| address=Jan Gijzenpad 3, 2024 CL | lat=52.414173 | long=4.639875 | directions=
+| phone=+31 23 537 37 93 | tollfree=
+| checkin=from 15:00 | checkout=10:30 | price={{€|23}} for a dorm bed
+| content=The Stay Okay Hostel chain generally offers simple and clean private rooms as well as dorm beds. It's popular with international youngsters and one of the cheapest options around. This one is located out of Haarlem, so you will have to take a bus, but connections are good. Line 2 stops right in front of the door. Alternatively, you can take a train to Santpoort-Zuid and walk 10 minutes.
+}}
+*{{sleep
+| name=Ambassador Hotel & Joops Hotel | alt= | url=http://www.haarlem.com/acccontact.php?lang=en | email=info@haarlem.com
+| address=Oude Groenmarkt 20, 2011 HL | lat=52.380634 | long=4.637513 | directions=
+| phone=+31 23-5125300 | tollfree=
+| checkin= | checkout= | price={{€|79}} (Ambassador) {{€|52.50}} (Joops) for a double
+| content=Ambassador Hotel offers plain but fine rooms right in the city centre. Under the name Joops Hotel it offers cheaper, more basic rooms too. The location is great and service is friendly. Breakfast is not included in the price. The reception is open 24/7.
+}}
+*{{sleep | name=Amrâth Grand Hotel Frans Hals | alt= | url=http://www.amrathhotels.nl/franshals/default-en.html | email=info@hotelfranshals.nl | address=Damstraat 10, 2011 HA | lat=52.380511 | long=4.638635 | directions= | phone=+31 23 5 18 18 18 | tollfree= | fax= | checkin=15:00 | checkout=12:00 | hours= | price={{€|125}} | wikidata= | lastedit=2020-11-24 | content=One of the best hotels in town, with good rooms and facilities right in the centre of town. Breakfast is rather expensive (€18.50) but good. If you're not on a budget, there are spacious deluxe rooms and junior suites available.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+*{{sleep
+| name=Amadeus Hotel | alt= | url=http://www.amadeus-hotel.com/ | email=info@amadeus-hotel.com
+| address=Grote Markt 10, 2011 RD | lat=52.381231 | long=4.635353 | directions=
+| phone=+31 23 5324530 | tollfree=
+| checkin=14:00 | checkout=11:00 | price={{€|60}}/{{€|85}} single/double
+| lastedit=2019-03-17
+| content=Friendly hotel with 15 small but clean rooms, located in a historic building on the main square. A rather steep stair will take you to the reception, which is located on the first floor. From there, an elevator is available to take you higher up in the building. Good value for money. Rooms on the square side have nice views but can be a bit noisy. Breakfast is included.
+}}
+*{{sleep
+| name=Carlton Square | alt= | url=https://www.carlton.nl/square-hotel-haarlem | email=info@square.carlton.nl
+| address=Baan 7, 2012 DB | lat=52.374423 | long=4.631541 | directions=
+| phone=+31 23 531 90 91 | tollfree=
+| checkin=15:00 | checkout=12:00 | price={{€|109}}
+| lastedit=2026-08-08
+| content=Classic, good hotel in the historic centre of town, with good rooms and spacious suites available. Rooms are equipped with all the amenities you would expact from a 4 star hotel and the staff is helpful. Here, as in comparable hotels, breakfast is extensive but doesn't come cheap, at {{€|18.50}}.
+}}
+*{{sleep
+| name=Haarlem Hotel Suites | alt= | url=http://www.haarlem-hotelsuites.nl/ | email=info@haarlem-hotelsuites.nl
+| address=Korte Veerstraat 3 | lat=52.379637 | long=4.637689 | directions=
+| phone=+31 23 542 7804 | tollfree=
+| checkin=15:00 | checkout=11:30 | price={{€|95}}-{{EUR|115}}
+| lastedit=2026-08-08
+| content=This "hotel" offers a few lovely, individual apartments, all in the direct neighbourhood of the reception. Most are in old houses, all are adequately equipped with furniture and small kitchens, allowing for self-catering. Mind that they are on the first floor, with no elevator. Expect service like in a mid-range hotel, including towels, shampoo etc. Reception is shared with Lambermons suites and is not open 24/7.
+}}
+
+==Go next==
+20 km away, [[Amsterdam]] is an obvious tourist destination nearby. However, there are a number of other interesting options.
+*{{go | name=Spaarndam | alt= | url=https://www.haarlem.nl/spaarndam/ | email= | address= | lat=52.412983 | long=4.683223 | directions=Bus line 14, 20 min | phone= | tollfree= | hours= | price=Free | wikipedia=Spaarndam | image=Spaarndam-Westkolk.jpg | wikidata=Q833664 | lastedit=2019-03-18 | content=Quaint old Dutch village, nice harbour, couple of restaurants and bars. This small village always had a strong relation with the water. It gained fame through the 1865 American novel ''Hans Brinker or the Silver Skates'', in which a boy put his finger in a hole in the dike to prevent Spaarndam from flooding. Easy cycle from central Haarlem. Famous for its statue of Peter, the boy who put his finger in the dike and saved Haarlem from flooding. There you can find great places to enjoy a great cup of coffee or a cold glass of beer. It is a strictly people zone, meaning no cars or trolleys pass through.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+*[[Zandvoort]] - one of the most popular Dutch coastal destinations is just 10&nbsp;km away. You can take a train, or go by bike as it's a pleasant ride.
+*[[Zaandam]] - is the biggest town in [[Zaanstreek-Waterland]], with its typical old Dutch villages, windmills, dikes and wooden houses. It's a 20-min train journey, but you'll have to change at Amsterdam Sloterdijk.
+*[[Zuid-Kennemerland National Park]] is just outside Haarlem. To enter, head to [[Overveen]]. It's no more than 3 minutes by train.
+*[[Alkmaar]] - famous for its cheese market, has canals and a nice historic centre too. The direct train takes about 30 min.
+
+{{routebox
+| image1=NL-A9.png
+| imagesize1=22
+| directionl1=N
+| majorl1=[[Alkmaar]]
+| minorl1=[[Heemskerk]]
+| directionr1=S
+| majorr1=[[Amsterdam]]
+| minorr1=
+
+| image4=NL-A200.png
+| imagesize4=22
+| directionl4=W
+| majorl4=END
+| minorl4=
+| directionr4=E
+| majorr4=[[Amsterdam]]
+| minorr4=[[Halfweg]]
+}}
+
+{{usablecity}}
+{{isPartOf|Kennemerland}}
+{{geo|52.380278|4.640556}}

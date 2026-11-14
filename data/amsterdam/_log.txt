@@ -1,0 +1,47 @@
+OSM art try 1 POST https://overpass-api.de/api/interpreter
+  OK 365 KB
+OSM poi try 1 POST https://overpass-api.de/api/interpreter
+  ERROR: HTTP Error 502: Bad Gateway | # 502 Gateway Timeout This Overpass API server is currently at capacity. All query workers are busy and the request queue is full. ## What to do Retry your request using exponential backoff: wait a short interval, then retry. If the request fails again, double the wait time and retry again. ## F
+OSM poi try 1 GET https://overpass-api.de/api/interpreter
+  ERROR: HTTP Error 502: Bad Gateway | # 502 Gateway Timeout This Overpass API server is currently at capacity. All query workers are busy and the request queue is full. ## What to do Retry your request using exponential backoff: wait a short interval, then retry. If the request fails again, double the wait time and retry again. ## F
+OSM poi try 1 POST https://overpass.kumi.systems/api/interpreter
+  OK 696 KB
+OSM fun try 1 POST https://overpass-api.de/api/interpreter
+  OK 135 KB
+OSM kosher try 1 POST https://overpass-api.de/api/interpreter
+  ERROR: HTTP Error 502: Bad Gateway | # 502 Gateway Timeout This Overpass API server is currently at capacity. All query workers are busy and the request queue is full. ## What to do Retry your request using exponential backoff: wait a short interval, then retry. If the request fails again, double the wait time and retry again. ## F
+OSM kosher try 1 GET https://overpass-api.de/api/interpreter
+  ERROR: HTTP Error 504: Gateway Timeout | <?xml version="1.0" encoding="UTF-8"?> <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"> <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"> <head> <meta http-equiv="content-type" content="text/html; charset=utf-8" lan
+OSM kosher try 1 POST https://overpass.kumi.systems/api/interpreter
+  ERROR: HTTP Error 504: Gateway Timeout | <?xml version="1.0" encoding="UTF-8"?> <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"> <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"> <head> <meta http-equiv="content-type" content="text/html; charset=utf-8" lan
+OSM kosher try 1 GET https://overpass.kumi.systems/api/interpreter
+  ERROR: HTTP Error 504: Gateway Timeout | <?xml version="1.0" encoding="UTF-8"?> <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"> <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"> <head> <meta http-equiv="content-type" content="text/html; charset=utf-8" lan
+OSM kosher try 1 POST https://overpass.private.coffee/api/interpreter
+  ERROR: HTTP Error 502: Bad Gateway | <html> <head><title>502 Bad Gateway</title></head> <body> <center><h1>502 Bad Gateway</h1></center> <hr><center>nginx/1.26.3</center> </body> </html> 
+OSM kosher try 1 GET https://overpass.private.coffee/api/interpreter
+  ERROR: HTTP Error 504: Gateway Timeout | <?xml version="1.0" encoding="UTF-8"?> <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"> <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"> <head> <meta http-equiv="content-type" content="text/html; charset=utf-8" lan
+OSM kosher try 1 POST https://maps.mail.ru/osm/tools/overpass/api/interpreter
+  OK 25 KB
+Wikidata ids: 393
+WD batch 1 OK
+WD batch 2 OK
+WD batch 3 OK
+WD batch 4 OK
+WD batch 5 OK
+WD batch 6 OK
+WD batch 7 OK
+WD batch 8 OK
+WV wv_en_Amsterdam OK
+WV wv_en_Centrum ERROR: HTTP Error 404: Not Found
+WV wv_en_Canal OK
+WV wv_en_Jordaan OK
+WV wv_en_Oud_Zuid ERROR: HTTP Error 404: Not Found
+WV wv_en_De_Pijp ERROR: HTTP Error 404: Not Found
+WV wv_en_Oost OK
+WV wv_en_Noord OK
+WV wv_en_West OK
+WV wv_en_Haarlem OK
+WV wv_en_Zaanse OK
+WV wv_he_Amsterdam OK
+nominatim ok: 214 of 214
+DONE

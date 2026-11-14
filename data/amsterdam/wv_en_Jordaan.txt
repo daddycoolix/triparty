@@ -1,0 +1,266 @@
+{{pagebanner|Jordaanplein-banner.jpg|pgname=Jordaan|caption=Statues of Johnny Jordaan and Johnny Meijer at the Johnny Jordaanplein|origin=0.6,0}}
+{{Mapframe|52.378022|4.883282|zoom=14|height=460|width=350}}
+{{Mapshapes|Q2060132|stroke-width=2.5}} {{Mapshapes|Q260870}}
+{{Mapmask |52.3828,4.8984 |52.3835,4.8971 |52.3888,4.8957 |52.3885,4.8912 |52.3882,4.8858 |52.3883,4.8847 |52.3843,4.8818 |52.3823,4.8805 |52.3819,4.8796 |52.3813,4.8799 |52.3743,4.8756 |52.3734,4.8754 |52.3726,4.8746 |52.3719,4.8745 |52.3698,4.8755 |52.3685,4.8767 |52.3668,4.8775 |52.3658,4.8787 |52.3650,4.8793 |52.3651,4.8798 |52.3662,4.8828 |52.3667,4.8824 |52.3747,4.8831 |52.3805,4.8884 |52.3797,4.8899 |52.3788,4.8940 |52.3803,4.8960 |52.3828,4.8984}}
+
+The '''Jordaan''' is a district in the centre of [[Amsterdam]]. It used to be a working-class neighbourhood, but has become one of the most upscale areas of the Netherlands, known for its art galleries, speciality shops and boutique restaurants. Among the Dutch, the Jordaan is known for its folk singers; several of its most popular musicians now have a statue in their memory at the corner of Prinsengracht and Elandsgracht.
+
+==Understand==
+
+==Get in==
+===By tram===
+[[File:AmsterdamTram.svg|thumbnail|right|Amsterdam tram & metro system]]
+The tram is the easiest way to get around central Amsterdam, and the Jordaan is no exception. 
+
+From Amsterdam Centraal, '''Tram''' {{rint|amsterdam|13}} and '''Tram''' {{rint|amsterdam|17}} bring you to the stop Westermarkt at the beginning of the Jordaan-district. '''Tram''' {{rint|amsterdam|17}} continues a few stops further to Elandsgracht at the west side of the district.
+
+'''Tram''' {{rint|amsterdam|5}} travels along the west side of the district from Leidseplein to Marnixplein where one can transfer to '''Tram''' {{rint|amsterdam|3}} to continue to Haarlemmerbuurt on the northern side of the district.
+
+==See==
+[[File:Jordaan2000.jpg|thumb|250px|Statues of Tante Leen and Manke Nelis at the corner of Elandsgracht]]
+* {{see
+| name=Brouwersgracht | alt= | url= | email=
+| address= | lat=52.38052 | long=4.88876 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=nl:Brouwersgracht (Amsterdam) | image=Brouwersgracht Apr 2 2011 2.jpg | wikidata=Q2575400
+| content=This canal is sometimes cited as the "most beautiful street of Amsterdam". The name, "Brewer's Canal", refers to the many beer breweries along the canal in the 16th and 17th centuries. Nowadays, there's just one distillery left, ''De Ooievaar'', that has been located here since 1782 and specializes in Dutch ''jenever'' and liquors. The warehouses here used to store goods such as coffee, spices and leather, but now serve a residential purpose. Traditional warehouses with the row of spout gables can be found at Brouwersgracht 196–188, and at 204, 206, 208 and 210. Also check out the wide-open red shutters at ''Groene Valk'' (192) and ''Grouwe Valk'' (194). ''Geloof'', Brouwersgracht 218, shows the typical "neck" gable designed by Philips Vingboons.
+}}
+* {{see
+| name=Noorderkerk | alt= | url=http://www.noorderkerk.org/ | email=
+| address=Noordermarkt 48 | lat=52.379444 | long=4.886389 | directions=
+| phone=+31 20 626-6436 | tollfree= | fax=
+| hours=Mon 10:30-12:30, Sat 11:00-13:00, Apr-Oct Sun 13:30-17:30 | price=
+| wikipedia=Noorderkerk | image=Nokerk2.jpg | wikidata=Q613854
+| content=
+}}
+* {{see | name=Pianola Museum | alt= | url=http://pianola.nl/Pianola_Museum/Welcome.html | email=info@pianola.nl | address=Westerstraat 106 | lat=52.378635 | long=4.883573 | directions=tram 3 or 10 to Marnixplein | phone=+31 20 627-9624 | tollfree= | fax= | hours=Sun 14:00-17:00 | price=€5 | wikipedia=nl:Pianola Museum | image=Pianola Museum 1.JPG | wikidata=Q15124806 | content=A museum about Pianolas from the early 1900s. About a dozen are displayed at any one time, and every month a piano concert is held.
+}} {{Dead link|date=November 2026 |bot=InternetArchiveBot }}
+
+==Do==
+[[File:Amsterdam Brouwersgracht 192 Groene Valk.JPG|250px|thumbnail|Vingboons neck gable at Brouwersgracht 218]]
+The Jordaan is a great place to just stroll through taking in the beautiful architecture. The canal houses are always a pleasure, but also don't miss out on the backstreets.
+
+* {{do
+| name=Boom Chicago | alt= | url=http://www.boomchicago.nl/ | email=
+| address=Rozengracht 117 | lat=52.3727898 | long=4.8790426 | directions=
+| phone=+31 20 530 7300 | tollfree= | fax=
+| hours= | price=
+| wikipedia=Boom Chicago | image=Rozentheater.JPG | wikidata=Q13583637
+| content=The Amsterdam comedy institution since 1993. English language sketch and improv comedy show with extensive use of video, music and the internet. The troupe is sharp and skewers current events, trends and life and local events in Amsterdam. Perhaps the best comedy show in any city. Good food is served before the show and drink service continues all night.
+}}
+*{{do
+| name=Ken Tui Massage | alt= | url=http://www.kentui.com | email=
+| address=Rozengracht 234 | lat=52.372142 | long=4.874966 | directions=
+| phone=+31-6-15053174 | tollfree= | fax=
+| hours= | price=
+| content=Offers a quality massage.
+}}
+
+==Buy==
+
+The main three shopping streets in the Jordaan are, from north to south, Westerstraat, Rozengracht and Elandsgracht. These offer a mix of clothing stores, design, art galleries, bars and restaurants. In the side-streets (Tweede Anjeliersdwarsstraat/Tweede Tuindwarsstraat/Tweede Egelantiersdwarsstraat), you'll find more nice restaurants. And in another side-street, Hazenstraat, there's a lot of galleries and quirky stores. On Saturday there is a (pricey) biological market on Noordermarkt and a (cheaper) normal market around the corner on Lindengracht. It's great to stroll around on both these markets. On Monday there is a (second hand) clothing market on Noordermarkt and Westerstraat.
+
+* {{buy
+| name=Lapjesmarkt | alt= | url= | email=
+| address=Westerstraat | lat=52.378389 | long=4.883277 | directions=tram 3 or 10 to Marnixplein
+| phone= | tollfree= | fax=
+| hours=Mon 09:00-13:00 | price=
+| image=Amsterdam 175.JPG
+| content=A specialist market concentrating on selling cloth and material for making clothes, curtains etc. Mondays only.
+}}
+* {{buy
+| name=Lindengracht | alt= | url= | email=
+| address= | lat=52.380112 | long=4.884324 | directions=tram 3 or 10 to Marnixplein, and a short walk along the Lijnbaansgracht
+| phone= | tollfree= | fax=
+| hours=Sat 09:00-16:00 | price=
+| image=WoningenLindengracht1.jpg | wikidata=Q2383397
+| content=Selling a wide range of goods, fruit and vegetables, fish and various household items. Saturday only.
+}}
+* {{buy
+| name=Noordermarkt | alt= | url= | email=
+| address= | lat=52.379167 | long=4.886111 | directions=tram 3 or 10 to Marnixplein, and a short walk down the Westerstraat
+| phone= | tollfree= | fax=
+| hours=Mon 09:00-13:00, Sat 09:00-16:00 | price=
+| wikipedia=Noordermarkt | image=Nokerk2.jpg | wikidata=Q2915920
+| content=On Monday morning the Noordermarkt is a flea market selling fabrics, records, second-hand clothing etc., and forms part of the Lapjesmarkt mentioned above. On Saturday, the Noordermarkt is a biological food market, selling a wide range of ecological products like organic fruits and vegetables, herbs, cheese, mushrooms etc. There is also a small flea market.
+}}
+
+==Eat==
+
+{{eatpricerange|Below €20|€20-50|€50+}}
+
+===Budget===
+
+* {{eat
+| name=Burgermeester | url=http://www.burgermeester.eu/ | email=
+| address=Elandsgracht 130 | lat=52.3693 | long=4.8788 | directions=
+| phone = +31 900-BURGERS | tollfree= | fax=
+| hours=12:00-23:00 | price=
+|lastedit=2026-07-16| content=Yes, they serve burgers here. But don't expect a McDonalds wannabe. They are quality meat, fish or vegetarian burgers. The place is so popular that they opened 2 more branches in the city. Great if you want to have a quick and inexpensive bite. Order the 'mini trio' so you can taste three different small sized burgers.
+}}
+
+===Mid-range===
+
+* {{eat
+| name=Kinnaree | alt= | url=http://www.restaurantkinnaree.nl | email=
+| address=1e Anjeliersdwarsstraat 14 | lat=52.378022 | long=4.883282 | directions=
+| phone=+31 20 627 71 53 | tollfree= | fax=
+| hours= | price=
+| content=Amazing Thai food. Good atmosphere, good service despite being quite busy, but the food is why you would come here. Highly recommended.
+}}
+* {{eat
+| name=Long Pura | alt= | url=http://www.restaurant-longpura.com/ | email=
+| address=Rozengracht 46-48 | lat=52.3737 | long=4.8811 | directions=
+| phone=+31 20 6238950 | tollfree= | fax=
+| hours=18:00-23:00 | price=
+|lastedit=2026-07-16| content=Indonesian food, try the rice table.
+}}
+
+===Splurge===
+* {{eat
+| name=Proeverij 274 | url= | email=
+| address=Prinsengracht 274 | lat=52.37106 | long=4.88244 | directions=
+| phone=+31 20 421 18 48 | tollfree= | fax=
+| hours=Daily 18:00-22:00 | price=
+| content=Small, cosy restaurant at one of the main canals. Business but also romantic dinner. Small menu, new Dutch cuisine with classic French influences. The menu features mainly organic regional produce. Personal service, nice wine advice and fresh seasonal food in a relaxed environment.
+}}
+
+
+==Drink==
+
+Unlike the mainstream bars and clubs in the [[Amsterdam/Canal District|Canal District]], the Jordaan offers a different atmosphere with obscure rock, metal and alternative music. But there's also plenty of old fashioned neighbourhood bars and 'hip' places.
+
+===Bars and pubs===
+
+* {{drink
+| name=Maloe Melo | url=http://www.maloemelo.com/ | email=
+| address=Lijnbaansgracht 163 | lat=52.37005 | long=4.87771 | directions=
+| phone= | tollfree= | fax=
+| hours=Sun-Thu 03:00, Fri Sat 04:00 | price=
+| content=Small blues bar which is separated in two parts: a free part in the front, €5 entrance fee in the back where blues or rock 'n' roll bands play live every night of the week.
+}}
+*{{drink
+| name='t Smalle | url=http://www.t-smalle.nl/?section=drinken | email=
+| address=Egelantiersgracht 12 | lat= | long= | directions=
+| phone=+31 20 623 96 17 | tollfree= | fax=
+| hours=Sun-Thu 10:00-01:00, Fri Sat 10:00-02:00 | price=
+| content=Some say this place has the most beautiful terrace in Amsterdam. It's not big but you sit right beside the canal. And if it's too cold to sit outside check out the beautifully restored interior in this laid-back place.
+}}
+*{{drink
+| name=Cafe P 96 | url=http://www.p96.nl/ | email=
+| address=Prinsengracht 96 | lat= | long= | directions=
+| phone=+31 20 622 18 64 | tollfree= | fax=
+| hours=08:00 to 01:00 | price=
+| content=Great character at this pub, lovely outdoor terrace on a houseboat makes for a nice evening or afternoon. Good selection of Dutch and Belgian beers.
+}}
+*{{drink
+| name=Soundgarden | url=http://www.cafesoundgarden.nl/ | email=
+| address=Marnixstraat 166 | lat= | long= | directions=
+| phone=+31 20 620 28 53 | tollfree= | fax=
+| hours= | price=
+| content=Top metal/grungy/punky pub, most relaxed drinking atmosphere in town. Really nice, secluded terrace for drinking beer in the sun. can smoke, but not buy, puff.
+}}
+* {{drink
+| name=Bar Brandstof | url=http://www.bar-brandstof.nl/ | email=
+| address=Marnixstraat 357, corner with Rozengracht | lat= | long= | directions=
+| phone=+31 20-4220813 | tollfree= | fax=
+| hours=Mon-Thu 08:00-01:00, Fri 08:00-03:00, Sat 11:00-03:00, Sun 11:00-01:00 | price=
+| content=Relatively new bar with a big and often busy terrace. Gets absolutely crowded on Friday after work hours
+}}
+*{{drink
+| name=Bar Struik | url= | email=
+| address=Rozengracht 160 | lat= | long= | directions=
+| phone=+31 20-6254863 | tollfree= | fax=
+| hours=Mon 17:00-1:00, Tue-Thu 10:00 - 01:00, Fri 10:00 - 03:00, Sat 11:00 - 03:00, Sun 12:00 - 01:00 | price=
+| content=Hangout for the urban 20 and 30-somethings. Every day except Friday they serve 1 dish for {{EUR|7.50}}. Gets really crowded in the weekends.
+}}
+* {{drink
+| name=Cafe Chaos | url= | email=
+| address=Looriegracht 144 | lat= | long= | directions=GPS +52.36792°,+4.87913°
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Typical Amsterdam brown bar. Throw your peanuts shells on the floor while looking at the furniture.
+}}
+
+===Nightclubs===
+* {{drink
+| name=Maloe Melo | url=http://www.maloemelo.com/ | email=
+| address=Lijnbaansgracht 163 | lat= | long= | directions=Tram: Elandsgracht
+| phone=+31 20 420 45 92 | tollfree= | fax=
+| hours=Sun-Thu 21:00-03:00, Fri Sat 21:00-04:00 | price=
+| content=Live 1950s rockabilly bar. Drinks are cheap and the crowd are mostly Dutch rockers, but the music is good.
+}}
+
+===Coffeeshops===
+* {{drink
+| name=Barney's | alt= | url=http://www.barneys.biz/ | email=
+| address=Haarlemmerstraat 98 | lat=52.380628 | long=4.890977 | directions=
+| phone=+31 20 6123987 | tollfree= | fax=
+| hours=Daily 10:00 - 18:00 | price=
+| content=Coffeeshop.
+}}
+* {{drink
+| name=Coffeeshop Ibiza  | alt= | url=https://www.coffeeshopibiza.com | email=Info@coffeeshopibiza.com
+| address=Hemonystraat 16 | lat= | long= | directions=
+| phone=+31 20 223 2534 | tollfree=
+| hours=Daily 10:00 - 01:00 | price=
+| wikidata=
+| lastedit=
+| content=Big coffee shop.
+}}
+
+==Sleep==
+{{sleeppricerange|Under €80|€80 to €150|Over €150}}
+===Budget===
+* {{sleep
+| name=Shelter Jordan Hostel | alt= | url=http://www.shelter.nl | email=
+| address=Bloemstraat 179 | lat=52.373150 | long=4.877257 | directions=Tram: Marnixstraat / Rozengracht
+| phone=+31 20 624 47 17 | tollfree= | fax=
+| checkin= | checkout= | price=From €19
+| content=An alcohol and drug-free Christian youth hostel. Single-sex dormitories (including breakfast, bed linen).
+}}
+
+===Mid-range===
+*{{sleep
+| name=Hotel de Paris | url=http://hoteldeparisamsterdam.nl/ | email=
+| address=Marnixstraat 372 | lat=52.365775 | long=4.879771 | directions=
+| phone=+31 20 622 55 87 | tollfree= | fax=
+| hours= | price=From €99
+| checkin=14:00 | checkout=11:00
+| content=The hotel has 48 rooms, and is located near the Waterlooplein flee market. Average to good online ratings.
+}}
+*{{sleep
+| name=Hotel De Looier Amsterdam | alt= | url=http://www.hoteldelooier.com/ | email=
+| address=3e Looiersdwarsstraat 75 | lat=52.368350 | long=4.879661 | directions=
+| phone=+31 20 625 18 55 | tollfree= | fax=
+| checkin=14:00 | checkout=11:00 | price=
+| content=The hotel is a - star hotel located near many of the main Museums of Amsterdam. Hotel De Looier Amsterdam was built as a diamond factory in 1886.
+}}
+* {{sleep
+| name=Marnix Hotel | url= | email=
+| address=Marnixstraat 382 | lat=52.36546 | long=4.87979 | directions=
+| phone=+31 20 664 6111 | tollfree= | fax=
+| hours= | price=€79-95, dorm €30 per person
+| checkin= | checkout=
+| content=2-star hotel with dorm beds.
+}}
+
+==Connect==
+
+==Go next==
+
+{{routebox
+| image1=Amsterdam unofficial tram icon line 17.svg
+| imagesize1=22
+| directionl1=W
+| majorl1=[[Amsterdam/West|West]]
+| minorl1=
+| directionr1=E
+| majorr1=[[Amsterdam/Binnenstad|Binnenstad]]
+| minorr1=[[Amsterdam/Canal District|Canal District]]
+}}
+
+{{geo|52.375953|4.881583|zoom=15}}
+{{usabledistrict}}
+{{IsPartOf|Amsterdam}}
