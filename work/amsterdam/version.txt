@@ -1,1 +1,1 @@
-Triparty 1.20.2 / Budapest 2026.09.27b / Tbilisi 2026.10.02a / Petah Tikva 2026.10.02a / Rhodes 2026.10.02a / Barcelona 2026.10.09a / Porto 2026.11.02a / Lisbon 2026.11.05a
+Triparty 1.20.2 / Budapest 2026.09.27b / Tbilisi 2026.10.02a / Petah Tikva 2026.10.02a / Rhodes 2026.10.02a / Barcelona 2026.10.09a / Porto 2026.11.02a / Lisbon 2026.11.05a / Amsterdam 2026.11.15a

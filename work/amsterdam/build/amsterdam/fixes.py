@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # תיקונים אחרי הכתיבה: אתרים שהוסרו, וקואורדינטות/רובע שתוקנו באימות מול OpenStreetMap (Overpass + Nominatim), 15.11.26
 # הקואורדינטות נלקחו מנתוני OSM שנאספו (data/amsterdam/osm_poi.json) ונבדקו ידנית מול Nominatim. DROP ותוספות ידניות בסוף הקובץ.
-DROP = set()
+DROP = {"Paintball Jungle"}  # לא נמצאה עדות לפעילות (review/batch_fun.md)
 FIX = {
  "Nieuwe Kerk": {"la": 52.37392, "ln": 4.89169},
  "Oude Kerk": {"la": 52.37436, "ln": 4.89807},
