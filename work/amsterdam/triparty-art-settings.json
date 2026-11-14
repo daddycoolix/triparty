@@ -363,8 +363,8 @@
    "tb": "05.11.26"
   },
   "Amsterdam": {
-   "on": 0,
-   "all": 0,
+   "on": 1,
+   "all": 1,
    "local": null,
    "source": "OpenStreetMap + ויקידאטה",
    "packs": [
@@ -401,8 +401,8 @@
      "פסלים על חזיתות"
     ]
    ],
-   "base": 0,
-   "allN": 0,
+   "base": 97,
+   "allN": 274,
    "dataVer": "2026.11.15a",
    "tb": "15.11.26"
   }
