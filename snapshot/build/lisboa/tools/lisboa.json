@@ -1,0 +1,1030 @@
+{
+ "overpass": {
+  "art": "[out:json][timeout:180][bbox:38.690,-9.235,38.800,-9.085];(nwr[\"tourism\"=\"artwork\"];nwr[\"historic\"~\"^(memorial|monument)$\"];nwr[\"amenity\"=\"fountain\"][\"name\"];nwr[\"amenity\"=\"fountain\"][\"wikidata\"];);out center tags;",
+  "poi": "[out:json][timeout:180][bbox:38.690,-9.235,38.800,-9.085];(nwr[\"tourism\"~\"^(attraction|museum|gallery|viewpoint|zoo|aquarium)$\"][\"name\"];nwr[\"historic\"][\"name\"];nwr[\"amenity\"~\"^(place_of_worship|marketplace|theatre|arts_centre|nightclub|cafe)$\"][\"name\"];nwr[\"leisure\"~\"^(park|garden|water_park)$\"][\"name\"];nwr[\"building\"][\"wikidata\"][\"name\"];nwr[\"shop\"~\"^(mall|department_store|wine|books)$\"][\"name\"];nwr[\"natural\"=\"beach\"];nwr[\"place\"=\"square\"][\"name\"];nwr[\"aerialway\"=\"station\"];nwr[\"railway\"=\"tram_stop\"];);out center tags;",
+  "fun": "[out:json][timeout:180][bbox:38.40,-9.55,39.00,-8.75];(nwr[\"leisure\"~\"^(escape_game|amusement_arcade|bowling_alley|high_ropes_course|skatepark|water_park|trampoline_park|miniature_golf)$\"];nwr[\"sport\"~\"karting|paintball|laser_tag|billiards|snooker|bowling|10pin|surfing\"];nwr[\"sport\"~\"climbing\"][\"leisure\"];nwr[\"tourism\"=\"theme_park\"];nwr[\"attraction\"~\"summer_toboggan|roller_coaster|alpine_coaster\"];nwr[\"aerialway\"=\"zip_line\"];nwr[\"theatre:genre\"=\"circus\"];nwr[\"leisure\"][\"name\"~\"jet ski|jetski|virtual|quad|buggy|rage|circus|circo|escape|laser\",i];nwr[\"amenity\"][\"name\"~\"jet ski|jetski|virtual|quad|buggy|rage|circus|circo|escape|laser\",i];nwr[\"shop\"][\"name\"~\"jet ski|jetski|virtual|quad|buggy|rage|escape|laser\",i];nwr[\"tourism\"][\"name\"~\"jet ski|jetski|virtual|quad|buggy|rage|circo|escape|laser\",i];);out center tags;",
+  "kosher": "[out:json][timeout:90][bbox:38.66,-9.25,38.80,-9.08];(nwr[\"diet:kosher\"];nwr[\"amenity\"=\"place_of_worship\"][\"religion\"=\"jewish\"];nwr[\"cuisine\"~\"kosher|jewish|israeli\"];nwr[\"name\"~\"kosher|chabad|sinagoga|judaico|judaica|holocausto\",i];nwr[\"tourism\"=\"museum\"][\"name\"~\"juda|holocaust\",i];);out center tags;"
+ },
+ "wikidata_from": "art",
+ "wikivoyage": {
+  "wv_en_Lisbon": "https://en.wikivoyage.org/w/index.php?action=raw&title=Lisbon",
+  "wv_en_Baixa": "https://en.wikivoyage.org/w/index.php?action=raw&title=Lisbon/Baixa",
+  "wv_en_Alfama": "https://en.wikivoyage.org/w/index.php?action=raw&title=Lisbon/Alfama",
+  "wv_en_BairroAlto": "https://en.wikivoyage.org/w/index.php?action=raw&title=Lisbon/Bairro_Alto",
+  "wv_en_Belem": "https://en.wikivoyage.org/w/index.php?action=raw&title=Lisbon/Bel%C3%A9m",
+  "wv_en_Nacoes": "https://en.wikivoyage.org/w/index.php?action=raw&title=Lisbon/Parque_das_Na%C3%A7%C3%B5es",
+  "wv_en_Sintra": "https://en.wikivoyage.org/w/index.php?action=raw&title=Sintra",
+  "wv_en_Cascais": "https://en.wikivoyage.org/w/index.php?action=raw&title=Cascais",
+  "wv_he_Lisbon": "https://he.wikivoyage.org/w/index.php?action=raw&title=%D7%9C%D7%99%D7%A1%D7%91%D7%95%D7%9F"
+ },
+ "nominatim": [
+  [
+   "000",
+   "Praça do Comércio, Lisboa"
+  ],
+  [
+   "001",
+   "Arco da Rua Augusta, Lisboa"
+  ],
+  [
+   "002",
+   "Rua Augusta, Lisboa"
+  ],
+  [
+   "003",
+   "Elevador de Santa Justa"
+  ],
+  [
+   "004",
+   "Teatro Nacional D. Maria II"
+  ],
+  [
+   "005",
+   "Estação do Rossio"
+  ],
+  [
+   "006",
+   "Praça da Figueira, Lisboa"
+  ],
+  [
+   "007",
+   "Confeitaria Nacional, Lisboa"
+  ],
+  [
+   "008",
+   "A Ginjinha, Lisboa"
+  ],
+  [
+   "009",
+   "Igreja de São Domingos, Lisboa"
+  ],
+  [
+   "010",
+   "Núcleo Arqueológico da Rua dos Correeiros"
+  ],
+  [
+   "011",
+   "MUDE, Lisboa"
+  ],
+  [
+   "012",
+   "Lisboa Story Centre"
+  ],
+  [
+   "013",
+   "Cais das Colunas, Lisboa"
+  ],
+  [
+   "014",
+   "Martinho da Arcada, Lisboa"
+  ],
+  [
+   "015",
+   "Largo do Chiado, Lisboa"
+  ],
+  [
+   "016",
+   "A Brasileira, Lisboa"
+  ],
+  [
+   "017",
+   "Livraria Bertrand, Rua Garrett, Lisboa"
+  ],
+  [
+   "018",
+   "Convento do Carmo, Lisboa"
+  ],
+  [
+   "019",
+   "Teatro Nacional de São Carlos, Lisboa"
+  ],
+  [
+   "020",
+   "Museu Nacional de Arte Contemporânea do Chiado"
+  ],
+  [
+   "021",
+   "Igreja de São Roque, Lisboa"
+  ],
+  [
+   "022",
+   "Rua Nova do Carvalho, Lisboa"
+  ],
+  [
+   "023",
+   "Mercado da Ribeira, Lisboa"
+  ],
+  [
+   "024",
+   "Armazéns do Chiado, Lisboa"
+  ],
+  [
+   "025",
+   "Elevador da Bica, Lisboa"
+  ],
+  [
+   "026",
+   "Praça dos Restauradores, Lisboa"
+  ],
+  [
+   "027",
+   "Elevador da Glória, Lisboa"
+  ],
+  [
+   "028",
+   "Rua do Carmo, Lisboa"
+  ],
+  [
+   "029",
+   "Castelo de São Jorge, Lisboa"
+  ],
+  [
+   "030",
+   "Rua de São Miguel, Lisboa"
+  ],
+  [
+   "031",
+   "Sé de Lisboa"
+  ],
+  [
+   "032",
+   "Miradouro de Santa Luzia, Lisboa"
+  ],
+  [
+   "033",
+   "Miradouro das Portas do Sol, Lisboa"
+  ],
+  [
+   "034",
+   "Fado Museum, Lisboa"
+  ],
+  [
+   "035",
+   "Clube de Fado, Lisboa"
+  ],
+  [
+   "036",
+   "Igreja de Santo António de Lisboa"
+  ],
+  [
+   "037",
+   "Teatro Romano de Lisboa"
+  ],
+  [
+   "038",
+   "Largo das Portas do Sol, Lisboa"
+  ],
+  [
+   "039",
+   "Rua da Judiaria, Lisboa"
+  ],
+  [
+   "040",
+   "Largo do Chafariz de Dentro, Lisboa"
+  ],
+  [
+   "041",
+   "Miradouro Sophia de Mello Breyner Andresen, Lisboa"
+  ],
+  [
+   "042",
+   "Largo do Intendente, Lisboa"
+  ],
+  [
+   "043",
+   "Praça Martim Moniz, Lisboa"
+  ],
+  [
+   "044",
+   "Museu de Santo António, Lisboa"
+  ],
+  [
+   "045",
+   "Casa dos Bicos, Lisboa"
+  ],
+  [
+   "046",
+   "Largo de São Miguel, Lisboa"
+  ],
+  [
+   "047",
+   "Casa do Ferreira das Tabuletas"
+  ],
+  [
+   "048",
+   "Miradouro do Recolhimento, Lisboa"
+  ],
+  [
+   "049",
+   "Chapitô, Lisboa"
+  ],
+  [
+   "050",
+   "Campo de Santa Clara, Lisboa"
+  ],
+  [
+   "051",
+   "Rua da Atalaia, Lisboa"
+  ],
+  [
+   "052",
+   "Miradouro de São Pedro de Alcântara, Lisboa"
+  ],
+  [
+   "053",
+   "Miradouro de Santa Catarina, Lisboa"
+  ],
+  [
+   "054",
+   "Jardim do Príncipe Real"
+  ],
+  [
+   "055",
+   "Palácio Ribeiro da Cunha, Lisboa"
+  ],
+  [
+   "056",
+   "Reservatório da Patriarcal"
+  ],
+  [
+   "057",
+   "Jardim Botânico de Lisboa"
+  ],
+  [
+   "058",
+   "Rua da Bica de Duarte Belo, Lisboa"
+  ],
+  [
+   "059",
+   "Convento dos Cardaes"
+  ],
+  [
+   "060",
+   "Pastelaria São Roque, Lisboa"
+  ],
+  [
+   "061",
+   "Rua da Rosa, Lisboa"
+  ],
+  [
+   "062",
+   "Pavilhão Chinês, Lisboa"
+  ],
+  [
+   "063",
+   "Park Bar, Calçada do Combro, Lisboa"
+  ],
+  [
+   "064",
+   "Museu da Farmácia, Lisboa"
+  ],
+  [
+   "065",
+   "Rua Dom Pedro V, Lisboa"
+  ],
+  [
+   "066",
+   "Igreja de Santa Catarina, Lisboa"
+  ],
+  [
+   "067",
+   "Largo do Calhariz, Lisboa"
+  ],
+  [
+   "068",
+   "Cervejaria Trindade, Lisboa"
+  ],
+  [
+   "069",
+   "Jardim do Torel, Lisboa"
+  ],
+  [
+   "070",
+   "Avenida da Liberdade, Lisboa"
+  ],
+  [
+   "071",
+   "Praça Marquês de Pombal, Lisboa"
+  ],
+  [
+   "072",
+   "Estufa Fria, Lisboa"
+  ],
+  [
+   "073",
+   "Museu Calouste Gulbenkian"
+  ],
+  [
+   "074",
+   "Sinagoga Shaaré Tikvá"
+  ],
+  [
+   "075",
+   "Casa Fernando Pessoa"
+  ],
+  [
+   "076",
+   "Cervejaria Ramiro, Lisboa"
+  ],
+  [
+   "077",
+   "Jardim Zoológico de Lisboa"
+  ],
+  [
+   "078",
+   "El Corte Inglés, Lisboa"
+  ],
+  [
+   "079",
+   "Praça Duque de Saldanha, Lisboa"
+  ],
+  [
+   "080",
+   "Campo Pequeno"
+  ],
+  [
+   "081",
+   "Museu Nacional de História Natural e da Ciência, Lisboa"
+  ],
+  [
+   "082",
+   "Casa-Museu Medeiros e Almeida"
+  ],
+  [
+   "083",
+   "Museu Bordalo Pinheiro"
+  ],
+  [
+   "084",
+   "Aqueduto das Águas Livres"
+  ],
+  [
+   "085",
+   "Mãe d'Água das Amoreiras"
+  ],
+  [
+   "086",
+   "Amoreiras Shopping Center"
+  ],
+  [
+   "087",
+   "Pastelaria Versailles, Lisboa"
+  ],
+  [
+   "088",
+   "Hot Clube de Portugal"
+  ],
+  [
+   "089",
+   "Chabad Lisboa"
+  ],
+  [
+   "090",
+   "Rua Alexandre Herculano 59, Lisboa"
+  ],
+  [
+   "091",
+   "Sinagoga Ohel Jacob, Lisboa"
+  ],
+  [
+   "092",
+   "Mosteiro dos Jerónimos"
+  ],
+  [
+   "093",
+   "Torre de Belém"
+  ],
+  [
+   "094",
+   "Padrão dos Descobrimentos"
+  ],
+  [
+   "095",
+   "Pastéis de Belém"
+  ],
+  [
+   "096",
+   "MAAT, Lisboa"
+  ],
+  [
+   "097",
+   "Museu Nacional dos Coches"
+  ],
+  [
+   "098",
+   "Museu Coleção Berardo"
+  ],
+  [
+   "099",
+   "Centro Cultural de Belém"
+  ],
+  [
+   "100",
+   "Praça do Império, Lisboa"
+  ],
+  [
+   "101",
+   "Museu Nacional de Arqueologia, Lisboa"
+  ],
+  [
+   "102",
+   "Museu de Marinha, Lisboa"
+  ],
+  [
+   "103",
+   "Planetário Calouste Gulbenkian"
+  ],
+  [
+   "104",
+   "Palácio Nacional da Ajuda"
+  ],
+  [
+   "105",
+   "Jardim Botânico da Ajuda"
+  ],
+  [
+   "106",
+   "Jardim Botânico Tropical, Lisboa"
+  ],
+  [
+   "107",
+   "Museu da Presidência da República"
+  ],
+  [
+   "108",
+   "LX Factory"
+  ],
+  [
+   "109",
+   "Forte do Bom Sucesso, Lisboa"
+  ],
+  [
+   "110",
+   "Praça Afonso de Albuquerque, Lisboa"
+  ],
+  [
+   "111",
+   "Pilar 7, Lisboa"
+  ],
+  [
+   "112",
+   "Ponte 25 de Abril"
+  ],
+  [
+   "113",
+   "Doca de Belém"
+  ],
+  [
+   "114",
+   "Museu de Arte Popular, Lisboa"
+  ],
+  [
+   "115",
+   "Monumento aos Combatentes do Ultramar, Lisboa"
+  ],
+  [
+   "116",
+   "Basílica da Estrela"
+  ],
+  [
+   "117",
+   "Jardim da Estrela"
+  ],
+  [
+   "118",
+   "Museu Nacional de Arte Antiga"
+  ],
+  [
+   "119",
+   "Mercado de Campo de Ourique"
+  ],
+  [
+   "120",
+   "Cemitério dos Prazeres"
+  ],
+  [
+   "121",
+   "Rua de São Domingos à Lapa, Lisboa"
+  ],
+  [
+   "122",
+   "Rua da Madragoa, Lisboa"
+  ],
+  [
+   "123",
+   "Museu da Marioneta, Lisboa"
+  ],
+  [
+   "124",
+   "Museu do Oriente"
+  ],
+  [
+   "125",
+   "Doca de Santo Amaro"
+  ],
+  [
+   "126",
+   "Village Underground Lisboa"
+  ],
+  [
+   "127",
+   "Miradouro do Monte Agudo"
+  ],
+  [
+   "128",
+   "Palácio das Necessidades"
+  ],
+  [
+   "129",
+   "Igreja de Santos-o-Velho"
+  ],
+  [
+   "130",
+   "Rua das Janelas Verdes, Lisboa"
+  ],
+  [
+   "131",
+   "Jardim da Parada, Lisboa"
+  ],
+  [
+   "132",
+   "Rua Ferreira Borges, Lisboa"
+  ],
+  [
+   "133",
+   "Casa-Museu Amália Rodrigues"
+  ],
+  [
+   "134",
+   "Palácio de São Bento"
+  ],
+  [
+   "135",
+   "Rua de São Bento, Lisboa"
+  ],
+  [
+   "136",
+   "Oceanário de Lisboa"
+  ],
+  [
+   "137",
+   "Gare do Oriente"
+  ],
+  [
+   "138",
+   "Telecabine Lisboa"
+  ],
+  [
+   "139",
+   "Torre Vasco da Gama"
+  ],
+  [
+   "140",
+   "Pavilhão do Conhecimento"
+  ],
+  [
+   "141",
+   "Pavilhão de Portugal, Lisboa"
+  ],
+  [
+   "142",
+   "Ponte Vasco da Gama"
+  ],
+  [
+   "143",
+   "Centro Vasco da Gama"
+  ],
+  [
+   "144",
+   "Casino Lisboa"
+  ],
+  [
+   "145",
+   "Jardins Garcia de Orta, Lisboa"
+  ],
+  [
+   "146",
+   "Altice Arena"
+  ],
+  [
+   "147",
+   "Jardins da Água, Lisboa"
+  ],
+  [
+   "148",
+   "Mosteiro de São Vicente de Fora"
+  ],
+  [
+   "149",
+   "Panteão Nacional"
+  ],
+  [
+   "150",
+   "Miradouro da Senhora do Monte"
+  ],
+  [
+   "151",
+   "Igreja da Graça, Lisboa"
+  ],
+  [
+   "152",
+   "Vila Berta, Lisboa"
+  ],
+  [
+   "153",
+   "Museu Militar de Lisboa"
+  ],
+  [
+   "154",
+   "Estação de Santa Apolónia"
+  ],
+  [
+   "155",
+   "Museu Nacional do Azulejo"
+  ],
+  [
+   "156",
+   "Miradouro da Penha de França"
+  ],
+  [
+   "157",
+   "Rua do Açúcar, Lisboa"
+  ],
+  [
+   "158",
+   "Fábrica Braço de Prata"
+  ],
+  [
+   "159",
+   "Hub Criativo do Beato"
+  ],
+  [
+   "160",
+   "Miradouro do Monte Agudo"
+  ],
+  [
+   "161",
+   "Mercado de Santa Clara, Lisboa"
+  ],
+  [
+   "162",
+   "Largo da Graça, Lisboa"
+  ],
+  [
+   "163",
+   "Palácio Pimenta, Lisboa"
+  ],
+  [
+   "164",
+   "Jardim do Campo Grande"
+  ],
+  [
+   "165",
+   "Estádio da Luz"
+  ],
+  [
+   "166",
+   "Estádio José Alvalade"
+  ],
+  [
+   "167",
+   "Avenida da Igreja, Lisboa"
+  ],
+  [
+   "168",
+   "Centro Colombo"
+  ],
+  [
+   "169",
+   "Panorâmico de Monsanto"
+  ],
+  [
+   "170",
+   "Quinta Pedagógica dos Olivais"
+  ],
+  [
+   "171",
+   "Museu do Aljube"
+  ],
+  [
+   "172",
+   "Igreja de Nossa Senhora de Fátima, Lisboa"
+  ],
+  [
+   "173",
+   "Mercado de Alvalade Norte"
+  ],
+  [
+   "174",
+   "Quinta das Conchas, Lisboa"
+  ],
+  [
+   "175",
+   "Museu Nacional do Teatro e da Dança"
+  ],
+  [
+   "176",
+   "Museu Nacional do Traje"
+  ],
+  [
+   "177",
+   "Santuário de Cristo Rei, Almada"
+  ],
+  [
+   "178",
+   "Cacilhas"
+  ],
+  [
+   "179",
+   "Elevador Panorâmico da Boca do Vento"
+  ],
+  [
+   "180",
+   "Praia da Costa da Caparica"
+  ],
+  [
+   "181",
+   "Praia de Carcavelos"
+  ],
+  [
+   "182",
+   "Passeio Marítimo de Oeiras"
+  ],
+  [
+   "183",
+   "Algés"
+  ],
+  [
+   "184",
+   "Freeport Lisboa Fashion Outlet"
+  ],
+  [
+   "185",
+   "Estádio Nacional, Jamor"
+  ],
+  [
+   "186",
+   "Palácio Nacional de Queluz"
+  ],
+  [
+   "187",
+   "Igreja da Conceição Velha, Lisboa"
+  ],
+  [
+   "188",
+   "Moinhos de Santana, Lisboa"
+  ],
+  [
+   "189",
+   "Palácio Nacional da Pena"
+  ],
+  [
+   "190",
+   "Quinta da Regaleira"
+  ],
+  [
+   "191",
+   "Castelo dos Mouros, Sintra"
+  ],
+  [
+   "192",
+   "Palácio Nacional de Sintra"
+  ],
+  [
+   "193",
+   "Palácio de Monserrate"
+  ],
+  [
+   "194",
+   "Piriquita, Sintra"
+  ],
+  [
+   "195",
+   "Cabo da Roca"
+  ],
+  [
+   "196",
+   "Cascais"
+  ],
+  [
+   "197",
+   "Casino Estoril"
+  ],
+  [
+   "198",
+   "Boca do Inferno, Cascais"
+  ],
+  [
+   "199",
+   "Praia do Guincho"
+  ],
+  [
+   "200",
+   "Palácio Nacional de Mafra"
+  ],
+  [
+   "201",
+   "Ericeira"
+  ],
+  [
+   "202",
+   "Óbidos"
+  ],
+  [
+   "203",
+   "Templo Romano de Évora"
+  ],
+  [
+   "204",
+   "Santuário de Fátima"
+  ],
+  [
+   "205",
+   "Nazaré"
+  ],
+  [
+   "206",
+   "Convento de Cristo, Tomar"
+  ],
+  [
+   "207",
+   "Sinagoga de Tomar"
+  ],
+  [
+   "208",
+   "Setúbal"
+  ],
+  [
+   "209",
+   "Sesimbra"
+  ],
+  [
+   "210",
+   "Azenhas do Mar"
+  ],
+  [
+   "211",
+   "Mosteiro da Batalha"
+  ],
+  [
+   "212",
+   "Mosteiro de Alcobaça"
+  ],
+  [
+   "213",
+   "Castelo de Vide"
+  ],
+  [
+   "214",
+   "Museu do Dinheiro, Lisboa"
+  ],
+  [
+   "215",
+   "Câmara Municipal de Lisboa"
+  ],
+  [
+   "216",
+   "Quake Lisbon Earthquake Centre"
+  ],
+  [
+   "217",
+   "Manteigaria, Largo de Camões, Lisboa"
+  ],
+  [
+   "218",
+   "Casa Portuguesa do Pastel de Bacalhau, Rua Augusta, Lisboa"
+  ],
+  [
+   "219",
+   "Conserveira de Lisboa"
+  ],
+  [
+   "220",
+   "Museu de Artes Decorativas Portuguesas"
+  ],
+  [
+   "221",
+   "Luvaria Ulisses"
+  ],
+  [
+   "222",
+   "Igreja da Madalena, Lisboa"
+  ],
+  [
+   "223",
+   "Miradouro de Santo Estêvão"
+  ],
+  [
+   "224",
+   "Chafariz d'El Rei, Lisboa"
+  ],
+  [
+   "225",
+   "Igreja de São Miguel, Lisboa"
+  ],
+  [
+   "226",
+   "Mesa de Frades, Lisboa"
+  ],
+  [
+   "227",
+   "Tasca do Chico, Rua do Diário de Notícias, Lisboa"
+  ],
+  [
+   "228",
+   "Culturgest"
+  ],
+  [
+   "229",
+   "Fundação Arpad Szenes-Vieira da Silva"
+  ],
+  [
+   "230",
+   "Jardim das Amoreiras"
+  ],
+  [
+   "231",
+   "Casa-Museu Dr. Anastácio Gonçalves"
+  ],
+  [
+   "232",
+   "Pavilhão Carlos Lopes"
+  ],
+  [
+   "233",
+   "Jardim Amália Rodrigues, Lisboa"
+  ],
+  [
+   "234",
+   "KidZania Lisboa"
+  ],
+  [
+   "235",
+   "Museu Nacional de Etnologia"
+  ],
+  [
+   "236",
+   "Museu do Tesouro Real"
+  ],
+  [
+   "237",
+   "Aquário Vasco da Gama"
+  ],
+  [
+   "238",
+   "Igreja da Memória, Lisboa"
+  ],
+  [
+   "239",
+   "Museu da Carris"
+  ],
+  [
+   "240",
+   "Pensão Amor, Lisboa"
+  ],
+  [
+   "241",
+   "Lux Frágil"
+  ],
+  [
+   "242",
+   "Underdogs Gallery"
+  ],
+  [
+   "243",
+   "Tapada das Necessidades"
+  ],
+  [
+   "244",
+   "Jardim da Cerca da Graça"
+  ],
+  [
+   "245",
+   "Galerias Romanas da Rua da Prata"
+  ],
+  [
+   "246",
+   "Centro de Arte Moderna Gulbenkian"
+  ],
+  [
+   "247",
+   "Palácio Marquês de Pombal, Oeiras"
+  ],
+  [
+   "248",
+   "Piscina Oceânica de Oeiras"
+  ],
+  [
+   "249",
+   "Tapada Nacional de Mafra"
+  ],
+  [
+   "250",
+   "Casa das Histórias Paula Rego"
+  ],
+  [
+   "251",
+   "Palácio de Seteais"
+  ]
+ ]
+}

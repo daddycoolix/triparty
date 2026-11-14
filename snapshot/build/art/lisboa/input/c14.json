@@ -1,0 +1,844 @@
+[
+ {
+  "k": "n2441537828",
+  "name": "Lisboa - Aos Construtores da Cidade",
+  "la": 38.743516,
+  "ln": -9.098812,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "José de Guimarães",
+   "artwork_subject": "abstract",
+   "artwork_type": "sculpture",
+   "description": "Escultura alegórica denominada \"Lisboa\", tratada como uma figura feminina reclinada, voltada para o Tejo.",
+   "historic": "memorial",
+   "material": "limestone;plastic;reinforced_concrete;stone",
+   "memorial": "sculpture",
+   "name": "Lisboa - Aos Construtores da Cidade",
+   "start_date": "1999",
+   "tourism": "artwork",
+   "website": "http://www.cm-lisboa.pt/equipamentos/equipamento/info/lisboa-aos-construtores-da-cidade",
+   "wikidata": "Q134714221"
+  },
+  "wikidata": {
+   "id": "Q134714221",
+   "he": "",
+   "en": "",
+   "pt": "Monumento aos Construtores da Cidade",
+   "desc": "monumento em Lisboa",
+   "wikipedia_in": [
+    "co"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "near_existing_card": null,
+  "nearest_guide_site": "פבריקה בראסו דה פראטה (202 מ')"
+ },
+ {
+  "k": "n7598383290",
+  "name": "Mônica",
+  "la": 38.755685,
+  "ln": -9.225918,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "artwork_type": "statue",
+   "name": "Mônica",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 1,
+  "w": 0,
+  "near_existing_card": null,
+  "GROUP": {
+   "card_name": "Estátuas da Turma da Mônica (Parque dos Moinhos / Carnide)",
+   "other_members": [
+    {
+     "k": "n7598383291",
+     "name": "Magali",
+     "artist": "",
+     "year": "",
+     "wd": ""
+    },
+    {
+     "k": "n7598383292",
+     "name": "Cebolinha",
+     "artist": "",
+     "year": "",
+     "wd": ""
+    },
+    {
+     "k": "n7598383293",
+     "name": "Zé Lelé",
+     "artist": "",
+     "year": "",
+     "wd": ""
+    },
+    {
+     "k": "n7598383294",
+     "name": "Chico Bento",
+     "artist": "",
+     "year": "",
+     "wd": ""
+    },
+    {
+     "k": "n7598383295",
+     "name": "Bidu",
+     "artist": "",
+     "year": "",
+     "wd": ""
+    },
+    {
+     "k": "n7598383296",
+     "name": "Astronauta Pereira",
+     "artist": "",
+     "year": "",
+     "wd": ""
+    },
+    {
+     "k": "n7598383297",
+     "name": "Jotalhão",
+     "artist": "",
+     "year": "",
+     "wd": ""
+    },
+    {
+     "k": "n7598383298",
+     "name": "Horácio",
+     "artist": "",
+     "year": "",
+     "wd": ""
+    },
+    {
+     "k": "n7598383299",
+     "name": "Cascão",
+     "artist": "",
+     "year": "",
+     "wd": ""
+    },
+    {
+     "k": "n7598383300",
+     "name": "Piteco",
+     "artist": "",
+     "year": "",
+     "wd": ""
+    }
+   ]
+  },
+  "nearest_guide_site": "קידזניה ליסבון (425 מ')"
+ },
+ {
+  "k": "n11047376034",
+  "name": "The Pig",
+  "la": 38.770523,
+  "ln": -9.191297,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Bordalo II",
+   "artwork_subject": "street_art",
+   "artwork_type": "installation",
+   "name": "The Pig",
+   "tourism": "artwork",
+   "wikidata": "Q121306198"
+  },
+  "wikidata": {
+   "id": "Q121306198",
+   "he": "",
+   "en": "Pig",
+   "pt": "Porco",
+   "desc": "Installation by Bordalo II",
+   "wikipedia_in": [
+    "co"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "near_existing_card": null,
+  "nearest_guide_site": "קניון קולומבו (1903 מ')"
+ },
+ {
+  "k": "n5457851271",
+  "name": "A Banhista",
+  "la": 38.725418,
+  "ln": -9.204435,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "artwork_type": "statue",
+   "description": "Escultura de um nu feminino modelada em bronze, assente sobre uma base paralelepipédica de betão armado forrado a lioz.",
+   "material": "bronze;limestone;reinforced_concrete",
+   "name": "A Banhista",
+   "tourism": "artwork",
+   "website": "http://www.cm-lisboa.pt/equipamentos/equipamento/info/a-banhista"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "near_existing_card": null,
+  "nearest_guide_site": "תצפית טחנות הרוח של סנטנה (561 מ')"
+ },
+ {
+  "k": "n3903404679",
+  "name": "Ao Colégio Militar",
+  "la": 38.760655,
+  "ln": -9.183728,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "description": "Trata-se de um monumento alegórico erigido por iniciativa de antigos alunos do Colégio Militar.",
+   "historic": "memorial",
+   "material": "bronze;limestone;plastic",
+   "memorial": "sculpture",
+   "name": "Ao Colégio Militar"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "near_existing_card": null,
+  "nearest_guide_site": "אצטדיון הלוז ומוזיאון בנפיקה (886 מ')"
+ },
+ {
+  "k": "n3811130782",
+  "name": "Aos Pioneiros da Aviação",
+  "la": 38.739465,
+  "ln": -9.214295,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "artwork_type": "sculpture",
+   "historic": "memorial",
+   "material": "metal",
+   "memorial": "sculpture",
+   "name": "Aos Pioneiros da Aviação",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "near_existing_card": null,
+  "nearest_guide_site": "תצפית טחנות הרוח של סנטנה (2214 מ')"
+ },
+ {
+  "k": "n5457844739",
+  "name": "Artur Portela",
+  "la": 38.752208,
+  "ln": -9.199544,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Leopoldo de Almeida",
+   "artwork_subject": "figurative",
+   "description": "Artur Portela (1901-1959), escritor e jornalista da primeira metade do séc. XX, colaborou em vários jornais e revistas.",
+   "historic": "memorial",
+   "material": "bronze;stone",
+   "memorial": "bust",
+   "name": "Artur Portela",
+   "start_date": "1960",
+   "website": "http://www.cm-lisboa.pt/equipamentos/equipamento/info/artur-portela"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "near_existing_card": null,
+  "nearest_guide_site": "קניון קולומבו (927 מ')"
+ },
+ {
+  "k": "n5457851372",
+  "name": "Carlos Seixas",
+  "la": 38.760568,
+  "ln": -9.192518,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "description": "Peça em pedra assente sobre base quadrangular, também de pedra, executada, em 1972, pelo escultor Euclides Vaz e inaugurada, por iniciativa camarária, em 30 de Janeiro de 2002, no Pátio da Casa do Artista.",
+   "historic": "memorial",
+   "material": "stone",
+   "memorial": "statue",
+   "name": "Carlos Seixas"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "near_existing_card": null,
+  "nearest_guide_site": "קניון קולומבו (852 מ')"
+ },
+ {
+  "k": "n5949319868",
+  "name": "Casal",
+  "la": 38.775017,
+  "ln": -9.229817,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "João Limpinho",
+   "artwork_type": "sculpture",
+   "material": "metal",
+   "name": "Casal",
+   "start_date": "1991",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "near_existing_card": null,
+  "nearest_guide_site": "קידזניה ליסבון (1888 מ')"
+ },
+ {
+  "k": "n3903400146",
+  "name": "Cidade Imaginária",
+  "la": 38.764293,
+  "ln": -9.18133,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Charters de Almeida",
+   "artwork_subject": "abstract",
+   "artwork_type": "sculpture",
+   "description": "Peça em ferro pintado de vermelho, da autoria de Charters de Almeida, mandada executar por iniciativa da EPUL e inaugurada, em 7 de Abril de 2001, na Praça S. Francisco de Assis, em Telheiras.",
+   "material": "steel",
+   "name": "Cidade Imaginária",
+   "start_date": "2001",
+   "tourism": "artwork",
+   "website": "http://www.cm-lisboa.pt/equipamentos/equipamento/info/cidade-imaginaria"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "near_existing_card": null,
+  "nearest_guide_site": "אצטדיון הלוז ומוזיאון בנפיקה (1316 מ')"
+ },
+ {
+  "k": "n8145834305",
+  "name": "Dom António Francisco Marques",
+  "la": 38.769547,
+  "ln": -9.189369,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "historic": "memorial",
+   "inscription": "D. António Francisco Marques//Nasceu a 15.06.1927 . Faleceu a 28.08.1997//Pároco de Carnide e arredores de 1953-1972.",
+   "memorial": "bust",
+   "name": "Dom António Francisco Marques"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "near_existing_card": null,
+  "nearest_guide_site": "קניון קולומבו (1782 מ')"
+ },
+ {
+  "k": "n5457844752",
+  "name": "Fidelidade",
+  "la": 38.745696,
+  "ln": -9.198061,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Júlio Vaz Júnior",
+   "artwork_type": "statue",
+   "description": "Peça de bronze assente sobre base em pedra, de tamanho superior ao natural, que representa uma menina e um cão, evocando uma relação de fidelidade.",
+   "material": "bronze;stone",
+   "name": "Fidelidade",
+   "start_date": "1956",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "near_existing_card": null,
+  "nearest_guide_site": "קניון קולומבו (1174 מ')"
+ },
+ {
+  "k": "n5457844768",
+  "name": "Fortíssimos consórcios eu desejo",
+  "la": 38.752557,
+  "ln": -9.196612,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "artwork_type": "sculpture",
+   "description": "Luís Vieira Baptista, Júlio Quaresma e Velhô, (Grupo Visionista), executaram esta peça no âmbito da 1ª Exposição Visionista de Artes Plásticas realizada no Convento das Bernardas, em 1991, tendo por base a obra épica de \"Os Lusíadas\".",
+   "material": "iron;marble;metal;plastic;stone",
+   "name": "Fortíssimos consórcios eu desejo",
+   "tourism": "artwork",
+   "website": "http://www.cm-lisboa.pt/equipamentos/equipamento/info/fortissimos-consorcios-eu-desejo"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "near_existing_card": null,
+  "nearest_guide_site": "קניון קולומבו (681 מ')"
+ },
+ {
+  "k": "n10207248917",
+  "name": "General Joaquim José Machado",
+  "la": 38.746667,
+  "ln": -9.186635,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Costa Mota",
+   "artwork_type": "bust",
+   "name": "General Joaquim José Machado",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "near_existing_card": null,
+  "nearest_guide_site": "אצטדיון הלוז ומוזיאון בנפיקה (688 מ')"
+ },
+ {
+  "k": "n5949319867",
+  "name": "Genesis",
+  "la": 38.774821,
+  "ln": -9.229846,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Laranjeira Santos",
+   "artwork_type": "sculpture",
+   "material": "steel",
+   "name": "Genesis",
+   "start_date": "1991",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "near_existing_card": null,
+  "nearest_guide_site": "קידזניה ליסבון (1867 מ')"
+ },
+ {
+  "k": "n5457844810",
+  "name": "Homenagem a Madalena Iglésias",
+  "la": 38.749237,
+  "ln": -9.201957,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "description": "Homenagem a Madalena Iglésias consiste num busto em bronze da cantora sobre plinto em pedra lioz.",
+   "historic": "memorial",
+   "material": "bronze;limestone;stone",
+   "memorial": "bust",
+   "name": "Homenagem a Madalena Iglésias",
+   "website": "http://www.cm-lisboa.pt/equipamentos/equipamento/info/homenagem-a-madalena-iglesias"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "near_existing_card": null,
+  "nearest_guide_site": "קניון קולומבו (1213 מ')"
+ },
+ {
+  "k": "n1564056194",
+  "name": "Ilha dos Amores do Parque Luís de Camões",
+  "la": 38.765656,
+  "ln": -9.214033,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "amenity": "fountain",
+   "name": "Ilha dos Amores do Parque Luís de Camões"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "near_existing_card": null,
+  "nearest_guide_site": "קידזניה ליסבון (1574 מ')"
+ },
+ {
+  "k": "n5457851384",
+  "name": "José Artigas",
+  "la": 38.753423,
+  "ln": -9.195993,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Juan Luis Blanes",
+   "artwork_subject": "figurative",
+   "description": "José Artigas (1774-1850), revolucionário sul-americano, ficou conhecido como o pai e herói da independência do Uruguai, conseguida no início do séc. XIX.",
+   "historic": "memorial",
+   "material": "bronze;granite",
+   "memorial": "bust",
+   "name": "José Artigas",
+   "start_date": "1998",
+   "website": "http://www.cm-lisboa.pt/equipamentos/equipamento/info/jose-artigas"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "near_existing_card": null,
+  "nearest_guide_site": "קניון קולומבו (621 מ')"
+ },
+ {
+  "k": "w599420089",
+  "name": "Maria José Nogueira Pinto",
+  "la": 38.742685,
+  "ln": -9.097831,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Rui Sanches",
+   "building": "yes",
+   "description": "Monumento de homenagem a Maria José Nogueira Pinto (1952-2011).",
+   "historic": "memorial",
+   "material": "stone;iron",
+   "memorial": "sculpture;plaque",
+   "name": "Maria José Nogueira Pinto",
+   "website": "http://www.cm-lisboa.pt/equipamentos/equipamento/info/monumento-a-maria-jose-nogueira-pinto"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "near_existing_card": null,
+  "nearest_guide_site": "פבריקה בראסו דה פראטה (307 מ')"
+ },
+ {
+  "k": "n8199379530",
+  "name": "Monumento ao Bombeiro",
+  "la": 38.7607,
+  "ln": -9.229803,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "artwork_type": "sculpture",
+   "historic": "memorial",
+   "inscription": "Fazer o bem sem olhar a quem",
+   "memorial": "sculpture",
+   "name": "Monumento ao Bombeiro",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "near_existing_card": null,
+  "nearest_guide_site": "קידזניה ליסבון (300 מ')"
+ },
+ {
+  "k": "n5457851282",
+  "name": "Mãe e Filho",
+  "la": 38.719427,
+  "ln": -9.186428,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Author unknown",
+   "artwork_subject": "figurative",
+   "artwork_type": "statue",
+   "description": "Peça figurativa que evoca a relação maternal, onde as figuras da mãe e do filho, executadas em bronze, assentam sobre uma base de pedra. Esta obra, da autoria de João Farinha, foi inaugurada, em 1964, no Parque Infantil do Alvito.",
+   "material": "bronze;stone",
+   "name": "Mãe e Filho",
+   "start_date": "unknown",
+   "tourism": "artwork",
+   "website": "http://www.cm-lisboa.pt/equipamentos/equipamento/info/mae-e-filho"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "near_existing_card": null,
+  "nearest_guide_site": "יער מונסנטו ופנורמיקו (1033 מ')"
+ },
+ {
+  "k": "n5457851376",
+  "name": "Padre Francisco da Cruz",
+  "la": 38.769202,
+  "ln": -9.1893,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "alt_name": "Padre Cruz",
+   "artist_name": "Joaquim Martins Correia",
+   "artwork_subject": "figurative",
+   "description": "Padre Francisco da Cruz (1859-1948), sacerdote do Patriarcado de Lisboa e depois da Companhia de Jesus, foi na sua época um dos homens mais venerados em Portugal, em virtude do seu espírito generoso e da sua obra meritória.",
+   "historic": "memorial",
+   "inscription": "Pª. Francisco da Cruz//1859-1948",
+   "material": "stone",
+   "memorial": "bust",
+   "name": "Padre Francisco da Cruz",
+   "start_date": "1967",
+   "website": "http://www.cm-lisboa.pt/equipamentos/equipamento/info/padre-francisco-da-cruz"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "near_existing_card": null,
+  "nearest_guide_site": "קניון קולומבו (1744 מ')"
+ },
+ {
+  "k": "n5457851310",
+  "name": "Padre Álvaro Proença",
+  "la": 38.751266,
+  "ln": -9.202194,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "António Duarte",
+   "artwork_subject": "figurative",
+   "description": "Em memória do Padre Álvaro Proença (1912-1983), Prior de Benfica desde 1955, foi erigido um busto de bronze, assente sobre coluna e base de mármore preto polido, modelado pelo escultor António Duarte em 1984.",
+   "historic": "memorial",
+   "material": "bronze;marble",
+   "memorial": "bust",
+   "name": "Padre Álvaro Proença",
+   "start_date": "1984",
+   "website": "http://www.cm-lisboa.pt/equipamentos/equipamento/info/padre-alvaro-proenca"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "near_existing_card": null,
+  "nearest_guide_site": "קניון קולומבו (1163 מ')"
+ },
+ {
+  "k": "n10544269137",
+  "name": "Rainha Santa Isabel",
+  "la": 38.791062,
+  "ln": -9.1818,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "artwork_type": "statue",
+   "historic": "memorial",
+   "name": "Rainha Santa Isabel",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "near_existing_card": null,
+  "nearest_guide_site": "המוזיאון הלאומי לתיאטרון ולמחול (2092 מ')"
+ },
+ {
+  "k": "n5457851227",
+  "name": "Rei Eusébio",
+  "la": 38.752989,
+  "ln": -9.183375,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Duker Bower",
+   "artwork_subject": "figurative",
+   "description": "Eusébio da Silva Ferreira, ou somente Eusébio, considerado o maior jogador de todos os tempos do futebol português, ficou conhecido como o \"Pantera Negra\".",
+   "historic": "memorial",
+   "material": "bronze",
+   "memorial": "statue",
+   "name": "Rei Eusébio",
+   "start_date": "1992",
+   "subject:wikidata": "Q58416406",
+   "website": "http://www.cm-lisboa.pt/equipamentos/equipamento/info/eusebio"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "near_existing_card": null,
+  "nearest_guide_site": "אצטדיון הלוז ומוזיאון בנפיקה (114 מ')"
+ },
+ {
+  "k": "n5949348845",
+  "name": "Ritmos Espaciais",
+  "la": 38.773413,
+  "ln": -9.229819,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Luz Correia",
+   "artwork_type": "sculpture",
+   "material": "steel",
+   "name": "Ritmos Espaciais",
+   "start_date": "1991",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "near_existing_card": null,
+  "nearest_guide_site": "קידזניה ליסבון (1710 מ')"
+ },
+ {
+  "k": "n11366379232",
+  "name": "Santa Madre Teresa",
+  "la": 38.743956,
+  "ln": -9.097904,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "artwork_type": "statue",
+   "name": "Santa Madre Teresa",
+   "start_date": "2023-11-15",
+   "subject:wikipedia": "Q30547",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "near_existing_card": null,
+  "nearest_guide_site": "פבריקה בראסו דה פראטה (275 מ')"
+ },
+ {
+  "k": "n5457851335",
+  "name": "Se vão da lei da morte libertando",
+  "la": 38.749642,
+  "ln": -9.179971,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Luís Vieira Baptista;Júlio Quaresma;Velhô",
+   "artwork_subject": "Abstracto",
+   "artwork_type": "sculpture",
+   "description": "Luís Vieira Baptista, Júlio Quaresma e Velhô, (Grupo Visionista), executaram esta peça no âmbito da 1ª Exposição Visionista de Artes Plásticas realizada no Convento das Bernardas, em 1991, tendo por base a obra épica de Os Lusíadas.",
+   "material": "iron;marble;metal;plastic;stone",
+   "name": "Se vão da lei da morte libertando",
+   "start_date": "1991",
+   "tourism": "artwork",
+   "website": "http://www.cm-lisboa.pt/equipamentos/equipamento/info/se-vao-da-lei-da-morte-libertando"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "near_existing_card": null,
+  "nearest_guide_site": "אצטדיון הלוז ומוזיאון בנפיקה (518 מ')"
+ },
+ {
+  "k": "n5457844743",
+  "name": "Silva Porto",
+  "la": 38.74902,
+  "ln": -9.203692,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "description": "Silva Porto (1850-1893), de seu nome original António Carvalho da Silva, veio a adoptar o apelido Porto em homenagem à sua cidade natal. Destacou-se como um pintor de grande sensibilidade artística e raro sentido estético.",
+   "historic": "memorial",
+   "material": "bronze;stone",
+   "memorial": "bust;inscription",
+   "name": "Silva Porto"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "near_existing_card": null,
+  "nearest_guide_site": "קניון קולומבו (1355 מ')"
+ },
+ {
+  "k": "n10198537305",
+  "name": "Teófilo Braga",
+  "la": 38.760416,
+  "ln": -9.204192,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "artwork_type": "statue",
+   "name": "Teófilo Braga",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "near_existing_card": null,
+  "nearest_guide_site": "קניון קולומבו (1511 מ')"
+ },
+ {
+  "k": "n5949348849",
+  "name": "Univer's",
+  "la": 38.774318,
+  "ln": -9.229863,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Gabriela Couto e Vasco Costa",
+   "artwork_type": "sculpture",
+   "material": "steel",
+   "name": "Univer's",
+   "start_date": "1991",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "near_existing_card": null,
+  "nearest_guide_site": "קידזניה ליסבון (1811 מ')"
+ },
+ {
+  "k": "n5951166771",
+  "name": "Ventos e Outras Paragens",
+  "la": 38.772696,
+  "ln": -9.227834,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Rui Anahory",
+   "artwork_type": "sculpture",
+   "material": "steel",
+   "name": "Ventos e Outras Paragens",
+   "start_date": "1989",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "near_existing_card": null,
+  "nearest_guide_site": "קידזניה ליסבון (1641 מ')"
+ },
+ {
+  "k": "n5949372642",
+  "name": "Viagens",
+  "la": 38.773158,
+  "ln": -9.229865,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "António",
+   "artwork_type": "sculpture",
+   "material": "steel",
+   "name": "Viagens",
+   "start_date": "1991",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "near_existing_card": null,
+  "nearest_guide_site": "קידזניה ליסבון (1682 מ')"
+ },
+ {
+  "k": "n5949348844",
+  "name": "Viagens-Mar",
+  "la": 38.773184,
+  "ln": -9.229927,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Antónuio Trindade",
+   "artwork_type": "sculpture",
+   "material": "steel",
+   "name": "Viagens-Mar",
+   "start_date": "1991",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "near_existing_card": null,
+  "nearest_guide_site": "קידזניה ליסבון (1685 מ')"
+ },
+ {
+  "k": "n5951166773",
+  "name": "Ícaro",
+  "la": 38.772957,
+  "ln": -9.228099,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "artwork_type": "sculpture",
+   "material": "steel",
+   "name": "Ícaro",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "near_existing_card": null,
+  "nearest_guide_site": "קידזניה ליסבון (1667 מ')"
+ }
+]

@@ -1,0 +1,697 @@
+[
+ {
+  "k": "n1087174563",
+  "name": "Afonso de Albuquerque",
+  "la": 38.696646,
+  "ln": -9.200267,
+  "district": "בלם ואז'ודה",
+  "center": 0,
+  "osm_tags": {
+   "artwork_type": "statue",
+   "description": "Monumento erigido, por iniciativa do historiador Simão José da Luz Soriano, que legou fundos para esse efeito.",
+   "material": "bronze;stone",
+   "memorial": "statue",
+   "name": "Afonso de Albuquerque",
+   "name:de": "Afonso de Albuquerque",
+   "name:en": "Afonso de Albuquerque",
+   "tourism": "artwork",
+   "war_memorial": "yes",
+   "website": "http://www.cm-lisboa.pt/equipamentos/equipamento/info/afonso-de-albuquerque"
+  },
+  "wikidata": null,
+  "b": 1,
+  "w": 0,
+  "near_existing_card": null,
+  "nearest_guide_site": "רואה דה בלם ופראסה אפונסו דה אלבוקרקה (9 מ')"
+ },
+ {
+  "k": "n12369655761",
+  "name": "Brainless Figure in Stone",
+  "la": 38.696811,
+  "ln": -9.197988,
+  "district": "בלם ואז'ודה",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Ai Weiwei",
+   "artwork_type": "statue",
+   "name": "Brainless Figure in Stone",
+   "start_date": "2020",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 1,
+  "w": 0,
+  "near_existing_card": null,
+  "nearest_guide_site": "מוזיאון הכרכרות (5 מ')"
+ },
+ {
+  "k": "n12347180117",
+  "name": "Caridade Romana",
+  "la": 38.698704,
+  "ln": -9.2034,
+  "district": "בלם ואז'ודה",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q4893857",
+   "artist_name": "Bernardino Ludovisi",
+   "artwork_type": "statue",
+   "material": "stone",
+   "name": "Caridade Romana",
+   "name:en": "Roman Charity",
+   "name:es": "Caridad Romana",
+   "name:pt": "Caridade Romana",
+   "tourism": "artwork",
+   "wikidata": "Q100564961"
+  },
+  "wikidata": {
+   "id": "Q100564961",
+   "he": "",
+   "en": "Roman Charity",
+   "pt": "Caridade Romana",
+   "desc": "grupo escultórico em pedra de 1737 de Bernardino Ludovisi",
+   "wikipedia_in": [
+    "co"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "near_existing_card": null,
+  "nearest_guide_site": "פשטייש דה בלם (134 מ')"
+ },
+ {
+  "k": "n6216355914",
+  "name": "Cavalos Marinhos",
+  "la": 38.695364,
+  "ln": -9.206545,
+  "district": "בלם ואז'ודה",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "António Duarte",
+   "artwork_subject": "Alegorias",
+   "artwork_type": "sculpture",
+   "description": "Duas esculturas em mármore lioz, representando, cada uma delas, uma parelha de cavalos marinhos sobre uma base rectangular de pedra, foram executadas por António Duarte, entre 1940 e 1942, traduzindo um trabalho de grande estilização formal.",
+   "material": "limestone;marble;stone",
+   "name": "Cavalos Marinhos",
+   "start_date": "1940",
+   "tourism": "artwork",
+   "website": "http://www.cm-lisboa.pt/equipamentos/equipamento/info/cavalos-marinhos"
+  },
+  "wikidata": null,
+  "b": 1,
+  "w": 0,
+  "near_existing_card": null,
+  "GROUP": {
+   "card_name": "Cavalos Marinhos (António Duarte, 1940)",
+   "other_members": [
+    {
+     "k": "n6216355915",
+     "name": "Cavalo Marinho",
+     "artist": "António Duarte",
+     "year": "1940",
+     "wd": ""
+    }
+   ]
+  },
+  "nearest_guide_site": "גן פראסה דו אימפריו וטיילת בלם (83 מ')"
+ },
+ {
+  "k": "n12369675791",
+  "name": "Dice",
+  "la": 38.696981,
+  "ln": -9.198005,
+  "district": "בלם ואז'ודה",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Carsten Höller",
+   "artwork_type": "sculpture",
+   "material": "limestone",
+   "name": "Dice",
+   "start_date": "2019",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 1,
+  "w": 0,
+  "near_existing_card": null,
+  "nearest_guide_site": "מוזיאון הכרכרות (13 מ')"
+ },
+ {
+  "k": "w1144084349",
+  "name": "Esfera Armilar",
+  "la": 38.693688,
+  "ln": -9.205451,
+  "district": "בלם ואז'ודה",
+  "center": 0,
+  "osm_tags": {
+   "artwork_type": "sculpture",
+   "material": "metal",
+   "name": "Esfera Armilar",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 1,
+  "w": 0,
+  "near_existing_card": null,
+  "GROUP": {
+   "card_name": "Esferas Armilares (Belém)",
+   "other_members": [
+    {
+     "k": "w1144084350",
+     "name": "Esfera Armilar",
+     "artist": "",
+     "year": "",
+     "wd": ""
+    }
+   ]
+  },
+  "nearest_guide_site": "אנדרטת התגליות (22 מ')"
+ },
+ {
+  "k": "n11582270577",
+  "name": "Estátua do primeiro ocidental a pisar solo coreano",
+  "la": 38.697399,
+  "ln": -9.185169,
+  "district": "בלם ואז'ודה",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Vhils",
+   "artwork_type": "statue",
+   "material": "concrete",
+   "name": "Estátua do primeiro ocidental a pisar solo coreano",
+   "name:en": "Statue of the first Westerner to set foot on Korean soil",
+   "name:pt": "Estátua do primeiro ocidental a pisar solo coreano",
+   "start_date": "2022-10-15",
+   "tourism": "artwork",
+   "website": "https://lisboasecreta.co/vhils-nova-obra-lisboa/"
+  },
+  "wikidata": null,
+  "b": 1,
+  "w": 0,
+  "near_existing_card": null,
+  "nearest_guide_site": "פילאר 7, חוויית הגשר (564 מ')"
+ },
+ {
+  "k": "n5457844745",
+  "name": "Figura Feminina (com criança)",
+  "la": 38.69707,
+  "ln": -9.19993,
+  "district": "בלם ואז'ודה",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Salvador Barata Feyo;António Costa",
+   "artwork_subject": "figurative",
+   "artwork_type": "statue",
+   "description": "Fonte escultórica decorativa composta por uma estátua colocada num pedestal, inserida no lago nascente norte do Jardim Afonso de Albuquerque, a qual faz parte de um conjunto de quatro.",
+   "material": "stone",
+   "name": "Figura Feminina (com criança)",
+   "start_date": "1940",
+   "tourism": "artwork",
+   "website": "http://www.cm-lisboa.pt/equipamentos/equipamento/info/figura-feminina-com-crianca"
+  },
+  "wikidata": null,
+  "b": 1,
+  "w": 0,
+  "near_existing_card": null,
+  "GROUP": {
+   "card_name": "Figuras femininas da Praça do Império (1940)",
+   "other_members": [
+    {
+     "k": "n5457851291",
+     "name": "Figura Feminina (com cabra)",
+     "artist": "",
+     "year": "",
+     "wd": ""
+    },
+    {
+     "k": "n5457851292",
+     "name": "Figura Feminina (com cavalo marinho)",
+     "artist": "Salvador Barata Feyo;António Costa",
+     "year": "1940",
+     "wd": ""
+    },
+    {
+     "k": "n5457851322",
+     "name": "Figura Feminina (com cervo)",
+     "artist": "",
+     "year": "",
+     "wd": ""
+    }
+   ]
+  },
+  "nearest_guide_site": "רואה דה בלם ופראסה אפונסו דה אלבוקרקה (64 מ')"
+ },
+ {
+  "k": "n5457851385",
+  "name": "João Gonçalves Zarco",
+  "la": 38.705647,
+  "ln": -9.204137,
+  "district": "בלם ואז'ודה",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Augusto Cid",
+   "artwork_subject": "figurative",
+   "description": "João Gonçalves Zarco (séc. XIV-séc. XV), contemporâneo e discípulo do Infante D. Henrique, notabilizou-se na epopeia marítima portuguesa, principalmente por ter sido o responsável pela descoberta e registo das ilhas de Porto Santo, em 1418.",
+   "historic": "memorial",
+   "material": "bronze;stone",
+   "memorial": "statue",
+   "name": "João Gonçalves Zarco",
+   "start_date": "1994",
+   "website": "http://www.cm-lisboa.pt/equipamentos/equipamento/info/joao-goncalves-zarco"
+  },
+  "wikidata": null,
+  "b": 1,
+  "w": 0,
+  "near_existing_card": null,
+  "nearest_guide_site": "הגן הבוטני של אז'ודה (284 מ')"
+ },
+ {
+  "k": "n5457851377",
+  "name": "Mahatma Gandhi",
+  "la": 38.702714,
+  "ln": -9.217212,
+  "district": "בלם ואז'ודה",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q23073082",
+   "artist_name": "Gautam Pal",
+   "historic": "memorial",
+   "material": "bronze",
+   "memorial": "statue",
+   "name": "Mahatma Gandhi",
+   "start_date": "1998-09-12",
+   "subject:wikidata": "Q1001",
+   "subject:wikipedia": "pt:Mahatma Gandhi",
+   "website": "http://www.cm-lisboa.pt/equipamentos/equipamento/info/mahatma-gandhi"
+  },
+  "wikidata": null,
+  "b": 1,
+  "w": 0,
+  "near_existing_card": null,
+  "nearest_guide_site": "המוזיאון הלאומי לאתנולוגיה (761 מ')"
+ },
+ {
+  "k": "n5457844751",
+  "name": "Padrão-Memória do Chão Salgado",
+  "la": 38.697591,
+  "ln": -9.203835,
+  "district": "בלם ואז'ודה",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "unknown",
+   "artwork_subject": "abstract",
+   "description": "Padrão mandado erigir pelo Marquês de Pombal, no séc. XVIII (1759), em memória da condenação do duque de Aveiro e do marquês de Távora e sua família por alegada implicação no atentado contra D. José.",
+   "historic": "memorial",
+   "material": "stone",
+   "memorial": "inscription;stele",
+   "name": "Padrão-Memória do Chão Salgado",
+   "start_date": "1759",
+   "website": "http://www.cm-lisboa.pt/equipamentos/equipamento/info/padrao-memoria-do-chao-salgado",
+   "wikidata": "Q124216100"
+  },
+  "wikidata": {
+   "id": "Q124216100",
+   "he": "",
+   "en": "",
+   "pt": "Memória do Chão Salgado",
+   "desc": "",
+   "wikipedia_in": [
+    "co"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "near_existing_card": null,
+  "nearest_guide_site": "פשטייש דה בלם (53 מ')"
+ },
+ {
+  "k": "n578460077",
+  "name": "Primeira Travessia Aérea do Atlântico Sul",
+  "la": 38.692212,
+  "ln": -9.213938,
+  "district": "בלם ואז'ודה",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Domingos Soares Branco",
+   "artwork_subject": "figurative",
+   "description": "Réplica do Fairey F III-D MkII. Reproduz em tamanho natural o hidroavião \"Lusitânia\" utilizado por Gago Coutinho e Sacadura Cabral na primeira travessia do Atlântico Sul, rumo ao Brasil, em 1922.",
+   "exhibit": "aircraft",
+   "historic": "memorial",
+   "material": "bronze;granite;reinforced_concrete;steel",
+   "memorial": "sculpture",
+   "name": "Primeira Travessia Aérea do Atlântico Sul",
+   "start_date": "1991",
+   "subject:wikidata": "Q2784101",
+   "subject:wikipedia": "pt:Primeira travessia aérea do Atlântico Sul",
+   "tourism": "attraction",
+   "website": "http://www.cm-lisboa.pt/equipamentos/equipamento/info/gago-coutinho-e-sacadura-cabral",
+   "wikidata": "Q130240436",
+   "wikipedia": "en:Monument to the First Aerial Crossing of the South Atlantic (Belém)"
+  },
+  "wikidata": {
+   "id": "Q130240436",
+   "he": "",
+   "en": "Monument to the First Aerial Crossing of the South Atlantic",
+   "pt": "Monumento à Primeira Travessia Aérea do Atlântico Sul",
+   "desc": "monumento em Lisboa",
+   "wikipedia_in": [
+    "co",
+    "en"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "near_existing_card": null,
+  "nearest_guide_site": "סביבות מגדל בלם וטיילת בום סוססו (84 מ')"
+ },
+ {
+  "k": "n5457844820",
+  "name": "Reclining Figure: Arched Leg, 4/6",
+  "la": 38.695887,
+  "ln": -9.209688,
+  "district": "בלם ואז'ודה",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Henry Moore",
+   "artwork_type": "sculpture",
+   "description": "Reclining Figure: Arched Leg é uma escultura abstracta em bronze com patina verde, executada por Henry Moore, entre 1969-70, e instalada no Jardim do Centro Cultural de Belém, junto à entrada das traseiras do Museu Berardo.",
+   "material": "bronze",
+   "name": "Reclining Figure: Arched Leg, 4/6",
+   "tourism": "artwork",
+   "website": "http://www.cm-lisboa.pt/equipamentos/equipamento/info/reclining-figure-arched-leg-46"
+  },
+  "wikidata": null,
+  "b": 1,
+  "w": 0,
+  "near_existing_card": null,
+  "nearest_guide_site": "MAC/CCB, אוסף ברארדו (40 מ')"
+ },
+ {
+  "k": "n5457844793",
+  "name": "1ª Travessia Aérea do Atlântico Sul",
+  "la": 38.693292,
+  "ln": -9.213294,
+  "district": "בלם ואז'ודה",
+  "center": 0,
+  "osm_tags": {
+   "artwork_type": "sculpture",
+   "description": "Por iniciativa do Clube Militar Naval, a Corporação da Armada prestou homenagem à 1ª Travessia Aérea do Atlântico Sul, ocorrida em 1922, através de um monumento composto por uma águia em bronze assente sobre um pilar em pedra, executado em 1922.",
+   "material": "bronze;stone",
+   "memorial": "sculpture",
+   "name": "1ª Travessia Aérea do Atlântico Sul",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "near_existing_card": null,
+  "nearest_guide_site": "סביבות מגדל בלם וטיילת בום סוססו (91 מ')"
+ },
+ {
+  "k": "n13056264563",
+  "name": "Aeolus",
+  "la": 38.699292,
+  "ln": -9.203103,
+  "district": "בלם ואז'ודה",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Joaquim Machado de Castro Sculpture Laboratory",
+   "artwork_type": "statue",
+   "name": "Aeolus",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "near_existing_card": null,
+  "nearest_guide_site": "הגן הבוטני הטרופי של בלם (103 מ')"
+ },
+ {
+  "k": "n13056264572",
+  "name": "Angolan Woman",
+  "la": 38.698974,
+  "ln": -9.201776,
+  "district": "בלם ואז'ודה",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Manuel Oliveira",
+   "artwork_type": "statue",
+   "name": "Angolan Woman",
+   "start_date": "1939",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "near_existing_card": null,
+  "GROUP": {
+   "card_name": "Estátuas da Exposição do Mundo Português (Jardim Tropical, 1940)",
+   "other_members": [
+    {
+     "k": "n13056264574",
+     "name": "Angolan Man",
+     "artist": "Manuel de Oliveira",
+     "year": "1939",
+     "wd": ""
+    },
+    {
+     "k": "n13056264575",
+     "name": "Mozambican Man",
+     "artist": "Manuel de Oliveira",
+     "year": "1939",
+     "wd": ""
+    }
+   ]
+  },
+  "nearest_guide_site": "הגן הבוטני הטרופי של בלם (70 מ')"
+ },
+ {
+  "k": "n5457851273",
+  "name": "Augusto Gil",
+  "la": 38.696391,
+  "ln": -9.209237,
+  "district": "בלם ואז'ודה",
+  "center": 0,
+  "osm_tags": {
+   "description": "Augusto Gil (1873-1929), poeta, foi autor de \"Luar de Janeiro\", \"Gente de Palmo e Meio\", \"Cerúla\", \"Sombra de Fumo\" e \"Avena Rústica\". Em sua homenagem e para comemorar o centenário do seu nascimento, por iniciativa camarária, foi executado, em 1973,",
+   "historic": "memorial",
+   "material": "bronze;limestone;stone",
+   "memorial": "inscription;plaque",
+   "name": "Augusto Gil"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "near_existing_card": null,
+  "nearest_guide_site": "MAC/CCB, אוסף ברארדו (82 מ')"
+ },
+ {
+  "k": "n5361745905",
+  "name": "Avelar Brotero",
+  "la": 38.711516,
+  "ln": -9.210703,
+  "district": "בלם ואז'ודה",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "António Duarte",
+   "description": "Avelar Brotero (1744-1828), de seu nome natural Félix Avelar, só mais tarde viria a adoptar o apelido \"Brotero\", que significa \"amante dos mortais\". Doutor em medicina, abandonou a sua profissão de médico e notabilizou-se na área da botânica.",
+   "historic": "memorial",
+   "material": "marble",
+   "memorial": "statue",
+   "name": "Avelar Brotero",
+   "start_date": "1985-05-24"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "near_existing_card": null,
+  "nearest_guide_site": "המוזיאון הלאומי לאתנולוגיה (763 מ')"
+ },
+ {
+  "k": "n12369666874",
+  "name": "Azul Cadoiço",
+  "la": 38.697015,
+  "ln": -9.197946,
+  "district": "בלם ואז'ודה",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Julião Sarmento",
+   "artwork_type": "sculpture",
+   "name": "Azul Cadoiço",
+   "start_date": "2019",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "near_existing_card": null,
+  "nearest_guide_site": "מוזיאון הכרכרות (17 מ')"
+ },
+ {
+  "k": "n12369666873",
+  "name": "Banco de Pedra",
+  "la": 38.697024,
+  "ln": -9.197815,
+  "district": "בלם ואז'ודה",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "João Luís Carrilho da Graça",
+   "artwork_type": "sculpture",
+   "name": "Banco de Pedra",
+   "start_date": "2017",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "near_existing_card": null,
+  "nearest_guide_site": "מוזיאון הכרכרות (23 מ')"
+ },
+ {
+  "k": "n5457844775",
+  "name": "Caixa (Desmontagem)2",
+  "la": 38.695986,
+  "ln": -9.209029,
+  "district": "בלם ואז'ודה",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Fernanda Fragateiro",
+   "artwork_type": "sculpture",
+   "description": "Escultura localizada no jardim do Centro Cultural de Belém, junto à entrada das traseiras do Museu Berardo, traduz uma caixa desmontada espelhada, advindo daí a sua designação.",
+   "material": "plastic;steel",
+   "name": "Caixa (Desmontagem)2",
+   "tourism": "artwork",
+   "website": "http://www.cm-lisboa.pt/equipamentos/equipamento/info/caixa-desmontagem2"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "near_existing_card": null,
+  "nearest_guide_site": "MAC/CCB, אוסף ברארדו (43 מ')"
+ },
+ {
+  "k": "n5457844740",
+  "name": "Castle of the Eye",
+  "la": 38.696641,
+  "ln": -9.203835,
+  "district": "בלם ואז'ודה",
+  "center": 0,
+  "osm_tags": {
+   "artwork_type": "sculpture",
+   "description": "Escultura composta por cinco cubos de granito, inaugurada, em 1994, por iniciativa camarária, no Jardim Vasco da Gama, virada à Rua Vieira Portuense.",
+   "material": "granite",
+   "name": "Castle of the Eye",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "near_existing_card": null,
+  "nearest_guide_site": "פשטייש דה בלם (108 מ')"
+ },
+ {
+  "k": "n6860605164",
+  "name": "Cisne",
+  "la": 38.712247,
+  "ln": -9.224932,
+  "district": "בלם ואז'ודה",
+  "center": 0,
+  "osm_tags": {
+   "artwork_type": "sculpture",
+   "name": "Cisne",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "near_existing_card": null,
+  "nearest_guide_site": "המוזיאון הלאומי לאתנולוגיה (1593 מ')"
+ },
+ {
+  "k": "n5457844756",
+  "name": "Conde de Sabugosa",
+  "la": 38.70408,
+  "ln": -9.184611,
+  "district": "בלם ואז'ודה",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "António dos Santos",
+   "artwork_subject": "figurative",
+   "description": "António Maria José de Melo César e Meneses (1854-1923), Conde de Sabugosa, bacharel em Direito pela Universidade de Coimbra, foi escritor, poeta e publicista, tendo sido um dos fundadores do grupo Vencidos da Vida.",
+   "historic": "memorial",
+   "material": "bronze;stone",
+   "memorial": "bust",
+   "name": "Conde de Sabugosa",
+   "start_date": "1960",
+   "website": "http://www.cm-lisboa.pt/equipamentos/equipamento/info/conde-de-sabugosa"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "near_existing_card": null,
+  "nearest_guide_site": "גלריית אנדרדוגס ואמנות רחוב באלקנטרה (382 מ')"
+ },
+ {
+  "k": "n5457851358",
+  "name": "D. Carlos I",
+  "la": 38.707658,
+  "ln": -9.196788,
+  "district": "בלם ואז'ודה",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Teixeira Lopes",
+   "artwork_subject": "figurative",
+   "description": "D. Carlos, filho do rei D. Luís e de D. Maria Pia de Sabóia, nasceu em 1863 e subiu ao trono em 1889.",
+   "historic": "memorial",
+   "material": "bronze;stone",
+   "memorial": "statue",
+   "name": "D. Carlos I",
+   "start_date": "1963",
+   "website": "http://www.cm-lisboa.pt/equipamentos/equipamento/info/d-carlos-i"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "near_existing_card": null,
+  "nearest_guide_site": "ארמון אז'ודה (86 מ')"
+ },
+ {
+  "k": "n13056264561",
+  "name": "Dog",
+  "la": 38.698128,
+  "ln": -9.2038,
+  "district": "בלם ואז'ודה",
+  "center": 0,
+  "osm_tags": {
+   "artwork_type": "statue",
+   "name": "Dog",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "near_existing_card": null,
+  "nearest_guide_site": "פשטייש דה בלם (85 מ')"
+ },
+ {
+  "k": "n5457844815",
+  "name": "Dom Nuno Álvares Pereira (Santo Condestável)",
+  "la": 38.699946,
+  "ln": -9.213969,
+  "district": "בלם ואז'ודה",
+  "center": 0,
+  "osm_tags": {
+   "description": "Dom Nuno Álvares Pereira, (1360-1431), também designado por Santo Condestável, considerado pelos historiadores como um dos maiores estrategas e génios militares portugueses.",
+   "historic": "memorial",
+   "material": "bronze;reinforced_concrete",
+   "memorial": "statue",
+   "name": "Dom Nuno Álvares Pereira (Santo Condestável)",
+   "war_memorial": "yes",
+   "website": "http://www.cm-lisboa.pt/equipamentos/equipamento/info/dom-nuno-alvares-pereira-santo-condestavel"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "near_existing_card": null,
+  "nearest_guide_site": "הפלנטריום של ליסבון (467 מ')"
+ }
+]
