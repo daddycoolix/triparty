@@ -1,0 +1,881 @@
+{
+ "overpass": {
+  "art": "[out:json][timeout:180][bbox:52.300,4.750,52.430,5.020];(nwr[\"tourism\"=\"artwork\"];nwr[\"historic\"~\"^(memorial|monument)$\"];nwr[\"amenity\"=\"fountain\"][\"name\"];nwr[\"amenity\"=\"fountain\"][\"wikidata\"];);out center tags;",
+  "poi": "[out:json][timeout:180][bbox:52.300,4.750,52.430,5.020];(nwr[\"tourism\"~\"^(attraction|museum|gallery|viewpoint|zoo|aquarium)$\"][\"name\"];nwr[\"historic\"][\"name\"];nwr[\"amenity\"~\"^(place_of_worship|marketplace|theatre|arts_centre|nightclub)$\"][\"name\"];nwr[\"leisure\"~\"^(park|garden|water_park)$\"][\"name\"];nwr[\"building\"][\"wikidata\"][\"name\"];nwr[\"shop\"~\"^(mall|department_store)$\"][\"name\"];nwr[\"man_made\"=\"windmill\"];nwr[\"place\"=\"square\"][\"name\"];);out center tags;",
+  "fun": "[out:json][timeout:180][bbox:52.20,4.55,52.55,5.25];(nwr[\"leisure\"~\"^(escape_game|amusement_arcade|bowling_alley|high_ropes_course|skatepark|water_park|trampoline_park|miniature_golf)$\"];nwr[\"sport\"~\"karting|paintball|laser_tag|billiards|snooker|bowling|10pin|surfing\"];nwr[\"sport\"~\"climbing\"][\"leisure\"];nwr[\"tourism\"=\"theme_park\"];nwr[\"attraction\"~\"summer_toboggan|roller_coaster|alpine_coaster\"];nwr[\"aerialway\"=\"zip_line\"];nwr[\"theatre:genre\"=\"circus\"];nwr[\"leisure\"][\"name\"~\"jet ski|jetski|virtual|quad|buggy|rage|circus|escape|laser|klimbos|smash\",i];nwr[\"amenity\"][\"name\"~\"jet ski|jetski|virtual|quad|buggy|rage|circus|escape|laser|smash\",i];nwr[\"shop\"][\"name\"~\"jet ski|jetski|virtual|quad|buggy|rage|escape|laser|smash\",i];nwr[\"tourism\"][\"name\"~\"jet ski|jetski|virtual|quad|buggy|rage|circus|escape|laser|klimbos\",i];);out center tags;",
+  "kosher": "[out:json][timeout:90][bbox:52.25,4.70,52.45,5.10];(nwr[\"diet:kosher\"];nwr[\"amenity\"=\"place_of_worship\"][\"religion\"=\"jewish\"];nwr[\"cuisine\"~\"kosher|jewish|israeli\"];nwr[\"name\"~\"kosher|chabad|synago|joods|jewish|holocaust|sjoel\",i];nwr[\"tourism\"=\"museum\"][\"name\"~\"joods|jewish|holocaust\",i];);out center tags;"
+ },
+ "wikidata_from": "art",
+ "wikivoyage": {
+  "wv_en_Amsterdam": "https://en.wikivoyage.org/w/index.php?action=raw&title=Amsterdam",
+  "wv_en_Centrum": "https://en.wikivoyage.org/w/index.php?action=raw&title=Amsterdam/Centrum",
+  "wv_en_Canal": "https://en.wikivoyage.org/w/index.php?action=raw&title=Amsterdam/Canal_Ring",
+  "wv_en_Jordaan": "https://en.wikivoyage.org/w/index.php?action=raw&title=Amsterdam/Jordaan",
+  "wv_en_Oud_Zuid": "https://en.wikivoyage.org/w/index.php?action=raw&title=Amsterdam/Oud-Zuid",
+  "wv_en_De_Pijp": "https://en.wikivoyage.org/w/index.php?action=raw&title=Amsterdam/De_Pijp",
+  "wv_en_Oost": "https://en.wikivoyage.org/w/index.php?action=raw&title=Amsterdam/Oost",
+  "wv_en_Noord": "https://en.wikivoyage.org/w/index.php?action=raw&title=Amsterdam/Noord",
+  "wv_en_West": "https://en.wikivoyage.org/w/index.php?action=raw&title=Amsterdam/West",
+  "wv_en_Haarlem": "https://en.wikivoyage.org/w/index.php?action=raw&title=Haarlem",
+  "wv_en_Zaanse": "https://en.wikivoyage.org/w/index.php?action=raw&title=Zaanse_Schans",
+  "wv_he_Amsterdam": "https://he.wikivoyage.org/w/index.php?action=raw&title=%D7%90%D7%9E%D7%A1%D7%98%D7%A8%D7%93%D7%9D"
+ },
+ "nominatim": [
+  [
+   "000",
+   "Dam Square, Amsterdam"
+  ],
+  [
+   "001",
+   "Koninklijk Paleis, Amsterdam"
+  ],
+  [
+   "002",
+   "Nieuwe Kerk, Amsterdam"
+  ],
+  [
+   "003",
+   "National Monument on Dam Square, Amsterdam"
+  ],
+  [
+   "004",
+   "Oude Kerk, Amsterdam"
+  ],
+  [
+   "005",
+   "Red Light District, Amsterdam"
+  ],
+  [
+   "006",
+   "Ons' Lieve Heer op Solder, Amsterdam"
+  ],
+  [
+   "007",
+   "Begijnhof, Amsterdam"
+  ],
+  [
+   "008",
+   "Amsterdam Museum, Amsterdam"
+  ],
+  [
+   "009",
+   "Kalverstraat and Nieuwendijk, Amsterdam"
+  ],
+  [
+   "010",
+   "Bloemenmarkt, Amsterdam"
+  ],
+  [
+   "011",
+   "Spui and the Spui book market, Amsterdam"
+  ],
+  [
+   "012",
+   "Munttoren, Amsterdam"
+  ],
+  [
+   "013",
+   "Magna Plaza, Amsterdam"
+  ],
+  [
+   "014",
+   "Schreierstoren, Amsterdam"
+  ],
+  [
+   "015",
+   "Nieuwmarkt and De Waag, Amsterdam"
+  ],
+  [
+   "016",
+   "Zeedijk, Amsterdam"
+  ],
+  [
+   "017",
+   "Fo Guang Shan He Hua Temple, Amsterdam"
+  ],
+  [
+   "018",
+   "Hash Marihuana and Hemp Museum, Amsterdam"
+  ],
+  [
+   "021",
+   "Wynand Fockink tasting room, Amsterdam"
+  ],
+  [
+   "022",
+   "De Bijenkorf, Amsterdam"
+  ],
+  [
+   "023",
+   "Madame Tussauds Amsterdam, Amsterdam"
+  ],
+  [
+   "024",
+   "The Amsterdam Dungeon, Amsterdam"
+  ],
+  [
+   "025",
+   "Body Worlds Amsterdam, Amsterdam"
+  ],
+  [
+   "026",
+   "Allard Pierson museum, Amsterdam"
+  ],
+  [
+   "027",
+   "Rembrandtplein, Amsterdam"
+  ],
+  [
+   "028",
+   "Tuschinski Theatre, Amsterdam"
+  ],
+  [
+   "029",
+   "Beurs van Berlage, Amsterdam"
+  ],
+  [
+   "032",
+   "Sint Antoniesbreestraat, Amsterdam"
+  ],
+  [
+   "033",
+   "Canal Ring, Amsterdam"
+  ],
+  [
+   "035",
+   "Anne Frank House, Amsterdam"
+  ],
+  [
+   "036",
+   "Westerkerk, Amsterdam"
+  ],
+  [
+   "037",
+   "Homomonument, Amsterdam"
+  ],
+  [
+   "038",
+   "De 9 Straatjes, Amsterdam"
+  ],
+  [
+   "039",
+   "Jordaan, Amsterdam"
+  ],
+  [
+   "040",
+   "Noordermarkt, Amsterdam"
+  ],
+  [
+   "041",
+   "Noorderkerk, Amsterdam"
+  ],
+  [
+   "042",
+   "Karthuizerhof, Sint-Andrieshofje, Amsterdam"
+  ],
+  [
+   "043",
+   "Woonbootmuseum, Amsterdam"
+  ],
+  [
+   "044",
+   "The Amsterdam Cheese Museum, Amsterdam"
+  ],
+  [
+   "045",
+   "Het Grachtenhuis, Amsterdam"
+  ],
+  [
+   "046",
+   "Museum Van Loon, Amsterdam"
+  ],
+  [
+   "047",
+   "Willet-Holthuysen Museum, Amsterdam"
+  ],
+  [
+   "048",
+   "Foam Photography Museum, Amsterdam"
+  ],
+  [
+   "049",
+   "Cat Cabinet, Amsterdam"
+  ],
+  [
+   "050",
+   "Magere Brug, Amsterdam"
+  ],
+  [
+   "051",
+   "Reguliersgracht, Amsterdam"
+  ],
+  [
+   "052",
+   "Leidseplein, Amsterdam"
+  ],
+  [
+   "053",
+   "Paradiso and Melkweg, Amsterdam"
+  ],
+  [
+   "054",
+   "Utrechtsestraat, Amsterdam"
+  ],
+  [
+   "055",
+   "Brouwersgracht, Amsterdam"
+  ],
+  [
+   "056",
+   "Gouden Bocht, Amsterdam"
+  ],
+  [
+   "057",
+   "Haarlemmerstraat, Amsterdam"
+  ],
+  [
+   "059",
+   "Westermarkt statue of Anne Frank, Amsterdam"
+  ],
+  [
+   "060",
+   "Comedy and Boom Chicago, Amsterdam"
+  ],
+  [
+   "061",
+   "Antique shops of Spiegelgracht, Amsterdam"
+  ],
+  [
+   "062",
+   "De Krijtberg church, Amsterdam"
+  ],
+  [
+   "063",
+   "Rijksmuseum, Amsterdam"
+  ],
+  [
+   "064",
+   "Van Gogh Museum, Amsterdam"
+  ],
+  [
+   "065",
+   "Stedelijk Museum, Amsterdam"
+  ],
+  [
+   "066",
+   "Museumplein, Amsterdam"
+  ],
+  [
+   "067",
+   "Moco Museum, Amsterdam"
+  ],
+  [
+   "068",
+   "Concertgebouw, Amsterdam"
+  ],
+  [
+   "069",
+   "Vondelpark, Amsterdam"
+  ],
+  [
+   "070",
+   "P.C. Hooftstraat, Amsterdam"
+  ],
+  [
+   "071",
+   "Albert Cuyp Market, Amsterdam"
+  ],
+  [
+   "072",
+   "De Pijp, Amsterdam"
+  ],
+  [
+   "073",
+   "Heineken Experience, Amsterdam"
+  ],
+  [
+   "074",
+   "Sarphatipark, Amsterdam"
+  ],
+  [
+   "075",
+   "Diamond Museum Amsterdam, Amsterdam"
+  ],
+  [
+   "076",
+   "Vondelpark Openluchttheater, Amsterdam"
+  ],
+  [
+   "077",
+   "Foodhallen, Amsterdam"
+  ],
+  [
+   "078",
+   "De Hallen and the Kinkerstraat, Amsterdam"
+  ],
+  [
+   "079",
+   "House of Bols, Amsterdam"
+  ],
+  [
+   "080",
+   "Nxt Museum, Amsterdam"
+  ],
+  [
+   "081",
+   "Amsteldijk, Amsterdam"
+  ],
+  [
+   "082",
+   "Hotel Amstel, Amsterdam"
+  ],
+  [
+   "083",
+   "Children's farm De Pijp, Amsterdam"
+  ],
+  [
+   "085",
+   "Esnoga, Amsterdam"
+  ],
+  [
+   "086",
+   "Joods Museum, Amsterdam"
+  ],
+  [
+   "087",
+   "National Holocaust Museum, Amsterdam"
+  ],
+  [
+   "088",
+   "National Holocaust Names Monument, Amsterdam"
+  ],
+  [
+   "089",
+   "National Holocaust Memorial, Amsterdam"
+  ],
+  [
+   "090",
+   "De Dokwerker, Amsterdam"
+  ],
+  [
+   "091",
+   "Jodenbuurt and Waterlooplein, Amsterdam"
+  ],
+  [
+   "092",
+   "Waterlooplein flea market, Amsterdam"
+  ],
+  [
+   "093",
+   "Museum Het Rembrandthuis, Amsterdam"
+  ],
+  [
+   "094",
+   "City Hall, Amsterdam"
+  ],
+  [
+   "095",
+   "Nooit Meer Auschwitz, Amsterdam"
+  ],
+  [
+   "096",
+   "Hortus Botanicus Amsterdam, Amsterdam"
+  ],
+  [
+   "097",
+   "ARTIS Zoo, Amsterdam"
+  ],
+  [
+   "098",
+   "Micropia, Amsterdam"
+  ],
+  [
+   "099",
+   "Plantage neighbourhood, Amsterdam"
+  ],
+  [
+   "100",
+   "Verzetsmuseum, Amsterdam"
+  ],
+  [
+   "101",
+   "H'ART Museum, Amsterdam"
+  ],
+  [
+   "102",
+   "Oosterpark, Amsterdam"
+  ],
+  [
+   "103",
+   "Oosterpark, Amsterdam"
+  ],
+  [
+   "104",
+   "Wereldmuseum Amsterdam, Amsterdam"
+  ],
+  [
+   "105",
+   "Brouwerij 't IJ, Amsterdam"
+  ],
+  [
+   "106",
+   "Dappermarkt, Amsterdam"
+  ],
+  [
+   "110",
+   "Entrepotdok, Amsterdam"
+  ],
+  [
+   "111",
+   "Gassan Diamonds, Amsterdam"
+  ],
+  [
+   "112",
+   "Amsterdam Centraal Station, Amsterdam"
+  ],
+  [
+   "113",
+   "NEMO Science Museum, Amsterdam"
+  ],
+  [
+   "114",
+   "Het Scheepvaartmuseum, Amsterdam"
+  ],
+  [
+   "115",
+   "Basilica of Saint Nicholas, Amsterdam"
+  ],
+  [
+   "116",
+   "KNSM, Java, Borneo-Sporenburg, Amsterdam"
+  ],
+  [
+   "117",
+   "Muziekgebouw aan 't IJ, Amsterdam"
+  ],
+  [
+   "118",
+   "OBA Oosterdok, Amsterdam"
+  ],
+  [
+   "119",
+   "Montelbaanstoren, Amsterdam"
+  ],
+  [
+   "120",
+   "GVB ferries, Amsterdam"
+  ],
+  [
+   "121",
+   "Scheepvaarthuis, Amsterdam"
+  ],
+  [
+   "122",
+   "Westerdok, Amsterdam"
+  ],
+  [
+   "123",
+   "Lloyd Hotel, Amsterdam"
+  ],
+  [
+   "124",
+   "Silodam, Amsterdam"
+  ],
+  [
+   "126",
+   "Marineterrein, Amsterdam"
+  ],
+  [
+   "127",
+   "EYE Film Museum, Amsterdam"
+  ],
+  [
+   "128",
+   "A'DAM Lookout, Amsterdam"
+  ],
+  [
+   "129",
+   "NDSM Wharf, Amsterdam"
+  ],
+  [
+   "130",
+   "Straat Museum, Amsterdam"
+  ],
+  [
+   "131",
+   "IJ-Hallen flea market, Amsterdam"
+  ],
+  [
+   "132",
+   "Pannenkoekenboot, Amsterdam"
+  ],
+  [
+   "133",
+   "Noorderpark and De Ceuvel, Amsterdam"
+  ],
+  [
+   "134",
+   "Landelijk Noord, Amsterdam"
+  ],
+  [
+   "135",
+   "Tuindorp Oostzaan, Amsterdam"
+  ],
+  [
+   "136",
+   "Kraanspoor, Amsterdam"
+  ],
+  [
+   "138",
+   "Westerpark, Amsterdam"
+  ],
+  [
+   "139",
+   "Het Schip, Amsterdam"
+  ],
+  [
+   "140",
+   "Ten Katemarkt, Amsterdam"
+  ],
+  [
+   "141",
+   "Haarlemmerplein, Amsterdam"
+  ],
+  [
+   "142",
+   "Bridges of the Bloemgracht, Amsterdam"
+  ],
+  [
+   "143",
+   "Children's farm Westerpark, Amsterdam"
+  ],
+  [
+   "144",
+   "Spaarndammerbuurt, Amsterdam"
+  ],
+  [
+   "145",
+   "Rembrandtpark, Amsterdam"
+  ],
+  [
+   "146",
+   "Sloterplas, Amsterdam"
+  ],
+  [
+   "147",
+   "Sloten village, Amsterdam"
+  ],
+  [
+   "148",
+   "Amsterdamse Bos, Amsterdam"
+  ],
+  [
+   "149",
+   "Geitenboerderij Ridammerhoeve, Amsterdam"
+  ],
+  [
+   "150",
+   "Amstelpark, Amsterdam"
+  ],
+  [
+   "151",
+   "Anne Frank's neighbourhood, Amsterdam"
+  ],
+  [
+   "152",
+   "Amsterdam School architecture of Plan Zuid, Amsterdam"
+  ],
+  [
+   "153",
+   "Lekstraat Synagogue, Amsterdam"
+  ],
+  [
+   "154",
+   "Zuidas, Amsterdam"
+  ],
+  [
+   "155",
+   "Olympic Stadium Amsterdam, Amsterdam"
+  ],
+  [
+   "156",
+   "Cobra Museum of Modern Art, Amsterdam"
+  ],
+  [
+   "157",
+   "Johan Cruijff ArenA, Amsterdam"
+  ],
+  [
+   "158",
+   "Beth Haim Jewish Cemetery Ouderkerk aan de Amstel, Amsterdam"
+  ],
+  [
+   "159",
+   "Ouderkerk aan de Amstel village, Amsterdam"
+  ],
+  [
+   "160",
+   "Defence Line of Amsterdam, Amsterdam"
+  ],
+  [
+   "161",
+   "Zaandam: Inntel Hotel"
+  ],
+  [
+   "162",
+   "Muiden Castle"
+  ],
+  [
+   "163",
+   "Naarden Vesting"
+  ],
+  [
+   "164",
+   "Weesp, Amsterdam"
+  ],
+  [
+   "165",
+   "Schiphol: Panorama terrace, Amsterdam"
+  ],
+  [
+   "166",
+   "Broek in Waterland"
+  ],
+  [
+   "167",
+   "Zaanse Schans"
+  ],
+  [
+   "168",
+   "Volendam"
+  ],
+  [
+   "169",
+   "Marken"
+  ],
+  [
+   "170",
+   "Edam"
+  ],
+  [
+   "171",
+   "Haarlem"
+  ],
+  [
+   "172",
+   "Corrie ten Boom House"
+  ],
+  [
+   "173",
+   "Zandvoort beach"
+  ],
+  [
+   "174",
+   "Keukenhof"
+  ],
+  [
+   "175",
+   "Leiden"
+  ],
+  [
+   "176",
+   "The Hague: Mauritshuis"
+  ],
+  [
+   "177",
+   "Scheveningen"
+  ],
+  [
+   "178",
+   "Madurodam"
+  ],
+  [
+   "179",
+   "Delft"
+  ],
+  [
+   "180",
+   "Rotterdam"
+  ],
+  [
+   "181",
+   "Kinderdijk windmills"
+  ],
+  [
+   "182",
+   "Utrecht"
+  ],
+  [
+   "183",
+   "Miffy Museum"
+  ],
+  [
+   "184",
+   "Giethoorn"
+  ],
+  [
+   "185",
+   "Efteling"
+  ],
+  [
+   "186",
+   "Hoge Veluwe National Park"
+  ],
+  [
+   "187",
+   "Kamp Westerbork Memorial Centre"
+  ],
+  [
+   "188",
+   "Alkmaar Cheese Market"
+  ],
+  [
+   "189",
+   "Zuiderzee Museum"
+  ],
+  [
+   "190",
+   "Gouda"
+  ],
+  [
+   "191",
+   "Duinrell"
+  ],
+  [
+   "192",
+   "Walibi Holland"
+  ],
+  [
+   "193",
+   "Texel"
+  ],
+  [
+   "194",
+   "Bloemendaal and Kennemerduinen"
+  ],
+  [
+   "195",
+   "Bulb fields"
+  ],
+  [
+   "197",
+   "Torensluis bridge, Amsterdam"
+  ],
+  [
+   "199",
+   "Huis met de Hoofden, Amsterdam"
+  ],
+  [
+   "200",
+   "Museum of Fluorescent Art, Amsterdam"
+  ],
+  [
+   "201",
+   "Amsterdam Tulip Museum, Amsterdam"
+  ],
+  [
+   "202",
+   "Bibliotheca Philosophica Hermetica, Amsterdam"
+  ],
+  [
+   "203",
+   "Hollandsche Manege, Amsterdam"
+  ],
+  [
+   "204",
+   "Zuiderkerk, Amsterdam"
+  ],
+  [
+   "205",
+   "Weesperplein, Amsterdam"
+  ],
+  [
+   "206",
+   "Park Frankendael, Amsterdam"
+  ],
+  [
+   "207",
+   "ARCAM Architecture Centre, Amsterdam"
+  ],
+  [
+   "208",
+   "This is Holland, Amsterdam"
+  ],
+  [
+   "209",
+   "Tolhuistuin, Amsterdam"
+  ],
+  [
+   "210",
+   "Fabrique des Lumières, Amsterdam"
+  ],
+  [
+   "211",
+   "Beatrixpark and the RAI, Amsterdam"
+  ],
+  [
+   "212",
+   "Jac. P. Thijsse park, Amsterdam"
+  ],
+  [
+   "213",
+   "Frans Hals Museum"
+  ],
+  [
+   "214",
+   "Teylers Museum"
+  ],
+  [
+   "215",
+   "The Hague: Peace Palace"
+  ],
+  [
+   "216",
+   "Rotterdam: Euromast"
+  ],
+  [
+   "217",
+   "Diergaarde Blijdorp"
+  ],
+  [
+   "218",
+   "Spoorwegmuseum"
+  ],
+  [
+   "219",
+   "Netherlands Open Air Museum"
+  ],
+  [
+   "220",
+   "Burgers' Zoo"
+  ],
+  [
+   "221",
+   "Paleis Het Loo"
+  ],
+  [
+   "222",
+   "Naturalis Biodiversity Center"
+  ],
+  [
+   "223",
+   "Kamp Amersfoort National Monument"
+  ],
+  [
+   "224",
+   "Batavia ship and Batavialand"
+  ],
+  [
+   "225",
+   "Monnickendam"
+  ],
+  [
+   "226",
+   "Maastricht"
+  ],
+  [
+   "227",
+   "Apenheul"
+  ]
+ ]
+}
