@@ -1,0 +1,157 @@
+{{pagebanner|Pagebanner default.jpg}}
+[[File:Altstadt SichtaufUnterbräu.jpg|thumb|300px|Dachau ''Altstadt'']]
+'''[https://www.dachau.de/en/tourism.html Dachau]''' is a city with about 44,800 citizens in [[Upper Bavaria]], [[Germany]] and has a history of more than 1,200 years, but best known for being the location of the very first '''Nazi concentration camp'''. This has cast a pall over the rest of this small and pleasant town 20&nbsp;km (13&nbsp;mi) outside of [[Munich]].
+
+==Understand==
+
+The first known documentation dealing with Dachau dates back to the year 805, although earlier settlements go as early as 1000 B.C. and the Romans were maintaining a salt road through the city at the beginning of the first millennium. Dachau first came to prominence during the Middle Ages, when Duke William IV of Bavaria commissioned the palace of Dachau in 1546-1577. From that time on until the end of the monarchy in Bavaria in 1918 the town had always been a retreat for Bavarian kings, dukes and nobility, which is no wonder as the palace and the surrounding gardens offer a staggering view of the Alps and Munich, weather permitting. Towards the end of the 19th century Dachau became a town famous for its impressionist painters like Carl Spitzweg.
+
+However, the city's history took a turn for the worse with the advent of the Nazi regime: Dachau was chosen to be the site of the very first Nazi concentration camp in 1933. Mostly political dissidents, non-conformist intellectuals and priests were imprisoned in the camp. Although Dachau was mainly used as a staging ground to ship prisoners to eastern death camps in Poland, approximately 42,000 people were murdered between 1933 and 1945 in the Dachau camp itself or its 169 sub-camps. After World War II the camp was first used to house displaced persons and then converted into a memorial site, which opened in 1965, to remind visitors of the darkest time in German history. Today Dachau has a big cultural scene as well as a still impressive picture-perfect old town and palace, because it completely escaped Allied bombing during World War II.
+
+* {{listing
+| name=Tourist Information Dachau | alt= | url= | email=
+| address=Konrad-Adenauer-Straße 3 | lat= | long= | directions=
+| phone=+49 8131 75286 | tollfree= | fax=
+| hours= | price=
+| content=
+}}
+
+==Get in==
+
+===By car===
+
+Dachau is conveniently located at several autobahns.
+* '''A 8''': Stuttgart - ''Dachau'' - Munich (exit ''78 Dachau/Fürstenfeldbruck'')
+* '''A 92''': Deggendorf - ''Dachau'' - Munich (exit ''2 Oberschleißheim'')
+* '''A 99''': circular autobahn around Munich (exit ''10 München-Ludwigsfeld'')
+Furthermore, with '''B 304''' and '''B471''' two major federal highways run through the city.
+
+===By train===
+
+Regional trains from Munich Central Station run three times an hour and take 25 min to reach Dachau. Munich public transport network tickets are valid in regional trains as far as Dachau, too.
+
+===By suburban train (''S-Bahn'')===
+
+Dachau is part of Munich's public transport network MVV. To get to Dachau, you have to take '''S-Bahn line S2''', which brings you to Dachau station, close to the center of town. Most city buses stop at the station, including those which take you to the Concentration Camp Memorial Site.
+
+===By tour===
+
+Several tour operators offer tours from the center of Munich to the Concentration Camp Memorial Site, including transportation, for approximately €20 per person.
+
+==Get around==
+{{mapframe}}
+The historic center of Dachau is small enough to be explored on foot. For destinations that are not located within the center, like the Concentration Camp Memorial Site, the extensive bus network provides and feasible alternative to using your own legs. As Dachau is part of Munich's public transport network, the tickets are also valid in the Dachau buses.
+
+==See==
+
+[[File:Outside of Jourhaus (Main Entrance and SS Base) - Dachau Concentration Camp Site - Dachau - Bavaria - Germany.jpg|thumb|250px|Main entrance of the concentration camp]]
+*{{see
+| name=Dachau Concentration Camp Memorial Site | alt=KZ-Gedenkstätte Dachau | url=http://www.kz-gedenkstaette-dachau.de/index-e.html | email=
+| address=Alte Römerstraße 75 | lat=48.268222 | long=11.468722 | directions=Bus 724, 726
+| phone=+49 8131 669970 | tollfree=
+| hours=Daily 09:00-17:00 | price=Free
+| wikidata=Q1532094
+| lastedit=2018-08-11
+| content=The site is located in north-eastern Dachau. The memorial depicts the Nazi atrocities against Jews, Romani, gays, and political dissidents during the Germany's Third Reich era. Dachau concentration camp in 1933 was the first camp to be established, and served as a role model for other similar, bigger camps. Nearly 43,000 people were killed in the camp between 1933 and 1945. The memorial site was opened in 1965 to commemorate these victims and to remind everyone that such cruelty must never be allowed again. It is visited by approximately 800,000 people from all over the world each year. The site has several religious memorials and chapels built onto it, in addition to the original buildings of the camp complex, and Karmel Heilig Blut, a small convent has found its home on the north side of the complex. While entrance to the site is free, there is a small fee for services like audio guides (Adults €4, Concessions €3), a brief introduction (€1.50), guided 2.5 h tours in English for individuals (€3; 11:00 & 13:00), and guided 2.5 h tours in English, French, Hebrew or many other languages for groups (€70 for up to 30 people; book in advance).
+}}
+*{{see
+| name=Dachau Palace | alt=Schloss Dachau | url=http://www.schloesser.bayern.de/englisch/palace/objects/dachau.htm | email=
+| address=Schlossstraße 7 | lat=48.258056 | long=11.433056 | directions=Bus 719, 720, 722
+| phone=+49 8131 87923 | tollfree= | fax=
+| hours=Apr-Sep 09:00-18:00, Oct-Mar 10:00-16:00 | price=Adults €2, Concessions €1
+| wikipedia=Dachau Palace | image=Schlossdachau1.jpg | wikidata=Q573699
+| content=The old castle was constructed around 1100 by the cadet branch of the House of Wittelsbach, but demolished between 1398 and 1403. William IV of Bavaria and his son Albert V ordered the construction of a Renaissance style four-wing palace with a court garden on the site of the old castle. The new building was designed by Heinrich Schöttl. Construction began in 1546 and was completed in 1577. It later became the favoured residence of the rulers of Bavaria. In 1715, Maximilian II Emanuel commissioned a redesign in Baroque style by Joseph Effner.
+}}
+*{{see | name=District Museum | alt=Bezirksmuseum | url=http://www.dachauer-galerien-museen.de/index.php/aktuelle-ausstellung-bezirksmuseum | email= | address=Augsburger Straße 3 | lat= | long= | directions=Bus 719, 720, 722 | phone=+49 8131 567513 | tollfree= | hours=Thu-Fri 11:00-17:00, Sat-Sun 13:00-17:00, Closed on Mondays | price=Adults €5, Concessions €3 | lastedit=2023-10-01 | content=The museum, which received the Bavarian Museum Award in 1993, reflects the cultural history of the town of Dachau and the surrounding county. On three floors you find numerous impressive exhibits illustrating settlement forms and town history, guild and market law, crafts and trade, everyday life and festive traditions and religious folklore. Special exhibitions deal with various aspects of cultural history. There is a discounted combination ticket available for €8 for the ''Paintings Gallery'', the ''District Museum'', and the ''New Gallery''.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+*{{see | name=New Gallery | alt=Neue Galerie | url=http://www.dachauer-galerien-museen.de/index.php/aktuelle-ausstellung-neue-galerie | email= | address=Konrad-Adenauer-Straße 20 | lat= | long= | directions=Bus 719, 720, 722 | phone=+49 8131 56750 | tollfree= | hours=Thu-Sun 13:00-17:00, Closed on Mondays | price=Adults €2, Concessions €1 | content=The gallery shows modern works of contemporary local and European artists, with varying special exhibitions. There is a discounted combination ticket available for €8 for the ''Paintings Gallery'', the ''District Museum'', and the ''New Gallery''.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+*{{see | name=Paintings Gallery | alt=Gemäldegalerie | url=http://www.dachauer-galerien-museen.de/index.php/aktuelle-ausstellung-gemaeldegalerie | email= | address=Konrad-Adenauer-Straße 3 | lat= | long= | directions=Bus 719, 720, 722 | phone=+49 8131 567513 | tollfree= | hours=Tue-Fri 11:00-17:00, Sat-Sun 13:00-17:00, Closed on Mondays | price=Adults €5, Concessions €3 | lastedit=2023-10-01 | content=The gallery has a representative permanent collection of typical landscape and genre paintings of the 19th and early 20th century. Dachau was the site of one of the most important German artist colonies in terms of art history at that time, which had a large impact on the development of modern art in the 20th century. Famous painters, such as Christian Morgenstern, Carl Spitzweg, Eduard Schleich the Elder or Adolf Hölzel, Ludwig Dill and Arthur Langhammer prized the moor landscape of Dachau as an attractive motif. Special exhibitions vary. There is a discounted combination ticket available for €8 for the ''Paintings Gallery'', the ''District Museum'', and the ''New Gallery''.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+
+==Do==
+
+==Buy==
+* {{buy
+| name= Wilde Beat| alt= | url=| email=
+| address= Münchner Straße 46| lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content= fashion clothing and accessories
+}}
+* {{buy
+| name= Wirkes Dirndl Trachten & Ledermoden | alt= | url=| email=
+| address= Fraunhoferstraße 10| lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content= clothing and accessories
+}}
+
+==Eat==
+
+*'''Alte Liebe''', Im Lus 4, Mitterndorf, +49 8131 667131,
+*{{eat
+| name=Drei Rosen | alt= | url=http://www.gasthaus-3rosen.de/ | email=
+| address=Muenchner Str. 5 | lat= | long= | directions=
+| phone=+49 8131 84363 | tollfree= | fax=
+| hours= | price=
+| content=
+}}
+*{{eat | name=HiFive Burger & Bar | alt= | url=http://hifiveburger.de/ | email= | address=Fraunhoferstraße 5 | lat= | long= | directions= | phone=+49 8131 9974207 | tollfree= | fax= | hours=Mon 11:00-22:00, Wed-Sun 17:00-22:00 | price=€6-12 | content=Burger place with vegetarian options, close to the concentration camp memorial site.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+*{{eat
+| name=Zieglerbräu | alt= | url=http://www.zieglerbraeu.com/ | email=
+| address=Konrad-Adenauer-Str.8 | lat= | long= | directions=
+| phone=+49 8131 454396 | tollfree= | fax=
+| hours= | price=
+| content=
+}}
+* {{eat
+| name=Roula | alt= | url=https://roula-zum-roemer.de/ | email=
+| address=Alte Römerstraße 45 | lat= | long= | directions=
+| phone=+49 8131 13431 | tollfree=
+| hours=11:30-14:30, 17:30-22:30 Tue-Sat; 11:30-15:00, 17:30-21:30 Sun; Mon closed | price=
+| lastedit=2024-09-04
+| content=Greek restaurant with a €15 lunch buffet, close to the concentration camp memorial.
+}}
+
+==Drink==
+
+*'''Seven Days''', Schleißheimer Str. 12, +49 8131 299877
+*'''The Harp''', Pfarrstr. 3, +49 8131 86258
+*{{drink
+| name=Café Gramsci | alt= | url=http://cafe-gramsci.blogspot.com/ | email=
+| address=Burgfriedenstraße 3 | lat= | long= | directions=
+| phone=+49 8131 669102 | tollfree= | fax=
+| hours= | price=
+| content=
+}}
+
+==Sleep==
+
+*{{sleep
+| name=Youth Hostel | alt=Jugendgästehaus | url=http://www.dachau.jugendherberge.de | email=dachau@jugendherberge.de
+| address=Roßwachtstraße 15 | lat= | long= | directions=Bus 726 "Saubachsiedlung"
+| phone=+49 8131 32295 0 | tollfree= | fax=
+| price= | checkin= | checkout=
+| content=
+}}
+*{{sleep
+| name=Pension Herzog | url= | email=
+| address=85241 Hebertshausen, Walpersthofen 3 | lat= | long= | directions=at S2 Station Hebertshausen
+| phone=+49 8131 735833 | tollfree= | fax=
+| hours= | price=
+| checkin= | checkout=
+| content=Bavarian B&B.
+}}
+* {{sleep | name=Bavaria Safari Hotel | alt= | url=http://bavaria-safari-hotel.de/en/ | email= | address=Rudolf-Diesel-Straße 16 | lat=48.263895 | long=11.473424 | directions= | phone=+49 8131-539188 | tollfree=+49 8131-26958 | fax= | checkin= | checkout= | price= | lastedit=2017-02-24 | content=Quirky hotel with a "safari" theme, located in an industrial area near the concentration camp memorial
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+
+==Go next==
+* '''[[Munich]]'''
+* Other Holocaust-related sites: see '''[[Holocaust remembrance]]'''
+
+
+{{IsPartOf|Upper Bavaria}}
+{{usablecity}}
+{{geo|48.25963|11.43587|zoom=15}}

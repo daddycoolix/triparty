@@ -1,0 +1,568 @@
+{{pagebanner|Munich Maxvorstadt banner.JPG|caption=Pinakotheken|pgname=Maxvorstadt}}
+
+'''Maxvorstadt''' is the arts and university district of [[Munich]], just north of Altstadt the historic city centre.  
+
+== Understand ==
+In German a ''Vorstadt'' is a district just beyond the city centre but tightly fused to it. Maxvorstadt is named for King Maximilian I Joseph but was built under his successor Ludwig I  from 1825. Ludwig admired ancient Greece, verging on infatuation, and imposed a grand neo-classical style on his "Athens of the North". The houses in that style were lost to wartime bombing but the museums, galleries and monuments around Königsplatz still show its grandeur. 
+
+The district has no less than seven universities, including Germany's top two LMU Munich and TUM, and over 100,000 students attend them. Famous people who've lived here include Bertholt Brecht, Georg Elser, Adolf Hitler, Wassily Kandinsky, Thomas Mann, Franz Marc, Wolfgang Pauli, Joseph Ratzinger (former Pope Benedict XVI), and Vladimir Ilyich Ulyanov (aka Lenin). The district is roughly bounded by the English Garden to the east, Georgenstraße north, Lothstraße west, and the main railway line and Altstadtring south.
+
+== Get in ==
+{{Mapframe | 48.148 | 11.565 | height=400 | width=600 | zoom=14 }} 
+{{Mapshape}}
+{{Mapshapes|Q164054}} <!-- U-bahn -->
+
+=== By train ===
+{{marker | type=go | name=Hauptbahnhof | lat=48.140 | long=11.555 }} the city's main railway station is at the south edge of this district, so you'll probably transit through it. See [[Munich#Get in]] for its long-distance connections and facilities.  
+
+'''S-Bahn''' suburban lines skim the south edge of the district but don't cross it. S1 and S8 come from the airport, and these plus S2, S3, S4, S6, S7 and S27 track along the south edge of Maxvorstadt with stops at Donnersbergerbrücke, Hackerbrücke (for ZOB the central bus station), Hauptbahnhof and Karlsplatz (Stachus). They cross Altstadt to Ostbahnhof then diverge to eastern suburbs. 
+
+'''U-Bahn''' underground lines run north-south across the district. All of Maxvorstadt is within the inner city fare zone. 
+
+* {{rint|munich|u1}} and {{rint|munich|u7}} run from the southeast via Hauptbahnhof to Königsplatz (for Kunstareal), Stiglmaierplatz and Maillingerstraße, then out to Rotekreuzeplatz and Olympia. 
+* {{rint|munich|u2}} starts from Messe trade centre way out east. It's joined by {{rint|munich|u8}} at Sendlinger Tor, then they run north to Hauptbahnhof, Königsplatz, Theresienstraße  and Josephsplatz. U8 terminates at Olympia while U2 continues to Feldmoching, change for S1 to the airport. 
+* {{rint|munich|u3}} and {{rint|munich|u6}} start in the southwest and run north via Sendlinger Tor, Marienplatz (for Altstadt), Odeonsplatz and Universität. U3 turns west to Moosach (for S1 to the airport), U6 continues north to Fröttmaning (for Allianz Arena) and Garching. 
+
+=== By tram ===
+
+* Lines 16 and 17 run from Nymphenburg along Arnulfstraße to the bus station and Hauptbahnhof, then turn south to Sendlinger Tor and circle Altstadt.
+* Lines 20, 21 and 29 run north from Hauptbahnhof to Stiglmaierplatz and up Dachauer Straße.
+* Lines 27 and 28 run from Sendlinger Tor to Karlsplatz (Stachus) and north up Barer Straße via Karolinenplatz and the Kunstareal district.
+
+=== By bus ===
+[[File:Propyläen Königsplatz.jpg | thumb | 300px | Propylaea at Königsplatz ]] 
+{{marker | type=go | name=Munich Central Bus Station | lat=48.142 | long=11.550 }} (''ZOB'': Zentraler Omnibus Bahnhof) is the south edge of this district next to Hackerbrücke S-Bahn station. All long distance buses arrive and depart here, see [[Munich#Get in]] for connections and station facilities.
+
+=== By road ===
+
+It's easy to reach this area by car outside of rush hour, just follow signs for city centre and Hauptbahnhof. But parking is notoriously scarce for non-residents, check ahead with your accommodation. 
+
+By bicycle from outlying parts is straightforward, many streets have bike lanes. The trick is to avoid getting stuck in tramlines.
+
+== Get around ==
+
+Walking is almost always the best option, as most places of interest are within a one-km strip between Königsplatz and the university. Taking the U-Bahn will often involve a ride into Karlsplatz to change lines and come out again.
+
+== See ==
+
+=== Königsplatz / Kunstareal ===
+[[File:Barberini_Faun_front_Glyptothek_Munich_218_n2.jpg | thumb | 300px | Roman sculpture in the Glyptothek ]]
+: This is a quarter of grand museums and galleries, near Königsplatz and reached by that U-Bahn station.  
+* '''Königsplatz''' itself is a wide-open square surrounded by classicist buildings. Planned as the "Athens on the Isar", it was framed on three sides by the Doric Propylaea (''Propyläen''), the Ionic ''Glyphothek'', and the Corinthian ''Antikensammlung''. During the Third Reich in Germany several structures were added on the once open side of the square, some of which still exist today. The square is now used as a venue for open-air concerts and an open-air cinema during summer. 
+* {{see
+| name=Glyptothek | alt= | url=https://www.antike-am-koenigsplatz.mwn.de/glyptothek/ | email=
+| address=Königsplatz 3 | lat=48.1466 | long=11.5658 | directions=U-Bahn U2: Königsplatz
+| phone=+49 89 286100 | tollfree= | fax=
+| hours=Tue Wed, Fri-Sun 10:00-17:00, Thu 10:00-20:00 | price=Adult €6, concessions €4, Sundays: €1
+| wikipedia=Glyptothek | image=Glyptothek,_Königsplatz,_Múnich,_Alemania02.JPG | wikidata=Q162077 | lastedit=2022-10-28
+| content=This houses King Ludwig I's huge collection of Greek and Roman sculpture: he was determined to make Munich into a new Athens, if necessary by removing the original Athens piece by piece. The principal sculptures are the Aeginetes, excavated in the 19th century from the temple on the island of [[Aegina]]. The building, in neo-classical style of course, was completed in 1830. It was bombed out during the Second World War but the sculptures had been taken to safety. There's an attractive courtyard with cafe. 
+}}
+* {{see
+| name=State Collections of Antiques | alt=Antikensammlungen | url=https://www.antike-am-koenigsplatz.mwn.de/index.php/ | email=
+| address=Königsplatz 1 | lat=NA | long=NA | directions=facing Glyptothek 
+| phone=+49 89 599 88830 | tollfree= | fax=
+| hours=Tue Thu-Sun 10:00-17:00, Wed 10:00-20:00 | price=Same ticket as Glyptothek | lastedit=2022-10-30
+| content=This began as an exhibition venue but is now effectively an annexe of Glyptothek, housing yet more of Ludwig I's vast collection. The focus here is on "minor arts" and it has  huge numbers of Greek and Etruscan vases. 
+}}
+* {{see
+| name=Lenbachhaus | alt= | url=https://www.lenbachhaus.de/ | email=
+| address=Luisenstraße 33 | lat=NA | long=NA | directions=U-Bahn U2: Königsplatz; next to Glyptothek
+| phone=+49 89 233 96933 | tollfree=
+| hours=Thu 10:00-20:00, Fri-Sun, Tue Wed 10:00-18:00 | price=Adult €10, concessions €5
+| wikipedia=Lenbachhaus | image=Lenbachhaus Munich 2013.jpg | wikidata=Q262234
+| lastedit=2022-10-29
+| content=A large Italianate villa completed in 1891, with a striking modern extension of metal tubes, this houses modern and contemporary art. They take up the story in the mid 19th century with Gothic and romantic paintings, moving on to the Expressionists, with a strong showing by the ''Der Blaue Reiter'' group which included Kandinsky. And lots more from later, such as Beuys.
+}}
+* {{see
+| name=Palaeontological Museum | alt= | url=https://bspg.snsb.de/palaeontologisches-museum-muenchen/ | email=
+| address=Richard-Wagner-Straße 10 | lat=48.1476 | long=11.5638 | directions=U-Bahn U2: Königsplatz
+| phone=+49 89 218 06630 | tollfree=
+| hours=Mon-Thu 08:00-16:00, Fri 08:00-14:00 | price=Free
+| wikipedia=Paläontologisches Museum München | image=Palaeontology_Museum_Munich.jpg | wikidata=Q473832
+| lastedit=2022-10-24
+| content=Lots of fossils including Archaeopteryx, Triceratops and Saber-toothed Cat. The museum itself is an interesting building, on three floors but an hour is plenty to see it all.
+}}
+* '''Geological Museum''' is shown separately on some maps, but it's simply the east wing of the Palaeontological Museum, facing Königsplatz. 
+* '''Richard-Wagner-Straße''' from Lenbachshaus past the Palaeontological Museum is one of the few central streets relatively unscathed by wartime bombing, so its houses are 1890s originals in "historicism" style. One casualty however was Wagner's own villa at the foot of the street, corner with Brienner Straße, his home from 1864 to 1871. That got bombed and was not rebuilt.
+* {{see
+| name=Alte Pinakothek | alt= | url=https://www.pinakothek.de/besuch/alte-pinakothek | email=
+| address=Barer Straße 27 | lat=48.1483 | long=11.57 | directions=Tram 27, 28: Pinakotheken
+| phone=+49 89 238 05216 | tollfree=
+| hours=Tue Wed 10:00-20:30, Fri-Sun 10:00-18:00 | price=Adult €7, concession €5, Sundays €1
+| wikipedia=Alte Pinakothek | image=Alte_Pinakothek.jpg | wikidata=Q154568
+| lastedit=2022-10-28
+| content=Contains hundreds of great European masterworks dating from the 14th to the 18th centuries, including the largest Rubens collection in the world. Café Klenze is its pleasant bakery cafe. 
+}}
+* {{see 
+| name=Museum of Egyptian Arts | alt=Staatliches Museum Ägyptischer Kunst | url=https://smaek.de/ | email=
+| address=Gabelsbergerstraße 35 | lat=NA | long=NA | directions=opposite Alte Pinakothek
+| phone=+49 89 289 27630 | tollfree= | fax=
+| hours=Wed-Sun 10:00-18:00, Tue 10:00-20:00 | price=Adult €7, concessions €5, Sundays €1 
+| wikipedia=Staatliche Sammlung für Ägyptische Kunst | image=Gabelsbergerstraße 33–35 München-2.jpg | wikidata=Q464872
+| lastedit=2022-10-30 
+| content=Museum with classical Egyptian antiquities. 
+}}
+[[File:Lenbachhaus Munich 2017.jpg | thumb | 300px | The modern wing of Lenbachhaus ]]
+* {{see
+| name=Neue Pinakothek | alt= | url=https://www.pinakothek.de/en/neue-pinakothek | email=
+| address=Barer Straße 29 | lat= | long= | directions=next to Alte Pinakothek
+| phone=+49 89 238 05195 | tollfree=
+| hours=Closed | price= | lastedit=2025-02-12
+| content=Wonderful collection including 19th-century big-name European paintings and sculptures. Closed for renovation until 2029.
+}}
+* {{see
+| name=NS-Dokumentationszentrum | alt= | url=https://www.nsdoku.de/ | email=
+| address=Max Mannheimer Platz 1 | lat= | long= | directions=Tram to Karolinenplatz
+| phone=+49 89 233 67000 | tollfree= | fax= | hours=Tue-Sun 10:00-19:00 | price=Free | lastedit=2022-10-29 
+| content=Documenting the deeds of the Nazis in Munich - it's a sort of inverse Yad Vashem, ensuring that the names and acts of the perpetrators are faithfully chronicled for all time. It's text-heavy, with translations, so it's an immersive collection if you're comfortable with that style. 
+}}
+* {{see
+| name=Pinakothek der Moderne | alt= | url=https://www.pinakothek-der-moderne.de/ | email=
+| address=Barer Straße 40 | lat=48.1472 | long=11.5721 | directions=Tram 27, 28: Pinakotheken
+| phone=+49 89 238 05360 | tollfree= | fax=
+| wikipedia=Pinakothek_der_Moderne | image=PinamodernBRI3860.jpg | wikidata=Q250195
+| hours=Tue Wed, Fri-Sun 10:00-18:00, Thu 10:00-20:00 | price=Adult €10, concessions €7, Sundays €1 | lastedit=2022-10-30 
+| content=Huge display of 20th and 21st century art and design. 
+}}
+* {{see | name=Die Neue Sammlung | alt= | url=https://dnstdm.de/ | email= | address=Barer Straße 40 | lat= | long= | directions=same building as Pinakothek der Moderne | phone=+49 89 272 725560 | tollfree= | fax= | hours=Tue Wed Fri-Sun 10:00-18:00, Thu 10:00-20:00 | price=Free | lastedit=2022-10-30 | content=Museum of industrial design.   
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{see
+| name=State Mineralogical Collection | alt=Museum Reich der Kristalle | url=https://msm.snsb.de/ | email=
+| address=Theresienstraße 41 | lat=NA | long=NA | directions=next to Pinakothek der Moderne 
+| phone=+49 89 218 04312 | tollfree= | fax=
+| hours=Tue-Sun 13:00-17:00 | price=Adult €5, concessions €3
+| wikipedia=Museum Reich der Kristalle | image=München Museum Reich der Kristalle.JPG | wikidata=Q1792764
+| lastedit=2022-10-30 
+| content=A collection of minerals including gemstones and meteorites.
+}}
+* {{see
+| name=Museum Brandhorst | alt= | url=https://www.museum-brandhorst.de/ | email=
+| address=Theresienstraße 35a | lat=48.1478 | long=11.5740 | directions=Tram 27, 28: Pinakotheken
+| phone=+49 89 238 052286 | tollfree= | fax=
+| hours=Thu 10:00-20:00, Tue Wed Fri-Sun 10:00-18:00 | price=Adult €7, concession €5, under 18 free, Sunday €1
+| wikipedia=Museum_Brandhorst | image=Museum Brandhorst München, südwestliche Seite-7625.jpg | wikidata=Q258597
+| lastedit=2022-10-29
+| content=Opened in 2009, this has a permanent collection of modern and contemporary paintings, sculptures and installations, especially by Andy Warhol and Cy Twombly.
+}}
+* {{see
+| name=St Boniface's Abbey | alt=Abtei St Bonifaz | url=https://www.sankt-bonifaz.de/ | email=
+| address=Karlstraße 34 | lat=48.1441 | long=11.5642 | directions=U-Bahn U2: Königsplatz
+| phone= | tollfree= | fax= | hours=Sun 10:00-12:00, Mon-Fri 08:00-17:00 | price=Free | wikipedia=St. Boniface's Abbey | lastedit=2022-10-30  
+| content=This Benedictine abbey was founded in 1835 by King Ludwig I to renew his realm's spiritual life, while in no way impeding his liaison with dancing girls. Bombed during World War II, it was only partially rebuilt. The church holds regular services and the king is buried here, as is his queen Therese of Saxe-Hildburghausen. 
+}}
+* {{marker | name=Karolinenplatz | type=see | lat=48.1447 | long=11.5691 }} (''Tram 27, 28: Karolinenplatz'') is the circle at the intersection of Brienner Straße and Barer Straße. The 29 m black obelisk commemorates the 30,000 Bavarian soldiers killed during Napoleon's 1812 invasion of Russia.  
+
+=== Ludwigstraße ===
+[[File:Centrosaurus in Munich Palaeontology Museum.jpg | thumb | 300px | Centrosaurus in the Palaeontological Museum]]
+: Ludwigstraße is the boulevard forming the east boundary of this district, with Universität U-Bahn station midway. Another 200 m further east is the English Garden. 
+* {{marker | name=Odeonsplatz | type=see | lat=48.1422 | long=11.5775 }} the south terminus of the boulevard is described as part of [[Munich/Altstadt#See | Altstadt]], along with the nearby Hofgarten, Residenz and Wittelsbacherplatz. The grand statue of Ludwig on horseback was created in 1862. 
+* {{see
+| name=St Ludwig | alt= | url=https://www.st-ludwig-muenchen.de/ | email=
+| address=Ludwigstraße 22 | lat=48.1489 | long=11.5812 | directions=U-Bahn U3, U6: Universität
+| phone=+49 89 287 7990 | tollfree= | fax=
+| hours=Daily 08:00-20:00 | price=Free | lastedit=2022-10-30  
+| content=This Roman Catholic church is opposite the main building of the University of Munich (LMU Munich). It's in Romanesque style, and features the second-largest altar fresco in the world. No, they didn't sanctify the king, the dedication is to Saint Louis IX of France, patron saint of Bavaria, and "Louis" in German is Ludwig.  
+}}
+* '''Geschwister-Scholl-Platz''' 100 m north of Universität U-Bahn station is a circular plaza with two large fountains, surrounded by the university main campus.
+* {{marker | name=Siegestor | type=see | lat=48.1506 | long=11.5814 }} is a triumphal arch originally dedicated to the glory of the Bavarian army, completed in 1852. Seeking to outdo Berlin's Brandenburg Gate, the chariot-hauling ''quadriga'' are lions not horses. Arch, city and army were all smashed in World War II, so it was reconstructed as a monument to peace. The arch marks the north terminus of Ludwigstraße: beyond is Leopoldstraße, described as part of [[Munich/North | northern Munich]], with its giant Walking Man.
+* {{marker | name=Georg-Elser-Platz | type=see | lat=48.1509 | long=11.5767 }} (''U-Bahn U3, U6: Universität'') commemorates the man who almost wiped out Hitler and the Nazi High Command on 8 Nov 1939. That was the anniversary of the founding of the Party, and Hitler came to give a speech at the beerhall where it all started. Elser placed a bomb near the speech podium, but Hitler concluded his speech early and left - fog had grounded his return flight to Berlin so he needed to start back early by private train. The bomb killed 8 and injured another 62, but the Nazi inner circle escaped by ten minutes. Elser was later caught trying to cross into Switzerland. The Gestapo tortured the plot out of him and it appears he acted alone. He was sent to Dachau but only shot when Germany's defeat was imminent.
+
+=== Elsewhere === 
+* {{marker | name=Old Botanic Garden | type=see | lat=48.1418 | long=11.5644 }} is 100 m north of Hauptbahnhof and Stachus stations. It was established in 1809, but in 1914 the botanic collection moved out to Nymphenburg (where it remains) so this area became a park. Its Glass Palace exhibition centre burned down in 1931 but there remains the neo-Classic gate, the Fountain of Neptune, and Kunstpavilion a small art exhibition hall. There's also a restaurant [https://www.das-kriminal-dinner.de/krimidinner-tatorte/ Kriminal Dinner] and [https://www.parkcafe089.de/ Park Cafe].
+* '''Justizpalast''' is the pompous building south side of the garden, the chief law courts. 
+* {{marker | name=Old North Cemetery | type=see | lat=48.154 | long=11.570 }} ("Alter Nordfriedhof") was in use 1869-1944 so it has many turn-of-the century funerary monuments.
+* '''St Josephs''' is by the north tip of the cemetery near Josephsplatz U-Bahn station. It's neo-baroque and was completed in 1902. 
+* {{see
+| name=St Benno's | alt= | url=http://www.st-benno-muenchen.de/ | email=
+| address=Ferdinand-Miller-Platz 1 | lat=48.152 | long=11.5528 | directions=Tram 20, 21, 22: Hochschule München
+| phone= | tollfree= | hours=Daily 08:00-19:00 | price=Free
+| wikipedia=Saint Benno's Church, Munich
+| lastedit=2022-10-31
+| content=This neo-Romanesque church was completed in 1895, one of a trio commissioned for the expanding district of Maxvorstadt. It was bombed in wartime but rebuilt to the original design. Outside, St Benno himself teeters on a column, and the statue of a fish with a key in its mouth recalls his days as 11th century Bishop of Meissen. He kept siding with the wrong king and the wrong pope, and when ousted hurled the cathedral keys into the Elbe. But later they turned up in his fish supper, whereupon regal order, apostolic succession and church access were serenely restored.
+}}
+
+== Do ==
+[[File:Kronebau night.jpg | thumb | 300px | Circus Krone ]]
+* {{do
+| name=Astor Film Lounge | alt=ARRI cinema | url=https://muenchen.premiumkino.de/ | email=
+| address=Türkenstraße 91 | lat=48.1532 | long=11.5777 | directions=Tram 27, 28: Schellingstraße
+| phone=+49 180 544 9966 | tollfree= | fax=
+| hours= | price= | lastedit=2022-11-02 
+| content=Plush repertory cinema within the building of camera manufacturer ARRI.
+}}
+* {{do
+| name=Cinema Filmtheater | alt= | url=https://www.cinema-muenchen.com/ | email=
+| address=Nymphenburger Straße 31 | lat=48.1483 | long=11.5531 | directions=U-Bahn U1, U7: Stiglmaierplatz
+| phone=+49 89 555255 | tollfree= | fax=
+| hours= | price= | lastedit=2022-11-02 
+| content=Top choice for anglophones, as it only screens original version English language films.
+}}
+* '''[https://www.loewenbraeu.de/ Löwenbräu brewery]''' is opposite their beer hall on Nymphenburger Straße, see below. As of 2022, they only offer tours to pre-arranged groups of ten or more.
+* '''[https://franziskaner-weissbier.de/ext/visitorcenters/de/index Spaten & Franziskaner Brewery]{{Dead link|date=March 2026 |bot=InternetArchiveBot }}''' is at Marsstraße 46, 500 m north of Hauptbahnhof. As of 2022, they only offer tours to pre-arranged groups of ten or more (€25 pp for 90 min) and don't have a beer hall.  
+* {{do
+| name=Circus Krone | url=https://www.circus-krone.com/ | email=
+| address=Marsstraße 43 | lat=48.1454 | long=11.5502 | directions=U-Bahn U1, U7: Stiglmaierplatz
+| phone=+49 89 545 8000 | tollfree= | fax= 
+| hours= | price= | lastedit=2022-10-31 
+| content=This is the winter venue for this spectacular circus troupe. In summer they tour Germany, and other concerts and events are staged here. 
+}}
+* '''[http://www.streetlife-festival.de/ Streetlife Festival]{{Dead link|date=June 2023 |bot=InternetArchiveBot }}''' is held along Ludwigstraße, traditionally on the first weekend in June and second weekend in September. It's a southern extension of the [[Munich/North#Do | Corso Leopold]] street fair held along Leopoldstraße. Corso has resumed post-Covid but as of 2022 Streetlife Festival has not.
+
+== Buy ==
+[[File:St. Ludwig München 07.jpg | thumb | 300px | The altar fresco in St Ludwig ]]
+* {{buy | name=Daller Tracht | alt= | url=https://daller-tracht.de/muenchen | email= | address=Schleißheimer Straße 6-10 | lat= | long= | directions=U-Bahn U1, U7 & Tram 20, 21, 22: Stiglmaierplatz; next to Löwenbräukeller | phone=+49 89 579 30834 | tollfree= | hours=Mon-Sat 10:00-18:00 | price= | lastedit=2022-10-30 | content=This large store is the place to get gussied up in traditional Bavarian outfits - they stock men's stuff such as ''Lederhosn'' and trad dresses (''Dirndl''). The range is from economical to top-notch.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{buy
+| name=Munich Readery | alt= | url=http://www.readery.de/ | email=
+| address=Augustenstraße 104 | lat=| long= | directions=U-Bahn U2: Theresienstraße; one block south of Alter Nordfriedhof
+| phone=+49 89 121 92403 | tollfree=
+| hours=Mon-Fri 11:00-20:00, Sat 10:00-18:00 | price=
+| lastedit=2022-11-02
+| content=This is the largest English-language book shop in Germany. Mostly second hand but they also stock new titles.
+}}
+* {{buy
+| name=Quittenbaum Art Auctions | alt= | url=https://www.quittenbaum.de/ | email=
+| address=Theresienstraße 60 | lat= | long= | directions=Tram 27, 28: Pinakotheken; opposite Brandhorst Museum
+| phone=+49 89 273 702125 | tollfree=
+| hours=Tue-Fri 10:00-13:00, 15:00-18:00 | price=
+| lastedit=2022-10-30
+| content=If you want some fine art for yourself, or to watch an auction where prices routinely exceed €100,000, then visit this auctioneer.
+}}
+* {{buy
+| name=Second Hand Sports | alt= | url=https://www.secondhandsports.de/ | email=
+| address=Nymphenburger Straße 25 | lat= | long= | directions=U-Bahn U1, U7: Stiglmaierplatz; next to Cinema München OV
+| phone=+49 89 597074 | tollfree=
+| hours=Tue-Fri 10:00-19:00, Sat 10:00-16:30 | price=
+| lastedit=2022-10-30
+| content=Large range of second hand sporting goods, especially used bikes, skis and snowboards.
+}}
+* {{buy
+| name=Words' Worth | alt= | url=http://www.wordsworth.de/ | email=
+| address=Schellingstraße 3 | lat= | long= | directions=U-Bahn U3, U6: Universität; 100 m west of St Ludwig
+| phone=+49 89 280 9141 | tollfree= | fax=
+| hours=Mon-Fri 10:00-19:00, Sat 10:00-16:00 | price= | lastedit=2022-10-31
+| content=This store just off Ludwigstraße has a good selection of English fiction and non-fiction titles. Some reckon the Readery (above) is better on price and range.
+}}
+
+== Eat ==
+[[File:Siegestor Munich at Dusk.JPG | thumb | 300px | Siegestor at dusk ]]  
+: The main eating strip is around the university, a block or so from Ludwigstraße the main boulevard. Walking west the streets are Amalienstraße, Türkenstraße and Barer Straße.
+: Plenty more further west along Schellingstraße, though not as densely concentrated. 
+* {{eat
+| name=Alter Simpl | alt= | url=https://www.altersimpl.de/ | email=
+| address=Türkenstraße 57 | lat= | long= | directions=U-Bahn U3, U6: Universität; facing Georg-Elser-Platz
+| phone=+49 89 272 3083 | tollfree=
+| hours=Mon-Thu 17:00-00:00, Fri-Sun 11:00-01:00 | price=
+| lastedit=2022-10-31
+| content=Trad restaurant in the university quarter with a student and arty atmosphere.
+}}
+* {{eat
+| name=Rossini | alt= | url=https://www.rossinifilm.de/ | email=
+| address=Türkenstraße 76 | lat= | long= | directions=U-Bahn U3, U6: Universität; next to Georg-Elser-Platz
+| phone=+49 89 330 94270 | tollfree= | fax=
+| hours=Mon-Fri 12:00-14:30, 18:30-23:00, Sat 18:30-23:00 | price= | lastedit=2022-10-31
+| content=Decent enough Italian, but it's trading on its hour of fame (as are some of its older clientele) as the setting for ''Rossini'' the 1997 film comedy of vanities. This is definitely not to be confused with ''Rossini'' the 1942 film musical about the composer.
+}}
+* {{eat
+| name=Atzinger | alt= | url=https://www.atzingermuenchen.de/ | email=
+| address=Schellingstraße 9 | lat=48.1495 | long=11.5780 | directions=U-Bahn U3, U6: Universität
+| phone=+49 89 282880 | tollfree= | fax=
+| hours=Sun-Wed 12:00-23:00 Thu-Sat 12:00-01:00 | price= | lastedit=2022-10-31
+| content=Trad Bavarian cuisine plus your standard burgers and fries. Atmosphere and prices are aimed at students. 
+}}
+* {{eat | name=Pommes Boutique | alt= | url=http://www.pommesboutique.de/ | email= | address=Amalienstraße 46 | lat= | long= | directions=U-Bahn U3, U6: Universität; next to Atzinger | phone=+49 89 954 73312 | tollfree= | fax= | hours=Mon-Sat 10:00-22:00, Sun 12:00-20:00 | price= | lastedit=2022-10-31 | content=Fast food place with good Belgian fries and burgers. 
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{eat
+| name=Schall & Rauch | url=https://www.facebook.com/schallundrauchmuc | email=
+| address=Schellingstraße 22 | lat= | long= | directions=U-Bahn U3, U6: Universität; 50 m west of Atzinger 
+| phone=+49 89 288 09577 | tollfree= | fax=
+| hours=Sun-Thu 10:00-01:00, Fri Sat 10:00-02:00 | price= | lastedit=2022-10-31
+| content=Small cafe-bar by the university with a surprising selection of food. 
+}}
+* {{eat
+| name=Frida | alt= | url=http://www.frida10.de/ | email=
+| address=Steinheilstraße 10 | lat=48.1497 | long=11.565 | directions=U-Bahn U2: Theresienstraße
+| phone=+49 89 856 79075 | tollfree=
+| hours=Mon-Sat 18:00-01:00 | price=
+| lastedit=2022-10-31
+| content=Small restaurant serving snacks, burgers and desserts.
+}}
+* {{eat
+| name=Steinheil | alt= | url=https://www.steinheil16.de/ | email=
+| address=Steinheilstraße 16 | lat= | long= | directions=U-Bahn U2: Theresienstraße; next to Frida 
+| phone=+49 89 527488 | tollfree= | fax=
+| hours=10:00-01:00 | price= | lastedit=2022-10-31 
+| content=Serving trad food at budget prices for students, and their Schnitzels are huge.
+}}
+* {{eat
+| name=Luise 49 | alt= | url= | email=
+| address=Luisenstraße 49 | lat= | long= | directions=U-Bahn U2: Theresienstraße; by Hotel Theresia-Regina
+| phone=+49 89 642 99976 | tollfree=
+| hours=Mon-Fri 10:00-15:00 | price=
+| lastedit=2022-10-24
+| content=This tiny cafe barely holds ten people. The soups are delicious and the place is popular with students of the nearby TUM, so expect to wait a few minutes in line.
+}}
+* {{eat | name=Takumi | alt= | url=http://www.takumi-noodle.com/ | email= | address=Gabelsbergerstraße 77 | lat=48.1493 | long=11.5616 | directions=U-Bahn U2: Theresienstraße | phone= | tollfree= | hours=Wed-Sun 12:00-15:00, 17:00-21:00 | price= | lastedit=2022-10-31 | content=This ramen restaurant has moved round the block from its former abode on Heßstraße. It's a tiny place and waits of an hour to get in are common. They go heavy on the miso, shoyu or shio so some customers find meals over-salty.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{eat
+| name=Il Mulino | alt= | url=https://www.ristorante-ilmulino.de | email=
+| address=Görrestraße 1 | lat= | long= | directions=U-Bahn U2: Josephsplatz; 100 m south of St Joseph's church
+| phone=+49 89 523 3335 | tollfree= | fax=
+| hours=Daily 11:30-00:00 | price= | lastedit=2022-10-31
+| content=Value-for-money Italian, with standard pizza, pasta and fish.
+}}
+* '''[https://www.taverna-lakis.de/ Taverna Lakis]''' is a Greek restaurant 50 m west of Il Mulino. It's open Tu-Sa 16:00-00:00, Su 12:00-00:00. 
+* {{eat
+| name=Brasserie Tresznjewski | alt= | url=http://www.tresznjewski.com/ | email=
+| address=Theresienstraße 72 | lat= | long= | directions=by Neue Pinakothek 
+| phone=+49 89 282349 | tollfree=
+| hours=Sun-Thu 10:00-23:00, Fri Sat 10:00-00:00 | price=
+| lastedit=2022-10-31 
+| content=Trad fare including late breakfasts.
+}}
+
+== Drink ==
+[[File:Löwenbräukeller at night.jpg | thumb | 300px | Löwenbräukeller ]]
+=== Beer Gardens ===
+
+* {{drink
+| name=Augustiner-Keller | alt= | url=https://www.augustinerkeller.de/en | email=
+| address=Arnulfstraße 52 | lat=48.1435 | long=11.5521 | directions=100 m north of bus station
+| phone=+49 89 594393 | tollfree= | fax=
+| hours=Daily 11:00-23:00 | price= | lastedit=2022-11-02 
+| content=This brewery was first documented in 1328, within the Augustinian monastery next to Frauenkirche, where they nowadays run a restaurant. The monastery was dissolved in 1803 (no, not in the beer) and the business has mostly been in private ownership since, on various near-centre sites - they've not followed the modern trend of an edge-of-city industrial park. Their beers are popular in south Germany but little is exported, so tuck in here. Augustiner took over an existing beer garden here in 1862 and expanded it into a 5000-seater: this is open April-Oct, while the beer hall and restaurant are year-round. No brewery tours, they no longer use an ox-driven winch to hoist the beer barrels, and there are no more public hangings of army deserters, so you'll just have to gawp at your phone if conversation fails. 
+}}
+* {{drink | name=Löwenbräukeller | alt= | url=https://www.loewenbraeukeller.com/ | email= | address=Nymphenburgerstraße 2 | lat=48.1484 | long=11.5585 | directions=U-Bahn U1, U7: Stiglmaierplatz | phone=+49 89 998 209185 | tollfree= | hours=Daily 11:30-00:00 | price= | lastedit=2022-11-02 | content=This brewery was founded in 1383, perhaps on Löwengrube near Frauenkirche - "Löwen" means lions. From 1826 to 1851 production migrated to its present site, with the Bräukeller across the street opened in 1883. The company grew by acquisition and has always exported strongly, with some brewing under license elsewhere, so it's the best-known German brand abroad. The traditional beer garden and beer hall seats 2000 and draws many foreign visitors. Brewery tours available, see "Do".
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+
+=== Bars & pubs ===
+
+* {{drink
+| name=Bar Sehnsucht | alt= | url=http://www.bar-sehnsucht.de/ | email=
+| address=Amalienstraße 26 | lat= | long= | directions=Tram 27, 28: Pinakotheken; opposite Leonardo Hotel
+| phone= | tollfree= | hours=Tue-Thu 18:00-01:00, Fri Sat 18:00-03:00 | price=
+| lastedit=2022-10-29
+| content=A bar with a unique interior - motorcycles on the wall, red velvet couches in the corners and bras hanging from the ceiling lights. It fills up fast at weekends, so get here early.
+}}
+* {{drink
+| name=Cafe Kosmos | alt= | url=http://www.cafe-kosmos.de/ | email=
+| address=Dachauerstraße 7 | lat= | long= | directions=100 m north of Hauptbahnhof
+| phone=+49 89 552 95867 | tollfree=
+| hours=Mon-Fri 12:00-01:00, Sat Sun 18:00-03:00 | price=
+| lastedit=2022-11-02
+| content=Lively friendly cafe-bar, popular with those staying in the nearby hostel strip, and it gets very full after dark.
+}}
+* {{drink
+| name=Home Munich | alt= | url=https://home-munich.bar/ | email=info@home-munich.bar
+| address=Amalienstraße 23 | lat= | long= | directions=U-Bahn U3, U6: Universität; next to Leonardo Hotel
+| phone=+49 174 5706487 | tollfree=
+| hours=Tue-Thu 18:00-01:00, Fri Sat 18:00-03:00 | price=
+| lastedit=2022-10-24
+| content=Cozy retro bar decorated with living room and industrial items. Some staff think "cool" means unpleasant.
+}}
+* {{drink | name=Moejo 91 | alt= | url=https://www.moejo91.com/ | email=mojo91@gmx.de | address=Schellingstraße 91 | lat=48.1522 | long=11.5689 | directions=U-Bahn U2: Theresienstraße | phone=+49 89 200 90691 | tollfree= | hours=Sat 20:00-03:00 | price= | lastedit=2022-11-02 | content=Themed on a dockland pub. It's mostly an event venue, booked out to private parties, individual visitors have variable experience.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{drink | name=Salon Irkutsk | url=https://www.salonirkutsk.com/ | email= | address=Isabellastraße 4 | lat=48.1556 | long=11.5703 | directions=U-Bahn U2: Josephsplatz | phone=+49 152 597 15418 | tollfree= | fax= | hours=Sun-Thu 17:00-01:00, Fri Sat 17:00-03:00 | price= | lastedit=2022-10-31 | content=The bar is a blend of a live club with an art gallery, with Russian snacks. 
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{drink
+| name=Alter Ofen | alt= | url=http://www.alter-ofen.de/Willkommen.html | email=
+| address=Zieblandstraße 41 | lat=48.1541 | long=11.565 | directions=U-Bahn U2: Theresienstraße
+| phone=+49 89 527527 | tollfree=
+| hours=Daily 18:00-01:00 | price=
+| lastedit=2022-10-31
+| content=Pub with a vintage interior and inexpensive food and drink.
+}}
+* {{drink
+| name=Stadion an der Schleißheimer Straße | url=http://stadionanderschleissheimerstrasse.de/ | email=
+| address=Schleißheimer Straße 82 | lat=48.1539 | long=11.5612 | directions=U-Bahn U2: Theresienstraße
+| phone=+49 89 529736 | tollfree= | fax=
+| hours=Tue-Fri 18:30-00:00, Sat 12:30-00:00, Sun 13:00-22:00 | price= | lastedit=2022-10-31
+| content=Lively football pub, mobbed when Bayern Munich or UEFA Champions League games are on.
+}}
+
+=== Clubs and discos ===
+[[File:Rote Sonne Nightclub Munich 2.jpg | thumb | 300px | Rote Sonne ]]
+
+* {{drink
+| name=Rote Sonne | url=https://www.rote-sonne.com/ | email=info@rote-sonne.com 
+| address=Maximiliansplatz 5 | lat=48.1421 | long=11.5701 | directions= S1,S2,S3,S4,S6,S7,S8, U4,U5: Karlsplatz (Stachus) 
+| phone=+49 89 552 63330 | hours=Fri Sat 23:00-08:00 | wikidata=Q2168249 | wikipedia=de:Rote Sonne (Club) 
+| lastedit=2022-10-30 
+| content=Legendary techno club, many complaints of aggressive bouncers. 
+}}
+* {{drink
+| name=Pacha Munich | url=https://pacha-muenchen.de/ | email=club@pacha-muenchen.de 
+| address=Maximiliansplatz 5 |lat=48.142121| long=11.569822 | directions=same building as Rote Sonne
+| phone=+49 174 314 1114 | hours=Wed-Sat 22:00-06:00 
+| lastedit=2022-10-30 
+| content=This fashionable techno and house club is the Munich franchise of the Pacha brand. 
+}}
+* {{drink
+| name=Call Me Drella | alt= | url=http://drella.de | email=
+| address=Max-Joseph-Straße 1 | lat= | long= | directions=same block as Rote Sonne
+| phone=+49 89 599 888969 | tollfree= | fax=
+| hours=Tue-Sat 22:00-05:00 | price= 
+| lastedit=2022-10-30
+| content=Arty club with live performances all night long. Dress to impress, age minimum 22. There's a quieter outside area for conversation. Seems to have become [https://discobox.de Discobox], check what to expect.
+}}
+* {{drink
+| name=Drunken Monkey | alt= | url=https://enterthedragon.de/location/music-club/ | email=booking@enter-the-dragon.com
+| address=Lenbachplatz 1 | lat=48.141046 | long=11.566613 | directions=U-Bahn: S-Bahn & U-Bahn U4, U5: Karlsplatz (Stachus)
+| phone=+49 1575 1593881 | tollfree= | hours=Closed | price=
+| lastedit=2022-10-31
+| content=Small and cozy electronic music club decked with hundreds of colorful light bulbs in the basement of ''Enter The Dragon'' Vietnamese restaurant.
+}}
+* {{drink
+| name=Lost Weekend | alt= | url=https://lostweekend.de | email=post@lostweekend.de
+| address=Schellingstraße 3 | lat=48.149102 | long=11.579668 | directions=U-Bahn: U3,U6 Universität; opposite St Ludwig
+| phone=+49 89 287 01881 | tollfree=
+| hours=Mon-Thu 09:00-00:00, Fri 09:00-02:00, Sat 11:00-02:00, Sun 11:00-17:00 | price=
+| lastedit=2022-10-31
+| content=Daytime this is a coffee shop, vegan cafe and bookshop. Around 20:00 it morphs into a live performance venue with jazz, rock, blues and electro.
+}}
+[[File:Minna Thiel Munich 1.jpg | thumb | 300px | Minna Thiel ]]
+* {{drink
+| name=Minna Thiel | alt= | url=https://minnathiel.de/ | email=minna@bahnwaerterthiel.de
+| address=Gabelsbergerstraße 1 |lat=48.147014 |long=11.569405  | directions=U-Bahn U1, U2, U8: Königsplatz; opposite Alte Pinakothek
+| phone=+49 89 452 15063 | tollfree=
+| hours=Tue-Thu 16:00-00:00, Fri 16:00-02:00, Sat 14:00-02:00, Sun 12:00-22:00 | price=
+| image=Minna Thiel Munich 1.jpg
+| lastedit=2022-10-28
+| content=Small canopied beer-garden centred on an old railbus, along with a cargo container and telephone booth, with live music and DJs.
+}}
+* {{drink
+| name=Palais Club | alt= | url=https://palaisclub.de/ | email=info@palaisclub.de
+| address=Arnulfstraße 16-18, 80335 München |lat=48.141919 | long=11.558181 | directions=north side of Hauptbahnhof
+| phone=+49 89 500 73131 | tollfree=
+| hours=Fri Sat 20:00-10:00 | price=
+| lastedit=2022-10-28
+| content=Popular techno club with plushy red charm. Free entry until midnight, and it only starts getting populated then.
+}}
+* {{drink
+| name=Sauna | alt= | url=http://s-a-u-n-a.de/ | email=
+| address=Marsstraße 22 | lat= | long= | directions=100 m north of Hauptbahnhof next to Kings Hotel Center
+| phone=+49 170 4712311 | tollfree=
+| hours=Wed-Sat 22:00-05:00 | price=
+| lastedit=2022-10-31
+| content=The clue's in the name: it's hot and steamy, with people packed together. Music is 1980s and 90s.
+}}
+* {{drink
+| name=Tumult | alt= | url=https://www.tumultmuc.de/ | email=
+| address=Blütenstraße 4 | lat=48.1519 | long=11.5761 | directions=Tram 27, 28: Schellingstraße
+| phone=+49 89 289 32343 | tollfree=
+| hours=Mon-Thu 20:00-01:00, Fri Sat 20:00-03:00 | price=
+| lastedit=2022-10-31
+| content=Underground punk club, a rarity in Munich, with clientele to match the music.
+}}
+
+== Sleep ==
+
+=== Budget ===
+
+* {{sleep | name=The 4You | alt= | url=http://www.the4you.de/en/munich/ | email= | address=Hirtenstraße 18 | lat=48.1424 | long=11.5579 | directions=100 m north of main railway station | phone= | tollfree= | checkin= | checkout= | price=Dorm bunk €21 | lastedit=2022-10-02 | content=Clean well-run hostel in good central location. The hostel has its own bar and bike rental.
+}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}
+* {{sleep
+| name=A&O Hostel München Hackerbrücke | alt= | url=https://www.aohostels.com/de/muenchen/muenchen-hackerbruecke/ | email=
+| address=Arnulfstraße 102 | lat=48.1456 | long=11.5411 | directions=Tram: Marsstraße 
+| phone=+49 89 452359 5800 | tollfree=
+| checkin= | checkout= | price=Dorm bunk €22
+| lastedit=2022-10-02
+| content=Basic but well-run chain hostel, good value for what you're paying. 
+}}
+* {{sleep
+| name=Hotel Pension Am Siegestor | alt= | url=https://www.siegestor.de/ | email=
+| address=Akademiestraße 5 | lat=48.1523 | long=11.5808 | directions=U-Bahn U3, U6: Universität
+| phone=+49 89 399550 | tollfree=
+| checkin= | checkout= | price=B&B double €110
+| lastedit=2022-10-02
+| content=Great reviews for comfort and welcome at this B&B next to the Siegestor.
+}}
+* {{sleep
+| name=Hotel-Pension Theresia Regina | alt= | url=http://www.hoteltheresia.de/e_index.htm {{dead link|December 2020}} | email=
+| address=Luisenstraße 51 | lat=48.1498 | long=11.5662 | directions=U-Bahn U2: Theresienstraße
+| phone=+49 89 521250 | tollfree=
+| checkin= | checkout= | price=
+| lastedit=2022-10-02
+| content=This remains closed in 2022.
+}}
+
+=== Mid-range ===
+[[File:AlterJustizpalast.jpg | thumb | 300px | Old Botanic Garden and Palace of Justice ]]
+* {{sleep
+| name=Leonardo Boutique Hotel München | alt= | url=https://www.leonardo-hotels.de/leonardo-boutique-hotel-munich | email=info.boutiquemuc@leonardo-hotels.com
+| address=Amalienstraße 25 | lat=48.1474 | long=11.5764 | directions=U-Bahn U3,U6: Universität
+| phone=+49 89 287870 | tollfree= | fax=
+| checkin= | checkout= | price=B&B double €130 | lastedit=2022-10-02
+| content=Older hotel near the university, some fittings tatty or broken. 
+}}
+* {{sleep
+| name=Hotel Antares | alt= | url=https://www.antares-muenchen.de/ | email=hotel@antares-muenchen.de
+| address=Amalienstraße 20 | lat= | long= | directions=facing Leonardo 
+| phone=+49 89 2800200 | tollfree=
+| checkin= | checkout= | price=B&B double €100
+| lastedit=2022-10-02
+| content=Small hotel convenient for the university.
+}}
+* '''[http://www.carlton-astoria.de/ Carlton Astoria]{{Dead link|date=February 2024 |bot=InternetArchiveBot }}''' is another mid-price option at Fürstenstraße 12, next to Antares and Leonardo. 
+* {{sleep
+| name=King's Hotel Center | alt= | url=https://www.kingshotels.de/de/hotel-muenchen-innenstadt-center | email=
+| address=Marsstraße 15 | lat=48.1430 | long=11.5583 | directions=
+| phone=+49 89 515830 | tollfree=
+| checkin= | checkout= | price=B&B double €100
+| lastedit=2022-10-01
+| content=Excellent place by the main railway station, saves you when you're stranded. 
+}}
+* {{sleep
+| name=ibis Munich City | alt= | url=https://all.accor.com/hotel/1450/index.en.shtml | email=
+| address=Dachauer Straße 21 | lat= | long= | directions=50 m north of King's Hotel First Class 
+| phone=+49 89 511930 | tollfree=
+| checkin= | checkout= | price=B&B double €100
+| lastedit=2022-10-02
+| content=Reliable Accor chain hotel 150 m north of the main railway station. 
+}}
+* {{sleep
+| name=Erzgiesserei Europe | alt=formerly Top Hotel  | url=https://www.europe-hotels-international.de/erzgiesserei-europe/hotel | email=
+| address=Erzgießereistraße 15 | lat=48.1503 | long=11.5534 | directions=U-Bahn U1, U7: Stiglmaierplatz
+| phone=+49 89 126820 | tollfree= | fax=
+| checkin= | checkout= | price=B&B double €150 | lastedit=2022-10-02 
+| content=This comfy four-star gets good reviews. With underground car park.
+}}
+* {{sleep
+| name=Citadines Arnulfpark | alt= | url=https://www.discoverasr.com/en/citadines/germany/citadines-arnulfpark-munich | email=
+| address=Arnulfstraße 51 | lat=48.1447 | long=11.5422 | directions=Tram to Marsstraße
+| phone=+49 89 9400800 | tollfree=
+| checkin= | checkout= | price=Double (room only) €90
+| lastedit=2022-10-02
+| content=Modern, comfortable and reasonably priced aparthotel. Parking is expensive, but that's inevitable this close to the city centre.
+}}
+
+=== Splurge ===
+* {{sleep
+| name=King's Hotel First Class | alt= | url=https://www.kingshotels.de/de/hotel-muenchen-zentrum-first-class | email=
+| address=Dachauer Straße 4 | lat=48.1433 | long=11.5599 | directions=200 m north of main railway station 
+| phone=+49 89 551870 | tollfree=
+| checkin= | checkout= | price=B&B double €120
+| lastedit=2022-10-01
+| content=Clean friendly place a short walk to Old Town. Not to be confused with King's Hotel Center 100 m further west. 
+}}
+* {{sleep
+| name=Charles Hotel | alt= | url=https://www.roccofortehotels.com/de/hotels-and-resorts/the-charles-hotel/ | email=
+| address=Sophienstraße 28 | lat=48.143 | long=11.5625 | directions=200 m north of main railway station
+| phone=+49 89 5445550 | tollfree=
+| checkin= | checkout= | price=B&B double €550
+| lastedit=2022-10-02
+| content=High standards at this Rocco Forte luxury hotel and spa, facing the Old Botanical Garden.
+}}
+
+== Connect ==
+As of Oct 2022, the entire city has 5G from all German carriers. Wifi (in German WLAN) is widely available in public places and on transport.
+
+== Go next ==
+* [[Munich/Altstadt | Altstadt]] is the unmissable heart of the city. Approaching on foot you come through its grand northern section around Odeonsplatz, then the medieval core clusters around Frauenkirche and Marienplatz. 
+* [[Munich/Ludwigsvorstadt-Isarvorstadt | Ludwigsvorstadt]] starts just south of Hauptbahnhof. The top attraction is Deutsches Museum, and Oktoberfest is also held in this district.
+* [[Munich/North]] covers a large area, from English Garden just east of the university quarter to Olympia and Nymphenburg Palace to the west.
+
+
+{{geo|48.145753|11.565375}}
+{{isPartOf|Munich}}
+{{guidedistrict}}

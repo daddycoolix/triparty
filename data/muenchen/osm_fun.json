@@ -1,0 +1,5468 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-11-17T23:38:51Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 18292180,
+  "lat": 48.1401759,
+  "lon": 11.5777603,
+  "tags": {
+    "access": "yes",
+    "addr:city": "München",
+    "addr:housenumber": "4",
+    "addr:postcode": "80539",
+    "addr:street": "Max-Joseph-Platz",
+    "amenity": "parking",
+    "capacity": "500",
+    "contact:phone": "+49 89 294 187",
+    "contact:website": "https://www.operngarage.de",
+    "description": "1st hour: 4€/h; further: 3.5€/h",
+    "fee": "yes",
+    "layer": "-1",
+    "name": "Operngarage",
+    "operator": "Münchner Hochgaragen GmbH",
+    "operator:type": "business",
+    "park_ride": "no",
+    "parking": "underground",
+    "supervised": "yes",
+    "toilets": "yes",
+    "toilets:fee": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 28106614,
+  "lat": 48.0930360,
+  "lon": 11.5238820,
+  "tags": {
+    "access": "private",
+    "amenity": "parking",
+    "layer": "-1",
+    "name": "Tiefgarage",
+    "parking": "underground"
+  }
+},
+{
+  "type": "node",
+  "id": 185599023,
+  "lat": 48.2284005,
+  "lon": 11.6765359,
+  "tags": {
+    "access": "yes",
+    "amenity": "parking",
+    "capacity": "ca. 50",
+    "fee": "Bis 30 min frei; bis 4h .5€; bis 7h 1€; ab 8h .5€/h",
+    "layer": "-1",
+    "maxstay": "48 hours",
+    "name": "Tiefgarage Ortsmitte",
+    "parking": "underground"
+  }
+},
+{
+  "type": "node",
+  "id": 207231587,
+  "lat": 48.1784355,
+  "lon": 11.3625398,
+  "tags": {
+    "leisure": "water_park",
+    "name": "Hallenbad Puchheim",
+    "toilets:wheelchair": "yes",
+    "water_park": "indoor",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 252280012,
+  "lat": 48.2687799,
+  "lon": 11.5830955,
+  "tags": {
+    "climbing:bolted": "2",
+    "climbing:boulder": "yes",
+    "climbing:grade:uiaa:min": "3",
+    "climbing:length:max": "11",
+    "climbing:length:min": "8",
+    "climbing:sport": "yes",
+    "contact:email": "Kletterbrocken_USH@dav-oberland.de",
+    "fee": "no",
+    "leisure": "pitch",
+    "name": "Kletterbrocken Unterschleißheim",
+    "operator": "Deutscher Alpenverein München & Oberland",
+    "sport": "climbing",
+    "website": "https://www.alpenverein-muenchen-oberland.de/kletterbrocken-unterschleissheim"
+  }
+},
+{
+  "type": "node",
+  "id": 258189085,
+  "lat": 48.2081308,
+  "lon": 11.5519269,
+  "tags": {
+    "addr:housenumber": "115",
+    "addr:street": "Weitlstraße",
+    "amenity": "pub",
+    "check_date": "2024-12-24",
+    "cuisine": "regional;german;bavarian",
+    "gambling": "slot_machines",
+    "name": "Zum Kuckuck Nochmal",
+    "opening_hours": "Mo-Sa 10:00-24:00; Su 10:00-22:00",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "sport": "billiards",
+    "website": "https://zumkuckuck-nochmal.de/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 269480851,
+  "lat": 48.1201198,
+  "lon": 11.4286819,
+  "tags": {
+    "access": "permissive",
+    "amenity": "parking_entrance",
+    "level": "-1",
+    "name": "Tiefgarage Bürgerhaus",
+    "parking": "underground",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 290722984,
+  "lat": 48.1173219,
+  "lon": 11.6554276,
+  "tags": {
+    "addr:city": "München",
+    "addr:country": "DE",
+    "addr:housenumber": "6",
+    "addr:postcode": "81825",
+    "addr:street": "Sankt-Augustinus-Straße",
+    "alt_name": "Rokkos",
+    "amenity": "restaurant",
+    "brewery": "Augustiner Bräu München",
+    "check_date:opening_hours": "2026-11-07",
+    "contact:email": "info@rokkos.de",
+    "contact:fax": "+49 89 54898176",
+    "contact:phone": "+49 89 54898175",
+    "cuisine": "international",
+    "name": "Rokko's Wirtshaus und Pension",
+    "opening_hours": "Mo-Su 11:00-01:00",
+    "sport": "10pin",
+    "website": "https://rokkos.de/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 290728996,
+  "lat": 48.2726728,
+  "lon": 11.5700794,
+  "tags": {
+    "amenity": "parking_entrance",
+    "maxheight": "2",
+    "name": "Tiefgarage Ortszentrum",
+    "opening_hours": "09:00-22:00",
+    "parking": "underground"
+  }
+},
+{
+  "type": "node",
+  "id": 290729049,
+  "lat": 48.2731476,
+  "lon": 11.5693179,
+  "tags": {
+    "amenity": "parking_entrance",
+    "maxheight:signed": "no",
+    "name": "Tiefgarage IAZ",
+    "parking": "underground"
+  }
+},
+{
+  "type": "node",
+  "id": 292913056,
+  "lat": 48.1434851,
+  "lon": 11.5877586,
+  "tags": {
+    "addr:city": "München",
+    "addr:postcode": "81675",
+    "addr:street": "Prinzregentenstraße",
+    "check_date": "2026-07-19",
+    "fee": "no",
+    "location": "river",
+    "man_made": "river_wave",
+    "name": "Eisbachwelle",
+    "name:de": "Eisbachwelle",
+    "name:en": "Eisbach surfer wave",
+    "opening_hours": "05:30-22:00",
+    "operator": "Landeshauptstadt München - Referat für Klima- und Umweltschutz",
+    "sport": "surfing",
+    "swimming": "no",
+    "tourism": "attraction",
+    "website": "https://www.muenchen.de/sehenswuerdigkeiten/top-sehenswuerdigkeiten/eisbach-surferwelle",
+    "website:regulation": "https://stadt.muenchen.de/dam/jcr:3f1a2e5e-54f1-4ca6-8c90-50af18e423f0/bekanntmachung_allgverf_surfen_eisbach.pdf",
+    "wheelchair": "limited",
+    "wheelchair:description": "Entweder Brücke über den Eisbach an der Prinzregentenstraße (Balustrade recht hoch - sonst unproblematisch) oder durch den englischen Garten (Weg z.T. wenig befestigt, aber von nicht ungeübten Rollstuhlfahrern auch ohne Begleitung befahrbar)"
+  }
+},
+{
+  "type": "node",
+  "id": 313546350,
+  "lat": 48.1747204,
+  "lon": 11.2451944,
+  "tags": {
+    "addr:city": "Fürstenfeldbruck",
+    "addr:country": "DE",
+    "addr:housenumber": "7",
+    "addr:postcode": "82256",
+    "addr:street": "Klosterstraße",
+    "leisure": "water_park",
+    "name": "AmperOase Fürstenfeldbruck",
+    "phone": "+49 8141 31280",
+    "website": "https://www.amperoase.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 315935180,
+  "lat": 48.1436043,
+  "lon": 11.5548246,
+  "tags": {
+    "access": "yes",
+    "addr:housenumber": "6",
+    "addr:street": "Hopfenstraße",
+    "amenity": "parking",
+    "capacity": "583",
+    "capacity:disabled": "8",
+    "capacity:women": "26",
+    "charge": "3 EUR/hour",
+    "check_date:charge": "2026-11-09",
+    "fee": "yes",
+    "layer": "-1",
+    "maxheight": "1.95",
+    "name": "Hopfenpost Garage",
+    "opening_hours": "Mo-Sa 06:30-21:00",
+    "operator": "Contipark",
+    "operator:type": "private",
+    "operator:wikidata": "Q54867477",
+    "parking": "underground",
+    "smoothness": "excellent",
+    "surface": "concrete",
+    "website": "https://www.contipark.de/de/parken/muenchen/tiefgarage-neue-hopfenpost/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 315953192,
+  "lat": 48.1515403,
+  "lon": 11.5453003,
+  "tags": {
+    "addr:city": "München",
+    "addr:country": "DE",
+    "addr:housenumber": "3",
+    "addr:postcode": "80636",
+    "addr:street": "Lazarettstraße",
+    "contact:phone": "+49 173 3557224",
+    "contact:website": "https://www.atoll-muenchen.de/",
+    "leisure": "bowling_alley",
+    "name": "atoll München",
+    "opening_hours": "Mo-Th 14:00-01:00; Sa-Su 12:00-01:00",
+    "sport": "10pin"
+  }
+},
+{
+  "type": "node",
+  "id": 329092753,
+  "lat": 48.1512061,
+  "lon": 11.5731678,
+  "tags": {
+    "addr:city": "München",
+    "addr:country": "DE",
+    "addr:housenumber": "54",
+    "addr:postcode": "80799",
+    "addr:street": "Schellingstraße",
+    "amenity": "pub",
+    "brewery": "various;Schneider_Weisse,_Augustiner",
+    "contact:phone": "+49 89 2720 788",
+    "contact:website": "https://www.schelling-salon.de/",
+    "indoor_seating": "yes",
+    "name": "Schelling-Salon",
+    "opening_hours": "Mo 10:00-00:30; Th-Sa 10:00-01:00, Su 10:00-24:00; Jul 17-Sep 03 off \"Sommerpause\"",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "sport": "table_soccer;billiards;table_tennis",
+    "wheelchair": "limited",
+    "wheelchair:description": "Stufe",
+    "wikidata": "Q569803",
+    "wikipedia": "de:Schelling-Salon"
+  }
+},
+{
+  "type": "node",
+  "id": 331045000,
+  "lat": 48.0676369,
+  "lon": 11.2002587,
+  "tags": {
+    "leisure": "water_park",
+    "name": "Augustiner am Wörthsee"
+  }
+},
+{
+  "type": "node",
+  "id": 332793905,
+  "lat": 48.1308573,
+  "lon": 11.5874382,
+  "tags": {
+    "addr:city": "München",
+    "addr:country": "DE",
+    "addr:housenumber": "2",
+    "addr:postcode": "81669",
+    "addr:street": "Lilienstraße",
+    "contact:phone": "+49 89 716 987 73",
+    "contact:website": "https://escapegame-muenchen.de/",
+    "leisure": "escape_game",
+    "name": "Escape Game München"
+  }
+},
+{
+  "type": "node",
+  "id": 338749161,
+  "lat": 48.1526728,
+  "lon": 11.6209889,
+  "tags": {
+    "access": "yes",
+    "addr:city": "München",
+    "addr:housenumber": "3",
+    "addr:postcode": "81925",
+    "addr:street": "Elektrastraße",
+    "amenity": "parking",
+    "capacity:disabled": "yes",
+    "fee": "yes",
+    "name": "Parkgarage Rosenkavalierplatz",
+    "opening_hours": "24/7",
+    "operator": "BAVARIA Parkgaragen",
+    "operator:type": "business",
+    "parking": "surface",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 341306421,
+  "lat": 48.1365802,
+  "lon": 11.5746533,
+  "tags": {
+    "access": "yes",
+    "amenity": "parking",
+    "charge": "4 EUR/hour",
+    "fee": "yes",
+    "maxheight": "1.8",
+    "name": "Tiefgarage Marienplatz",
+    "opening_hours": "PH,Mo-Su 00:00-24:00",
+    "operator": "Contipark Parkgaragen",
+    "operator:type": "private",
+    "parking": "multi-storey",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 342211042,
+  "lat": 48.1405664,
+  "lon": 11.5227977,
+  "tags": {
+    "addr:city": "München",
+    "addr:country": "DE",
+    "addr:housenumber": "185",
+    "addr:postcode": "80687",
+    "addr:street": "Landsberger Straße",
+    "climbing:boulder": "yes",
+    "climbing:sport": "no",
+    "climbing:toprope": "no",
+    "climbing:traditional": "no",
+    "email": "muenchen@einstein-boulder.com",
+    "leisure": "sports_centre",
+    "name": "Einstein Boulderhalle",
+    "name:en": "Einstein Bouldering Centre",
+    "opening_hours": "Mo-Fr 06:00-23:00; Sa-Su 09:00-23:00",
+    "phone": "+498930701750",
+    "sport": "climbing",
+    "website": "https://muenchen.einstein-boulder.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 367788388,
+  "lat": 48.1132599,
+  "lon": 11.5762390,
+  "tags": {
+    "addr:housenumber": "22",
+    "addr:street": "Martin-Luther-Straße",
+    "alt_name": "Isar-Bowling",
+    "check_date": "2026-01-04",
+    "contact:email": "info@billardbowlingparadies.de",
+    "contact:fax": "+49 89 69799530",
+    "contact:phone": "+49 89 6924512",
+    "contact:website": "https://www.billardbowlingparadies.de/",
+    "leisure": "bowling_alley",
+    "level": "-2",
+    "name": "Billard- und Bowling-Paradies",
+    "old_name": "Isar Bowling",
+    "opening_hours": "Mo-Fr 15:00-24:00; Sa 11:00-01:00; Su 11:00-24:00",
+    "sport": "10pin;billiards",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 370068132,
+  "lat": 48.2263189,
+  "lon": 11.4670317,
+  "tags": {
+    "addr:city": "Karlsfeld",
+    "addr:country": "DE",
+    "addr:housenumber": "1",
+    "addr:postcode": "85757",
+    "addr:street": "Gartenstraße",
+    "amenity": "restaurant",
+    "cuisine": "croatian",
+    "email": "info@restaurant-zadar.de",
+    "fax": "+49 8131 908118",
+    "leisure": "bowling_alley",
+    "level": "0",
+    "name": "Zadar",
+    "opening_hours": "Mo off; Tu-Su 11:00-14:30, 17:00-22:00; Sa 11:00-22:00; Su 11:00-21:00",
+    "phone": "+49 8131 908117",
+    "sport": "9pin",
+    "website": "https://restaurant-zadar.de/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 393368622,
+  "lat": 48.1657304,
+  "lon": 11.4930186,
+  "tags": {
+    "amenity": "taxi",
+    "capacity": "5",
+    "name": "Menzinger /Schragenhofstraße",
+    "phone": "+49 89 8113290"
+  }
+},
+{
+  "type": "node",
+  "id": 441120552,
+  "lat": 48.2550601,
+  "lon": 11.4250495,
+  "tags": {
+    "addr:city": "Dachau",
+    "addr:country": "DE",
+    "addr:housenumber": "58",
+    "addr:postcode": "85221",
+    "addr:street": "Ludwig-Dill-Straße",
+    "leisure": "water_park",
+    "name": "Familienbad Dachau (Freibad)",
+    "phone": "+49 8131 350824",
+    "sport": "swimming",
+    "website": "https://www.stadtwerke-dachau.de/tarife-angebote/baeder/freibad-familienbad"
+  }
+},
+{
+  "type": "node",
+  "id": 449343124,
+  "lat": 48.1309828,
+  "lon": 11.3676057,
+  "tags": {
+    "access": "yes",
+    "amenity": "parking_entrance",
+    "capacity": "120",
+    "description": "Maximale Einfahrtshöhe: 2,0m",
+    "fee": "yes",
+    "layer": "-1",
+    "maxstay": "2 days",
+    "name": "Tiefgarage Stadthalle Germering",
+    "operator": "Stadthalle Germering",
+    "park_ride": "no",
+    "parking": "underground",
+    "supervised": "yes",
+    "surface": "concrete"
+  }
+},
+{
+  "type": "node",
+  "id": 451909566,
+  "lat": 48.2304724,
+  "lon": 11.6790527,
+  "tags": {
+    "access": "customers",
+    "amenity": "parking",
+    "description": "Tiefgarage, Nur für Besucher der Osterfeldhalle",
+    "layer": "-1",
+    "name": "Tiefgarage Osterfeldhalle",
+    "parking": "underground"
+  }
+},
+{
+  "type": "node",
+  "id": 462733304,
+  "lat": 48.2226151,
+  "lon": 11.6766939,
+  "tags": {
+    "amenity": "parking",
+    "capacity": "36",
+    "layer": "-1",
+    "name": "Tiefgarage Seidl-Mühle",
+    "parking": "underground",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 489934218,
+  "lat": 48.1240808,
+  "lon": 11.5514791,
+  "tags": {
+    "addr:city": "München",
+    "addr:housenumber": "13",
+    "addr:street": "Ruppertstraße",
+    "amenity": "parking_entrance",
+    "maxheight": "1.9",
+    "name": "Tiefgarage Kreisverwaltungsreferat",
+    "parking": "underground",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.muenchen.de/",
+    "wheelchair": "no",
+    "wheelchair:description": "Nur während der Öffnungszeiten des KVR geöffnet"
+  }
+},
+{
+  "type": "node",
+  "id": 534348499,
+  "lat": 48.1481510,
+  "lon": 11.6184732,
+  "tags": {
+    "access": "yes",
+    "amenity": "parking",
+    "comment": "first 90 minutes free",
+    "fee": "yes",
+    "layer": "-1",
+    "name": "Parkgarage Forum Bogenhausen",
+    "parking": "underground",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 596240106,
+  "lat": 48.1402162,
+  "lon": 11.5778873,
+  "tags": {
+    "access": "yes",
+    "amenity": "parking_entrance",
+    "level": "-1",
+    "maxheight": "1.8",
+    "motorcycle": "no",
+    "name": "Operngarage",
+    "parking": "underground",
+    "trailer": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 620087826,
+  "lat": 48.0416139,
+  "lon": 11.6623869,
+  "tags": {
+    "amenity": "parking_entrance",
+    "maxheight": "2.2",
+    "name": "Hotel-Garage",
+    "park_ride": "no",
+    "parking": "underground",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 674918049,
+  "lat": 48.1187713,
+  "lon": 11.5836616,
+  "tags": {
+    "leisure": "bowling_alley",
+    "name": "La Migliore",
+    "smoking": "no",
+    "sport": "9pin",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 699782683,
+  "lat": 48.1382694,
+  "lon": 11.5743605,
+  "tags": {
+    "addr:city": "München",
+    "addr:country": "DE",
+    "addr:housenumber": "10",
+    "addr:postcode": "80331",
+    "addr:street": "Frauenplatz",
+    "check_date": "2026-09-05",
+    "check_date:opening_hours": "2024-08-25",
+    "name": "EURO Eyes Augenlasern",
+    "opening_hours": "Mo-Fr 10:00-18:00",
+    "shop": "optician",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 843236822,
+  "lat": 48.1323064,
+  "lon": 11.3764892,
+  "tags": {
+    "addr:city": "Germering",
+    "addr:country": "DE",
+    "addr:housenumber": "11a",
+    "addr:postcode": "82110",
+    "addr:street": "Industriestraße",
+    "amenity": "pub",
+    "contact:fax": "+49 89 8403838-5",
+    "contact:phone": "+49 89 8403838-4",
+    "contact:website": "http://www.clash-billard.com/",
+    "name": "Clash Billard + Darts",
+    "note": "name ist 'billard' indeed, see homepage...",
+    "opening_hours": "Mo-Fr 00:00-02:00,17:00-24:00; Sa,Su 00:00-03:00,17:00-24:00",
+    "sport": "billiards;darts",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 845394050,
+  "lat": 48.1295075,
+  "lon": 11.5611265,
+  "tags": {
+    "addr:city": "München",
+    "addr:country": "DE",
+    "addr:housenumber": "11a",
+    "addr:postcode": "80337",
+    "addr:street": "Ringseisstraße",
+    "amenity": "pub",
+    "brewery": "Augustiner Bräu München;Tegernseer;Holzar;Beck's;Astra",
+    "check_date:opening_hours": "2023-03-19",
+    "email": "info@flex-muenchen.de",
+    "fax": "+49 89 99016788",
+    "level": "-1",
+    "name": "Flex",
+    "opening_hours": "Mo-Th 20:00-01:00; Fr-Sa 20:00-03:00",
+    "payment:cash": "yes",
+    "phone": "+49 89 99016788",
+    "sport": "table_soccer;billiards;darts;pinball",
+    "toilets": "yes",
+    "website": "https://www.flex-muenchen.de/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 865274572,
+  "lat": 48.0402812,
+  "lon": 11.6624393,
+  "tags": {
+    "addr:city": "Brunnthal",
+    "addr:country": "DE",
+    "addr:housenumber": "5",
+    "addr:postcode": "85649",
+    "addr:street": "Zusestraße",
+    "email": "info@maxmunich-bowling.de",
+    "leisure": "sports_centre",
+    "level": "1",
+    "name": "Max Munich Bowling",
+    "opening_hours": "Mo,We-Th 15:00-23:00; Tu off; Fr 14:00-24:00; Sa 13:00-24:00; Su 10:00-22:00",
+    "opening_hours:url": "https://www.maxmunich-bowling.de/oeffnungszeiten",
+    "phone": "+49 89 665907080",
+    "sport": "10pin",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.maxmunich-bowling.de/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 951633660,
+  "lat": 48.1044759,
+  "lon": 11.4189279,
+  "tags": {
+    "access": "private",
+    "amenity": "parking_entrance",
+    "fee": "yes",
+    "maxheight:signed": "no",
+    "name": "Tiefgarage Parkhotel Leiser",
+    "parking": "underground"
+  }
+},
+{
+  "type": "node",
+  "id": 957275248,
+  "lat": 48.0735206,
+  "lon": 11.6044131,
+  "tags": {
+    "addr:city": "Unterhaching",
+    "addr:country": "DE",
+    "addr:housenumber": "121",
+    "addr:postcode": "82008",
+    "addr:street": "Münchner Straße",
+    "check_date": "2026-08-02",
+    "name": "Laser & Beauty",
+    "opening_hours": "\"nach Vereinbarung\"",
+    "phone": "+49 160 185 88 47",
+    "shop": "beauty",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 972650805,
+  "lat": 48.1960380,
+  "lon": 11.3265863,
+  "tags": {
+    "addr:city": "Olching",
+    "addr:country": "DE",
+    "addr:housenumber": "23",
+    "addr:postcode": "82140",
+    "addr:street": "Werner-von-Siemens-Straße",
+    "leisure": "bowling_alley",
+    "name": "5005 Bowling",
+    "opening_hours": "Mo-Fr 12:00-24:00, Sa 10:00-02:00, Su 10:00-00:00",
+    "sport": "10pin",
+    "website": "http://www.5005-bowling.de/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1004568474,
+  "lat": 48.1345570,
+  "lon": 11.5712011,
+  "tags": {
+    "access": "yes",
+    "addr:city": "München",
+    "addr:country": "DE",
+    "addr:housenumber": "27",
+    "addr:postcode": "80331",
+    "addr:street": "Oberanger",
+    "amenity": "parking",
+    "capacity": "423",
+    "capacity:disabled": "14",
+    "charge": "3.50 EUR/hour",
+    "fee": "yes",
+    "layer": "-1",
+    "maxheight": "2.1 m",
+    "name": "Tiefgarage Oberanger",
+    "operator": "Contipark",
+    "operator:type": "private",
+    "operator:wikidata": "Q54867477",
+    "parking": "underground",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "surface": "asphalt",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1062349180,
+  "lat": 48.1806914,
+  "lon": 11.5052962,
+  "tags": {
+    "addr:housenumber": "1",
+    "addr:postcode": "80997",
+    "addr:street": "Memminger Platz",
+    "amenity": "parking_entrance",
+    "capacity": "280",
+    "description:de": "Zur Reduzierung der Zweckentfremdung durch Anwohner und Dauerparker ist an den P+R Anlagen Moosach das Parken nachts nur mit Sondererlaubnis gestattet. (Weitere Infos: Siehe häufige Fragen auf Webseite)",
+    "maxheight": "2",
+    "maxstay": "1440 minutes",
+    "name": "P+R Park & Ride Tiefgarage Moosach",
+    "operator": "P+R Park & Ride GmbH München",
+    "park_ride": "yes",
+    "parking": "underground",
+    "website": "https://www.parkundride.de/moosach"
+  }
+},
+{
+  "type": "node",
+  "id": 1108137015,
+  "lat": 48.1369193,
+  "lon": 11.5468021,
+  "tags": {
+    "addr:city": "München",
+    "addr:country": "DE",
+    "addr:housenumber": "5",
+    "addr:postcode": "80339",
+    "addr:street": "Theresienhöhe",
+    "check_date": "2025-07-08",
+    "contact:email": "munich@mystery-rooms.com",
+    "contact:phone": "+49 89 622 492 77",
+    "contact:website": "https://mystery-rooms.com/muenchen/",
+    "fee": "yes",
+    "leisure": "escape_game",
+    "level": "1",
+    "name": "Mystery Rooms"
+  }
+},
+{
+  "type": "node",
+  "id": 1111379578,
+  "lat": 48.1506914,
+  "lon": 11.6193289,
+  "tags": {
+    "access": "yes",
+    "amenity": "parking",
+    "fee": "yes",
+    "layer": "-1",
+    "name": "Parkgarage Arabellapark",
+    "opening_hours": "24/7",
+    "operator": "BAVARIA Parkgaragen",
+    "operator:type": "business",
+    "parking": "underground"
+  }
+},
+{
+  "type": "node",
+  "id": 1111379579,
+  "lat": 48.1503440,
+  "lon": 11.6204656,
+  "tags": {
+    "amenity": "parking_entrance",
+    "fee": "yes",
+    "maxheight": "2",
+    "name": "Parkgarage Arabellapark",
+    "parking": "underground"
+  }
+},
+{
+  "type": "node",
+  "id": 1111379583,
+  "lat": 48.1520386,
+  "lon": 11.6193109,
+  "tags": {
+    "access": "yes",
+    "amenity": "parking_entrance",
+    "charge": "3,50",
+    "fee": "yes",
+    "maxheight": "2",
+    "name": "Parkgarage Arabellapark",
+    "parking": "underground"
+  }
+},
+{
+  "type": "node",
+  "id": 1154071601,
+  "lat": 48.1818076,
+  "lon": 11.5222888,
+  "tags": {
+    "addr:city": "München",
+    "addr:country": "DE",
+    "addr:housenumber": "88",
+    "addr:postcode": "80992",
+    "addr:street": "Pelkovenstraße",
+    "check_date": "2025-12-31",
+    "check_date:service:bicycle:pump": "2025-12-31",
+    "contact:email": "info@radlgarage.de",
+    "contact:facebook": "https://www.facebook.com/www.radlgarage.de/?fref=ts",
+    "contact:phone": "+49 89 2396 0891",
+    "contact:website": "https://www.radlgarage.de/",
+    "name": "Radl Garage",
+    "opening_hours": "Tu-Fr 09:00-13:00, 15:00-18:00; Sa 10:00-14:00; Su,Mo,PH off",
+    "operator": "Michael Glasl & Wilfried Thanner",
+    "service:bicycle:pump": "no",
+    "service:bicycle:repair": "yes",
+    "service:bicycle:retail": "yes",
+    "shop": "bicycle",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1276282998,
+  "lat": 48.0733596,
+  "lon": 11.2535767,
+  "tags": {
+    "leisure": "water_park",
+    "name": "Wasserberghäusl"
+  }
+},
+{
+  "type": "node",
+  "id": 1313507091,
+  "lat": 48.3062234,
+  "lon": 11.8966621,
+  "tags": {
+    "amenity": "restaurant",
+    "check_date": "2024-05-05",
+    "cuisine": "bavarian",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "email": "info@wanderer-erding.de",
+    "name": "Gasthaus Wanderer",
+    "opening_hours": "We-Su 11:30-14:00, 17:30-22:00",
+    "operator": "Chris Weil, Philipp Scheurich",
+    "phone": "+49 8122 2294222",
+    "sport": "9pin;billiards",
+    "start_date": "2015-03-01",
+    "toilets:wheelchair": "no",
+    "website": "https://www.wanderer-erding.de/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1317984002,
+  "lat": 48.1210496,
+  "lon": 11.5985036,
+  "tags": {
+    "access": "customers",
+    "amenity": "parking",
+    "fee": "no",
+    "layer": "-1",
+    "name": "V-Markt Tiefgarage",
+    "parking": "underground",
+    "toilets:wheelchair": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1329882503,
+  "lat": 48.1376080,
+  "lon": 11.5471821,
+  "tags": {
+    "access": "yes",
+    "amenity": "parking",
+    "check_date:fee": "2026-05-18",
+    "fee": "yes",
+    "layer": "-1",
+    "name": "Parkgarage Hacker-Pschorr",
+    "parking": "underground"
+  }
+},
+{
+  "type": "node",
+  "id": 1346352045,
+  "lat": 48.1219450,
+  "lon": 11.5828491,
+  "tags": {
+    "amenity": "parking_entrance",
+    "capacity": "75",
+    "maxheight": "2",
+    "name": "Tiefgarage Paulaner am Nockherberg",
+    "parking": "underground",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1361767688,
+  "lat": 48.1357709,
+  "lon": 11.6056871,
+  "tags": {
+    "addr:city": "München",
+    "addr:country": "DE",
+    "addr:housenumber": "99",
+    "addr:postcode": "81675",
+    "addr:street": "Einsteinstraße",
+    "check_date": "2025-02-02",
+    "name": "Glaserei Franz Raab",
+    "opening_hours": "Mo-Th 09:00-13:00,15:00-18:00; Fr 09:00-13:00,15:00-17:00",
+    "phone": "+49 89 47 32 04",
+    "shop": "glaziery",
+    "website": "https://glaserei-raab.de/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1374224361,
+  "lat": 48.1578274,
+  "lon": 11.5741499,
+  "tags": {
+    "addr:city": "München",
+    "addr:country": "DE",
+    "addr:housenumber": "2",
+    "addr:postcode": "80796",
+    "addr:street": "Elisabethplatz",
+    "check_date": "2026-11-02",
+    "check_date:opening_hours": "2026-11-02",
+    "name": "Joe's Garage",
+    "opening_hours": "Tu-Fr 09:00-12:00,13:00-18:30; Sa 09:00-13:00; Su,Mo,PH off",
+    "payment:cash": "yes",
+    "phone": "+49 89 2717512",
+    "service:bicycle:pump": "yes",
+    "service:bicycle:repair": "yes",
+    "service:bicycle:retail": "no",
+    "shop": "bicycle",
+    "website": "https://www.joesgarage.de/",
+    "wheelchair": "no",
+    "wheelchair:description": "hohe Stufe"
+  }
+},
+{
+  "type": "node",
+  "id": 1485641960,
+  "lat": 48.1488738,
+  "lon": 11.5834599,
+  "tags": {
+    "access:description": "you need a card to rent a car",
+    "addr:city": "München",
+    "addr:country": "DE",
+    "addr:housenumber": "31",
+    "addr:postcode": "80539",
+    "addr:street": "Kaulbachstraße",
+    "amenity": "car_sharing",
+    "brand": "Stattauto München",
+    "capacity": "4",
+    "email": "info@stattauto-muenchen.de",
+    "fax": "+49 89 202057-57",
+    "fee": "yes",
+    "fixme": "Station existiert vermutlich nicht mehr; Position des Tresors bitte überprüfen",
+    "name": "STATTAUTO München Station MK (Tiefgarage)",
+    "note": "Elektronischer Tresor an der Frontfassade des Hauses Nr.31, reservierte Stellplätze im 4. Untergeschoß der Tiefgarage",
+    "operator": "Spectrum Mobil GmbH",
+    "phone": "+49 89 202057-0",
+    "source": "survey by BenE München and website",
+    "website": "https://ewi3-stattauto-muenchen.cantamen.de/#48.1489-11.5836-18-0/place/3298"
+  }
+},
+{
+  "type": "node",
+  "id": 1571704955,
+  "lat": 48.1073839,
+  "lon": 11.5972890,
+  "tags": {
+    "addr:city": "München",
+    "addr:housenumber": "107",
+    "addr:postcode": "81549",
+    "addr:street": "Chiemgaustraße",
+    "branch": "Chiemgaustraße",
+    "brand": "MyPlace-SelfStorage",
+    "brand:wikidata": "Q109659129",
+    "check_date": "2026-11-11",
+    "email": "chiemgaustrasse@myplace.de",
+    "fax": "+49 89 68091991",
+    "name": "MyPlace-SelfStorage",
+    "operator": "SelfStorage Dein Lagerraum GmbH",
+    "phone": "+49 89 68091990",
+    "shop": "storage_rental",
+    "website": "https://www.myplace.de/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1611861447,
+  "lat": 48.1033285,
+  "lon": 11.4227908,
+  "tags": {
+    "fee": "no",
+    "leisure": "water_park",
+    "name": "Wellenbad Planegg",
+    "old_name": "Baron von Hirsch'sches Schwimm- und Wellenbad",
+    "opening_hours": "Mo-Su 08:00-22:00"
+  }
+},
+{
+  "type": "node",
+  "id": 1657834125,
+  "lat": 48.1500245,
+  "lon": 11.4424804,
+  "tags": {
+    "addr:city": "München",
+    "addr:country": "DE",
+    "addr:housenumber": "5",
+    "addr:postcode": "81243",
+    "addr:street": "Stockacher Straße",
+    "amenity": "restaurant",
+    "contact:email": "muenchen@mein-bobs.de",
+    "diet:vegetarian": "yes",
+    "indoor_seating": "yes",
+    "leisure": "sports_centre",
+    "level": "-1",
+    "name": "BOB’s Rock & Bowl",
+    "opening_hours": "Mo-Th 17:00-00:00; Fr 17:00-02:00, Sa 14:00-02:00, Su,PH 14:00-23:00",
+    "outdoor_seating": "no",
+    "phone": "+49 89 82074201",
+    "sport": "10pin;billard",
+    "website": "https://bobs.de/standorte/bobs-rock-bowl-muenchen/"
+  }
+},
+{
+  "type": "node",
+  "id": 1744025638,
+  "lat": 48.0957238,
+  "lon": 11.4977454,
+  "tags": {
+    "addr:city": "München",
+    "addr:country": "DE",
+    "addr:housenumber": "74",
+    "addr:postcode": "81476",
+    "addr:street": "Forstenrieder Allee",
+    "check_date:opening_hours": "2024-02-14",
+    "leisure": "bowling_alley",
+    "level": "1",
+    "name": "Hollywood Super Bowling",
+    "opening_hours": "We,Th 16:00-23:00; Fr 16:00-24:00; Sa 12:00-24:00; Su 10:00-22:00",
+    "phone": "+4989753921",
+    "sport": "10pin",
+    "website": "https://www.hsb-muenchen.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 1787511635,
+  "lat": 48.1603826,
+  "lon": 11.5851254,
+  "tags": {
+    "name": "Kopf und Kragen Hüte",
+    "shop": "clothes",
+    "wheelchair": "no",
+    "wheelchair:description": "hohe Stufen"
+  }
+},
+{
+  "type": "node",
+  "id": 1788353564,
+  "lat": 48.1615336,
+  "lon": 11.5750717,
+  "tags": {
+    "addr:city": "München",
+    "addr:country": "DE",
+    "addr:housenumber": "10",
+    "addr:postcode": "80796",
+    "addr:street": "Belgradstraße",
+    "check_date": "2026-09-22",
+    "contact:mobile": "+49 176 689 782 98",
+    "contact:website": "https://laserlux-beauty.de",
+    "level": "0",
+    "name": "Laser Lux",
+    "old_name": "Schuh Hiegl",
+    "opening_hours": "Mo-Fr 10:00-19:00; Sa 10:00-15:00",
+    "shop": "beauty"
+  }
+},
+{
+  "type": "node",
+  "id": 1788358829,
+  "lat": 48.1642088,
+  "lon": 11.5742007,
+  "tags": {
+    "addr:city": "München",
+    "addr:country": "DE",
+    "addr:housenumber": "37",
+    "addr:postcode": "80796",
+    "addr:street": "Belgradstraße",
+    "amenity": "fast_food",
+    "check_date": "2026-10-27",
+    "contact:instagram": "https://www.instagram.com/unclesmash.de",
+    "contact:tiktok": "https://www.tiktok.com/@unclesmash.de",
+    "contact:website": "https://www.lieferando.de/speisekarte/uncle-smash-mnchen",
+    "cuisine": "burger",
+    "diet:vegetarian": "yes",
+    "drive_through": "no",
+    "name": "Uncle Smash",
+    "opening_hours": "Su-Fr 11:00-23:00; Sa 17:00-23:00",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1844036287,
+  "lat": 48.2360442,
+  "lon": 11.3509817,
+  "tags": {
+    "addr:city": "Bergkirchen",
+    "addr:housenumber": "9",
+    "addr:postcode": "85232",
+    "addr:street": "Gadastraße",
+    "fee": "yes",
+    "leisure": "sports_centre",
+    "lit": "yes",
+    "name": "TeamSport E-Karting Kart Palast Funpark",
+    "opening_hours": "Mo-Th 09:30-21:30; Fr,Sa,PH 09:30-01:00; Su 08:30-23:00",
+    "operator": "Go Karting For Fun Germany GmbH",
+    "operator:type": "business",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:visa": "yes",
+    "phone": "+49 81 31386 3015",
+    "sport": "karting",
+    "surface": "asphalt",
+    "website": "https://teamsport-ekarting.de/standorte/muenchen-west-kart-palast",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1884015630,
+  "lat": 48.1912195,
+  "lon": 11.6390446,
+  "tags": {
+    "amenity": "parking_entrance",
+    "capacity": "120",
+    "description": "Tiefgarage Bürgerhaus",
+    "fee": "no",
+    "maxheight": "2",
+    "name": "Tiefgarage Bürgerhaus",
+    "parking": "underground",
+    "supervised": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1894324126,
+  "lat": 48.1429722,
+  "lon": 11.5398094,
+  "tags": {
+    "access": "private",
+    "amenity": "parking_entrance",
+    "maxheight": "2.1",
+    "name": "Anwohner-Parkgarage Erika-Mann-Straße 47",
+    "parking": "underground"
+  }
+},
+{
+  "type": "node",
+  "id": 1906159568,
+  "lat": 48.1456746,
+  "lon": 11.5451640,
+  "tags": {
+    "access": "customers",
+    "amenity": "parking_entrance",
+    "maxstay": "30-60",
+    "name": "Tiefgarage Finanzamt",
+    "operator": "Finanzamt München",
+    "parking": "underground"
+  }
+},
+{
+  "type": "node",
+  "id": 2071381970,
+  "lat": 48.2115629,
+  "lon": 11.3326206,
+  "tags": {
+    "addr:city": "Olching",
+    "addr:country": "DE",
+    "addr:housenumber": "3",
+    "addr:postcode": "82140",
+    "addr:street": "Ilzweg",
+    "description": "Billiard, Flipper, Bar und Glücksspielgeräte",
+    "leisure": "amusement_arcade",
+    "name": "Cadillacs Garage",
+    "operator": "Spielsalons Manfred Ott GmbH",
+    "website": "https://cadillacs-garage.de"
+  }
+},
+{
+  "type": "node",
+  "id": 2093487721,
+  "lat": 48.1364020,
+  "lon": 11.5633028,
+  "tags": {
+    "access": "yes",
+    "addr:city": "München",
+    "addr:country": "DE",
+    "addr:housenumber": "10",
+    "addr:postcode": "80336",
+    "addr:street": "Landwehrstraße",
+    "amenity": "parking",
+    "capacity": "90",
+    "capacity:women": "no",
+    "fee": "yes",
+    "layer": "-1",
+    "maxheight": "2.38",
+    "name": "Sonnenhof Parkgarage",
+    "parking": "underground",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2120112880,
+  "lat": 48.3124935,
+  "lon": 11.8922436,
+  "tags": {
+    "addr:city": "Erding",
+    "addr:country": "DE",
+    "addr:housenumber": "3",
+    "addr:postcode": "85435",
+    "addr:street": "Robert-Bosch-Straße",
+    "email": "info@bowling-castle.de",
+    "leisure": "sports_centre",
+    "level": "1",
+    "name": "Bowling Castle",
+    "opening_hours": "Oct-May: Mo-Th 15:00-24:00; Fr 15:00-24:00; Sa 00:00-01:00,13:00-24:00; Su,PH 00:00-01:00,13:00-24:00 || \"nach Reservierung\"; Jun-Sep: Fr 15:00-24:00; Sa 00:00-01:00,13:00-24:00; Su,PH 00:00-01:00,13:00-24:00 || \"nach Reservierung\"",
+    "phone": "+49 8122 1872666",
+    "sport": "10pin;billiards",
+    "website": "https://www.bowling-castle.de/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 2367779380,
+  "lat": 47.9913905,
+  "lon": 11.7386028,
+  "tags": {
+    "amenity": "fire_station",
+    "check_date": "2026-06-13",
+    "name": "Freiwillige Feuerwehr Aying - Garage Dürnhaar"
+  }
+},
+{
+  "type": "node",
+  "id": 2410663532,
+  "lat": 48.1335013,
+  "lon": 11.5032269,
+  "tags": {
+    "addr:city": "München",
+    "addr:housenumber": "81",
+    "addr:street": "Fürstenrieder Straße",
+    "leisure": "escape_game",
+    "name": "AdventureRooms",
+    "operator": "AdventureRooms München",
+    "shop": "yes",
+    "website": "https://www.adventurerooms-munich.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 2501121188,
+  "lat": 48.1376000,
+  "lon": 11.5694864,
+  "tags": {
+    "access": "yes",
+    "amenity": "parking",
+    "fee": "yes",
+    "layer": "-1",
+    "name": "Pschorr-Garage",
+    "parking": "underground",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2515489657,
+  "lat": 48.1308421,
+  "lon": 11.5932637,
+  "tags": {
+    "access": "private",
+    "amenity": "parking",
+    "layer": "-1",
+    "name": "Anwohnergarage Kellerstraße",
+    "parking": "underground"
+  }
+},
+{
+  "type": "node",
+  "id": 2621895235,
+  "lat": 48.1419934,
+  "lon": 11.5742473,
+  "tags": {
+    "access": "yes",
+    "addr:housenumber": "1",
+    "addr:street": "Jungfernturmstraße",
+    "amenity": "parking",
+    "capacity": "452",
+    "contact:website": "https://bavaria-parkgaragen.de/facility/salvatorplatz-altstadt/",
+    "fee": "yes",
+    "maxheight": "2",
+    "name": "Salvatorgarage",
+    "opening_hours": "00:00-24:00",
+    "parking": "multi-storey",
+    "phone": "+49 89 92868310",
+    "site": "parking",
+    "website": "https://bavaria-parkgaragen.de/facility/salvatorplatz-altstadt/"
+  }
+},
+{
+  "type": "node",
+  "id": 2704347779,
+  "lat": 48.0908792,
+  "lon": 11.6438548,
+  "tags": {
+    "access": "private",
+    "amenity": "parking_entrance",
+    "name": "Tiefgarage 2",
+    "parking": "underground"
+  }
+},
+{
+  "type": "node",
+  "id": 2704347827,
+  "lat": 48.0914569,
+  "lon": 11.6438602,
+  "tags": {
+    "access": "private",
+    "amenity": "parking_entrance",
+    "name": "Tiefgarage 1",
+    "parking": "underground"
+  }
+},
+{
+  "type": "node",
+  "id": 2729462096,
+  "lat": 48.1871280,
+  "lon": 11.5684764,
+  "tags": {
+    "brand": "MyPlace-SelfStorage",
+    "brand:wikidata": "Q109659129",
+    "check_date": "2024-09-18",
+    "check_date:opening_hours": "2024-09-18",
+    "name": "MyPlace-SelfStorage",
+    "opening_hours": "Mo-Su,PH 06:00-22:00",
+    "phone": "+49 89 35892710",
+    "service": "storage",
+    "shop": "storage_rental",
+    "website": "https://www.myplace.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 2735371726,
+  "lat": 48.1530508,
+  "lon": 11.6209991,
+  "tags": {
+    "access": "yes",
+    "amenity": "parking",
+    "fee": "yes",
+    "layer": "-1",
+    "name": "Parkgarage Rosenkavalierplatz",
+    "operator": "BAVARIA Parkgaragen",
+    "operator:type": "business",
+    "parking": "underground",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2860934908,
+  "lat": 48.1223178,
+  "lon": 11.5905539,
+  "tags": {
+    "access": "yes",
+    "addr:city": "München",
+    "addr:housenumber": "62",
+    "addr:postcode": "81541",
+    "addr:street": "Welfenstraße",
+    "amenity": "parking_entrance",
+    "capacity": "897",
+    "capacity:disabled": "8",
+    "capacity:women": "yes",
+    "charge": "3 EUR/60min;30 EUR/day;107,10 EUR/month;",
+    "fee": "yes",
+    "maxheight": "2",
+    "name": "Parkgarage Welfenhöfe",
+    "opening_hours": "24/7",
+    "parking": "underground",
+    "payment:coins": "yes",
+    "payment:credit_cards": "yes",
+    "payment:notes": "yes",
+    "website": "https://bavaria-parkgaragen.de/facility/welfenhoefe-welfenstr/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3110157709,
+  "lat": 48.1102524,
+  "lon": 11.5800232,
+  "tags": {
+    "access": "customers",
+    "amenity": "parking_entrance",
+    "maxheight": "2.1",
+    "name": "Tiefgarage REWE & Werner-Schlierf-Straße 5-27",
+    "parking": "underground"
+  }
+},
+{
+  "type": "node",
+  "id": 3186745879,
+  "lat": 48.0667163,
+  "lon": 11.3786447,
+  "tags": {
+    "access": "yes",
+    "amenity": "parking",
+    "fee": "no",
+    "layer": "-1",
+    "lit": "yes",
+    "name": "Tiefgarage Rathaus",
+    "operator": "Gemeinde Gauting",
+    "parking": "underground"
+  }
+},
+{
+  "type": "node",
+  "id": 3278099018,
+  "lat": 48.1032798,
+  "lon": 11.4202448,
+  "tags": {
+    "amenity": "parking_entrance",
+    "fee": "no",
+    "maxheight": "2",
+    "maxstay:conditional": "180 @ (07:00-19:00)",
+    "name": "Tiefgarage Planegg",
+    "opening_hours": "07:00-24:00",
+    "parking": "underground"
+  }
+},
+{
+  "type": "node",
+  "id": 3315140745,
+  "lat": 48.1345126,
+  "lon": 11.5805679,
+  "tags": {
+    "access": "customers",
+    "amenity": "parking_entrance",
+    "description": "KFZ Zufahrt",
+    "maxheight": "2",
+    "name": "Parkgarage Rieger City",
+    "parking": "underground"
+  }
+},
+{
+  "type": "node",
+  "id": 3354760509,
+  "lat": 48.1890209,
+  "lon": 11.5789229,
+  "tags": {
+    "access": "private",
+    "addr:city": "München",
+    "addr:postcode": "80807",
+    "addr:street": "Taunusstraße",
+    "amenity": "parking_entrance",
+    "level": "-1",
+    "name": "Tiefgarage BMW Apartments, Taunusstraße",
+    "parking": "underground"
+  }
+},
+{
+  "type": "node",
+  "id": 3556854015,
+  "lat": 48.1157459,
+  "lon": 11.6029118,
+  "tags": {
+    "addr:city": "München",
+    "addr:country": "DE",
+    "addr:housenumber": "2",
+    "addr:postcode": "81669",
+    "addr:street": "Claudius-Keller-Straße",
+    "check_date:opening_hours": "2025-11-26",
+    "contact:email": "haarentfernung.deluxe@gmail.com",
+    "contact:mobile": "+49 1520 5978 326",
+    "contact:phone": "+49 89 3549 9712",
+    "contact:website": "https://www.deluxemuenchen.de/",
+    "name": "Laser Deluxe",
+    "opening_hours": "Tu-Sa 10:00-18:00",
+    "operator": "Lale Yüksel",
+    "shop": "beauty",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3565520593,
+  "lat": 48.1125945,
+  "lon": 11.5934216,
+  "tags": {
+    "addr:city": "München",
+    "addr:country": "DE",
+    "addr:housenumber": "53",
+    "addr:postcode": "81539",
+    "addr:street": "Schlierseestraße",
+    "check_date": "2024-05-30",
+    "contact:email": "info@dermamod.de",
+    "contact:mobile": "+49 173 6893420",
+    "contact:phone": "+49 89 85633377",
+    "contact:website": "https://www.dermamod.de/",
+    "name": "Dermamod Laser- und Kosmetikzentrum",
+    "old_name": "Ortho-Team-Angerer",
+    "opening_hours": "\"Terminvereinbarung telefonisch\"",
+    "operator": "Sermin Ilbeyi",
+    "shop": "beauty",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3605994597,
+  "lat": 48.1357367,
+  "lon": 11.5435964,
+  "tags": {
+    "addr:city": "München",
+    "addr:country": "DE",
+    "addr:housenumber": "19",
+    "addr:postcode": "80339",
+    "addr:street": "Gollierstraße",
+    "female": "yes",
+    "male": "yes",
+    "name": "HaarAgentur",
+    "phone": "+49 89 2429 0410",
+    "shop": "hairdresser",
+    "website": "https://haaragentur.com/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3710482086,
+  "lat": 48.1132922,
+  "lon": 11.5762422,
+  "tags": {
+    "addr:housenumber": "22",
+    "addr:street": "Martin-Luther-Straße",
+    "billiards:pool": "13",
+    "billiards:snooker": "2",
+    "check_date": "2026-01-04",
+    "contact:phone": "+49 89 6928080",
+    "contact:website": "https://www.billardbowlingparadies.de/",
+    "leisure": "sports_centre",
+    "level": "-1",
+    "name": "Bella Billard",
+    "opening_hours": "Mo-Th 16:00-01:00; Fr 16:00-02:00; Sa 11:00-02:00; Su 11:00-24:00",
+    "sport": "billiards;darts",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3710506667,
+  "lat": 48.0953785,
+  "lon": 11.5237439,
+  "tags": {
+    "addr:city": "München",
+    "addr:housenumber": "70",
+    "addr:postcode": "81379",
+    "addr:street": "Kistlerhofstraße",
+    "billiards:carom": "8",
+    "billiards:pool": "15",
+    "billiards:snooker": "2",
+    "contact:facebook": "https://www.facebook.com/pages/Billardsport-Verein-M%C3%BCnchen-eV/293740017440130",
+    "contact:instagram": "https://www.instagram.com/q_billard_muenchen/",
+    "contact:phone": "+4989536066",
+    "contact:website": "https://bsv-muenchen.de/;https://q-billard.geo.io/",
+    "leisure": "sports_centre",
+    "level": "4",
+    "name": "Billard Sport Verein München / Q-Billard",
+    "opening_hours": "Mo off; Tu-Fr 16:00-24:00; Sa,Su,PH 14:00-24:00",
+    "ref": "Haus 60",
+    "sport": "billiards",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3792263554,
+  "lat": 48.0590495,
+  "lon": 11.6656858,
+  "tags": {
+    "addr:city": "Ottobrunn",
+    "addr:country": "DE",
+    "addr:housenumber": "87",
+    "addr:postcode": "85521",
+    "addr:street": "Rosenheimer Landstraße",
+    "amenity": "fast_food",
+    "cuisine": "burger;salad;breakfast",
+    "delivery": "yes",
+    "diet:chicken": "yes",
+    "diet:halal": "yes",
+    "diet:meat": "yes",
+    "diet:vegetarian": "yes",
+    "drink:coffee": "espresso",
+    "highchair": "yes",
+    "indoor_seating": "yes",
+    "internet_access": "no",
+    "level": "0",
+    "name": "Smash87",
+    "old_name": "Jeff's Burger",
+    "opening_hours": "Mo-Su 10:00-23:00; PH closed",
+    "outdoor_seating": "yes",
+    "phone": "+49 89 97323171",
+    "postal_code": "85521",
+    "start_date": "2025-06-14",
+    "takeaway": "yes",
+    "toilets": "yes",
+    "toilets:access": "customers",
+    "toilets:wheelchair": "no",
+    "website": "https://smash87.de",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 3859789262,
+  "lat": 48.1089118,
+  "lon": 11.5769152,
+  "tags": {
+    "access": "private",
+    "amenity": "parking",
+    "layer": "-1",
+    "level": "-1",
+    "name": "Tiefgarage Gozbertstraße 6 + 8",
+    "parking": "underground"
+  }
+},
+{
+  "type": "node",
+  "id": 3859789308,
+  "lat": 48.1102964,
+  "lon": 11.5802922,
+  "tags": {
+    "access": "customers",
+    "amenity": "parking",
+    "fee": "yes",
+    "layer": "-1",
+    "level": "-1",
+    "maxheight": "2.1",
+    "name": "Tiefgarage REWE & Werner-Schlierf-Straße 5-27",
+    "parking": "underground"
+  }
+},
+{
+  "type": "node",
+  "id": 4053760930,
+  "lat": 48.1484432,
+  "lon": 11.4418170,
+  "tags": {
+    "amenity": "doctors",
+    "contact:fax": "+49 89 82086491",
+    "contact:phone": "+49 89 82909802",
+    "contact:website": "https://www.augenlaserteam.de/",
+    "healthcare": "doctor",
+    "healthcare:speciality": "ophthalmology",
+    "name": "Augenlaser Team München",
+    "operator": "Dr. Thomas Christmann und Kollegen"
+  }
+},
+{
+  "type": "node",
+  "id": 4148132071,
+  "lat": 48.1478373,
+  "lon": 11.5923371,
+  "tags": {
+    "sport": "surfing",
+    "waterway": "waterfall"
+  }
+},
+{
+  "type": "node",
+  "id": 4154106371,
+  "lat": 48.1441508,
+  "lon": 11.5590414,
+  "tags": {
+    "access": "customers",
+    "amenity": "parking_entrance",
+    "barrier": "lift_gate",
+    "fee": "yes",
+    "foot": "no",
+    "name": "Parkgarage Hotel Ibis München city",
+    "opening_hours": "24/7",
+    "parking": "underground"
+  }
+},
+{
+  "type": "node",
+  "id": 4156067567,
+  "lat": 48.1831578,
+  "lon": 11.7693862,
+  "tags": {
+    "addr:city": "Pliening",
+    "addr:housenumber": "15",
+    "addr:postcode": "85652",
+    "addr:street": "Gewerbestraße",
+    "addr:suburb": "Landsham",
+    "email": "info@shockers-lasertag.de",
+    "leisure": "pitch",
+    "name": "Shockers Lasertag",
+    "opening_hours": "Tu-Fr 16:00-22:00; Sa,Su,PH 11:00-22:00; SH 14:00-22:00",
+    "phone": "+49 89 632 033 97",
+    "sport": "laser_tag",
+    "website": "https://shockers-lasertag.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 4174465292,
+  "lat": 48.0412569,
+  "lon": 11.5235938,
+  "tags": {
+    "addr:city": "Grünwald",
+    "addr:country": "DE",
+    "addr:housenumber": "14a",
+    "addr:postcode": "82031",
+    "addr:street": "Schloßstraße",
+    "amenity": "pub",
+    "level": "-1",
+    "name": "Banxx Billards",
+    "sport": "billiards",
+    "website": "https://banxx.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 4236813532,
+  "lat": 48.1439360,
+  "lon": 11.5745886,
+  "tags": {
+    "access": "private",
+    "amenity": "parking_entrance",
+    "name": "Ausfahrt Siemens Tiefgarage",
+    "operator": "Siemens AG",
+    "parking": "underground"
+  }
+},
+{
+  "type": "node",
+  "id": 4236813533,
+  "lat": 48.1444792,
+  "lon": 11.5753768,
+  "tags": {
+    "access": "private",
+    "amenity": "parking_entrance",
+    "maxheight": "2.5",
+    "name": "Einfahrt Siemens Tiefgarage",
+    "operator": "Siemens AG",
+    "parking": "underground"
+  }
+},
+{
+  "type": "node",
+  "id": 4335122768,
+  "lat": 48.1240109,
+  "lon": 11.6066386,
+  "tags": {
+    "addr:city": "München",
+    "addr:country": "DE",
+    "addr:housenumber": "21",
+    "addr:postcode": "81671",
+    "addr:street": "Speicherstraße",
+    "check_date": "2024-07-10",
+    "email": "info@heavensgate-muc.de",
+    "fee": "yes",
+    "leisure": "sports_centre",
+    "name": "Heavens Gate",
+    "opening_hours": "Mo-Fr 07:00-23:00, Sa-Su 09:00-23:00",
+    "phone": "+49 89 20003070",
+    "sport": "climbing",
+    "website": "https://www.heavensgate-muc.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 4441272934,
+  "lat": 48.1130372,
+  "lon": 11.4507372,
+  "tags": {
+    "amenity": "pub",
+    "check_date": "2023-05-28",
+    "description": "Billard-Snooker-Dart",
+    "level": "1",
+    "name": "Eldorado-Billard",
+    "opening_hours": "14:00-03:00",
+    "sport": "billiards"
+  }
+},
+{
+  "type": "node",
+  "id": 4523700332,
+  "lat": 48.1556710,
+  "lon": 11.5659849,
+  "tags": {
+    "access": "private",
+    "amenity": "parking",
+    "layer": "-1",
+    "name": "Anwohnergarage Josephsplatz",
+    "parking": "underground"
+  }
+},
+{
+  "type": "node",
+  "id": 4569331992,
+  "lat": 48.1213222,
+  "lon": 11.4239708,
+  "tags": {
+    "amenity": "kindergarten",
+    "check_date": "2026-08-20",
+    "contact:email": "kita-graefelfing@diakonieffb.de",
+    "contact:phone": "+49 89 89800996",
+    "description": "Kindergarten mit 2 Gruppen",
+    "language:de": "main",
+    "max_age": "6",
+    "min_age": "3",
+    "name": "Kita „Flohzirkus“",
+    "opening_hours": "Mo-Th 07:30-17:00; Fr 07:30-15:00; PH off",
+    "operator": "Diakonie Fürstenfeldbruck",
+    "website": "https://www.diakonieffb.de/kindergarten/flohzirkus-grafelfing"
+  }
+},
+{
+  "type": "node",
+  "id": 4679421120,
+  "lat": 48.1882790,
+  "lon": 11.5793734,
+  "tags": {
+    "amenity": "parking_entrance",
+    "maxheight": "2",
+    "maxweight": "5",
+    "name": "Connex Tiefgarage",
+    "parking": "underground"
+  }
+},
+{
+  "type": "node",
+  "id": 4806490443,
+  "lat": 48.2961370,
+  "lon": 11.6216143,
+  "tags": {
+    "amenity": "pub",
+    "name": "Big Valley",
+    "sport": "billiards"
+  }
+},
+{
+  "type": "node",
+  "id": 4854048024,
+  "lat": 48.1118001,
+  "lon": 11.6431692,
+  "tags": {
+    "board_type": "sport",
+    "check_date": "2026-11-14",
+    "direction": "194",
+    "information": "board",
+    "name": "Zeitgenössischer Zirkus",
+    "tourism": "information"
+  }
+},
+{
+  "type": "node",
+  "id": 5050494982,
+  "lat": 48.0420611,
+  "lon": 11.6525819,
+  "tags": {
+    "indoor": "no",
+    "leisure": "pitch",
+    "name": "Jochen Schweizer",
+    "operator": "Erlebniswelt München Betriebsgesellschaft mbH",
+    "sport": "climbing_adventure",
+    "toilets:wheelchair": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5071878828,
+  "lat": 48.1631042,
+  "lon": 11.7254806,
+  "tags": {
+    "leisure": "water_park",
+    "sport": "swimming"
+  }
+},
+{
+  "type": "node",
+  "id": 5147386799,
+  "lat": 48.1436721,
+  "lon": 11.4267589,
+  "tags": {
+    "email": "info@toms-art-garage.de",
+    "name": "Tom's Art Garage",
+    "opening_hours": "Mo-Fr 08:00-16:00",
+    "phone": "+49 89 86399939",
+    "service": "repair",
+    "shop": "car_repair",
+    "website": "https://www.toms-art-garage.de",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5213852968,
+  "lat": 48.3294303,
+  "lon": 11.6915274,
+  "tags": {
+    "addr:city": "Neufahrn bei Freising",
+    "addr:country": "DE",
+    "addr:housenumber": "5",
+    "addr:postcode": "85375",
+    "addr:street": "Bajuwarenstraße",
+    "email": "info@billardroom-bowling.de",
+    "leisure": "bowling_alley",
+    "name": "Bowling & Billard Room",
+    "opening_hours": "Th-Fr 17:00+; Sa-Su,PH 13:00+",
+    "phone": "+49 8165 6474297",
+    "sport": "billiards",
+    "website": "https://www.billardroom-bowling.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 5315475382,
+  "lat": 48.1367956,
+  "lon": 11.5346521,
+  "tags": {
+    "name": "Mr. Beam Laser",
+    "shop": "craft"
+  }
+},
+{
+  "type": "node",
+  "id": 5382071847,
+  "lat": 48.2288444,
+  "lon": 11.4656272,
+  "tags": {
+    "addr:city": "Karlsfeld",
+    "addr:country": "DE",
+    "addr:housenumber": "1",
+    "addr:postcode": "85757",
+    "addr:street": "Rathausstraße",
+    "amenity": "pub",
+    "name": "Billard da Renzo",
+    "sport": "billiards",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5551485260,
+  "lat": 48.1788937,
+  "lon": 11.5390588,
+  "tags": {
+    "building": "yes",
+    "climbing:bolted": "yes",
+    "climbing:dry": "yes",
+    "description": "Maybe closed.",
+    "layer": "1",
+    "leisure": "pitch",
+    "name": "Dry Tooling Routen",
+    "outdoor": "yes",
+    "source": "survey",
+    "sport": "climbing",
+    "website": "https://www.facebook.com/media/set/?set=a.148655575836787.1073741831.143696376332707"
+  }
+},
+{
+  "type": "node",
+  "id": 5552132522,
+  "lat": 48.1019536,
+  "lon": 11.6512166,
+  "tags": {
+    "addr:city": "München",
+    "addr:country": "DE",
+    "addr:housenumber": "3",
+    "addr:postcode": "81737",
+    "addr:street": "Fritz-Erler-Straße",
+    "climbing:boulder": "yes",
+    "climbing:length": "15",
+    "climbing:length:max": "15",
+    "climbing:multipitch": "no",
+    "climbing:sport": "yes",
+    "fee": "yes",
+    "indoor": "yes",
+    "leisure": "sports_centre",
+    "name": "SVN Kletter- und Boulderzentrum",
+    "opening_hours": "Mo-Fr 08:00-23:00; Sa,Su,PH 08:00-22:00",
+    "outdoor": "no",
+    "sport": "climbing",
+    "website": "https://www.svn-muenchen.de/klettern/"
+  }
+},
+{
+  "type": "node",
+  "id": 5609197422,
+  "lat": 48.1362796,
+  "lon": 11.5615356,
+  "tags": {
+    "addr:city": "München",
+    "addr:housenumber": "25",
+    "addr:postcode": "80336",
+    "addr:street": "Landwehrstraße",
+    "amenity": "stripclub",
+    "min_age": "18",
+    "name": "NightCircus Tabledance",
+    "opening_hours": "Tu-We 22:00-05:00; Th 22:00-07:00; Fr-Sa 22:00-08:00",
+    "phone": "+49 89 28778252",
+    "website": "https://nightcircus-munich.de"
+  }
+},
+{
+  "type": "node",
+  "id": 5666564641,
+  "lat": 48.2046499,
+  "lon": 11.5890447,
+  "tags": {
+    "addr:city": "München",
+    "addr:housenumber": "172",
+    "addr:postcode": "80939",
+    "addr:street": "Ingolstädter Straße",
+    "leisure": "trampoline_park",
+    "name": "JUMP House München",
+    "sport": "trampoline",
+    "start_date": "2023-09-29",
+    "website": "https://www.jumphouse.de/muenchen"
+  }
+},
+{
+  "type": "node",
+  "id": 5697131665,
+  "lat": 48.1231146,
+  "lon": 11.5836707,
+  "tags": {
+    "access": "private",
+    "leisure": "pitch",
+    "sport": "climbing"
+  }
+},
+{
+  "type": "node",
+  "id": 5825621729,
+  "lat": 48.1395195,
+  "lon": 11.5375669,
+  "tags": {
+    "addr:city": "München",
+    "addr:housenumber": "75",
+    "addr:postcode": "80339",
+    "addr:street": "Landsberger Straße",
+    "email": "info@hunt4hint.de",
+    "leisure": "escape_game",
+    "name": "hunt4hint",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+49 89 13013089",
+    "website": "https://hunt4hint.de/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5890105251,
+  "lat": 48.1478995,
+  "lon": 11.5534187,
+  "tags": {
+    "addr:city": "München",
+    "addr:country": "DE",
+    "addr:housenumber": "25",
+    "addr:street": "Nymphenburger Straße",
+    "amenity": "events_venue",
+    "name": "Die Kochgarage"
+  }
+},
+{
+  "type": "node",
+  "id": 5964664842,
+  "lat": 48.1812822,
+  "lon": 11.2547864,
+  "tags": {
+    "addr:city": "Fürstenfeldbruck",
+    "addr:country": "DE",
+    "addr:housenumber": "8",
+    "addr:postcode": "82256",
+    "addr:street": "Maisacher Straße",
+    "name": "Killergarage",
+    "opening_hours": "We-Fr 10:00-19:00; Sa 10:00-14:00",
+    "shop": "clothes",
+    "website": "https://killergarage.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 6015463888,
+  "lat": 48.1381173,
+  "lon": 11.5405589,
+  "tags": {
+    "access": "private",
+    "club": "sport",
+    "sport": "billiards"
+  }
+},
+{
+  "type": "node",
+  "id": 6052218064,
+  "lat": 48.0883848,
+  "lon": 11.6403782,
+  "tags": {
+    "addr:city": "München",
+    "addr:country": "DE",
+    "addr:housenumber": "70",
+    "addr:postcode": "81739",
+    "addr:street": "Therese-Giehse-Allee",
+    "amenity": "dentist",
+    "contact:phone": "+49 89 6373848",
+    "healthcare": "dentist",
+    "name": "Dr. Laser",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6150109400,
+  "lat": 48.1819842,
+  "lon": 11.5728456,
+  "tags": {
+    "check_date": "2026-03-12",
+    "name": "DiSi Laser & Beauty",
+    "opening_hours": "\"nach Vereinbarung\"",
+    "phone": "+49 1579 2621256",
+    "shop": "beauty",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6240504775,
+  "lat": 48.1037451,
+  "lon": 11.4101816,
+  "tags": {
+    "contact:phone": "+49 89 856096666",
+    "leisure": "bowling_alley",
+    "level": "-1",
+    "name": "Kegelbahn Restaurant Aristoteles",
+    "sport": "9pin"
+  }
+},
+{
+  "type": "node",
+  "id": 6387814834,
+  "lat": 48.1368306,
+  "lon": 11.5346539,
+  "tags": {
+    "email": "hello@mr-beam.org",
+    "name": "Mr. Beam Lasers Showroom",
+    "opening_hours": "Mo-Fr 09:00-17:00",
+    "phone": "+49 89 541 98 878",
+    "shop": "craft",
+    "website": "https://www.mr-beam.org/pages/showroom-muenchen"
+  }
+},
+{
+  "type": "node",
+  "id": 6418521114,
+  "lat": 48.1471532,
+  "lon": 11.5528807,
+  "tags": {
+    "addr:city": "München",
+    "addr:country": "DE",
+    "addr:housenumber": "114",
+    "addr:postcode": "80335",
+    "addr:street": "Karlstraße",
+    "check_date": "2026-10-27",
+    "check_date:opening_hours": "2026-10-27",
+    "name": "Laserina",
+    "opening_hours:signed": "no",
+    "shop": "beauty"
+  }
+},
+{
+  "type": "node",
+  "id": 6418945823,
+  "lat": 48.1567509,
+  "lon": 11.7579605,
+  "tags": {
+    "addr:city": "Kirchheim bei München",
+    "addr:country": "DE",
+    "addr:housenumber": "4",
+    "addr:postcode": "85551",
+    "addr:street": "Hürderstraße",
+    "addr:suburb": "Heimstetten",
+    "leisure": "trampoline_park",
+    "name": "Maxx Arena",
+    "opening_hours": "Tu-Th 15:00-20:00; Fr 14:00-20:00; Sa, Su 09:00-20:00",
+    "phone": "+498998107500",
+    "sport": "climbing;trampoline;minigolf",
+    "website": "https://www.maxxarena.com/kirchheim",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6472144033,
+  "lat": 48.1491597,
+  "lon": 11.5432947,
+  "tags": {
+    "addr:city": "München",
+    "addr:housenumber": "29",
+    "addr:postcode": "80636",
+    "addr:street": "Blutenburgstraße",
+    "craft": "glaziery",
+    "name": "Glaserei Wenzel",
+    "opening_hours": "Mo 08:00-17:00; Tu-Fr 08:00-18:00; Sa,Su off",
+    "operator": "Claudia Lindenmüller",
+    "phone": "+49 89 20208860",
+    "shop": "glaziery",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 6544154345,
+  "lat": 48.1135431,
+  "lon": 11.5893694,
+  "tags": {
+    "artist:wikidata": "Q17515983; Q699736",
+    "artist_name": "Ilja und Emilia Kabakow",
+    "artwork_type": "sculpture",
+    "material": "steel;aluminium",
+    "name": "The Shining Circus and its Spectators",
+    "start_date": "2004",
+    "tourism": "artwork",
+    "wikimedia_commons": "Category:The Shining Circus and its Spectators (Ilja und Emilia Kabakow)"
+  }
+},
+{
+  "type": "node",
+  "id": 6730914844,
+  "lat": 48.1186309,
+  "lon": 11.5407072,
+  "tags": {
+    "addr:city": "München",
+    "addr:country": "DE",
+    "addr:housenumber": "33",
+    "addr:postcode": "81369",
+    "addr:street": "Plinganserstraße",
+    "amenity": "doctors",
+    "check_date:opening_hours": "2026-07-31",
+    "contact:email": "info@hautarztzentrum-am-harras.de",
+    "contact:fax": "+49 89 721 31 97",
+    "contact:phone": "+49 89 778 580",
+    "contact:website": "https://www.hautlaserzentrum-harras.de/",
+    "healthcare": "doctor",
+    "healthcare:speciality": "dermatology",
+    "level": "2",
+    "name": "Haut- und Laserzentrum am Harras",
+    "opening_hours": "Mo,Th 09:00-12:30,14:30-18:30; Tu 09:00-12:30,14:30-18:00; We,Fr 09:00-13:00; PH off",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6906386164,
+  "lat": 48.1257814,
+  "lon": 11.6110812,
+  "tags": {
+    "addr:city": "München",
+    "addr:housenumber": "4",
+    "addr:postcode": "81671",
+    "addr:street": "Hanne-Hiob-Straße",
+    "climbing:boulder": "yes",
+    "email": "kontakt@boulderwelt-muenchen-ost.de",
+    "fee": "yes",
+    "indoor": "yes",
+    "leisure": "sports_centre",
+    "name": "Boulderwelt München Ost",
+    "opening_hours": "Mo-Fr 06:00-23:00; Sa,Su,PH 07:00-23:00",
+    "outdoor": "no",
+    "phone": "+49 89 452348-23",
+    "sport": "climbing",
+    "website": "https://www.boulderwelt-muenchen-ost.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 7449417639,
+  "lat": 48.1643025,
+  "lon": 11.6289916,
+  "tags": {
+    "addr:city": "München",
+    "addr:country": "DE",
+    "addr:postcode": "81925",
+    "addr:street": "Cosimastraße",
+    "check_date:opening_hours": "2024-11-10",
+    "email": "info@unlock-escape.de",
+    "leisure": "escape_game",
+    "name": "Unlock Escape",
+    "opening_hours": "Su-Th 09:45-22:00; Fr-Sa 09:45-23:30",
+    "operator": "Beyond Entertainment GmbH",
+    "phone": "+49 89 898 398 4",
+    "website": "https://unlock-escape.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 7776583789,
+  "lat": 48.2148850,
+  "lon": 11.2596393,
+  "tags": {
+    "name": "Maisacher Autogarage",
+    "phone": "+49 172 9831575",
+    "shop": "car_repair",
+    "website": "http://maisacher-autogarage.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 7961016384,
+  "lat": 48.1528325,
+  "lon": 11.5608238,
+  "tags": {
+    "addr:city": "München",
+    "addr:housenumber": "70",
+    "addr:postcode": "80797",
+    "addr:street": "Schleißheimer Straße",
+    "check_date": "2025-05-19",
+    "leisure": "escape_game",
+    "name": "Exittheroom GmbH",
+    "website": "https://www.exittheroom.de"
+  }
+},
+{
+  "type": "node",
+  "id": 7961037785,
+  "lat": 48.1549322,
+  "lon": 11.5787058,
+  "tags": {
+    "addr:city": "München",
+    "addr:housenumber": "28",
+    "addr:postcode": "80799",
+    "addr:street": "Georgenstraße",
+    "leisure": "escape_game",
+    "name": "Exittheroom GmbH",
+    "website": "https://www.exittheroom.de"
+  }
+},
+{
+  "type": "node",
+  "id": 7973034768,
+  "lat": 48.0940079,
+  "lon": 11.5082552,
+  "tags": {
+    "addr:city": "München",
+    "addr:housenumber": "243a",
+    "addr:postcode": "81379",
+    "addr:street": "Kistlerhofstraße",
+    "amenity": "gambling",
+    "check_date:opening_hours": "2021-10-10",
+    "description": "Billardstar",
+    "name": "Billardstar München",
+    "opening_hours": "Mo-Sa 06:00-02:00; Su 09:00-02:00",
+    "phone": "+498978005822",
+    "sport": "billiards",
+    "website": "https://pool-brothers.de"
+  }
+},
+{
+  "type": "node",
+  "id": 8041070607,
+  "lat": 48.3293102,
+  "lon": 11.6912453,
+  "tags": {
+    "addr:city": "Neufahrn bei Freising",
+    "addr:country": "DE",
+    "addr:housenumber": "5",
+    "addr:postcode": "85375",
+    "addr:street": "Bajuwarenstraße",
+    "email": "info@muenchen-lasertag.de",
+    "leisure": "pitch",
+    "name": "Laser Tag Neufahrn",
+    "opening_hours": "Tu-Fr 16:00-22:00; Sa,Su 13:00-22:00",
+    "phone": "+49 8165 90 59 13",
+    "reservation": "recommended",
+    "sport": "laser_tag",
+    "website": "https://muenchen-lasertag.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 8177310242,
+  "lat": 48.1102413,
+  "lon": 11.4498331,
+  "tags": {
+    "addr:city": "Planegg",
+    "addr:housenumber": "6",
+    "addr:postcode": "82152",
+    "addr:street": "Fraunhoferstraße",
+    "addr:suburb": "Martinsried",
+    "air_conditioning": "yes",
+    "amenity": "bar",
+    "billiards:pool": "22",
+    "billiards:snooker": "1",
+    "email": "info@happybillard.de",
+    "indoor_seating": "yes",
+    "name": "Happy Billard",
+    "opening_hours": "Mo-Th 15:00-01:00, Fr 15:00-02:00, Sa 13:00-02:00, Su 13:00-01:00",
+    "outdoor_seating": "no",
+    "phone": "+49 89 856 2078",
+    "sport": "billiards",
+    "website": "https://www.happybillard.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 8220013406,
+  "lat": 48.1995076,
+  "lon": 11.2525105,
+  "tags": {
+    "addr:housenumber": "15",
+    "addr:street": "Liebigstraße",
+    "name": "Obstgarage",
+    "opening_hours": "Fr 10:00-18:00; Sa 08:00-14:00",
+    "organic": "only",
+    "shop": "greengrocer"
+  }
+},
+{
+  "type": "node",
+  "id": 8284391353,
+  "lat": 48.0543836,
+  "lon": 11.5219286,
+  "tags": {
+    "access": "private",
+    "amenity": "parking_entrance",
+    "description": "Einfahrt Tiefgarage Grundschule unter der Grünfläche. Nicht öffentlich.",
+    "maxheight": "2",
+    "name": "Parkgarage Grundschule",
+    "parking": "underground"
+  }
+},
+{
+  "type": "node",
+  "id": 8431959924,
+  "lat": 48.1721030,
+  "lon": 11.2462592,
+  "tags": {
+    "artist_name": "Ben Muthofer",
+    "artwork_type": "sculpture",
+    "material": "steel",
+    "name": "stele quadrat",
+    "start_date": "2016 (created 1993)",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 8607390657,
+  "lat": 48.2181375,
+  "lon": 11.5282141,
+  "tags": {
+    "craft": "glaziery",
+    "name": "Glaserei Weiss; Müller",
+    "shop": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8736453889,
+  "lat": 48.1366590,
+  "lon": 11.5842576,
+  "tags": {
+    "amenity": "parking_entrance",
+    "maxheight": "2.10",
+    "maxspeed": "10",
+    "maxweight": "2.5",
+    "name": "Hofbräuhaus Parkgarage",
+    "parking": "underground",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 8736453891,
+  "lat": 48.1371002,
+  "lon": 11.5840958,
+  "tags": {
+    "amenity": "parking_entrance",
+    "maxheight": "2.10",
+    "maxspeed": "10",
+    "maxweight": "2.5",
+    "name": "Hofbräuhaus Parkgarage",
+    "parking": "underground",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 8910298841,
+  "lat": 48.0405322,
+  "lon": 11.6638760,
+  "tags": {
+    "addr:city": "Brunnthal",
+    "addr:housenumber": "4",
+    "addr:postcode": "85649",
+    "addr:street": "Eugen-Sänger-Ring",
+    "fee": "yes",
+    "leisure": "sports_centre",
+    "level": "1",
+    "name": "Boulderwelt München Süd",
+    "opening_hours": "Mo-Fr 07:00-23:00; Sa,Su,PH 08:00-23:00",
+    "operator": "Boulderwelt",
+    "operator:type": "business",
+    "sport": "climbing",
+    "website": "https://www.boulderwelt-muenchen-sued.de/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9017861347,
+  "lat": 48.0667039,
+  "lon": 11.6767768,
+  "tags": {
+    "addr:city": "Ottobrunn",
+    "addr:country": "DE",
+    "addr:housenumber": "10",
+    "addr:postcode": "85521",
+    "addr:street": "Ludwig-Thoma-Straße",
+    "check_date:opening_hours": "2023-06-03",
+    "name": "Glaserei Köhler",
+    "opening_hours": "Mo-Fr 09:00-12:00,13:00-16:00",
+    "phone": "+49 89 6010003",
+    "shop": "glaziery",
+    "website": "https://glas-spiegel-koehler.de"
+  }
+},
+{
+  "type": "node",
+  "id": 9094361483,
+  "lat": 48.2660552,
+  "lon": 11.6728706,
+  "tags": {
+    "access": "yes",
+    "amenity": "parking_entrance",
+    "fee": "yes",
+    "height": "2.0",
+    "level": "-1",
+    "maxheight": "2.0",
+    "name": "Galileo Tiefgarage",
+    "opening_hours": "24/7",
+    "operator": "Galileo",
+    "parking": "underground",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 9138735530,
+  "lat": 48.1368130,
+  "lon": 11.5841927,
+  "tags": {
+    "access": "yes",
+    "amenity": "parking",
+    "capacity": "521",
+    "fee": "yes",
+    "layer": "-1",
+    "name": "Hofbräuhaus Parkgarage",
+    "parking": "underground"
+  }
+},
+{
+  "type": "node",
+  "id": 9367160712,
+  "lat": 48.1233899,
+  "lon": 11.5524047,
+  "tags": {
+    "amenity": "parking_entrance",
+    "description": "Nur für Mieter und Traugäste",
+    "maxheight": "3.4",
+    "name": "Tiefgarage Standesamt (Traugäste)",
+    "parking": "underground"
+  }
+},
+{
+  "type": "node",
+  "id": 9696918138,
+  "lat": 48.1022007,
+  "lon": 11.5325848,
+  "tags": {
+    "addr:city": "München",
+    "addr:country": "DE",
+    "addr:housenumber": "23",
+    "addr:postcode": "81379",
+    "addr:street": "Zielstattstraße",
+    "climbing:boulder": "yes",
+    "climbing:sport": "no",
+    "climbing:toprope": "no",
+    "climbing:traditional": "no",
+    "contact:phone": "+49 89 201 794 620",
+    "contact:website": "https://muenchen.element-boulders.de/start.html",
+    "leisure": "sports_centre",
+    "name": "Element Boulders",
+    "opening_hours": "Mo 09:00-23:00, Tu-Th 07:00-23:00, Fr-Su 09:00-23:00",
+    "sport": "climbing"
+  }
+},
+{
+  "type": "node",
+  "id": 9720846061,
+  "lat": 48.0722846,
+  "lon": 11.6533914,
+  "tags": {
+    "addr:city": "Ottobrunn",
+    "addr:housenumber": "10",
+    "addr:postcode": "85521",
+    "addr:street": "Jägerweg",
+    "email": "team@onehourleft.de",
+    "image": "http://arweave.net/KgMVjJL-DO9cVdjoVsqRv0TVAUe-6UF6I5AvShXz8Uw",
+    "leisure": "escape_game",
+    "name": "One Hour Left | Next Level Escape Game",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+49 89 66 594 204",
+    "website": "https://www.onehourleft.de",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9872932960,
+  "lat": 48.1117984,
+  "lon": 11.5718772,
+  "tags": {
+    "access": "yes",
+    "climbing:boulder": "yes",
+    "climbing:length": "3",
+    "fee": "no",
+    "leisure": "pitch",
+    "name": "Dicker Hans",
+    "opening_hours": "24/7",
+    "operator": "Kraxlkollektiv - Alpenverein München & Oberland - DAV",
+    "outdoor": "yes",
+    "sport": "climbing",
+    "website": "https://www.kraxlkollektiv.de/mehr-oeffentliche-boulderwaende-wie-und-wo/kraxlkollektivs-boulderwaende.html"
+  }
+},
+{
+  "type": "node",
+  "id": 9906227354,
+  "lat": 48.1749364,
+  "lon": 11.6381999,
+  "tags": {
+    "addr:city": "Unterföhring",
+    "addr:country": "DE",
+    "addr:housenumber": "9",
+    "addr:postcode": "85774",
+    "addr:street": "Apianstraße",
+    "contact:email": "palace@dreambowl.de",
+    "contact:fax": "+49 89 452 442 524",
+    "contact:phone": "+49 89 452 442 525",
+    "contact:website": "https://www.dreambowl.de/dream-bowl-palace-unterfoehring-muenchen/dream-bowl-palace/",
+    "fee": "yes",
+    "leisure": "bowling_alley",
+    "name": "Dream-Bowl Palace",
+    "opening_hours": "Mo off; Tu-Th 15:00-22:00; Fr,Sa 14:00-24:00; Su 12:00-22:00",
+    "operator": "Dream-Bowl Palace GmbH",
+    "sport": "billiards"
+  }
+},
+{
+  "type": "node",
+  "id": 9972786142,
+  "lat": 48.1030412,
+  "lon": 11.4299151,
+  "tags": {
+    "addr:city": "Planegg",
+    "addr:housenumber": "17",
+    "addr:postcode": "82152",
+    "addr:street": "Münchner Straße",
+    "name": "Classic Vespa Garage",
+    "opening_hours": "Tu-Fr 13:00-18:00; Sa 10:00-14:00; Mo,PH off",
+    "shop": "motorcycle_repair",
+    "website": "https://www.vespa-50.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 10068607771,
+  "lat": 48.1447289,
+  "lon": 11.5203818,
+  "tags": {
+    "addr:city": "München",
+    "addr:housenumber": "16",
+    "addr:postcode": "80639",
+    "addr:street": "Friedenheimer Brücke",
+    "check_date": "2026-04-24",
+    "check_date:opening_hours": "2024-05-13",
+    "contact:facebook": "bodyandsoulde",
+    "contact:instagram": "body.soul",
+    "email": "hirschgarten@bodyandsoul.de",
+    "internet_access": "wlan",
+    "leisure": "fitness_centre",
+    "level": "0-2",
+    "membership": "yes",
+    "name": "body + soul Hirschgarten",
+    "opening_hours": "Mo-Fr 06:00-24:00; Sa-Su 09:00-22:00; PH 09:00-22:00",
+    "phone": "+49 89 502 005 0",
+    "sauna": "yes",
+    "sauna:access": "customers",
+    "shower": "hot",
+    "sport": "fitness;swimming;climbing",
+    "swimming_pool": "indoor",
+    "website": "https://www.bodyandsoul.de/standorte/hirschgarten/das-center-im-ueberblick",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 10119146256,
+  "lat": 48.0990295,
+  "lon": 11.6463612,
+  "tags": {
+    "access": "customers",
+    "amenity": "parking_entrance",
+    "maxheight": "2",
+    "name": "Perlach Plaza Parkgarage",
+    "opening_hours": "24/7",
+    "operator": "Perlach Plaza",
+    "parking": "underground"
+  }
+},
+{
+  "type": "node",
+  "id": 10119203682,
+  "lat": 48.1097174,
+  "lon": 11.5880100,
+  "tags": {
+    "addr:city": "München",
+    "addr:country": "DE",
+    "addr:housenumber": "100",
+    "addr:postcode": "81539",
+    "addr:street": "Perlacher Straße",
+    "contact:website": "https://www.glaserei-noah.de/",
+    "name": "Glaserei Noah",
+    "opening_hours": "Mo-Th 08:00-17:00; Fr 11:00-14:30",
+    "shop": "glaziery",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10130877186,
+  "lat": 48.1094093,
+  "lon": 11.5949160,
+  "tags": {
+    "check_date": "2023-10-29",
+    "leisure": "amusement_arcade",
+    "name": "Bet 3000",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 10166953144,
+  "lat": 48.1307591,
+  "lon": 11.6178991,
+  "tags": {
+    "amenity": "restaurant",
+    "check_date": "2026-03-28",
+    "check_date:opening_hours": "2026-03-28",
+    "cuisine": "burger",
+    "indoor_seating": "yes",
+    "name": "Smash House",
+    "opening_hours": "Mo-Su 11:00-23:00",
+    "outdoor_seating": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 10201985599,
+  "lat": 48.1370226,
+  "lon": 11.5879876,
+  "tags": {
+    "check_date:opening_hours": "2023-01-13",
+    "name": "Siham Kosmetik & Laser",
+    "opening_hours:signed": "no",
+    "shop": "cosmetics"
+  }
+},
+{
+  "type": "node",
+  "id": 10263304220,
+  "lat": 48.0580782,
+  "lon": 11.5229508,
+  "tags": {
+    "amenity": "car_sharing",
+    "capacity": "1",
+    "name": "Mietauto Bahnhof Tiefgarage",
+    "object:city": "Pullach im Isartal",
+    "object:housenumber": "9",
+    "object:postcode": "82049",
+    "object:street": "Münchener Straße",
+    "operator": "mikar",
+    "website": "https://mikar.de/carsharing-in-der-naehe/"
+  }
+},
+{
+  "type": "node",
+  "id": 10303029710,
+  "lat": 48.0876187,
+  "lon": 11.4789957,
+  "tags": {
+    "addr:city": "München",
+    "addr:country": "DE",
+    "addr:housenumber": "9a",
+    "addr:postcode": "81475",
+    "addr:street": "Maxhofstraße",
+    "email": "info@aqua-soul.de",
+    "leisure": "water_park",
+    "name": "Aqua&Soul",
+    "opening_hours": "\"Termin nach Vereinbarung\"",
+    "website": "https://aqua-soul.de/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 10683297813,
+  "lat": 48.2625984,
+  "lon": 11.4380738,
+  "tags": {
+    "amenity": "bar",
+    "contact:facebook": "https://www.facebook.com/people/Mirage-Cafe-Bar-Lounge-Shisha/100071887477977/",
+    "name": "Mirage"
+  }
+},
+{
+  "type": "node",
+  "id": 10715957775,
+  "lat": 48.1358043,
+  "lon": 11.5417170,
+  "tags": {
+    "addr:city": "München",
+    "addr:country": "DE",
+    "addr:housenumber": "30",
+    "addr:postcode": "80339",
+    "addr:street": "Gollierstraße",
+    "amenity": "restaurant",
+    "contact:mobile": "+49 1522 965 00 18",
+    "contact:website": "https://www.ruffsburger.de/burger-house-restaurant-muenchen-westend/",
+    "cuisine": "burger",
+    "name": "Smash Burger and Bar",
+    "opening_hours": "Tu 18:00-22:30; We-Th 11:30-14:30, 18:00-22:00; Fr 11:30-22:30; Sa 12:00-22:30; Su 12:00-22:00"
+  }
+},
+{
+  "type": "node",
+  "id": 10752439606,
+  "lat": 48.1869866,
+  "lon": 11.3829667,
+  "tags": {
+    "addr:city": "Gröbenzell",
+    "addr:country": "DE",
+    "addr:floor": "1",
+    "addr:housenumber": "84",
+    "addr:postcode": "82194",
+    "addr:street": "Olchinger Straße",
+    "check_date": "2025-01-04",
+    "email": "groebenzell@exus.de",
+    "fee": "yes",
+    "internet_access": "wlan",
+    "internet_access:fee": "customers",
+    "leisure": "miniature_golf",
+    "name": "Neongolf Gröbenzell",
+    "name:de": "Neongolf",
+    "opening_hours": "We-Th 16:00-21:00; Fr 16:00-22:00; Sa-Su 12:00-21:00",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+49 8142 5015541",
+    "source": "survey",
+    "toilets": "yes",
+    "toilets:wheelchair": "no",
+    "website": "https://www.exus.de/sporterlebnis/3d-neongolf-groebenzell/"
+  }
+},
+{
+  "type": "node",
+  "id": 10753991711,
+  "lat": 48.1131330,
+  "lon": 11.5484379,
+  "tags": {
+    "check_date:opening_hours": "2026-10-27",
+    "level": "0",
+    "name": "Munich Laser",
+    "opening_hours": "Mo-Fr 10:00-19:00",
+    "shop": "beauty"
+  }
+},
+{
+  "type": "node",
+  "id": 10814090470,
+  "lat": 48.1574385,
+  "lon": 11.5690183,
+  "tags": {
+    "addr:city": "München",
+    "addr:country": "DE",
+    "addr:housenumber": "20",
+    "addr:postcode": "80798",
+    "addr:street": "Tengstraße",
+    "check_date": "2026-09-06",
+    "contact:website": "https://escapegame-muenchen.de/",
+    "leisure": "escape_game",
+    "name": "Escape Game"
+  }
+},
+{
+  "type": "node",
+  "id": 10915711705,
+  "lat": 48.1770539,
+  "lon": 11.5793968,
+  "tags": {
+    "addr:city": "München",
+    "addr:country": "DE",
+    "addr:housenumber": "4",
+    "addr:postcode": "80804",
+    "addr:street": "Klopstockstraße",
+    "check_date": "2026-05-05",
+    "contact:email": "olympia-m@web.de",
+    "contact:mobile": "+49 171 1586566",
+    "contact:phone": "+49 89 457 092 91",
+    "contact:website": "https://olympia-bowling.de",
+    "internet_access": "wlan",
+    "leisure": "bowling_alley",
+    "level": "-1",
+    "name": "Olympia Bowling Schwabing",
+    "opening_hours": "Mo-Th 18:00-00:00; Fr 16:00-01:00; Sa 14:00-01:00; Su 13:00-20:00",
+    "payment:cards": "yes",
+    "payment:cash": "yes",
+    "toilets:access": "customers",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 10916271985,
+  "lat": 48.0992779,
+  "lon": 11.6463742,
+  "tags": {
+    "access": "customers",
+    "amenity": "parking",
+    "fee": "yes",
+    "layer": "-1",
+    "name": "Perlach Plaza Parkgarage",
+    "opening_hours": "24/7",
+    "operator": "Perlach Plaza",
+    "parking": "underground"
+  }
+},
+{
+  "type": "node",
+  "id": 11063761844,
+  "lat": 48.1122355,
+  "lon": 11.7137629,
+  "tags": {
+    "addr:city": "Haar",
+    "addr:housenumber": "14a",
+    "addr:postcode": "85540",
+    "addr:street": "Keferloher Straße",
+    "check_date": "2026-01-24",
+    "check_date:opening_hours": "2026-01-24",
+    "name": "Speicherplatz Self Storage",
+    "opening_hours": "Mo-Sa 06:00-22:00, Su 21:00-20:00",
+    "shop": "storage_rental",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11074172506,
+  "lat": 48.2983757,
+  "lon": 11.8382101,
+  "tags": {
+    "addr:city": "Oberding",
+    "addr:housenumber": "2",
+    "addr:postcode": "85445",
+    "addr:street": "Notzinger Weiher",
+    "email": "info@notzinger-weiher.de",
+    "leisure": "water_park",
+    "name": "Naturbadeparadies Notzinger Weiher",
+    "website": "https://www.notzinger-weiher.de"
+  }
+},
+{
+  "type": "node",
+  "id": 11117146896,
+  "lat": 48.1529931,
+  "lon": 11.5740118,
+  "tags": {
+    "addr:city": "München",
+    "addr:country": "DE",
+    "addr:housenumber": "65",
+    "addr:postcode": "80799",
+    "addr:street": "Barer Straße",
+    "contact:email": "info@escapegame-munich.de",
+    "contact:phone": "+49 89 7169 8773",
+    "contact:website": "https://escapegame-muenchen.de",
+    "leisure": "escape_game",
+    "level": "-1",
+    "name": "Escape Game",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11211747951,
+  "lat": 48.1152366,
+  "lon": 11.6134303,
+  "tags": {
+    "access": "yes",
+    "climbing:boulder": "yes",
+    "climbing:ice": "no",
+    "fee": "no",
+    "indoor": "yes",
+    "leisure": "corridor",
+    "level": "-1",
+    "name": "Boulderwand Riesige Rosi",
+    "opening_date": "2023-09-26 15:30",
+    "opening_hours": "24/7",
+    "operator": "Alpenverein München & Oberland - DAV",
+    "sport": "climbing",
+    "url": "https://www.alpenverein-muenchen-oberland.de/dav-kletterhallen-in-muenchen/boulderwand-riesige-rosi",
+    "wikidata": "Q127867687"
+  }
+},
+{
+  "type": "node",
+  "id": 11350505383,
+  "lat": 48.2878936,
+  "lon": 11.7870430,
+  "tags": {
+    "addr:city": "Moosinning",
+    "addr:housenumber": "40",
+    "addr:postcode": "85452",
+    "addr:street": "Schulstraße",
+    "name": "BOXIE24 Lagerraum München-Nord | Self Storage",
+    "opening_hours": "Mo-Fr 08:00-18:00, Sa 08:00-15:00",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:sofortüberweisung": "yes",
+    "payment:visa": "yes",
+    "phone": "+49 89 20194512",
+    "shop": "storage_rental",
+    "website": "https://www.boxie24.com/de-de/lagerraum-mieten-muenchen/"
+  }
+},
+{
+  "type": "node",
+  "id": 11540042126,
+  "lat": 48.1365179,
+  "lon": 11.4204128,
+  "tags": {
+    "addr:city": "München",
+    "addr:country": "DE",
+    "addr:housenumber": "19",
+    "addr:postcode": "81249",
+    "addr:street": "Bertha-Kipfmüller-Straße",
+    "climbing:boulder": "yes",
+    "climbing:sport": "no",
+    "climbing:toprope": "no",
+    "climbing:traditional": "no",
+    "leisure": "sports_centre",
+    "name": "Boulderwelt München West",
+    "old_name": "Dreherei und Schlosserei",
+    "opening_hours": "Mo-Fr 07:00-23:00; PH,Sa,Su 08:00-23:00",
+    "phone": "+49 89 82073499",
+    "sport": "climbing",
+    "start_date": "1903",
+    "website": "https://www.boulderwelt-muenchen-west.de/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 11756492613,
+  "lat": 48.2273024,
+  "lon": 11.4306807,
+  "tags": {
+    "name": "Selfstorage DAH",
+    "phone": "+49 176 24976698",
+    "shop": "storage_rental",
+    "website": "https://www.selfstorage-dah.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 11764676897,
+  "lat": 48.1214874,
+  "lon": 11.5889208,
+  "tags": {
+    "access": "yes",
+    "amenity": "parking_entrance",
+    "maxheight": "2",
+    "name": "Parkgarage Welfenhöfe",
+    "parking": "underground"
+  }
+},
+{
+  "type": "node",
+  "id": 11786556654,
+  "lat": 48.2135577,
+  "lon": 11.3204871,
+  "tags": {
+    "amenity": "social_facility",
+    "name": "a Ki t Z! Aktion Kinder tragen Zukunft",
+    "social_facility": "outreach",
+    "social_facility:for": "child"
+  }
+},
+{
+  "type": "node",
+  "id": 11794070134,
+  "lat": 48.1920101,
+  "lon": 11.5490775,
+  "tags": {
+    "addr:floor": "2",
+    "beauty": "laser_hair_removal",
+    "check_date": "2025-04-03",
+    "check_date:opening_hours": "2025-04-03",
+    "email": "info@silkskin.de",
+    "level": "2",
+    "name": "SILKSKIN Laser - Haarentfernung",
+    "opening_hours:signed": "no",
+    "phone": "+49 89 55063822",
+    "shop": "beauty",
+    "website": "https://www.silkskin.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 11916574569,
+  "lat": 48.3295151,
+  "lon": 11.6914315,
+  "tags": {
+    "name": "zero Latency Virtual Reality Gaming München",
+    "tourism": "attraction",
+    "website": "https://zerolatency-munich.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 11959182566,
+  "lat": 48.1069754,
+  "lon": 11.7312955,
+  "tags": {
+    "board_type": "history",
+    "information": "board",
+    "name": "Zirkus-Einsätze",
+    "operator": "Feuerwehr Haar",
+    "tourism": "information"
+  }
+},
+{
+  "type": "node",
+  "id": 12052903976,
+  "lat": 48.2552332,
+  "lon": 11.6129479,
+  "tags": {
+    "addr:housenumber": "12",
+    "addr:street": "Robert-Bosch-Straße",
+    "leisure": "sports_centre",
+    "name": "Laserzone",
+    "website": "https://www.laserzone.de/bayern/muenchen/lasertag-muenchen/"
+  }
+},
+{
+  "type": "node",
+  "id": 12137077486,
+  "lat": 48.2284975,
+  "lon": 11.6774317,
+  "tags": {
+    "addr:city": "Ismaning",
+    "addr:country": "DE",
+    "addr:housenumber": "6",
+    "addr:postcode": "85737",
+    "addr:street": "Erich-Zeitler-Straße",
+    "leisure": "water_park",
+    "name": "Hallenbad Ismaning",
+    "opening_hours": "Mo 12:00-21:00; Tu-Su 08:00-21:00",
+    "operator": "Gemeindewerke Ismaning",
+    "phone": "+49 89 235475-00",
+    "sport": "swimming",
+    "website": "https://www.hallenbad-ismaning.de/",
+    "wheelchair": "yes",
+    "wikimedia_commons": "Category:Hallenbad Ismaning"
+  }
+},
+{
+  "type": "node",
+  "id": 12163409668,
+  "lat": 48.1351713,
+  "lon": 11.5799821,
+  "tags": {
+    "addr:city": "München",
+    "addr:country": "DE",
+    "addr:housenumber": "41",
+    "addr:postcode": "80331",
+    "addr:street": "Westenriederstraße",
+    "check_date": "2025-10-11",
+    "check_date:opening_hours": "2024-09-08",
+    "email": "info@unlock-escape.de",
+    "leisure": "escape_game",
+    "level": "-1",
+    "name": "Unlock Escape",
+    "opening_hours": "Su-Th 11:00-21:30; Fr-Sa 11:00-23:00",
+    "operator": "Beyond Entertainment GmbH",
+    "phone": "+49 89 89839840",
+    "website": "https://unlock-escape.de/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12378388076,
+  "lat": 48.1242140,
+  "lon": 11.5897952,
+  "tags": {
+    "amenity": "fast_food",
+    "cuisine": "burger",
+    "diet:halal": "yes",
+    "indoor_seating": "yes",
+    "name": "Smash it!",
+    "outdoor_seating": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12487855596,
+  "lat": 48.1788159,
+  "lon": 11.6356882,
+  "tags": {
+    "addr:city": "Unterföhring",
+    "addr:country": "DE",
+    "addr:housenumber": "15",
+    "addr:postcode": "85774",
+    "addr:street": "Feringastraße",
+    "branch": "Munich Unterföhring",
+    "brand": "Shurgard",
+    "brand:wikidata": "Q3482670",
+    "contact:facebook": "https://www.facebook.com/ShurgardSelfStorage",
+    "contact:phone": "+49 89 25552660",
+    "contact:twitter": "shurgard",
+    "contact:website": "https://www.shurgard.com/en-de/self-storage/munich/munich-unterfoehring",
+    "name": "Shurgard Self-Storage",
+    "shop": "storage_rental"
+  }
+},
+{
+  "type": "node",
+  "id": 12488303625,
+  "lat": 48.1386569,
+  "lon": 11.5256694,
+  "tags": {
+    "addr:city": "München",
+    "addr:country": "DE",
+    "addr:housenumber": "161",
+    "addr:postcode": "80687",
+    "addr:street": "Landsberger Straße",
+    "branch": "Munich Laim",
+    "brand": "Shurgard",
+    "brand:wikidata": "Q3482670",
+    "contact:facebook": "https://www.facebook.com/ShurgardSelfStorage",
+    "contact:phone": "+49 89 25552657",
+    "contact:twitter": "shurgard",
+    "contact:website": "https://www.shurgard.com/en-de/self-storage/munich/munich-laim",
+    "name": "Shurgard Self-Storage",
+    "shop": "storage_rental"
+  }
+},
+{
+  "type": "node",
+  "id": 12506433313,
+  "lat": 48.1470741,
+  "lon": 11.5530933,
+  "tags": {
+    "addr:housenumber": "110",
+    "addr:street": "Karlstraße",
+    "check_date": "2026-03-23",
+    "check_date:opening_hours": "2026-03-23",
+    "name": "SOUL Laser & Aesthetic",
+    "opening_hours": "Mo-Fr 10:00-19:00; Sa 10:00-15:00; PH off",
+    "shop": "beauty"
+  }
+},
+{
+  "type": "node",
+  "id": 12548615529,
+  "lat": 48.1012723,
+  "lon": 11.4155138,
+  "tags": {
+    "addr:city": "Krailling",
+    "addr:housenumber": "15",
+    "addr:postcode": "82152",
+    "addr:street": "Luitpoldstraße",
+    "internet_access": "no",
+    "leisure": "escape_game",
+    "name": "Bavaria Escape",
+    "phone": "+49 89 856 62 822",
+    "start_date": "2025-02-01",
+    "website": "https://www.bavaria-escape.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 12753682048,
+  "lat": 48.1253200,
+  "lon": 11.5347894,
+  "tags": {
+    "addr:housenumber": "3",
+    "addr:street": "Am Westpark",
+    "leisure": "escape_game",
+    "name": "Escape Game",
+    "website": "https://escapegame-muenchen.de/buchen/#sendling"
+  }
+},
+{
+  "type": "node",
+  "id": 12829090756,
+  "lat": 48.3294118,
+  "lon": 11.6918711,
+  "tags": {
+    "leisure": "miniature_golf",
+    "name": "3D Minigolf & Pit-Pat"
+  }
+},
+{
+  "type": "node",
+  "id": 12953577869,
+  "lat": 48.2831383,
+  "lon": 11.5641527,
+  "tags": {
+    "check_date": "2025-10-18",
+    "email": "info@auralaserbeauty.de",
+    "name": "Aura Laser & Beauty",
+    "operator": "Zehra Bekiroglu und Fulya Özkara",
+    "phone": "+49 174 3866544",
+    "shop": "beauty",
+    "website": "https://www.auralaserbeauty.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 13052372736,
+  "lat": 48.2691720,
+  "lon": 11.5313849,
+  "tags": {
+    "check_date": "2025-11-05",
+    "email": "adisgarage1.0@gmail.com",
+    "name": "ADI'S GARAGE Reifenservice/Reifenlagerung",
+    "operator": "Adrian Burlacu",
+    "phone": "+49 1575 1650964",
+    "shop": "tyres",
+    "website": "https://adis-garage.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 13094505144,
+  "lat": 48.2446586,
+  "lon": 11.4478679,
+  "tags": {
+    "addr:housenumber": "87a",
+    "addr:street": "Münchner Straße",
+    "amenity": "bar",
+    "email": "kontakt@skylinebillard.de",
+    "internet_access": "wlan",
+    "name": "Skyline Billard Sportbar",
+    "opening_hours": "Mo-Th 17:00-00:00; Fr 17:00-01:00; Sa 15:00-01:00; Su,PH 15:00-00:00",
+    "phone": "+49 8131 9039039",
+    "sport": "billiards",
+    "television": "yes",
+    "website": "https://www.skylinebillard.de/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 13100081916,
+  "lat": 48.1318717,
+  "lon": 11.6908962,
+  "tags": {
+    "addr:city": "München",
+    "addr:housenumber": "5",
+    "addr:postcode": "81829",
+    "addr:street": "Willy-Brandt-Platz",
+    "leisure": "amusement_arcade",
+    "level": "1",
+    "name": "Coool! By Kiddieland",
+    "opening_hours": "Mo-Sa 10:00-20:00; PH off",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13123196856,
+  "lat": 48.1376382,
+  "lon": 11.5467640,
+  "tags": {
+    "description": "Letzter Einlass: 1,5 Std. vor Schließung",
+    "leisure": "miniature_golf",
+    "name": "3D Neongolf",
+    "opening_hours": "Mo-Th 16:00-21:00; Fr 16:00-23:00; Sa 10:00-23:00; Su 10:00-21:00",
+    "phone": "+49 89 97870892",
+    "website": "https://www.exus.de"
+  }
+},
+{
+  "type": "node",
+  "id": 13236296772,
+  "lat": 48.1648179,
+  "lon": 11.4740134,
+  "tags": {
+    "addr:city": "München",
+    "addr:country": "DE",
+    "addr:housenumber": "58",
+    "addr:postcode": "81247",
+    "addr:street": "Verdistraße",
+    "beauty": "tattoo_removal",
+    "name": "Laserina",
+    "note": "Nicht in Liste der Stadt München; kein blaues Hausnummernschild, Adresse von der Webseite. #Adressenabgleich",
+    "shop": "beauty",
+    "website": "https://www.laserina.de/tattooentfernung-muenchen/"
+  }
+},
+{
+  "type": "node",
+  "id": 13256448001,
+  "lat": 48.1877167,
+  "lon": 11.3846933,
+  "tags": {
+    "addr:city": "Gröbenzell",
+    "addr:housenumber": "28",
+    "addr:postcode": "82194",
+    "addr:street": "Industriestraße",
+    "leisure": "trampoline_park",
+    "name": "Maxx Arena",
+    "opening_hours": "Tu-Th 15:00-20:00; Fr 14:00-20:00; Sa, Su 09:00-20:00",
+    "sport": "trampoline;climbing",
+    "website": "https://www.maxxarena.com/groebenzell"
+  }
+},
+{
+  "type": "node",
+  "id": 13287702050,
+  "lat": 48.2872073,
+  "lon": 11.5668210,
+  "tags": {
+    "check_date": "2025-11-07",
+    "email": "info@kloiber.com",
+    "name": "DeinDepot - Self Storage - Unterschleißheim",
+    "operator": "Ferdinand Kloiber",
+    "phone": "+49 8137 93140",
+    "shop": "storage_rental",
+    "website": "https://deindepot.io/unterschleissheim"
+  }
+},
+{
+  "type": "node",
+  "id": 13551349973,
+  "lat": 48.0903637,
+  "lon": 11.6323791,
+  "tags": {
+    "brand": "MyPlace-SelfStorage",
+    "brand:wikidata": "Q109659129",
+    "name": "MyPlace-SelfStorage",
+    "opening_hours": "Mo-Su,PH 07:00-22:00",
+    "shop": "storage_rental",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13563838726,
+  "lat": 48.1369030,
+  "lon": 11.5469429,
+  "tags": {
+    "addr:floor": "1",
+    "check_date": "2026-02-14",
+    "leisure": "amusement_arcade",
+    "level": "1",
+    "name": "Another World",
+    "website": "https://munich.another-world.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 13564403268,
+  "lat": 48.1366056,
+  "lon": 11.5471525,
+  "tags": {
+    "leisure": "trampoline_park",
+    "level": "1",
+    "name": "Jumping 089"
+  }
+},
+{
+  "type": "node",
+  "id": 13564403298,
+  "lat": 48.1369510,
+  "lon": 11.5465356,
+  "tags": {
+    "addr:floor": "1",
+    "check_date": "2026-02-14",
+    "leisure": "amusement_arcade",
+    "level": "1",
+    "name": "Coool! Arena"
+  }
+},
+{
+  "type": "node",
+  "id": 13667142208,
+  "lat": 47.9706010,
+  "lon": 11.6597986,
+  "tags": {
+    "addr:city": "Sauerlach",
+    "addr:country": "DE",
+    "addr:housenumber": "16b",
+    "addr:postcode": "82054",
+    "addr:street": "Hofoldinger Straße",
+    "check_date": "2026-02-28",
+    "contact:email": "makadigarage@gmail.com",
+    "contact:instagram": "mkd_tms",
+    "contact:mobile": "+49 1590 1246862",
+    "name": "Makadi Garage",
+    "operator": "Tamás Makádi",
+    "service": "repair",
+    "service:vehicle:batteries": "yes",
+    "service:vehicle:car_parts": "yes",
+    "service:vehicle:oil_change": "yes",
+    "service:vehicle:tyres": "yes",
+    "service:vehicle:used_car_sales": "yes",
+    "shop": "car_repair"
+  }
+},
+{
+  "type": "node",
+  "id": 13719109367,
+  "lat": 48.0888405,
+  "lon": 11.5287328,
+  "tags": {
+    "climbing:boulder": "yes",
+    "leisure": "pitch",
+    "sport": "climbing"
+  }
+},
+{
+  "type": "node",
+  "id": 13719506698,
+  "lat": 48.1044660,
+  "lon": 11.5068115,
+  "tags": {
+    "climbing:boulder": "yes",
+    "leisure": "pitch",
+    "name": "Boulderfels",
+    "sport": "climbing"
+  }
+},
+{
+  "type": "node",
+  "id": 13958852934,
+  "lat": 48.3125453,
+  "lon": 11.8926569,
+  "tags": {
+    "addr:city": "Erding",
+    "addr:housenumber": "3",
+    "addr:postcode": "85435",
+    "addr:street": "Robert-Bosch-Straße",
+    "leisure": "amusement_arcade",
+    "name": "3D-Minigolf"
+  }
+},
+{
+  "type": "node",
+  "id": 14001851272,
+  "lat": 48.1733842,
+  "lon": 11.5484386,
+  "tags": {
+    "fee": "yes",
+    "leisure": "sports_centre",
+    "name": "SAYAQ Adventure Tower",
+    "operator": "SAYAQ Adventures München GmbH & Co. KG",
+    "operator:type": "private",
+    "sport": "climbing_adventure",
+    "website": "https://sayaq-adventures-muenchen.com/sayaq-adventure-tower/"
+  }
+},
+{
+  "type": "node",
+  "id": 14179984211,
+  "lat": 48.1779276,
+  "lon": 11.5561918,
+  "tags": {
+    "amenity": "charging_station",
+    "fixme": "determine exact positioning inside parking garage",
+    "name": "Parkgarage BMW Welt"
+  }
+},
+{
+  "type": "node",
+  "id": 14284479401,
+  "lat": 48.1860001,
+  "lon": 11.5294272,
+  "tags": {
+    "addr:housenumber": "36",
+    "addr:postcode": "80993",
+    "addr:street": "Ehrenbreitsteiner Straße",
+    "check_date": "2026-10-12",
+    "check_date:opening_hours": "2026-10-12",
+    "leisure": "escape_game",
+    "level": "-1",
+    "name": "EscapeGame München OEZ",
+    "opening_hours": "Su-Th 09:30-22:30; Fr-Sa 09:30-00:45",
+    "website": "https://escapegame-muenchen.de"
+  }
+},
+{
+  "type": "node",
+  "id": 14329364001,
+  "lat": 48.1520828,
+  "lon": 11.5343791,
+  "tags": {
+    "addr:city": "München",
+    "addr:country": "DE",
+    "addr:housenumber": "2",
+    "addr:postcode": "80634",
+    "addr:street": "Schulstraße",
+    "amenity": "fast_food",
+    "contact:website": "https://smash87.de/",
+    "cuisine": "burger",
+    "description": "Befindet sich im Giesinger Bräu Stehausschank",
+    "indoor": "yes",
+    "indoor_seating": "yes",
+    "name": "Smash87",
+    "opening_hours:signed": "no",
+    "organic": "yes",
+    "outdoor_seating": "yes",
+    "smoking": "outside",
+    "website:menu": "https://smash87.de/wp-content/uploads/2026/09/smash87-speisekarte-08-2026.pdf",
+    "wheelchair": "no",
+    "wheelchair:description": "Zwei Stufen am Eingang"
+  }
+},
+{
+  "type": "node",
+  "id": 14363566982,
+  "lat": 48.1761538,
+  "lon": 11.5348497,
+  "tags": {
+    "artist:wikidata": "Q667780",
+    "artist_name": "Francois Morellet",
+    "artwork_type": "sculpture",
+    "level": "8",
+    "name": "Kreis, Quadrat und Abfälle",
+    "start_date": "1999",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "way",
+  "id": 3401798,
+  "center": {
+    "lat": 48.1615748,
+    "lon": 11.7260915
+  },
+  "tags": {
+    "leisure": "water_park",
+    "name": "Wasserskipark Aschheim",
+    "natural": "water",
+    "sport": "water_ski",
+    "water": "lake",
+    "website": "https://www.wasserskipark-aschheim.de/"
+  }
+},
+{
+  "type": "way",
+  "id": 4396442,
+  "center": {
+    "lat": 48.3360038,
+    "lon": 11.6555442
+  },
+  "tags": {
+    "leisure": "sport",
+    "name": "Neufahrner Mühlseen / Surfsee",
+    "sport": "windsurfing"
+  }
+},
+{
+  "type": "way",
+  "id": 10049059,
+  "center": {
+    "lat": 48.0589239,
+    "lon": 11.6610515
+  },
+  "tags": {
+    "leisure": "miniature_golf",
+    "name": "Minigolf-Ottobrunn",
+    "opening_hours": "Tu-Fr 14:00-20:45; Sa, Su, PH 12:00-20:45"
+  }
+},
+{
+  "type": "way",
+  "id": 19192519,
+  "center": {
+    "lat": 48.1739111,
+    "lon": 11.7607622
+  },
+  "tags": {
+    "leisure": "miniature_golf",
+    "name": "Minigolfplatz Kirchheim",
+    "opening_hours": "Mo-Th 16:00-20:00; Fr 14:00-20:00; Sa,Su 12:00-20:00",
+    "phone": "+49 89 9046116"
+  }
+},
+{
+  "type": "way",
+  "id": 23544538,
+  "center": {
+    "lat": 48.1633172,
+    "lon": 11.7241860
+  },
+  "tags": {
+    "description": "Etwas grösser als Minigolf, Bahnen aus Kunstrasen, ein Feld ist ein \"Fußballbillard\"",
+    "leisure": "miniature_golf",
+    "name": "Abenteuerspielgolf"
+  }
+},
+{
+  "type": "way",
+  "id": 25114257,
+  "center": {
+    "lat": 48.2307914,
+    "lon": 11.4649767
+  },
+  "tags": {
+    "addr:city": "Karlsfeld",
+    "addr:country": "DE",
+    "addr:housenumber": "13",
+    "addr:postcode": "85757",
+    "addr:street": "Jahnstraße",
+    "amenity": "kindergarten",
+    "building": "kindergarten",
+    "building:levels": "1",
+    "check_date": "2025-07-16",
+    "name": "BRK Kindergarten \"Flohzirkus\"",
+    "operator": "Bayerisches Rotes Kreuz",
+    "operator:short": "BRK",
+    "operator:type": "charitable",
+    "operator:wikidata": "Q812433"
+  }
+},
+{
+  "type": "way",
+  "id": 25638818,
+  "center": {
+    "lat": 48.2225587,
+    "lon": 11.2599946
+  },
+  "tags": {
+    "barrier": "fence",
+    "contact:website": "https://www.maisach.de/leben-in-maisach/kultur-freizeit/freibad",
+    "fence_type": "metal",
+    "landuse": "recreation_ground",
+    "leisure": "water_park",
+    "name": "Freibad Maisach",
+    "opening_hours": "Mo 12:00-20:00, Tu,Th 06:00-08:00, We,Th,Sa 10:00-20:00, Tu,Fr 10:00-21:00, Fr 10:00-21:00, Su 09:00-20:00; May-Jun: Tu,We,Fr 11:00-19:30, May-Jun: Th 06:00-08:00,10:00-19:30, May-Jun: Sa 10:00-19:30, May-Jun: Su 10:00-20:00; Sep: 10:00-19:00; Oct-Apr off",
+    "opening_hours:url": "https://www.maisach.de/leben-in-maisach/kultur-freizeit/freibad/oeffnungszeiten",
+    "water_park": "outdoor"
+  }
+},
+{
+  "type": "way",
+  "id": 26533011,
+  "center": {
+    "lat": 48.2203339,
+    "lon": 11.3514533
+  },
+  "tags": {
+    "addr:city": "Olching",
+    "addr:country": "DE",
+    "addr:housenumber": "91",
+    "addr:postcode": "82140",
+    "addr:street": "Feursstraße",
+    "contact:email": "msk@minigolf-olching.de",
+    "contact:facebook": "https://www.facebook.com/Olchinger-Minigolf-Sportklub-eV-282264028451494/",
+    "contact:phone": "+49 8142 445980",
+    "contact:website": "https://www.minigolf-olching.de/",
+    "fee": "yes",
+    "leisure": "miniature_golf",
+    "name": "Minigolf Olching",
+    "opening_hours": "Mo-Fr 15:00-20:00; Sa 13:00-20:00; PH,Su 10:00-20:00; SH Mo-Fr 13:00-20:00; May-Sep Mo-Fr 15:00-21:00; May-Sep Sa 13:00-21:00; May-Sep Su 10:00-21:00",
+    "operator": "Minigolf Sport Klub Olching e.V.",
+    "payment:cash": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 27364673,
+  "center": {
+    "lat": 48.0313772,
+    "lon": 11.6024307
+  },
+  "tags": {
+    "landuse": "recreation_ground",
+    "leisure": "water_park",
+    "name": "Naturbad Furth",
+    "sport": "swimming",
+    "website": "https://furtherbad.de/"
+  }
+},
+{
+  "type": "way",
+  "id": 28477989,
+  "center": {
+    "lat": 48.1677263,
+    "lon": 11.2381492
+  },
+  "tags": {
+    "email": "Manuel_Hohenleitner@web.de",
+    "leisure": "miniature_golf",
+    "name": "Minigolf Fürstenfeldbruck",
+    "opening_hours": "\"Die Öffungszeiten sind je nach Monat und während Ferien anders.\"",
+    "operator": "Manuel Hohenleitner",
+    "phone": "+49 172 7691485",
+    "website": "https://www.minigolf-ffb.de/"
+  }
+},
+{
+  "type": "way",
+  "id": 28543638,
+  "center": {
+    "lat": 48.1749091,
+    "lon": 11.2449556
+  },
+  "tags": {
+    "addr:city": "Fürstenfeldbruck",
+    "addr:country": "DE",
+    "addr:housenumber": "7",
+    "addr:postcode": "82256",
+    "addr:street": "Klosterstraße",
+    "building": "sports_centre",
+    "email": "amperoase@stadtwerke-ffb.de",
+    "fax": "+49 8141 34179",
+    "leisure": "water_park",
+    "name": "Hallenbad AmperOase",
+    "opening_hours": "Mo 13:00-17:00; Tu 10:00-17:00; We-Fr 10:00-21:00; Sa-Su 09:00-21:00; PH 09:00-21:00",
+    "operator": "Stadtwerke Fürstenfeldbruck",
+    "payment:cash": "yes",
+    "payment:girocard": "yes",
+    "payment:girocard_contactless": "yes",
+    "phone": "+49 8141 31280",
+    "sport": "swimming",
+    "website": "https://www.stadtwerke-ffb.de/AmperOase"
+  }
+},
+{
+  "type": "way",
+  "id": 28690111,
+  "center": {
+    "lat": 48.0629762,
+    "lon": 11.6200736
+  },
+  "tags": {
+    "addr:city": "Unterhaching",
+    "addr:country": "DE",
+    "addr:housenumber": "2",
+    "addr:postcode": "82008",
+    "addr:street": "Schrenkstraße",
+    "leisure": "water_park",
+    "name": "Freibad Unterhaching",
+    "sport": "swimming",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "way",
+  "id": 35573889,
+  "center": {
+    "lat": 48.1330789,
+    "lon": 11.3735787
+  },
+  "tags": {
+    "addr:city": "Germering",
+    "addr:country": "DE",
+    "addr:housenumber": "7",
+    "addr:postcode": "82110",
+    "addr:street": "Max-Reger-Straße",
+    "building": "yes",
+    "building:colour": "grey",
+    "description": "Hallenbad",
+    "leisure": "water_park",
+    "name": "Hallenbad Germering",
+    "opening_hours": "Tu-We 08:00-21:00; Fr 07:00-21:00; Sa-Su 09:00-18:00; SH Mo,Th 08:00-21:00; PH Mo,Th 08:00-21:00",
+    "phone": "+49 89 8411000",
+    "roof:colour": "grey",
+    "roof:shape": "flat",
+    "sport": "swimming",
+    "website": "https://stadtwerke-germering.de/hallenbad.html"
+  }
+},
+{
+  "type": "way",
+  "id": 36271131,
+  "center": {
+    "lat": 48.1748995,
+    "lon": 11.7160790
+  },
+  "tags": {
+    "addr:city": "Aschheim",
+    "addr:country": "DE",
+    "addr:housenumber": "5a",
+    "addr:postcode": "85609",
+    "addr:street": "Sternstraße",
+    "building": "yes",
+    "name": "Stahl Garage",
+    "phone": "+49 89 46169373",
+    "shop": "car_repair",
+    "website": "https://stahl-garage.com"
+  }
+},
+{
+  "type": "way",
+  "id": 38542316,
+  "center": {
+    "lat": 48.1741079,
+    "lon": 11.2453840
+  },
+  "tags": {
+    "addr:city": "Fürstenfeldbruck",
+    "addr:housenumber": "7",
+    "addr:postcode": "82256",
+    "addr:street": "Klosterstraße",
+    "email": "amperoase@stadtwerke-ffb.de",
+    "fax": "+49 8141 34179",
+    "leisure": "water_park",
+    "name": "Freibad AmperOase",
+    "opening_hours": "Mo 11:00 - 20:00; Th 07:00 - 20:00; We 09:00 - 20:00; Th 07:00 - 20:00; Fr 09:00 - 20:00; Sa 09:00 - 20:00; Su 09:00 - 20:00",
+    "operator": "Stadtwerke Fürstenfeldbruck",
+    "payment:cash": "yes",
+    "payment:girocard": "yes",
+    "payment:girocard_contactless": "yes",
+    "phone": "+49 8141 31280",
+    "website": "https://www.stadtwerke-ffb.de/de/Privatkunden/AmperOase/",
+    "wikipedia": "de:AmperOase"
+  }
+},
+{
+  "type": "way",
+  "id": 38875818,
+  "center": {
+    "lat": 48.1103366,
+    "lon": 11.7802968
+  },
+  "tags": {
+    "addr:city": "Vaterstetten",
+    "addr:country": "DE",
+    "addr:housenumber": "98",
+    "addr:postcode": "85591",
+    "addr:street": "Baldhamer Straße",
+    "fee": "yes",
+    "leisure": "miniature_golf",
+    "name": "Edi’s Spielewelt",
+    "opening_hours": "Oct-Apr Fr 14:30-18:30; Oct-Apr Sa,Su 10:00-18:30; Oct-Apr Mo off",
+    "payment:cash": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 47034350,
+  "center": {
+    "lat": 48.2176242,
+    "lon": 11.8084316
+  },
+  "tags": {
+    "leisure": "miniature_golf"
+  }
+},
+{
+  "type": "way",
+  "id": 57082612,
+  "center": {
+    "lat": 48.1948276,
+    "lon": 11.6758431
+  },
+  "tags": {
+    "addr:city": "Unterföhring",
+    "addr:country": "DE",
+    "addr:housenumber": "4",
+    "addr:postcode": "85774",
+    "addr:street": "Am Feringasee",
+    "building": "yes",
+    "club": "sport",
+    "description": "Vereinsgebäude des Surfvereins. Am Wochenende im Sommer t.w. auch Imbiss.",
+    "name": "Surf-Verein",
+    "sport": "surfing"
+  }
+},
+{
+  "type": "way",
+  "id": 67385847,
+  "center": {
+    "lat": 47.9921675,
+    "lon": 11.8309202
+  },
+  "tags": {
+    "leisure": "water_park",
+    "name": "Freibad Kastenseeon",
+    "sport": "swimming"
+  }
+},
+{
+  "type": "way",
+  "id": 69029309,
+  "center": {
+    "lat": 48.3232020,
+    "lon": 11.6721917
+  },
+  "tags": {
+    "barrier": "fence",
+    "leisure": "miniature_golf",
+    "opening_hours": "May-Sep: Mo-Su,PH 14:00-19:00"
+  }
+},
+{
+  "type": "way",
+  "id": 69034477,
+  "center": {
+    "lat": 48.3149774,
+    "lon": 11.6570239
+  },
+  "tags": {
+    "access": "yes",
+    "leisure": "playground",
+    "name": "Zirkuswiese"
+  }
+},
+{
+  "type": "way",
+  "id": 71300867,
+  "center": {
+    "lat": 48.3218396,
+    "lon": 11.6737773
+  },
+  "tags": {
+    "addr:city": "Neufahrn bei Freising",
+    "addr:country": "DE",
+    "addr:housenumber": "4",
+    "addr:postcode": "85375",
+    "addr:street": "Käthe-Winkelmann-Platz",
+    "building": "yes",
+    "email": "info@freizeitpark-neufahrn.de",
+    "fax": "+49 8165 953225",
+    "leisure": "water_park",
+    "name": "Neufun",
+    "opening_hours": "Mo,We,Th 13:00-22:00; Tu,Fr,Sa 09:00-22:00; Su 09:00-20:00",
+    "operator": "Gemeinde Neufahrn",
+    "phone": "+49 8165 95320",
+    "recreation_ground": "Sauna",
+    "sport": "swimming",
+    "website": "https://www.hallenbad-neufahrn.de/"
+  }
+},
+{
+  "type": "way",
+  "id": 71603071,
+  "center": {
+    "lat": 48.0441981,
+    "lon": 11.6037406
+  },
+  "tags": {
+    "barrier": "fence",
+    "climbing:boulder": "yes",
+    "climbing:sport": "yes",
+    "indoor": "no",
+    "leisure": "pitch",
+    "lit": "no",
+    "name": "Kletterturm Taufkirchen",
+    "outdoor": "yes",
+    "sport": "climbing",
+    "website": "https://www.kletterturm-taufkirchen.de/",
+    "wikimedia_commons": "File:Taufkirchen - Kletterturm im Sportpark - geo-en.hlipp.de - 11569.jpg"
+  }
+},
+{
+  "type": "way",
+  "id": 87430221,
+  "center": {
+    "lat": 47.9985048,
+    "lon": 11.3538393
+  },
+  "tags": {
+    "addr:city": "Starnberg",
+    "addr:housenumber": "17",
+    "addr:postcode": "82319",
+    "addr:street": "Strandbadstraße",
+    "building": "yes",
+    "leisure": "water_park",
+    "name": "Seebad Starnberg",
+    "note": "Sauna von 10:00 - 22:00 Uhr",
+    "old_name": "Wasserpark Stadt Starnberg",
+    "opening_hours": "Mo,Th 10:00-21:00; Tu,We,Fr 07:00-21:00; Sa,Su,PH 09:00-21:00",
+    "phone": "+49 8151 12666",
+    "sport": "swimming",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.seebad-starnberg.de/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 91908412,
+  "center": {
+    "lat": 48.1419345,
+    "lon": 11.5741550
+  },
+  "tags": {
+    "addr:city": "München",
+    "addr:postcode": "80333",
+    "addr:street": "Salvatorplatz",
+    "amenity": "parking",
+    "architect": "Franz Hart",
+    "architect:wikidata": "Q1300774",
+    "building": "garage",
+    "building:architecture": "modern",
+    "heritage": "4",
+    "heritage:operator": "BLfD",
+    "name": "Salvatorgarage",
+    "parking": "multi-storey",
+    "ref:BLfD": "D-1-62-000-7901",
+    "start_date": "1965",
+    "wikidata": "Q2215770",
+    "wikipedia": "de:Salvatorgarage"
+  }
+},
+{
+  "type": "way",
+  "id": 104405109,
+  "center": {
+    "lat": 48.2627380,
+    "lon": 11.6674200
+  },
+  "tags": {
+    "check_date:opening_hours": "2025-01-07",
+    "fee": "no",
+    "indoor": "room",
+    "level": "0",
+    "name": "ix-quadrat",
+    "opening_hours": "\"* 3. Januar 2025: 13 - 16 Uhr * 24. Januar 2025: 14 - 17 Uhr * 14. Februar 2025: 14 - 17 Uhr * 5. März 2025: 13 - 16 Uhr * 6. März 2025: 13 - 16 Uhr\"",
+    "ref": "00.09.011",
+    "ref:tum": "5609.EG.011",
+    "tourism": "museum",
+    "website": "https://www.math.cit.tum.de/math/department/outreach-activities/ix-quadrat/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 118168391,
+  "center": {
+    "lat": 48.1745976,
+    "lon": 11.5560636
+  },
+  "tags": {
+    "barrier": "fence",
+    "contact:website": "https://minigolf-olympiapark.de/",
+    "leisure": "miniature_golf",
+    "name": "Minigolf Olympiapark",
+    "opening_hours": "Mo-Fr 12:00-20:00; Sa,Su 12:00-20:00"
+  }
+},
+{
+  "type": "way",
+  "id": 120113142,
+  "center": {
+    "lat": 48.2367521,
+    "lon": 11.4721815
+  },
+  "tags": {
+    "leisure": "miniature_golf"
+  }
+},
+{
+  "type": "way",
+  "id": 121543439,
+  "center": {
+    "lat": 48.1012130,
+    "lon": 11.3009173
+  },
+  "tags": {
+    "access": "yes",
+    "addr:city": "Gilching",
+    "addr:country": "DE",
+    "addr:housenumber": "18",
+    "addr:postcode": "82205",
+    "addr:street": "Frühlingstraße",
+    "building": "yes",
+    "building:levels": "3",
+    "climbing:boulder": "yes",
+    "climbing:length": "16",
+    "climbing:length:max": "16",
+    "climbing:sport": "yes",
+    "email": "service@kbgilching.de",
+    "indoor": "yes",
+    "internet_access": "wlan",
+    "leisure": "sports_centre",
+    "name": "DAV Kletter- und Boulderzentrum",
+    "opening_hours": "Mo 14:00-23:00; Tu 07:00-23:00; We-Fr 09:00-23:00; Sa-Su 09:00-21:00; PH 09:00-21:00",
+    "outdoor": "yes",
+    "sport": "climbing",
+    "website": "https://www.kbgilching.de/"
+  }
+},
+{
+  "type": "way",
+  "id": 153292467,
+  "center": {
+    "lat": 48.1451485,
+    "lon": 11.5500631
+  },
+  "tags": {
+    "addr:city": "München",
+    "addr:country": "DE",
+    "addr:housenumber": "43",
+    "addr:postcode": "80335",
+    "addr:street": "Marsstraße",
+    "amenity": "theatre",
+    "fax": "+49 89 5504255",
+    "name": "Circus Krone",
+    "phone": "+49 89 5458000",
+    "theatre:genre": "circus",
+    "website": "https://www.circus-krone.com/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "way",
+  "id": 155330490,
+  "center": {
+    "lat": 48.1666919,
+    "lon": 11.5308832
+  },
+  "tags": {
+    "addr:city": "München",
+    "addr:country": "DE",
+    "addr:housenumber": "17",
+    "addr:postcode": "80637",
+    "addr:street": "Postillonstraße",
+    "charge": "6.30 EUR",
+    "contact:email": "m-baeder@swm.de",
+    "contact:phone": "+49 89 2361 5050",
+    "fee": "yes",
+    "leisure": "water_park",
+    "name": "Dantebad",
+    "opening_hours": "May,Aug Fr-Su,PH 09:00-19:00+, Mo-Th 10:00-19:00+ \"Bei <25°C bis 19Uhr, bei >25°C bis 20Uhr\", Jun-Jul Fr-Su,PH 09:00-19:00+, Mo-Th 10:00-19:00+ \"Bei <25°C bis 19Uhr, bei >25°C bis 21Uhr\"; Sep Mo-Th 10:00-19:00, Fr-Su 09:00-19:00",
+    "operator": "Stadtwerke München",
+    "operator:short": "SWM",
+    "operator:wikidata": "Q882871",
+    "operator:wikipedia": "de:Stadtwerke München",
+    "outdoor": "yes",
+    "sport": "swimming",
+    "website": "https://www.swm.de/baeder/freibaeder-muenchen/dantebad",
+    "wikidata": "Q1165008",
+    "wikipedia": "de:Dantebad"
+  }
+},
+{
+  "type": "way",
+  "id": 159949292,
+  "center": {
+    "lat": 48.0652851,
+    "lon": 11.5249914
+  },
+  "tags": {
+    "leisure": "water_park",
+    "name": "Freizeitbad Pullach im Isartal",
+    "opening_hours": "Tu,We,Fr 08:00-21:00; Th 07:00-17:30; PH,Sa,Su 09:00-19:00"
+  }
+},
+{
+  "type": "way",
+  "id": 167453533,
+  "center": {
+    "lat": 48.1922668,
+    "lon": 11.5029336
+  },
+  "tags": {
+    "addr:city": "München",
+    "addr:country": "DE",
+    "addr:housenumber": "382",
+    "addr:postcode": "80993",
+    "addr:street": "Dachauer Straße",
+    "brand": "MyPlace-SelfStorage",
+    "brand:wikidata": "Q109659129",
+    "building": "industrial",
+    "building:levels": "2",
+    "name": "MyPlace-SelfStorage",
+    "operator": "SelfStorage Dein Lagerraum GmbH",
+    "shop": "storage_rental",
+    "source": "survey"
+  }
+},
+{
+  "type": "way",
+  "id": 167789487,
+  "center": {
+    "lat": 48.1070996,
+    "lon": 11.5458713
+  },
+  "tags": {
+    "alt_name": "Kletterhalle Thalkirchen",
+    "climbing:boulder": "yes",
+    "climbing:length:max": "25",
+    "climbing:sport": "yes",
+    "fee": "yes",
+    "leisure": "sports_centre",
+    "name": "DAV Kletter- und Boulderzentrum München-Süd",
+    "opening_hours": "Mo-Fr 07:00-23:00; Sa,Su,PH 08:00-23:00",
+    "operator": "DAV-Kletter- und Boulderzentren München e. V.",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "sport": "climbing",
+    "website": "https://www.kbthalkirchen.de/",
+    "wheelchair": "no",
+    "wikimedia_commons": "Category:DAV Kletter- und Boulderzentrum München-Süd"
+  }
+},
+{
+  "type": "way",
+  "id": 168904031,
+  "center": {
+    "lat": 48.1049017,
+    "lon": 11.4371132
+  },
+  "tags": {
+    "climbing:bolted": "yes",
+    "climbing:grade:uiaa:max": "9-",
+    "climbing:grade:uiaa:min": "4",
+    "climbing:length": "10",
+    "climbing:sport": "30",
+    "fee": "yes",
+    "leisure": "pitch",
+    "name": "Kletterturm",
+    "opening_hours": "Apr-Oct: Tu,We,Fr 16:00-20:00; Sa 15:00-18:00; Su 10:00-16:00; Nov-Mar: off",
+    "operator": "Naturfreunde Würmtal e.V.",
+    "outdoor": "yes",
+    "sport": "climbing",
+    "website": "https://www.nfwt.de/index.php?menuid=23"
+  }
+},
+{
+  "type": "way",
+  "id": 171387282,
+  "center": {
+    "lat": 48.0108239,
+    "lon": 11.5162283
+  },
+  "tags": {
+    "addr:city": "Straßlach-Dingharting",
+    "addr:country": "DE",
+    "addr:housenumber": "1",
+    "addr:postcode": "82064",
+    "addr:street": "Riedweg",
+    "leisure": "miniature_golf",
+    "name": "Minigolfanlage Straßlach"
+  }
+},
+{
+  "type": "way",
+  "id": 171973657,
+  "center": {
+    "lat": 48.1993780,
+    "lon": 11.4117423
+  },
+  "tags": {
+    "barrier": "fence",
+    "leisure": "miniature_golf",
+    "name": "Minigolf München-West",
+    "note": "closing depending on month look up homepage",
+    "opening_hours": "Mo-Sa 13:30-20:00; Su 10:00-20:00",
+    "phone": "+49 89 8644158",
+    "website": "https://www.minigolf-muenchen-west.de/"
+  }
+},
+{
+  "type": "way",
+  "id": 172421426,
+  "center": {
+    "lat": 48.0493136,
+    "lon": 11.5297861
+  },
+  "tags": {
+    "addr:city": "Grünwald",
+    "addr:country": "DE",
+    "addr:housenumber": "35c",
+    "addr:postcode": "82031",
+    "addr:street": "Südliche Münchner Straße",
+    "building": "yes",
+    "building:levels": "2",
+    "description": "Schwimmbad/Sauna, Schwimmbecken: 4 Bahnen á 25m",
+    "email": "schwimmbad@gruenwalder-freizeitpark.de",
+    "fax": "+49 89 64189113",
+    "leisure": "water_park",
+    "name": "Grünwalder Freizeitpark",
+    "opening_hours": "Mo-Th 07:00-08:00; Mo, We, Sa, Su 09:00-21:00; Th 11:00-18:00; Fr 07:00-21:00",
+    "phone": "+49 89 6418910",
+    "roof:colour": "grey",
+    "roof:shape": "flat",
+    "sport": "swimming",
+    "website": "https://www.gruenwalder-freizeitpark.de/pages/schwimmbad/schwimmbad.php"
+  }
+},
+{
+  "type": "way",
+  "id": 181582918,
+  "center": {
+    "lat": 48.0664653,
+    "lon": 11.5388328
+  },
+  "tags": {
+    "barrier": "fence",
+    "leisure": "miniature_golf",
+    "name": "Minigolf und Pit Pat\nGroßhesselohe bei der Waldwirtschaft",
+    "opening_hours": "Mo-Sa 13:00-22:00; Su 11:00-22:00",
+    "source": "survey"
+  }
+},
+{
+  "type": "way",
+  "id": 192454716,
+  "center": {
+    "lat": 48.1564291,
+    "lon": 11.7603725
+  },
+  "tags": {
+    "addr:city": "Kirchheim bei München",
+    "addr:country": "DE",
+    "addr:housenumber": "2",
+    "addr:postcode": "85551",
+    "addr:street": "Sonnenallee",
+    "addr:suburb": "Heimstetten",
+    "building": "commercial",
+    "leisure": "sports_centre",
+    "name": "High East",
+    "source": "Kletterhalle",
+    "sport": "climbing"
+  }
+},
+{
+  "type": "way",
+  "id": 199987508,
+  "center": {
+    "lat": 48.2097912,
+    "lon": 11.3535943
+  },
+  "tags": {
+    "designation": "Minigolfplatz",
+    "leisure": "miniature_golf",
+    "name": "Minigolf Olching"
+  }
+},
+{
+  "type": "way",
+  "id": 236541889,
+  "center": {
+    "lat": 48.2172848,
+    "lon": 11.8070032
+  },
+  "tags": {
+    "addr:city": "Finsing",
+    "addr:country": "DE",
+    "addr:housenumber": "3",
+    "addr:postcode": "85464",
+    "addr:street": "Am Steinfeld",
+    "addr:suburb": "Neufinsing",
+    "building": "yes",
+    "fax": "+49 8121 225 228 10",
+    "leisure": "sports_centre",
+    "name": "GoKartArena und Familienpark Neufinsing",
+    "opening_hours": "Mo-Su 10:00-22:00",
+    "phone": "+49 8121 225 228 0",
+    "sport": "karting",
+    "website": "https://www.gokartarena.de/"
+  }
+},
+{
+  "type": "way",
+  "id": 239064560,
+  "center": {
+    "lat": 48.2068173,
+    "lon": 11.5338243
+  },
+  "tags": {
+    "addr:city": "München",
+    "addr:housenumber": "271",
+    "addr:postcode": "80995",
+    "addr:street": "Lerchenauer Straße",
+    "building": "yes",
+    "email": "kfzgarage64@gmail.com",
+    "layer": "-1",
+    "name": "KFZ Garage 64",
+    "opening_hours": "Mo-Sa 07:00-18:00",
+    "operator": "Ömer Akyurt",
+    "phone": "+491749642628",
+    "service:vehicle:body_repair": "yes",
+    "service:vehicle:diagnostics": "yes",
+    "service:vehicle:inspection": "yes",
+    "service:vehicle:oil_change": "yes",
+    "service:vehicle:painting": "yes",
+    "service:vehicle:tyres": "yes",
+    "service:vehicle:wheels": "yes",
+    "shop": "car_repair"
+  }
+},
+{
+  "type": "way",
+  "id": 251677528,
+  "center": {
+    "lat": 47.9739397,
+    "lon": 11.2224160
+  },
+  "tags": {
+    "addr:city": "Andechs",
+    "addr:country": "DE",
+    "addr:housenumber": "4",
+    "addr:postcode": "82346",
+    "addr:street": "Dachsbogen",
+    "building": "yes",
+    "food": "yes",
+    "leisure": "bowling_alley",
+    "name": "Bowling Islands",
+    "phone": "+49 8152 39 62 871",
+    "sport": "10pin",
+    "toilets:wheelchair": "yes",
+    "website": "https://www.bowling-islands.de/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 292040526,
+  "center": {
+    "lat": 48.2092856,
+    "lon": 11.6183470
+  },
+  "tags": {
+    "addr:city": "München",
+    "addr:housenumber": "3",
+    "addr:postcode": "80939",
+    "addr:street": "Hans-Jensen-Weg",
+    "name": "Cavalluna Park",
+    "operator": "Apassionata Park München GmbH & Co. KG",
+    "tourism": "theme_park",
+    "website": "https://www.cavalluna.com/",
+    "wikidata": "Q104462347",
+    "wikimedia_commons": "Category:Cavalluna Park"
+  }
+},
+{
+  "type": "way",
+  "id": 296095677,
+  "center": {
+    "lat": 48.0937712,
+    "lon": 11.5246945
+  },
+  "tags": {
+    "access": "private",
+    "amenity": "parking",
+    "layer": "-1",
+    "name": "Tiefgarage",
+    "parking": "underground"
+  }
+},
+{
+  "type": "way",
+  "id": 304833775,
+  "center": {
+    "lat": 48.0382197,
+    "lon": 11.5265793
+  },
+  "tags": {
+    "access": "private",
+    "amenity": "parking",
+    "layer": "-1",
+    "name": "Tiefgarage Gymnasium",
+    "parking": "underground",
+    "source": "survey",
+    "toilets:wheelchair": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 314843512,
+  "center": {
+    "lat": 48.2136941,
+    "lon": 11.3460227
+  },
+  "tags": {
+    "barrier": "fence",
+    "leisure": "pitch",
+    "lit": "yes",
+    "name": "Allwetterplatz",
+    "opening_hours": "Mo-Sa 08:00-20:00",
+    "sport": "multi;soccer;basketball;climbing"
+  }
+},
+{
+  "type": "way",
+  "id": 319723229,
+  "center": {
+    "lat": 48.1824686,
+    "lon": 11.5314290
+  },
+  "tags": {
+    "access": "yes",
+    "amenity": "parking",
+    "capacity": "200",
+    "capacity:charging": "6",
+    "capacity:disabled": "6",
+    "charge": "2.5 EUR/h",
+    "fee": "yes",
+    "name": "Parkgarage MONA München",
+    "opening_hours": "24/7",
+    "operator": "Park One GmbH",
+    "operator:type": "private",
+    "parking": "multi-storey",
+    "payment:american_express": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "website": "https://www.park-one.com/de-de/cities/m%C3%BCnchen/mona/"
+  }
+},
+{
+  "type": "way",
+  "id": 326157279,
+  "center": {
+    "lat": 48.2163350,
+    "lon": 11.5190303
+  },
+  "tags": {
+    "leisure": "miniature_golf"
+  }
+},
+{
+  "type": "way",
+  "id": 336420342,
+  "center": {
+    "lat": 48.1660476,
+    "lon": 11.5720169
+  },
+  "tags": {
+    "access": "permissive",
+    "amenity": "parking",
+    "fee": "no",
+    "layer": "-1",
+    "lit": "yes",
+    "maxheight": "2",
+    "name": "REWE Tiefgarage",
+    "opening_hours": "24/7",
+    "operator": "Rewe",
+    "park_ride": "no",
+    "parking": "underground",
+    "smoothness": "excellent",
+    "surface": "concrete",
+    "wheelchair": "yes",
+    "wheelchair:description": "Mit grossem Aufzug direkt in den REWE Mark. Behinderten Parkplatz direkt am Aufzug."
+  }
+},
+{
+  "type": "way",
+  "id": 358426833,
+  "center": {
+    "lat": 48.2897577,
+    "lon": 11.8867508
+  },
+  "tags": {
+    "addr:city": "Erding",
+    "addr:country": "DE",
+    "addr:housenumber": "1-5",
+    "addr:postcode": "85435",
+    "addr:street": "Thermenallee",
+    "amenity": "public_bath",
+    "bath:open_air": "yes",
+    "bath:sand_bath": "no",
+    "bath:type": "thermal",
+    "check_date": "2026-09-11",
+    "check_date:opening_hours": "2026-09-11",
+    "email": "thermen.service@therme-erding.de",
+    "fax": "+49 8122 5502219",
+    "fee": "yes",
+    "image": "http://upload.wikimedia.org/wikipedia/commons/c/c9/VitalOase.jpg",
+    "leisure": "water_park",
+    "name": "Therme Erding",
+    "opening_hours": "Mo-Fr 10:00-23:00; Sa 09:00-00:00; Su,PH 09:00-23:00",
+    "operator": "Therme Erding GmbH",
+    "phone": "+49 8122 5500",
+    "website": "https://www.therme-erding.de/",
+    "wheelchair": "yes",
+    "wikidata": "Q1575819",
+    "wikipedia": "de:Therme Erding"
+  }
+},
+{
+  "type": "way",
+  "id": 362817406,
+  "center": {
+    "lat": 48.0926335,
+    "lon": 11.2448746
+  },
+  "tags": {
+    "name": "ehem. Elefantentransportwagen des Circus Krone",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "way",
+  "id": 365609190,
+  "center": {
+    "lat": 48.1068729,
+    "lon": 11.4232837
+  },
+  "tags": {
+    "addr:city": "Planegg",
+    "addr:country": "DE",
+    "addr:housenumber": "6a",
+    "addr:postcode": "82152",
+    "addr:street": "Georgenstraße",
+    "fee": "yes",
+    "leisure": "miniature_golf",
+    "name": "Minigolfplatz Planegg",
+    "opening_hours": "May 1-Oct 31 Fr 14:00-20:00; Sa, Su, PH 13:00-20:00; Mo-Su 14:00-20:00; Sa, Su, PH 13:00-20:00",
+    "operator": "1. Bahnengolfclub München-Planegg e.V.",
+    "phone": "+49 89 8598590",
+    "website": "http://www.minigolf-planegg.de/"
+  }
+},
+{
+  "type": "way",
+  "id": 367615401,
+  "center": {
+    "lat": 48.3318328,
+    "lon": 11.7329130
+  },
+  "tags": {
+    "leisure": "sports_centre",
+    "name": "Surftown MUC",
+    "operator": "SURFTOWN Hallbergmoos GmbH",
+    "sport": "surfing",
+    "website": "https://surftown.de/"
+  }
+},
+{
+  "type": "way",
+  "id": 368741969,
+  "center": {
+    "lat": 48.0012642,
+    "lon": 11.3614145
+  },
+  "tags": {
+    "leisure": "miniature_golf",
+    "name": "Spielgolf-Anlage",
+    "note": "Je nach Wetterlage (bei Regen geschlossen).",
+    "opening_hours": "11:00-19:00",
+    "website": "https://www.spielgolf-starnberg.de/"
+  }
+},
+{
+  "type": "way",
+  "id": 381447357,
+  "center": {
+    "lat": 48.1808165,
+    "lon": 11.5046065
+  },
+  "tags": {
+    "access": "yes",
+    "addr:housenumber": "1",
+    "addr:postcode": "80997",
+    "addr:street": "Memminger Platz",
+    "amenity": "parking",
+    "capacity": "282",
+    "capacity:disabled": "3",
+    "capacity:parent": "4",
+    "capacity:women": "38",
+    "description:de": "Zur Reduzierung der Zweckentfremdung durch Anwohner und Dauerparker ist an den P+R Anlagen Moosach das Parken nachts nur mit Sondererlaubnis gestattet. (Weitere Infos: Siehe häufige Fragen auf Webseite)",
+    "fee": "yes",
+    "layer": "-1",
+    "level": "-1",
+    "location": "underground",
+    "maxheight": "2.1",
+    "maxstay": "1440 minutes",
+    "name": "P+R Park & Ride Tiefgarage Moosach",
+    "opening_hours": "24/7",
+    "operator": "P+R Park & Ride GmbH München",
+    "park_ride": "yes",
+    "parking": "underground",
+    "website": "https://www.parkundride.de/moosach",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 410356766,
+  "center": {
+    "lat": 48.1822963,
+    "lon": 11.5448465
+  },
+  "tags": {
+    "access": "private",
+    "barrier": "fence",
+    "leisure": "pitch",
+    "name": "Kletter- und Boulderanlage",
+    "ref": "KBA",
+    "sport": "climbing;bouldering"
+  }
+},
+{
+  "type": "way",
+  "id": 429377317,
+  "center": {
+    "lat": 48.1456974,
+    "lon": 11.5085891
+  },
+  "tags": {
+    "climbing:boulder": "yes",
+    "leisure": "pitch",
+    "lit": "no",
+    "sport": "climbing",
+    "surface": "sand"
+  }
+},
+{
+  "type": "way",
+  "id": 438276289,
+  "center": {
+    "lat": 48.1142721,
+    "lon": 11.6652027
+  },
+  "tags": {
+    "access": "yes",
+    "climbing:boulder": "yes",
+    "leisure": "playground",
+    "source": "survey and bing",
+    "sport": "climbing"
+  }
+},
+{
+  "type": "way",
+  "id": 462067441,
+  "center": {
+    "lat": 48.1190129,
+    "lon": 11.7622390
+  },
+  "tags": {
+    "addr:city": "Vaterstetten",
+    "addr:country": "DE",
+    "addr:housenumber": "1",
+    "addr:postcode": "85591",
+    "addr:street": "Ottendichler Straße",
+    "contact:email": "info@muenchner-wald.de",
+    "contact:phone": "+49 8071 1035150;+49 8106 9991190",
+    "contact:website": "https://www.muenchner-wald.de/",
+    "description": "Telefon: +49(0) 8071-103 51 50 (Büro) Telefon: +49(0) 8106-999 11 90 (Wald)",
+    "fee": "yes",
+    "landuse": "recreation_ground",
+    "leisure": "sports_centre",
+    "name": "Kletterwald Vaterstetten",
+    "opening_hours:url": "https://www.muenchner-wald.de/oeffnungszeiten",
+    "operator": "Estermann Event & Abenteuer GmbH",
+    "operator:type": "private",
+    "payment:cards": "yes",
+    "payment:cash": "yes",
+    "sport": "climbing_adventure",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 488094371,
+  "center": {
+    "lat": 48.1819166,
+    "lon": 11.5317454
+  },
+  "tags": {
+    "access": "yes",
+    "leisure": "pitch",
+    "lit": "no",
+    "name": "Kletterwand",
+    "sport": "climbing",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 556555702,
+  "center": {
+    "lat": 48.0163989,
+    "lon": 11.3541716
+  },
+  "tags": {
+    "leisure": "sports_centre",
+    "man_made": "tower",
+    "name": "Kletterturm DAV-Sektion Starnberg",
+    "operator": "DAV Starnberg",
+    "sport": "climbing",
+    "start_date": "2015",
+    "tower:type": "climbing",
+    "website": "https://dav-starnberg.de/index.php/klettern-bouldern/kletterturm"
+  }
+},
+{
+  "type": "way",
+  "id": 582954914,
+  "center": {
+    "lat": 48.1435364,
+    "lon": 11.4323082
+  },
+  "tags": {
+    "addr:city": "München",
+    "addr:country": "DE",
+    "addr:housenumber": "171",
+    "addr:postcode": "81243",
+    "addr:street": "Bodenseestraße",
+    "brand": "MyPlace-SelfStorage",
+    "brand:wikidata": "Q109659129",
+    "building": "office",
+    "building:levels": "4",
+    "height": "14",
+    "name": "MyPlace-SelfStorage",
+    "roof:shape": "flat",
+    "shop": "storage_rental"
+  }
+},
+{
+  "type": "way",
+  "id": 589840354,
+  "center": {
+    "lat": 48.1367880,
+    "lon": 11.4206625
+  },
+  "tags": {
+    "fitness_station": "horizontal_ladder",
+    "leisure": "fitness_station",
+    "lit": "yes",
+    "name": "Außengelände Boulderwelt München West",
+    "sport": "climbing",
+    "website": "https://www.boulderwelt-muenchen-west.de/",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "way",
+  "id": 666698744,
+  "center": {
+    "lat": 48.2551760,
+    "lon": 11.6122109
+  },
+  "tags": {
+    "addr:city": "Garching bei München",
+    "addr:housenumber": "12",
+    "addr:postcode": "85748",
+    "addr:street": "Robert-Bosch-Straße",
+    "alt_name": "indoorGAMES - München paintball & lasertag",
+    "building:part": "yes",
+    "contact:email": "muenchen@indoorgames.de",
+    "contact:phone": "+49 174 2344666",
+    "leisure": "sports_centre",
+    "name": "indoorGAMES München",
+    "opening_hours": "Tu-Th 16:00-22:00; Fr 16:00-23:00; Sa 11:00-23:00; Su 11:00-20:00",
+    "sport": "laser_tag;paintball"
+  }
+},
+{
+  "type": "way",
+  "id": 808919208,
+  "center": {
+    "lat": 48.1115573,
+    "lon": 11.7822490
+  },
+  "tags": {
+    "building": "shed",
+    "leisure": "bowling_alley",
+    "name": "Historische Kegelbahn",
+    "operator": "Landlust Wirtshaus am Reitsberger Hof",
+    "sport": "9pin",
+    "start_date": "2013",
+    "website": "https://zurlandlust.de/kegelbahn-elementor/"
+  }
+},
+{
+  "type": "way",
+  "id": 876233708,
+  "center": {
+    "lat": 48.3495287,
+    "lon": 11.7473404
+  },
+  "tags": {
+    "area": "yes",
+    "leisure": "sports_centre",
+    "name": "Audi Fahrtrainingsplatz",
+    "operator": "AUDI",
+    "sport": "karting"
+  }
+},
+{
+  "type": "way",
+  "id": 995030303,
+  "center": {
+    "lat": 48.1042506,
+    "lon": 11.5065593
+  },
+  "tags": {
+    "leisure": "pitch",
+    "lit": "no",
+    "sport": "climbing_adventure"
+  }
+},
+{
+  "type": "way",
+  "id": 1050677673,
+  "center": {
+    "lat": 48.2694674,
+    "lon": 11.5313219
+  },
+  "tags": {
+    "check_date": "2025-11-05",
+    "email": "Landmann@minigolfriedmoos.de",
+    "leisure": "miniature_golf",
+    "name": "Pit-Pat Trick-Pin",
+    "opening_hours": "Fr-Su 13:00-20:00",
+    "operator": "Annemarie Landmann",
+    "phone": "+49 89 3150062",
+    "website": "https://www.minigolfriedmoos.de/"
+  }
+},
+{
+  "type": "way",
+  "id": 1071447057,
+  "center": {
+    "lat": 48.2036888,
+    "lon": 11.8795808
+  },
+  "tags": {
+    "leisure": "sports_centre",
+    "name": "DAV Markt Schwaben (Kletteranlage)",
+    "sport": "climbing"
+  }
+},
+{
+  "type": "way",
+  "id": 1080971765,
+  "center": {
+    "lat": 48.2419335,
+    "lon": 11.4502388
+  },
+  "tags": {
+    "addr:city": "Dachau",
+    "addr:housenumber": "14",
+    "addr:postcode": "85221",
+    "addr:street": "Wettersteinring",
+    "building": "retail",
+    "building:levels": "2",
+    "email": "post@kletterhalle-dachau.de",
+    "fee": "yes",
+    "leisure": "sports_centre",
+    "name": "Naturfreunde Kletterhalle Dachau",
+    "opening_hours": "Mo-Fr 10:00-23:00; Sa,Su,PH 09:00-22:00; SH \"reduced, see homepage\"",
+    "payment:cards": "yes",
+    "payment:cash": "yes",
+    "phone": "+49 8131 3377577",
+    "roof:levels": "0",
+    "sport": "climbing",
+    "url": "https://www.kletterhalle-dachau.de/",
+    "website": "https://www.kletterhalle-dachau.de",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "way",
+  "id": 1103205957,
+  "center": {
+    "lat": 48.1742358,
+    "lon": 11.2470465
+  },
+  "tags": {
+    "addr:city": "Fürstenfeldbruck",
+    "addr:country": "DE",
+    "addr:housenumber": "14",
+    "addr:postcode": "82256",
+    "addr:street": "Fürstenfeld",
+    "email": "info@kletterinsel.de",
+    "fax": "+49 8142 3056023",
+    "leisure": "pitch",
+    "name": "Kletterinsel Monkee Island",
+    "opening_hours": "Mo off; Tu-Th,Su 10:00-19:00; Fr 13:00-19:00; Sa 11:00-19:00",
+    "phone": "+49 8142 3056022",
+    "sport": "high_rope_course",
+    "tourism": "theme_park",
+    "website": "https://monkeeisland.com/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 1171258510,
+  "center": {
+    "lat": 48.2529737,
+    "lon": 11.6329725
+  },
+  "tags": {
+    "access": "yes",
+    "building": "no",
+    "check_date": "2026-09-07",
+    "climbing:boulder": "yes",
+    "description": "Mehrere Boulderwände mit geschraubten Griffen und Fallschutzkies.",
+    "fee": "no",
+    "leisure": "pitch",
+    "lit": "no",
+    "mapillary": "2103068066842366",
+    "name": "Boulderwand",
+    "opening_hours": "24/7",
+    "operator": "Business Campus",
+    "operator:type": "business",
+    "outdoor": "yes",
+    "panoramax": "1a5036ae-07fc-415c-9162-30a67606dcdb",
+    "panoramax:1": "ff14a616-75ce-4d3f-8462-dd5fda3f8975",
+    "panoramax:2": "e4954430-bf06-4811-b39f-d7b34255038a",
+    "source": "survey",
+    "sport": "climbing",
+    "type": "site",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 1303745583,
+  "center": {
+    "lat": 48.1256289,
+    "lon": 11.6106620
+  },
+  "tags": {
+    "addr:housenumber": "4",
+    "addr:street": "Hanne-Hiob-Straße",
+    "building:levels": "6",
+    "building:part": "yes",
+    "climbing:boulder": "yes",
+    "leisure": "sports_centre",
+    "name": "Boulderwelt München Ost",
+    "opening_hours": "Mo-Fr 06:00-23:00; Sa,Su,PH 07:00-23:00",
+    "operator": "Boulderwelt München Ost",
+    "operator:type": "private",
+    "sport": "climbing",
+    "website": "https://www.boulderwelt-muenchen-ost.de/"
+  }
+},
+{
+  "type": "way",
+  "id": 1315793798,
+  "center": {
+    "lat": 48.1752590,
+    "lon": 11.4217924
+  },
+  "tags": {
+    "tourism": "theme_park"
+  }
+},
+{
+  "type": "way",
+  "id": 1331998121,
+  "center": {
+    "lat": 48.1800638,
+    "lon": 11.5451534
+  },
+  "tags": {
+    "indoor": "room",
+    "leisure": "sports_hall",
+    "level": "0",
+    "name": "Kletter- und Boulderhalle",
+    "operator": "TUM",
+    "sport": "climbing;bouldering"
+  }
+},
+{
+  "type": "way",
+  "id": 1361985261,
+  "center": {
+    "lat": 48.1875354,
+    "lon": 11.5524968
+  },
+  "tags": {
+    "amenity": "bicycle_parking",
+    "bicycle_parking": "wall_loops",
+    "building": "roof",
+    "covered": "yes",
+    "name": "Fahrrad Garage"
+  }
+},
+{
+  "type": "way",
+  "id": 1365331869,
+  "center": {
+    "lat": 48.1777235,
+    "lon": 11.5804843
+  },
+  "tags": {
+    "climbing:boulder": "yes",
+    "leisure": "pitch",
+    "sport": "climbing"
+  }
+},
+{
+  "type": "way",
+  "id": 1442835942,
+  "center": {
+    "lat": 48.1348249,
+    "lon": 11.3900257
+  },
+  "tags": {
+    "aerialway": "zip_line"
+  }
+},
+{
+  "type": "way",
+  "id": 1446600110,
+  "center": {
+    "lat": 48.1260104,
+    "lon": 11.3783943
+  },
+  "tags": {
+    "aerialway": "zip_line"
+  }
+},
+{
+  "type": "way",
+  "id": 1453115127,
+  "center": {
+    "lat": 48.1706816,
+    "lon": 11.3543634
+  },
+  "tags": {
+    "aerialway": "zip_line"
+  }
+},
+{
+  "type": "way",
+  "id": 1524039790,
+  "center": {
+    "lat": 48.1822093,
+    "lon": 11.5448354
+  },
+  "tags": {
+    "climbing:sport": "yes",
+    "fee": "yes",
+    "leisure": "sports_centre",
+    "man_made": "yes",
+    "note": "Outdoor Kletter- und/oder Boulderanlage",
+    "sport": "climbing",
+    "website": "https://www.zhs-muenchen.de/zhs/oeffnungszeiten-standorte/tum-campus-im-olympiapark/kletter-und-boulderanlagen/"
+  }
+},
+{
+  "type": "way",
+  "id": 1524039791,
+  "center": {
+    "lat": 48.1824189,
+    "lon": 11.5448497
+  },
+  "tags": {
+    "climbing:boulder": "yes",
+    "fee": "yes",
+    "leisure": "sports_centre",
+    "man_made": "yes",
+    "note": "Outdoor Kletter- und/oder Boulderanlage",
+    "sport": "climbing",
+    "website": "https://www.zhs-muenchen.de/zhs/oeffnungszeiten-standorte/tum-campus-im-olympiapark/kletter-und-boulderanlagen/"
+  }
+},
+{
+  "type": "way",
+  "id": 1528125002,
+  "center": {
+    "lat": 48.1606300,
+    "lon": 11.6308808
+  },
+  "tags": {
+    "leisure": "pitch",
+    "sport": "climbing"
+  }
+},
+{
+  "type": "way",
+  "id": 1573786916,
+  "center": {
+    "lat": 48.1783747,
+    "lon": 11.3223776
+  },
+  "tags": {
+    "aerialway": "zip_line"
+  }
+},
+{
+  "type": "relation",
+  "id": 2908354,
+  "center": {
+    "lat": 48.2568489,
+    "lon": 11.6524379
+  },
+  "tags": {
+    "access": "private",
+    "amenity": "parking",
+    "name": "SLC Tiefgarage",
+    "operator": "SLC",
+    "parking": "underground",
+    "site": "parking",
+    "type": "site"
+  }
+},
+{
+  "type": "relation",
+  "id": 4514301,
+  "center": {
+    "lat": 48.0564653,
+    "lon": 11.6521133
+  },
+  "tags": {
+    "addr:city": "Ottobrunn",
+    "addr:country": "DE",
+    "addr:housenumber": "121",
+    "addr:postcode": "85521",
+    "addr:street": "Haidgraben",
+    "contact:email": "info@phoenixbad.de",
+    "contact:phone": "+49 89 660787-0",
+    "contact:website": "https://phoenixbad.de/",
+    "description": "Schwimmbad;Sauna;Spa;Acquasport;Gastronomie",
+    "image": "http://arweave.net/mpfsk7Lu2pZ_TORxxi0NZzshHVXKExd7aITJUhCyRM8",
+    "leisure": "water_park",
+    "name": "Phönix-Bad Ottobrunn",
+    "opening_hours": "We-Mo 07:30-22:30; Tu 06:30-22:30",
+    "short_name": "Phönix-Bad",
+    "sport": "swimming",
+    "swimming_pool": "indoor;outdoor",
+    "type": "multipolygon",
+    "wheelchair": "limited",
+    "wikipedia": "de:Phönix-Bad"
+  }
+},
+{
+  "type": "relation",
+  "id": 5334527,
+  "center": {
+    "lat": 48.0965185,
+    "lon": 11.5456024
+  },
+  "tags": {
+    "leisure": "water_park",
+    "type": "site"
+  }
+}
+
+  ]
+}
