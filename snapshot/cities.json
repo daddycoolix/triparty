@@ -62,6 +62,15 @@
    "dataVer": "2026.11.05a",
    "count": 354,
    "flag": "🇵🇹"
+  },
+  {
+   "id": "amsterdam",
+   "city": "אמסטרדם",
+   "cityEn": "Amsterdam",
+   "file": "triparty-Amsterdam.json",
+   "dataVer": "2026.11.15a",
+   "count": 335,
+   "flag": "🇳🇱"
   }
  ]
 }
