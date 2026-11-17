@@ -1,0 +1,738 @@
+[
+ {
+  "k": "n4394004331",
+  "name": "\"7\" The Seven",
+  "la": 48.132152,
+  "ln": 11.573355,
+  "district": "האו, הייזהאוזן וגלוקנבאך",
+  "center": 0,
+  "osm_tags": {
+   "amenity": "fountain",
+   "description": "Brunnen als stehende Wasserwand",
+   "name": "\"7\" The Seven"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Gärtnerplatz and the Glockenbach quarter (188 מ')"
+ },
+ {
+  "k": "n9385447916",
+  "name": "1914-1918",
+  "la": 48.132499,
+  "ln": 11.594226,
+  "district": "האו, הייזהאוזן וגלוקנבאך",
+  "center": 0,
+  "osm_tags": {
+   "description": "Soldatennamen in eine Säule vor der Orgel der Kirche gemeißelt.",
+   "historic": "memorial",
+   "material": "stone",
+   "memorial": "war_memorial",
+   "memorial:conflict": "WW1",
+   "name": "1914-1918"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Gasteig and Gasteig HP8 (252 מ')"
+ },
+ {
+  "k": "n9387754924",
+  "name": "1939-1945",
+  "la": 48.122976,
+  "ln": 11.612085,
+  "district": "האו, הייזהאוזן וגלוקנבאך",
+  "center": 0,
+  "osm_tags": {
+   "contact:website": "http://www.denkmalprojekt.org/2024/berg-am-laim-st-pius_stadt-muenchen_wk2_by.html",
+   "description": "Kapelle in der kath. Pfarrkirche St. Pius, München – Berg am Laim.",
+   "historic": "memorial",
+   "inscription": "IN FREMDER ERDE BEGRABEN IM HERZEN DER MUTTER GEBOREN Tafel 1 UNSERE GEFALLENEN (Namen) Tafel 2 UNSERE VERMISSTEN (Namen) UNSERE LUFTKRIESOPFER (Namen)",
+   "memorial": "war_memorial",
+   "memorial:conflict": "WW2",
+   "name": "1939-1945"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Werksviertel and the Umadum Ferris wheel (552 מ')"
+ },
+ {
+  "k": "n9687411072",
+  "name": "4S",
+  "la": 48.130805,
+  "ln": 11.581781,
+  "district": "האו, הייזהאוזן וגלוקנבאך",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q63836548",
+   "artist_name": "Christian Hinz",
+   "artwork_type": "sculpture",
+   "material": "stone",
+   "name": "4S",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Deutsches Museum (114 מ')"
+ },
+ {
+  "k": "n655397100",
+  "name": "Augia-Brunnen",
+  "la": 48.128753,
+  "ln": 11.586119,
+  "district": "האו, הייזהאוזן וגלוקנבאך",
+  "center": 0,
+  "osm_tags": {
+   "alt_name": "Die Au",
+   "amenity": "fountain",
+   "artist:wikidata": "Q448426",
+   "artist:wikipedia": "de:Ludwig von Schwanthaler",
+   "artist_name": "Ludwig von Schwanthaler",
+   "drinking_water": "yes",
+   "heritage": "4",
+   "heritage:operator": "BLfD",
+   "heritage:website": "https://geoportal.bayern.de/denkmalatlas/searchResult.html?objtyp=bau&koid=22926",
+   "inscription": "Von Ludwig v. Schwanthaler 1848",
+   "name": "Augia-Brunnen",
+   "ref:BLfD": "D-1-62-000-3958",
+   "start_date": "1848",
+   "wikidata": "Q98644371"
+  },
+  "wikidata": {
+   "id": "Q98644371",
+   "he": "",
+   "en": "",
+   "de": "",
+   "desc": "",
+   "wikipedia_in": []
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "Isar river banks and bridges (Isarauen) (188 מ')"
+ },
+ {
+  "k": "n9350725443",
+  "name": "Bukolika",
+  "la": 48.131296,
+  "ln": 11.58734,
+  "district": "האו, הייזהאוזן וגלוקנבאך",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q322371",
+   "artist_name": "Martin Mayer",
+   "artwork_subject": "figurative",
+   "artwork_type": "statue",
+   "material": "bronze",
+   "name": "Bukolika",
+   "start_date": "1984",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Isar walk to the Deutsches Museum and Müllersches Volksbad (40 מ')"
+ },
+ {
+  "k": "n10556690733",
+  "name": "Camera",
+  "la": 48.130977,
+  "ln": 11.581562,
+  "district": "האו, הייזהאוזן וגלוקנבאך",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q165397",
+   "artist_name": "Eduardo Luigi Paolozzi",
+   "artwork_type": "sculpture",
+   "material": "iron",
+   "name": "Camera",
+   "start_date": "1980",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Deutsches Museum (138 מ')"
+ },
+ {
+  "k": "n9751691547",
+  "name": "Chronos 10B",
+  "la": 48.130545,
+  "ln": 11.581031,
+  "district": "האו, הייזהאוזן וגלוקנבאך",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q603870",
+   "artist_name": "Nicolas Schöffer",
+   "artwork_subject": "abstract",
+   "artwork_type": "sculpture",
+   "material": "metal",
+   "name": "Chronos 10B",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Deutsches Museum (139 מ')"
+ },
+ {
+  "k": "n9687390909",
+  "name": "Cross Bend",
+  "la": 48.131369,
+  "ln": 11.580943,
+  "district": "האו, הייזהאוזן וגלוקנבאך",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q479622",
+   "artist_name": "Philip King",
+   "artwork_type": "sculpture",
+   "material": "steel",
+   "name": "Cross Bend",
+   "start_date": "1980",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Deutsches Museum (199 מ')"
+ },
+ {
+  "k": "n649255796",
+  "name": "Der Blockwalzer",
+  "la": 48.118724,
+  "ln": 11.609716,
+  "district": "האו, הייזהאוזן וגלוקנבאך",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q1467058",
+   "artist_name": "Fritz Koelle",
+   "artwork_subject": "figurative",
+   "artwork_type": "statue",
+   "inscription": "Blockwalzer, 1929 geschaffen von Fritz Koelle, Erstaufstellung 1930-33, Wiederaufstellung 1976, Leihgabe der Stadt Augsburg",
+   "material": "bronze",
+   "name": "Der Blockwalzer",
+   "start_date": "1929",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Werksviertel and the Umadum Ferris wheel (800 מ')"
+ },
+ {
+  "k": "n9318317364",
+  "name": "Die endlose Schiene",
+  "la": 48.125582,
+  "ln": 11.600494,
+  "district": "האו, הייזהאוזן וגלוקנבאך",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Karl Jakob Schwalbach",
+   "artwork_subject": "figurative",
+   "artwork_type": "sculpture",
+   "height": "6",
+   "material": "steel",
+   "name": "Die endlose Schiene",
+   "start_date": "1990",
+   "tourism": "artwork",
+   "url": "https://stadtgeschichte-muenchen.de/sehenswert/d_sehenswert.php?id=3510"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Werksviertel and the Umadum Ferris wheel (301 מ')"
+ },
+ {
+  "k": "n9954179026",
+  "name": "Drache",
+  "la": 48.106229,
+  "ln": 11.583595,
+  "district": "האו, הייזהאוזן וגלוקנבאך",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Michael Ertlmeier",
+   "artwork_type": "sculpture",
+   "material": "metal",
+   "name": "Drache",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Nockherberg (Paulaner) (1703 מ')"
+ },
+ {
+  "k": "n10995754645",
+  "name": "EXTRAECK",
+  "la": 48.109361,
+  "ln": 11.607195,
+  "district": "האו, הייזהאוזן וגלוקנבאך",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "L+S (Lutz-Rainer Müller & Stian Ådlandsvik)",
+   "artwork_type": "sculpture",
+   "material": "Aluminium (Unterkonstruktion Stahl)",
+   "name": "EXTRAECK",
+   "start_date": "2024",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Werksviertel and the Umadum Ferris wheel (1777 מ')"
+ },
+ {
+  "k": "n2515489710",
+  "name": "Erich-Schulze-Brunnen",
+  "la": 48.130451,
+  "ln": 11.593047,
+  "district": "האו, הייזהאוזן וגלוקנבאך",
+  "center": 0,
+  "osm_tags": {
+   "amenity": "fountain",
+   "artist:wikidata": "Q2638140",
+   "name": "Erich-Schulze-Brunnen",
+   "subject:wikidata": "Q131168",
+   "tourism": "artwork",
+   "wikidata": "Q786898",
+   "wikipedia": "de:Erich-Schulze-Brunnen"
+  },
+  "wikidata": {
+   "id": "Q786898",
+   "he": "",
+   "en": "",
+   "de": "",
+   "desc": "",
+   "wikipedia_in": []
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "Gasteig and Gasteig HP8 (194 מ')"
+ },
+ {
+  "k": "n2515521124",
+  "name": "Erich-Schulze-Brunnen",
+  "la": 48.130779,
+  "ln": 11.592173,
+  "district": "האו, הייזהאוזן וגלוקנבאך",
+  "center": 0,
+  "osm_tags": {
+   "amenity": "fountain",
+   "name": "Erich-Schulze-Brunnen",
+   "wikidata": "Q786898",
+   "wikipedia": "de:Erich-Schulze-Brunnen"
+  },
+  "wikidata": {
+   "id": "Q786898",
+   "he": "",
+   "en": "",
+   "de": "",
+   "desc": "",
+   "wikipedia_in": []
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "Gasteig and Gasteig HP8 (125 מ')"
+ },
+ {
+  "k": "n10133803282",
+  "name": "Esfera de actividad",
+  "la": 48.127743,
+  "ln": 11.60809,
+  "district": "האו, הייזהאוזן וגלוקנבאך",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q118129663",
+   "artist_name": "Manfred Mayerle",
+   "artwork_type": "sculpture",
+   "colour": "red",
+   "height": "2.5",
+   "material": "steel",
+   "name": "Esfera de actividad",
+   "start_date": "2022",
+   "tourism": "artwork",
+   "url": "https://www.stiftung-amm.de/werk/wts-muenchen-2022"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Werksviertel and the Umadum Ferris wheel (345 מ')"
+ },
+ {
+  "k": "n3405893316",
+  "name": "Fischerbrunnen",
+  "la": 48.119426,
+  "ln": 11.610251,
+  "district": "האו, הייזהאוזן וגלוקנבאך",
+  "center": 0,
+  "osm_tags": {
+   "amenity": "fountain",
+   "artist_name": "Karl Kroher",
+   "drinking_water": "no",
+   "name": "Fischerbrunnen",
+   "start_date": "1927"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Werksviertel and the Umadum Ferris wheel (747 מ')"
+ },
+ {
+  "k": "n6531728936",
+  "name": "Flächendurchdringung",
+  "la": 48.131047,
+  "ln": 11.59064,
+  "district": "האו, הייזהאוזן וגלוקנבאך",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q187683",
+   "artist_name": "Alf Lechner",
+   "artwork_type": "sculpture",
+   "description": "errichtet 1979/83, rostfreier Stahl, geschliffen",
+   "height": "23.8",
+   "material": "steel",
+   "name": "Flächendurchdringung",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Gasteig and Gasteig HP8 (58 מ')"
+ },
+ {
+  "k": "n9687416329",
+  "name": "Friede",
+  "la": 48.113275,
+  "ln": 11.593163,
+  "district": "האו, הייזהאוזן וגלוקנבאך",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q1597995",
+   "artist_name": "Heinrich Kirchner",
+   "artwork_type": "sculpture",
+   "inscription": "Füchtet Euch nicht - Bote Grüsst",
+   "material": "bronze",
+   "name": "Friede",
+   "start_date": "1983",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Nockherberg (Paulaner) (1175 מ')"
+ },
+ {
+  "k": "n666304989",
+  "name": "Friedrich Bezold",
+  "la": 48.133118,
+  "ln": 11.563512,
+  "district": "האו, הייזהאוזן וגלוקנבאך",
+  "center": 0,
+  "osm_tags": {
+   "amenity": "fountain",
+   "drinking_water": "yes",
+   "drinking_water:legal": "yes",
+   "inscription": "Friedrich Bezold 1842-1908. Dem Forscher, Lehrer und Arzte, seine Schüler und Freunde. Errichtet im Iahre 1914",
+   "name": "Friedrich Bezold",
+   "start_date": "1914",
+   "subject:wikidata": "Q95752",
+   "wikidata": "Q141905765"
+  },
+  "wikidata": {
+   "id": "Q141905765",
+   "he": "",
+   "en": "",
+   "de": "Bezold Brunnen",
+   "desc": "Brunnen in München",
+   "wikipedia_in": [
+    "co"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "Sendlinger Tor (291 מ')"
+ },
+ {
+  "k": "n10676110247",
+  "name": "Geschmiedeter Stahl",
+  "la": 48.128972,
+  "ln": 11.581477,
+  "district": "האו, הייזהאוזן וגלוקנבאך",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Friedrich Krupp AG",
+   "artwork_type": "sculpture",
+   "description": "Vergleich der Wirkung des 50-Tonnen-Hammers \"Fritz\" aus dem Jahre 1861 mit der Wirkung einer hydraulischen 5000-Tonnen-Schmiedepresse",
+   "material": "steel",
+   "name": "Geschmiedeter Stahl",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Deutsches Museum (153 מ')"
+ },
+ {
+  "k": "n10557741132",
+  "name": "Gewerkebaum",
+  "la": 48.130072,
+  "ln": 11.578652,
+  "district": "האו, הייזהאוזן וגלוקנבאך",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "J.R. Gromm",
+   "artwork_type": "sculpture",
+   "man_made": "maypole",
+   "material": "metal",
+   "name": "Gewerkebaum",
+   "start_date": "1978",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Gärtnerplatz and the Glockenbach quarter (253 מ')"
+ },
+ {
+  "k": "w117884552",
+  "name": "Glaspalast Brunnen",
+  "la": 48.128562,
+  "ln": 11.596114,
+  "district": "האו, הייזהאוזן וגלוקנבאך",
+  "center": 0,
+  "osm_tags": {
+   "amenity": "fountain",
+   "drinking_water": "no",
+   "intermittent": "yes",
+   "name": "Glaspalast Brunnen",
+   "wikidata": "Q1529719",
+   "wikipedia": "de:Glaspalast-Brunnen"
+  },
+  "wikidata": {
+   "id": "Q1529719",
+   "he": "",
+   "en": "",
+   "de": "",
+   "desc": "",
+   "wikipedia_in": []
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "Haidhausen and the French Quarter (252 מ')"
+ },
+ {
+  "k": "n9657747435",
+  "name": "Große tektonische Stele",
+  "la": 48.12368,
+  "ln": 11.582212,
+  "district": "האו, הייזהאוזן וגלוקנבאך",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Lothar Fischer",
+   "artwork_type": "sculpture",
+   "material": "iron",
+   "name": "Große tektonische Stele",
+   "start_date": "1992",
+   "tourism": "artwork",
+   "wikidata": "Q102424560"
+  },
+  "wikidata": {
+   "id": "Q102424560",
+   "he": "",
+   "en": "Große tektonische Stele",
+   "de": "Große tektonische Stele",
+   "desc": "Skulptur von Lothar Fischer, Mariahilfplatz München",
+   "wikipedia_in": [
+    "co"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "Auer Dult (156 מ')"
+ },
+ {
+  "k": "n3738161528",
+  "name": "Gärtnerplatzbrunnen",
+  "la": 48.131703,
+  "ln": 11.576029,
+  "district": "האו, הייזהאוזן וגלוקנבאך",
+  "center": 0,
+  "osm_tags": {
+   "amenity": "fountain",
+   "drinking_water": "no",
+   "heritage": "4",
+   "heritage:operator": "BLfD",
+   "name": "Gärtnerplatzbrunnen",
+   "ref:BLfD": "D-1-62-000-2022",
+   "wikidata": "Q41178719"
+  },
+  "wikidata": {
+   "id": "Q41178719",
+   "he": "",
+   "en": "",
+   "de": "",
+   "desc": "",
+   "wikipedia_in": []
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "Gärtnerplatz and the Glockenbach quarter (0 מ')"
+ },
+ {
+  "k": "n9071345287",
+  "name": "Junge mit Panflöte",
+  "la": 48.110489,
+  "ln": 11.585346,
+  "district": "האו, הייזהאוזן וגלוקנבאך",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q43130387",
+   "artist_name": "Werner Franzen",
+   "artwork_type": "sculpture",
+   "material": "metal",
+   "name": "Junge mit Panflöte",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Nockherberg (Paulaner) (1245 מ')"
+ },
+ {
+  "k": "n14142793793",
+  "name": "Kaktus",
+  "la": 48.124986,
+  "ln": 11.606396,
+  "district": "האו, הייזהאוזן וגלוקנבאך",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Torsten Mühlbach;Gregor Passens",
+   "artwork_type": "sculpture",
+   "material": "metal",
+   "name": "Kaktus",
+   "subject:wikidata": "Q275573",
+   "tourism": "artwork",
+   "website": "https://www.werksviertel-mitte.de/blog/kunst-am-brunnen/"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Werksviertel and the Umadum Ferris wheel (107 מ')"
+ },
+ {
+  "k": "n9341587069",
+  "name": "Karl Alt Theologe und Autor Ausstellung",
+  "la": 48.115338,
+  "ln": 11.576499,
+  "district": "האו, הייזהאוזן וגלוקנבאך",
+  "center": 0,
+  "osm_tags": {
+   "access": "yes",
+   "description": "Karl Alt (* 12. August 1897 in Nürnberg; † 16. Juni 1951 in München) war ein deutscher evangelischer Theologe und Autor.",
+   "historic": "monument",
+   "name": "Karl Alt Theologe und Autor Ausstellung",
+   "subject:wikidata": "Q1730276",
+   "subject:wikipedia": "de:Karl Alt"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Nockherberg (Paulaner) (798 מ')"
+ },
+ {
+  "k": "n10921760400",
+  "name": "Kennedy-Brünnlein",
+  "la": 48.1139,
+  "ln": 11.615032,
+  "district": "האו, הייזהאוזן וגלוקנבאך",
+  "center": 0,
+  "osm_tags": {
+   "amenity": "fountain",
+   "drinking_water": "yes",
+   "drinking_water:legal": "yes",
+   "fountain": "decorative",
+   "height": "1.5",
+   "name": "Kennedy-Brünnlein",
+   "wikidata": "Q39475701",
+   "wikipedia": "de:Kennedy-Brünnlein"
+  },
+  "wikidata": {
+   "id": "Q39475701",
+   "he": "",
+   "en": "",
+   "de": "",
+   "desc": "",
+   "wikipedia_in": []
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "Werksviertel and the Umadum Ferris wheel (1441 מ')"
+ },
+ {
+  "k": "n9345522050",
+  "name": "Kriegerdenkmal",
+  "la": 48.125581,
+  "ln": 11.583433,
+  "district": "האו, הייזהאוזן וגלוקנבאך",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Julius Seidler",
+   "description": "Name des Künstlers auf einer Infotafel im Einangsbereich.",
+   "historic": "memorial",
+   "inscription": "IHREN IM KAMPFE UND IN DER HEIMAT GEFALLENEN R.I.P. DIE DANKBARE PFARRGEMEINDE MARIAHILF 1914-1918 FÜRCHTE DICH NICHT DENN ICH HABE DICH ERLÖST ICH HABE DICH BEI DEINEM NAMEN GERUFEN DU BIST MEIN! IS.431 1939",
+   "material": "stone",
+   "memorial": "war_memorial",
+   "memorial:conflict": "WW1;WW2",
+   "name": "Kriegerdenkmal",
+   "website": "http://www.denkmalprojekt.org/ohne_namen/m-au_mariahilf_bay.htm"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Auer Dult (70 מ')"
+ },
+ {
+  "k": "n9337750029",
+  "name": "Kriegerdenkmal",
+  "la": 48.115115,
+  "ln": 11.588867,
+  "district": "האו, הייזהאוזן וגלוקנבאך",
+  "center": 0,
+  "osm_tags": {
+   "description": "Drei Gedenktafeln in kleiner Kapelle im Turm der kath. Pfarrkirche Königin des Friedens in München-Giesing.",
+   "historic": "memorial",
+   "inscription": "KREUZ\nDES SIEGES\nDIR SEIEN\nANVERTRAUT UNSERE\nGEFALLENEN BRÜDER\n\n1939       1945\n(Namen)\n\nKREUZ\nDES FRIEDENS\nIN DEINEM\nSCHATTEN MÖGEN\nSIE RUHEN",
+   "material": "wood",
+   "memorial": "war_memorial",
+   "name": "Kriegerdenkmal",
+   "website": "http://www.denkmalprojekt.org/dkm_deutschland/m-giesing_kirche_kdf_wk2_bay.htm"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Nockherberg (Paulaner) (839 מ')"
+ },
+ {
+  "k": "n9340994982",
+  "name": "Kriegerdenkmal",
+  "la": 48.114681,
+  "ln": 11.569659,
+  "district": "האו, הייזהאוזן וגלוקנבאך",
+  "center": 0,
+  "osm_tags": {
+   "access": "yes",
+   "historic": "memorial",
+   "inscription": "Gedenket im Gebet der Gefallenen.. Namen",
+   "material": "wood",
+   "memorial": "war_memorial",
+   "memorial:conflict": "WW2",
+   "name": "Kriegerdenkmal",
+   "website": "http://www.denkmalprojekt.org/dkm_deutschland/m-giesing_st_franziskus_wk2_bay.htm"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Old Jewish Cemetery (Thalkirchner Straße) (926 מ')"
+ }
+]

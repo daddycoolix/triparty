@@ -1,0 +1,527 @@
+[
+ {
+  "k": "n9250152869",
+  "name": "Kriegerdenkmale",
+  "la": 48.135403,
+  "ln": 11.538172,
+  "district": "לודוויגסוורשטאדט, הטרזינוויזה ווסטנד",
+  "center": 0,
+  "osm_tags": {
+   "description": "In der evang. Auferstehungskirche München – Westend flankieren zwei Holztafeln mit den Namen der Gefallenen des WK 1 ein Kruzifix. Die Namen der Gefallenen des WK 2 sind auf einem Marmordenkmal festgehalten.",
+   "historic": "memorial",
+   "inscription": "WK 1:\nDIE GEMEINDE DER EVANG.\nAUFERSTEHUNGSKIRCHE\nMÜNCHEN IHREN IM KRIEGE\n1914 – 1918 GEFALLENEN SÖHNEN\n(Namen)\n\nWK 2:\nDIE AUFERSTEHUNGSGEMEINDE IHREN\nGEFALLENEN AUS DEM KRIEG 1939 - 1945\nDIE AUF DEN HERRN HARREN KRIE=\nGEN NEUE KRAFT DASS SIE AUFFAH=\nREN",
+   "material": "wood",
+   "memorial": "war_memorial",
+   "name": "Kriegerdenkmale",
+   "website": "http://www.denkmalprojekt.org/dkm_deutschland/m-westend_auferstehungskirche_wk1_bay.htm"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Verkehrszentrum (Deutsches Museum Transport Centre) (455 מ')"
+ },
+ {
+  "k": "n367788389",
+  "name": "Kugelbrunnen",
+  "la": 48.12298,
+  "ln": 11.531163,
+  "district": "לודוויגסוורשטאדט, הטרזינוויזה ווסטנד",
+  "center": 0,
+  "osm_tags": {
+   "amenity": "fountain",
+   "drinking_water": "no",
+   "fountain": "kugel",
+   "name": "Kugelbrunnen",
+   "wikipedia": "de:Westpark (München)"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Bavariapark (1192 מ')"
+ },
+ {
+  "k": "n4058151853",
+  "name": "Liegende Quellennymphe",
+  "la": 48.131544,
+  "ln": 11.541958,
+  "district": "לודוויגסוורשטאדט, הטרזינוויזה ווסטנד",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Heinrich Duell u. Georg Pezold",
+   "artwork_type": "statue",
+   "material": "stone",
+   "name": "Liegende Quellennymphe",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Bavariapark (99 מ')"
+ },
+ {
+  "k": "n12697031562",
+  "name": "MEGAfon",
+  "la": 48.133092,
+  "ln": 11.529092,
+  "district": "לודוויגסוורשטאדט, הטרזינוויזה ווסטנד",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q15452591",
+   "artist_name": "Thomas Kilpper",
+   "artwork_type": "sculpture",
+   "material": "sheet_metal",
+   "name": "MEGAfon",
+   "start_date": "2013",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Verkehrszentrum (Deutsches Museum Transport Centre) (966 מ')"
+ },
+ {
+  "k": "n2347406847",
+  "name": "Mahnmal Israelitisches Kranken- und Schwesternheim",
+  "la": 48.128213,
+  "ln": 11.552753,
+  "district": "לודוויגסוורשטאדט, הטרזינוויזה ווסטנד",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q19958871",
+   "artist:wikipedia": "Horst Auer",
+   "artist_name": "Horst Auer",
+   "historic": "memorial",
+   "memorial": "sculpture",
+   "name": "Mahnmal Israelitisches Kranken- und Schwesternheim",
+   "subject:wikidata": "Q13444514",
+   "subject:wikipedia": "de:Israelitisches Kranken- und Schwesternheim"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Theresienwiese (Oktoberfest grounds) (380 מ')"
+ },
+ {
+  "k": "n9240705154",
+  "name": "Mahnmal für Opfer von Krieg und Gewalt",
+  "la": 48.120553,
+  "ln": 11.542443,
+  "district": "לודוויגסוורשטאדט, הטרזינוויזה ווסטנד",
+  "center": 0,
+  "osm_tags": {
+   "description": "In den 1960er Jahren entstand der jetzige Glockenturm (1963-1964) erneut durch Fritz Zeitler, das Erdgeschoss wurde zu einer Gedenkkapelle für die Gefallenen der Weltkriege bestimmt. Diese selektive Form des Gedenkens wurde im Jahr 1988 aufgebrochen und m",
+   "historic": "memorial",
+   "inscription": "VERGESST NICHT DIE OPFER VON KRIEG UND GEWALTTAT",
+   "material": "stone",
+   "memorial": "war_memorial",
+   "name": "Mahnmal für Opfer von Krieg und Gewalt",
+   "website": "http://www.denkmalprojekt.org/2015/muenchen-sendling-himmelfahrtskirche_bay.html"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Bahnwärter Thiel (864 מ')"
+ },
+ {
+  "k": "n2859401856",
+  "name": "Nymphenbrunnen",
+  "la": 48.136041,
+  "ln": 11.537122,
+  "district": "לודוויגסוורשטאדט, הטרזינוויזה ווסטנד",
+  "center": 0,
+  "osm_tags": {
+   "amenity": "fountain",
+   "name": "Nymphenbrunnen",
+   "wikidata": "Q41183477"
+  },
+  "wikidata": {
+   "id": "Q41183477",
+   "he": "",
+   "en": "",
+   "de": "",
+   "desc": "",
+   "wikipedia_in": []
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "Verkehrszentrum (Deutsches Museum Transport Centre) (555 מ')"
+ },
+ {
+  "k": "n7640772238",
+  "name": "Phantasie",
+  "la": 48.130415,
+  "ln": 11.541832,
+  "district": "לודוויגסוורשטאדט, הטרזינוויזה ווסטנד",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q1037540",
+   "artist_name": "Carl Ebbinghaus",
+   "artwork_type": "statue",
+   "material": "concrete",
+   "name": "Phantasie",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Bavariapark (96 מ')"
+ },
+ {
+  "k": "n6860021563",
+  "name": "Reichtum",
+  "la": 48.13129,
+  "ln": 11.541095,
+  "district": "לודוויגסוורשטאדט, הטרזינוויזה ווסטנד",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q314150",
+   "artist_name": "Bernhard Bleeker",
+   "artwork_type": "statue",
+   "material": "concrete",
+   "name": "Reichtum",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Bavariapark (136 מ')"
+ },
+ {
+  "k": "n676790101",
+  "name": "Reiter",
+  "la": 48.133555,
+  "ln": 11.533793,
+  "district": "לודוויגסוורשטאדט, הטרזינוויזה ווסטנד",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q41256036",
+   "artist_name": "Alexander Fischer",
+   "artwork_subject": "figurative",
+   "artwork_type": "sculpture",
+   "description": "Gestaltet 1956 von Alexander Fischer Stifter Alfons Strobel",
+   "material": "bronze",
+   "name": "Reiter",
+   "start_date": "1956",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Verkehrszentrum (Deutsches Museum Transport Centre) (652 מ')"
+ },
+ {
+  "k": "n11003038452",
+  "name": "Ruhender Faun",
+  "la": 48.132061,
+  "ln": 11.541977,
+  "district": "לודוויגסוורשטאדט, הטרזינוויזה ווסטנד",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "C. A. Bermann",
+   "artwork_subject": "figurative",
+   "artwork_type": "statue",
+   "material": "stone",
+   "name": "Ruhender Faun",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Verkehrszentrum (Deutsches Museum Transport Centre) (118 מ')"
+ },
+ {
+  "k": "n2859409132",
+  "name": "Sankt-Pauls-Brunnen",
+  "la": 48.136372,
+  "ln": 11.551381,
+  "district": "לודוויגסוורשטאדט, הטרזינוויזה ווסטנד",
+  "center": 0,
+  "osm_tags": {
+   "alt_name": "St.-Pauls-Brunnen",
+   "amenity": "fountain",
+   "artist_name": "Claus Nageler",
+   "drinking_water": "no",
+   "name": "Sankt-Pauls-Brunnen",
+   "start_date": "1989",
+   "subject:wikidata": "Q9200",
+   "wikidata": "Q141905250"
+  },
+  "wikidata": {
+   "id": "Q141905250",
+   "he": "",
+   "en": "",
+   "de": "St.-Pauls-Brunnen",
+   "desc": "Brunnen in München",
+   "wikipedia_in": [
+    "co"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "St. Paul's Church (Paulskirche) (58 מ')"
+ },
+ {
+  "k": "n8475095555",
+  "name": "Sardischer Krieger",
+  "la": 48.122483,
+  "ln": 11.525686,
+  "district": "לודוויגסוורשטאדט, הטרזינוויזה ווסטנד",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Mario Nieddu",
+   "artwork_type": "sculpture",
+   "description": "aus der Nuragenzeit (siehe Messingschild)",
+   "material": "stone",
+   "name": "Sardischer Krieger",
+   "start_date": "1983",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Westpark (847 מ')"
+ },
+ {
+  "k": "n569013243",
+  "name": "Schmied-von-Kochel-Denkmal",
+  "la": 48.121866,
+  "ln": 11.541519,
+  "district": "לודוויגסוורשטאדט, הטרזינוויזה ווסטנד",
+  "center": 0,
+  "osm_tags": {
+   "amenity": "fountain",
+   "drinking_water": "no",
+   "fountain": "decorative",
+   "historic": "memorial",
+   "inscription": "ZUM GEDÄCHTNIS DER OBERBAYERISCHEN LANDESERHEBUNG UND DER SENDLINGER BAUERNSCHLACHT 1705 / BEI DER II. HUNDERTJAHRFEIER DER SENDLINGER BAUERNSCHLACHT GESTIFTET VON DER STADTGEMEINDE MÜNCHEN IM JAHRE 1905",
+   "inscription:de": "ZUM GEDÄCHTNIS DER OBERBAYERISCHEN LANDESERHEBUNG UND DER SENDLINGER BAUERNSCHLACHT 1705 / BEI DER II. HUNDERTJAHRFEIER DER SENDLINGER BAUERNSCHLACHT GESTIFTET VON DER STADTGEMEINDE MÜNCHEN IM JAHRE 1905",
+   "lit": "no",
+   "memorial": "fountain",
+   "name": "Schmied-von-Kochel-Denkmal",
+   "tourism": "attraction",
+   "wikidata": "Q256342",
+   "wikipedia": "de:Schmied von Kochel"
+  },
+  "wikidata": {
+   "id": "Q256342",
+   "he": "",
+   "en": "",
+   "de": "",
+   "desc": "",
+   "wikipedia_in": []
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "Bahnwärter Thiel (906 מ')"
+ },
+ {
+  "k": "n9481260039",
+  "name": "Schönheit",
+  "la": 48.131126,
+  "ln": 11.541075,
+  "district": "לודוויגסוורשטאדט, הטרזינוויזה ווסטנד",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q828283",
+   "artist_name": "Hermann Hahn",
+   "artwork_type": "statue",
+   "material": "concrete",
+   "name": "Schönheit",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Bavariapark (133 מ')"
+ },
+ {
+  "k": "n9193157298",
+  "name": "Sendlinger Blutweihnacht",
+  "la": 48.120203,
+  "ln": 11.538944,
+  "district": "לודוויגסוורשטאדט, הטרזינוויזה ווסטנד",
+  "center": 0,
+  "osm_tags": {
+   "description": "An der Westfassade eine Tafel mit der schlichten Inschrift „MDCCV“ angebracht.",
+   "historic": "memorial",
+   "inscription": "MDCCV",
+   "material": "stone",
+   "memorial": "war_memorial",
+   "name": "Sendlinger Blutweihnacht"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Bahnwärter Thiel (1105 מ')"
+ },
+ {
+  "k": "n8475081631",
+  "name": "Steinerner Vogel",
+  "la": 48.122681,
+  "ln": 11.525674,
+  "district": "לודוויגסוורשטאדט, הטרזינוויזה ווסטנד",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q676378",
+   "artist_name": "Sciola Pinuccio",
+   "artwork_type": "sculpture",
+   "description": "Glimmertrachyt (Sardischer Stein), 275 x 67 x 27 cm",
+   "material": "stone",
+   "name": "Steinerner Vogel",
+   "start_date": "1986",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Westpark (847 מ')"
+ },
+ {
+  "k": "n12684712994",
+  "name": "Terroranschlag auf die Diskothek Liverpool 1984",
+  "la": 48.13772,
+  "ln": 11.561149,
+  "district": "לודוויגסוורשטאדט, הטרזינוויזה ווסטנד",
+  "center": 0,
+  "osm_tags": {
+   "description": "Gedenken an den Terrorschlag auf die Diskothek Liverpool am 7. Januar 1984",
+   "height": "2.20",
+   "historic": "memorial",
+   "inscription": "In Gedenken an Corinna Tartarotti 18.5.1963 - 27.4.1984. Hier, im ehemaligen Nachtclub „Liverpool“ wurde die 20-Jährige am 7. Januar 1984 bei einem rechtsterroristischen Brandanschlag tödlich verletzt. Sieben weitere Menschen erlitten ...",
+   "length": "0.45",
+   "material": "steel",
+   "memorial": "stele",
+   "name": "Terroranschlag auf die Diskothek Liverpool 1984",
+   "object:city": "München",
+   "object:country": "DE",
+   "object:housenumber": "11a",
+   "object:postcode": "80336",
+   "object:street": "Schillerstraße",
+   "start_date": "2024",
+   "url": "https://public-history-muenchen.de/news/rechtsterroristischer-brandanschlag-1984/",
+   "width": "0.20"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Central Station area (Hauptbahnhof) (286 מ')"
+ },
+ {
+  "k": "n31385283",
+  "name": "Torbogen",
+  "la": 48.12715,
+  "ln": 11.538451,
+  "district": "לודוויגסוורשטאדט, הטרזינוויזה ווסטנד",
+  "center": 0,
+  "osm_tags": {
+   "artwork_type": "sculpture",
+   "description": "ehemaliger Eingang IGA 1986",
+   "name": "Torbogen",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Bavariapark (519 מ')"
+ },
+ {
+  "k": "n4230904154",
+  "name": "Umschreibung",
+  "la": 48.132767,
+  "ln": 11.540316,
+  "district": "לודוויגסוורשטאדט, הטרזינוויזה ווסטנד",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q365691",
+   "artist_name": "Olafur Eliasson",
+   "artwork_type": "sculpture",
+   "contact:website": "https://olafureliasson.net/artwork/umschreibung-2004/",
+   "description": "endlose Treppe",
+   "height": "9.30",
+   "material": "metal",
+   "name": "Umschreibung",
+   "name:en": "Rewriting",
+   "start_date": "2004",
+   "tourism": "artwork",
+   "wikidata": "Q3548241",
+   "wikipedia": "fr:Umschreibung"
+  },
+  "wikidata": {
+   "id": "Q3548241",
+   "he": "",
+   "en": "Rewriting",
+   "de": "",
+   "desc": "",
+   "wikipedia_in": []
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "Verkehrszentrum (Deutsches Museum Transport Centre) (202 מ')"
+ },
+ {
+  "k": "n6146206998",
+  "name": "Wilde Pferde",
+  "la": 48.131857,
+  "ln": 11.543348,
+  "district": "לודוויגסוורשטאדט, הטרזינוויזה ווסטנד",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q878213",
+   "artist_name": "Georg Roemer",
+   "artwork_type": "sculpture",
+   "description": "zwei Pferde",
+   "historic": "memorial",
+   "material": "metal",
+   "memorial": "statue",
+   "name": "Wilde Pferde",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Verkehrszentrum (Deutsches Museum Transport Centre) (100 מ')"
+ },
+ {
+  "k": "n697343116",
+  "name": "Ziele",
+  "la": 48.13468,
+  "ln": 11.557791,
+  "district": "לודוויגסוורשטאדט, הטרזינוויזה ווסטנד",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q15450702",
+   "artist:wikipedia": "de:Ernst Hesse (Bildhauer)",
+   "artist_name": "Ernst Hesse",
+   "artwork_type": "sculpture",
+   "material": "steel",
+   "name": "Ziele",
+   "start_date": "2001",
+   "tourism": "artwork",
+   "url": "https://stadtgeschichte-muenchen.de/sehenswert/d_sehenswert.php?id=3846"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "St. Paul's Church (Paulskirche) (424 מ')"
+ },
+ {
+  "k": "r3462023",
+  "name": "Zwischen Sonnentor und Mondplatz",
+  "la": 48.139832,
+  "ln": 11.54871,
+  "district": "לודוויגסוורשטאדט, הטרזינוויזה ווסטנד",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Hannsjörg Voth",
+   "artwork_type": "sculpture",
+   "name": "Zwischen Sonnentor und Mondplatz",
+   "start_date": "1993",
+   "tourism": "artwork",
+   "type": "site"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "St. Paul's Church (Paulskirche) (448 מ')"
+ }
+]

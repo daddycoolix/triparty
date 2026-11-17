@@ -1,0 +1,840 @@
+[
+ {
+  "k": "n4236814785",
+  "name": "The Wings",
+  "la": 48.14436,
+  "ln": 11.574842,
+  "district": "האלטשטאדט: מריאנפלאץ, ויקטואליינמרקט והרזידנץ",
+  "center": 1,
+  "osm_tags": {
+   "artist_name": "Daniel Libeskind",
+   "artwork_type": "sculpture",
+   "name": "The Wings",
+   "tourism": "artwork",
+   "wikidata": "Q113997592"
+  },
+  "wikidata": {
+   "id": "Q113997592",
+   "he": "",
+   "en": "The Wings",
+   "de": "",
+   "desc": "sculpture created by Studio Libeskind",
+   "wikipedia_in": [
+    "co"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "Brienner Straße and Wittelsbacherplatz (132 מ')"
+ },
+ {
+  "k": "w26558545",
+  "name": "Wittelsbacher Brunnen",
+  "la": 48.141343,
+  "ln": 11.569336,
+  "district": "האלטשטאדט: מריאנפלאץ, ויקטואליינמרקט והרזידנץ",
+  "center": 1,
+  "osm_tags": {
+   "amenity": "fountain",
+   "artist:wikidata": "Q364808",
+   "artist_name": "Adolf von Hildebrand",
+   "description": "von Adolf v. Hildebrandt 1895 vollendet",
+   "heritage": "4",
+   "heritage:operator": "BLfD",
+   "historic": "fountain",
+   "name": "Wittelsbacher Brunnen",
+   "name:de": "Wittelsbacher Brunnen",
+   "name:en": "Wittelsbacher Fountain",
+   "natural": "water",
+   "ref:BLfD": "D-1-62-000-3825",
+   "start_date": "1895",
+   "wikidata": "Q878863",
+   "wikipedia": "de:Wittelsbacher Brunnen (Lenbachplatz)"
+  },
+  "wikidata": {
+   "id": "Q878863",
+   "he": "",
+   "en": "Wittelsbacher Fountain",
+   "de": "",
+   "desc": "",
+   "wikipedia_in": []
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "Site of the Old Main Synagogue (Herzog-Max-Straße) (154 מ')"
+ },
+ {
+  "k": "n658947401",
+  "name": "AIDS",
+  "la": 48.133829,
+  "ln": 11.567383,
+  "district": "האלטשטאדט: מריאנפלאץ, ויקטואליינמרקט והרזידנץ",
+  "center": 1,
+  "osm_tags": {
+   "artist": "Wolfgang Tillmans",
+   "historic": "memorial",
+   "inscription": "AIDS\nDen Toten\nden Infizierten\nihren Freunden\nihren Familien\n1981 bis heute",
+   "level": "0",
+   "lgbtq": "primary",
+   "memorial": "column",
+   "name": "AIDS",
+   "start_date": "2001-07-17",
+   "subject": "AIDS",
+   "wikidata": "Q293530",
+   "wikipedia": "de:AIDS-Memorial (München)"
+  },
+  "wikidata": {
+   "id": "Q293530",
+   "he": "",
+   "en": "",
+   "de": "",
+   "desc": "",
+   "wikipedia_in": []
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "Sendlinger Tor (26 מ')"
+ },
+ {
+  "k": "n2730676459",
+  "name": "Airborne",
+  "la": 48.134189,
+  "ln": 11.570978,
+  "district": "האלטשטאדט: מריאנפלאץ, ויקטואליינמרקט והרזידנץ",
+  "center": 1,
+  "osm_tags": {
+   "alt_name": "Molekül",
+   "artist_name": "Christopher Klein",
+   "artwork_type": "sculpture",
+   "material": "metal",
+   "name": "Airborne",
+   "start_date": "2008",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Jewish Museum Munich (91 מ')"
+ },
+ {
+  "k": "n292910963",
+  "name": "Argumente",
+  "la": 48.141302,
+  "ln": 11.577371,
+  "district": "האלטשטאדט: מריאנפלאץ, ויקטואליינמרקט והרזידנץ",
+  "center": 1,
+  "osm_tags": {
+   "artist:wikidata": "Q22694549",
+   "artist:wikipedia": "de:Bruno Wank",
+   "artist_name": "Bruno Wank",
+   "artwork_subject": "Widerstand gegen den Nationalsozialismus",
+   "artwork_type": "installation",
+   "description": "Schlangenlinie aus Bronzepflastersteinen",
+   "description:en": "Bronze Trail",
+   "material": "bronze",
+   "name": "Argumente",
+   "start_date": "1995",
+   "tourism": "artwork",
+   "url": "https://www.publicartmuenchen.de/projekte/argumente/",
+   "website": "https://www.brunowank.de/werke/argumente"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Viscardigasse memorial (Drückebergergasse) (33 מ')"
+ },
+ {
+  "k": "n701344630",
+  "name": "Auffliegende Vögel",
+  "la": 48.134475,
+  "ln": 11.567323,
+  "district": "האלטשטאדט: מריאנפלאץ, ויקטואליינמרקט והרזידנץ",
+  "center": 1,
+  "osm_tags": {
+   "amenity": "fountain",
+   "inscription": "gestaltet 1937 von Karl Fotzler",
+   "name": "Auffliegende Vögel"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Sendlinger Tor (49 מ')"
+ },
+ {
+  "k": "n13114310323",
+  "name": "Bayerisches Armeedenkmal",
+  "la": 48.141658,
+  "ln": 11.577308,
+  "district": "האלטשטאדט: מריאנפלאץ, ויקטואליינמרקט והרזידנץ",
+  "center": 1,
+  "osm_tags": {
+   "artist:wikidata": "Q95737",
+   "artist:wikipedia": "de:Ferdinand von Miller der Jüngere",
+   "artist_name": "Ferdinand von Miller",
+   "artwork_type": "sculpture",
+   "covered": "yes",
+   "material": "bronze",
+   "name": "Bayerisches Armeedenkmal",
+   "start_date": "1892",
+   "subject:wikidata": "Q533265",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Feldherrnhalle and Odeonsplatz (2 מ')"
+ },
+ {
+  "k": "n666304993",
+  "name": "Bierbrunnen",
+  "la": 48.143762,
+  "ln": 11.573508,
+  "district": "האלטשטאדט: מריאנפלאץ, ויקטואליינמרקט והרזידנץ",
+  "center": 1,
+  "osm_tags": {
+   "amenity": "fountain",
+   "inscription": "Hopfen und Malz Gott erhalt's",
+   "name": "Bierbrunnen"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Brienner Straße and Wittelsbacherplatz (29 מ')"
+ },
+ {
+  "k": "n13279569218",
+  "name": "Bäcker mit der Lanze",
+  "la": 48.136175,
+  "ln": 11.579374,
+  "district": "האלטשטאדט: מריאנפלאץ, ויקטואליינמרקט והרזידנץ",
+  "center": 1,
+  "osm_tags": {
+   "artwork_type": "statue",
+   "inscription": "Hier neben stand das\nHaus welches Kaiser\nLudwig der Bayer der\nBäckerbruderschaft schenkte\nweil die Bäckerknechte in der\nSchlacht bei Ampfing am\n28. Sept 1322 ihm das\nLeben gerettet",
+   "level": "1",
+   "material": "stone",
+   "name": "Bäcker mit der Lanze",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Bavarian beer halls and beer gardens (general) (95 מ')"
+ },
+ {
+  "k": "n9251380991",
+  "name": "Denkmal 2. Weltkrieg",
+  "la": 48.133302,
+  "ln": 11.565047,
+  "district": "האלטשטאדט: מריאנפלאץ, ויקטואליינמרקט והרזידנץ",
+  "center": 1,
+  "osm_tags": {
+   "description": "Drei Steintafeln im Foyer der evang. Bischofskirche am Sendlinger-Tor-Platz",
+   "historic": "memorial",
+   "inscription": "DIE GEMEINDE ST: MATTHÄUS GEDENKT DER GEFALLENEN ICH BIN DER ERSTE UND DER LETZTE UND DER LEBENDIGE Offenb. Johannes 1.17",
+   "material": "stone",
+   "memorial": "war_memorial",
+   "memorial:conflict": "WW2",
+   "name": "Denkmal 2. Weltkrieg"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Sendlinger Tor (187 מ')"
+ },
+ {
+  "k": "n13686788185",
+  "name": "Der Spaziergänger",
+  "la": 48.13633,
+  "ln": 11.572923,
+  "district": "האלטשטאדט: מריאנפלאץ, ויקטואליינמרקט והרזידנץ",
+  "center": 1,
+  "osm_tags": {
+   "historic": "memorial",
+   "inscription": "Sigi Sommer Münchner Schriftsteller und Journalist 1914-1996",
+   "memorial": "statue",
+   "name": "Der Spaziergänger"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Munich City Museum (Münchner Stadtmuseum) (131 מ')"
+ },
+ {
+  "k": "n9686518292",
+  "name": "Die öffentliche Rose",
+  "la": 48.134865,
+  "ln": 11.579883,
+  "district": "האלטשטאדט: מריאנפלאץ, ויקטואליינמרקט והרזידנץ",
+  "center": 1,
+  "osm_tags": {
+   "artist:wikidata": "Q2163842",
+   "artist_name": "Rolf Szymanski",
+   "artwork_type": "sculpture",
+   "height": "3.25",
+   "material": "iron",
+   "name": "Die öffentliche Rose",
+   "start_date": "1971",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Munich Beer and Oktoberfest Museum (49 מ')"
+ },
+ {
+  "k": "n2380144773",
+  "name": "Felsenbrunnen",
+  "la": 48.14054,
+  "ln": 11.580995,
+  "district": "האלטשטאדט: מריאנפלאץ, ויקטואליינמרקט והרזידנץ",
+  "center": 1,
+  "osm_tags": {
+   "amenity": "fountain",
+   "heritage": "4",
+   "heritage:operator": "BLfD",
+   "historic": "fountain",
+   "name": "Felsenbrunnen",
+   "ref:BLfD": "D-1-62-000-4351",
+   "start_date": "1790"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Cuvilliés Theatre (74 מ')"
+ },
+ {
+  "k": "n9942874967",
+  "name": "Flora III",
+  "la": 48.140677,
+  "ln": 11.580156,
+  "district": "האלטשטאדט: מריאנפלאץ, ויקטואליינמרקט והרזידנץ",
+  "center": 1,
+  "osm_tags": {
+   "artist:wikidata": "Q524205",
+   "artist_name": "Fritz Koenig",
+   "artwork_type": "sculpture",
+   "name": "Flora III",
+   "tourism": "artwork",
+   "wikidata": "Q1429259",
+   "wikipedia": "de:Flora III"
+  },
+  "wikidata": {
+   "id": "Q1429259",
+   "he": "",
+   "en": "",
+   "de": "",
+   "desc": "",
+   "wikipedia_in": []
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "Cuvilliés Theatre (24 מ')"
+ },
+ {
+  "k": "n1368309481",
+  "name": "Fortunabrunnen",
+  "la": 48.134775,
+  "ln": 11.583321,
+  "district": "האלטשטאדט: מריאנפלאץ, ויקטואליינמרקט והרזידנץ",
+  "center": 1,
+  "osm_tags": {
+   "amenity": "fountain",
+   "heritage": "4",
+   "heritage:operator": "BLfD",
+   "name": "Fortunabrunnen",
+   "ref:BLfD": "D-1-62-000-2997",
+   "wikidata": "Q949258",
+   "wikipedia": "de:Fortunabrunnen (München)"
+  },
+  "wikidata": {
+   "id": "Q949258",
+   "he": "",
+   "en": "",
+   "de": "",
+   "desc": "",
+   "wikipedia_in": []
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "Isartor (94 מ')"
+ },
+ {
+  "k": "n701344645",
+  "name": "Gockel, Hinkel und Gackeleia",
+  "la": 48.135772,
+  "ln": 11.566747,
+  "district": "האלטשטאדט: מריאנפלאץ, ויקטואליינמרקט והרזידנץ",
+  "center": 1,
+  "osm_tags": {
+   "artist:wikidata": "Q136749228",
+   "artist_name": "Angelika Fazekas",
+   "artwork_type": "sculpture",
+   "material": "bronze",
+   "name": "Gockel, Hinkel und Gackeleia",
+   "start_date": "1981",
+   "subject:wikidata": "Q106858173",
+   "toilets:wheelchair": "no",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Sendlinger Tor (198 מ')"
+ },
+ {
+  "k": "n691084299",
+  "name": "Grottenbrunnen",
+  "la": 48.14145,
+  "ln": 11.571226,
+  "district": "האלטשטאדט: מריאנפלאץ, ויקטואליינמרקט והרזידנץ",
+  "center": 1,
+  "osm_tags": {
+   "amenity": "fountain",
+   "drinking_water": "no",
+   "inscription": "Grottenbrunnen errichtet 1886",
+   "name": "Grottenbrunnen",
+   "start_date": "1886"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Michael Jackson memorial at the Orlando di Lasso statue (199 מ')"
+ },
+ {
+  "k": "n699687244",
+  "name": "Karl von Effner",
+  "la": 48.142508,
+  "ln": 11.572486,
+  "district": "האלטשטאדט: מריאנפלאץ, ויקטואליינמרקט והרזידנץ",
+  "center": 1,
+  "osm_tags": {
+   "amenity": "bench",
+   "armrest": "yes",
+   "backrest": "yes",
+   "colour": "white",
+   "heritage": "4",
+   "heritage:operator": "BLfD",
+   "historic": "memorial",
+   "material": "stone",
+   "memorial": "bust",
+   "name": "Karl von Effner",
+   "ref:BLfD": "D-1-62-000-3825",
+   "seats": "5",
+   "wikidata": "Q41175793"
+  },
+  "wikidata": {
+   "id": "Q41175793",
+   "he": "",
+   "en": "",
+   "de": "",
+   "desc": "",
+   "wikipedia_in": []
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "Memorial for the Victims of National Socialism (Platz der Opfer des Nationalsozialismus) (104 מ')"
+ },
+ {
+  "k": "w1574165892",
+  "name": "Karl-Amadeus-Hartmann-Brunnen",
+  "la": 48.142147,
+  "ln": 11.571863,
+  "district": "האלטשטאדט: מריאנפלאץ, ויקטואליינמרקט והרזידנץ",
+  "center": 1,
+  "osm_tags": {
+   "amenity": "fountain",
+   "name": "Karl-Amadeus-Hartmann-Brunnen",
+   "start_date": "1971"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Memorial for the Victims of National Socialism (Platz der Opfer des Nationalsozialismus) (159 מ')"
+ },
+ {
+  "k": "n9350954801",
+  "name": "Kriegerdenkmal",
+  "la": 48.136508,
+  "ln": 11.575605,
+  "district": "האלטשטאדט: מריאנפלאץ, ויקטואליינמרקט והרזידנץ",
+  "center": 1,
+  "osm_tags": {
+   "description": "Zwei Gedenkplatten übereinander. Unten WKI mit Stahlhelm, oben WKII aus hellem Marmor.",
+   "historic": "memorial",
+   "inscription": "Oberer Teil WKII: DIE OPFER DES WELTKRIEGES 1939 – 1945 IM FELDE UND IN DER HEIMAT IN DER STADTPFARREI ST. PETER UND IN GANZ MÜNCHEN BEWAHRE, O HERR IN DEINEM NAMEN UND IN DEINER EWIGEN LIEBE JOH 17 R. I. P. Unterer Teil WKI: noch einzufügen",
+   "material": "marble",
+   "memorial": "war_memorial",
+   "memorial:conflict": "WW2",
+   "name": "Kriegerdenkmal"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "St. Peter's Church (Alter Peter) (29 מ')"
+ },
+ {
+  "k": "n9482908528",
+  "name": "Kriegergedächtniskapelle",
+  "la": 48.136133,
+  "ln": 11.577298,
+  "district": "האלטשטאדט: מריאנפלאץ, ויקטואליינמרקט והרזידנץ",
+  "center": 1,
+  "osm_tags": {
+   "description": "Drei Gedenktafeln (Holz) in einer Seitenkapelle der kath. Pfarrkirche Heilig Geist.",
+   "historic": "memorial",
+   "inscription": "Tafel 1: SIE HABEN EINEN HARTEN KAMPF BESTANDEN. NUN FREUEN SIE SICH UND WERDEN GETRÖSTET. Tafel 2: SIE RUHEN AUS UND VERBLEIBEN IN EWIGKEIT MIT MIR IM REICHE MEINES VATERS Tafel 3: OPFER DES LUFTKRIEGES IN DER HEIMAT 1944 / 45",
+   "material": "wood",
+   "memorial": "war_memorial",
+   "name": "Kriegergedächtniskapelle",
+   "website": "http://www.denkmalprojekt.org/dkm_deutschland/muenchen_heilig_geist_bay.htm"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Heilig-Geist-Kirche (10 מ')"
+ },
+ {
+  "k": "n2505345199",
+  "name": "Kurt-Eisner-Denkmal",
+  "la": 48.134242,
+  "ln": 11.570039,
+  "district": "האלטשטאדט: מריאנפלאץ, ויקטואליינמרקט והרזידנץ",
+  "center": 1,
+  "osm_tags": {
+   "historic": "memorial",
+   "inscription": "Jedes Menschenleben soll heilig sein",
+   "inscription:author": "Kurt Eisner",
+   "material": "glass",
+   "memorial": "sculpture",
+   "name": "Kurt-Eisner-Denkmal"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Asamkirche (St. Johann Nepomuk) (113 מ')"
+ },
+ {
+  "k": "n599314016",
+  "name": "Merkurbrunnen",
+  "la": 48.136154,
+  "ln": 11.578995,
+  "district": "האלטשטאדט: מריאנפלאץ, ויקטואליינמרקט והרזידנץ",
+  "center": 1,
+  "osm_tags": {
+   "amenity": "fountain",
+   "artist:wikidata": "Q75204",
+   "artist_name": "Friedrich von Thiersch",
+   "comment": "Gestaltet 1902 von Friedrich von Thiersch",
+   "description": "Merkurbrunnen nach Entwurf Friedrich von Thierschs von 1902 durch den Bildhauer Hugo Kaufmann ausgeführt (Nachbildung der Figur des Giovanni Bologna von ca. 1580); 1911 Aufstellung auf dem Maximiliansplatz, 1975 hier.",
+   "drinking_water": "yes",
+   "heritage": "4",
+   "heritage:operator": "BLfD",
+   "historic": "fountain",
+   "name": "Merkurbrunnen",
+   "ref:BLfD": "D-1-62-000-6742",
+   "wikidata": "Q41176200"
+  },
+  "wikidata": {
+   "id": "Q41176200",
+   "he": "",
+   "en": "",
+   "de": "",
+   "desc": "",
+   "wikipedia_in": []
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "Bavarian beer halls and beer gardens (general) (93 מ')"
+ },
+ {
+  "k": "w986915887",
+  "name": "Mosesbrunnen",
+  "la": 48.140251,
+  "ln": 11.569988,
+  "district": "האלטשטאדט: מריאנפלאץ, ויקטואליינמרקט והרזידנץ",
+  "center": 1,
+  "osm_tags": {
+   "BLfD:criteria": "Baudenkmal",
+   "amenity": "fountain",
+   "artist:wikidata": "Q877158",
+   "artist:wikipedia": "de:Josef Henselmann",
+   "artist_name": "Josef Henselmann",
+   "heritage": "4",
+   "heritage:operator": "BLfD",
+   "name": "Mosesbrunnen",
+   "ref:BLfD": "D-1-62-000-7804",
+   "start_date": "1954"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Site of the Old Main Synagogue (Herzog-Max-Straße) (111 מ')"
+ },
+ {
+  "k": "n516558607",
+  "name": "Prinzregent-Luitpold-Brunnen",
+  "la": 48.143088,
+  "ln": 11.574604,
+  "district": "האלטשטאדט: מריאנפלאץ, ויקטואליינמרקט והרזידנץ",
+  "center": 1,
+  "osm_tags": {
+   "amenity": "fountain",
+   "drinking_water": "unknown",
+   "drinking_water:legal": "unsigned",
+   "fountain": "decorative",
+   "inscription": "Prinzregent Luitpold von Bayern 1821-1912",
+   "name": "Prinzregent-Luitpold-Brunnen"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Café Luitpold (16 מ')"
+ },
+ {
+  "k": "w253534587",
+  "name": "Rindermarktbrunnen",
+  "la": 48.136144,
+  "ln": 11.573931,
+  "district": "האלטשטאדט: מריאנפלאץ, ויקטואליינמרקט והרזידנץ",
+  "center": 1,
+  "osm_tags": {
+   "amenity": "fountain",
+   "name": "Rindermarktbrunnen",
+   "natural": "water",
+   "wikidata": "Q178427",
+   "wikipedia": "de:Rindermarktbrunnen"
+  },
+  "wikidata": {
+   "id": "Q178427",
+   "he": "",
+   "en": "",
+   "de": "",
+   "desc": "",
+   "wikipedia_in": []
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "Munich City Museum (Münchner Stadtmuseum) (141 מ')"
+ },
+ {
+  "k": "w129707664",
+  "name": "Sendlinger-Tor-Platz-Brunnen",
+  "la": 48.133494,
+  "ln": 11.565881,
+  "district": "האלטשטאדט: מריאנפלאץ, ויקטואליינמרקט והרזידנץ",
+  "center": 1,
+  "osm_tags": {
+   "amenity": "fountain",
+   "artist_name": "Heiner Schumann",
+   "name": "Sendlinger-Tor-Platz-Brunnen",
+   "start_date": "1972"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Sendlinger Tor (127 מ')"
+ },
+ {
+  "k": "n701344643",
+  "name": "Springende Pferde",
+  "la": 48.135405,
+  "ln": 11.566902,
+  "district": "האלטשטאדט: מריאנפלאץ, ויקטואליינמרקט והרזידנץ",
+  "center": 1,
+  "osm_tags": {
+   "artist:wikidata": "Q1448299",
+   "artist_name": "Franz Mikorey",
+   "artwork_type": "sculpture",
+   "name": "Springende Pferde",
+   "subject:wikidata": "Q726",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Sendlinger Tor (156 מ')"
+ },
+ {
+  "k": "n649286246",
+  "name": "St. Benno-Brunnen",
+  "la": 48.138922,
+  "ln": 11.573097,
+  "district": "האלטשטאדט: מריאנפלאץ, ויקטואליינמרקט והרזידנץ",
+  "center": 1,
+  "osm_tags": {
+   "amenity": "fountain",
+   "artist_name": "Josef Henselmann",
+   "drinking_water": "no",
+   "inscription": "Gestaltet 1972 von Josef Henselmann",
+   "name": "St. Benno-Brunnen",
+   "start_date": "1972"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Frauenkirche (Cathedral of Our Dear Lady) (35 מ')"
+ },
+ {
+  "k": "n10249025748",
+  "name": "St. Korbinian",
+  "la": 48.139885,
+  "ln": 11.570457,
+  "district": "האלטשטאדט: מריאנפלאץ, ויקטואליינמרקט והרזידנץ",
+  "center": 1,
+  "osm_tags": {
+   "historic": "memorial",
+   "inscription": "HL Korbinian Patron des Erzbistums München und Freising",
+   "memorial": "statue",
+   "name": "St. Korbinian"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "St. Michael's Church (120 מ')"
+ },
+ {
+  "k": "n13415720847",
+  "name": "Straßen Namen Leuchten",
+  "la": 48.142094,
+  "ln": 11.574632,
+  "district": "האלטשטאדט: מריאנפלאץ, ויקטואליינמרקט והרזידנץ",
+  "center": 1,
+  "osm_tags": {
+   "artist:wikidata": "Q123483150",
+   "artist:wikipedia": "de:Albert Coers",
+   "artist_name": "Albert Coers",
+   "description": "Denkmal für die Familie von Thomas Mann, aus Schildern von Straßen und Plätzen, u. a. in München, Frankfurt, Zürich, Rom und São Paulo, die nach Mitgliedern der Familie benannt sind, sowie aus Straßenleuchten von Orten, an denen die Manns lebten.",
+   "historic": "memorial",
+   "material": "steel",
+   "memorial": "sculpture",
+   "name": "Straßen Namen Leuchten",
+   "start_date": "09.12.2025",
+   "website": "https://strassen-namen-leuchten.de/"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Memorial for the Victims of National Socialism (Platz der Opfer des Nationalsozialismus) (93 מ')"
+ },
+ {
+  "k": "n2704048453",
+  "name": "Vernetzungen",
+  "la": 48.142951,
+  "ln": 11.570563,
+  "district": "האלטשטאדט: מריאנפלאץ, ויקטואליינמרקט והרזידנץ",
+  "center": 1,
+  "osm_tags": {
+   "artist:wikidata": "Q44817082",
+   "artist_name": "Manfred Bergmeister",
+   "artwork_type": "sculpture",
+   "name": "Vernetzungen",
+   "start_date": "1995",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Brienner Straße and Wittelsbacherplatz (208 מ')"
+ },
+ {
+  "k": "n3961270310",
+  "name": "Waller",
+  "la": 48.138311,
+  "ln": 11.571665,
+  "district": "האלטשטאדט: מריאנפלאץ, ויקטואליינמרקט והרזידנץ",
+  "center": 1,
+  "osm_tags": {
+   "artist:wikidata": "Q1098711",
+   "artist_name": "Claus Nageler",
+   "artwork_subject": "figurative",
+   "artwork_type": "sculpture",
+   "material": "bronze",
+   "name": "Waller",
+   "start_date": "1982",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Kaufingerstraße and Neuhauser Straße (23 מ')"
+ },
+ {
+  "k": "w1222284959",
+  "name": "Wittelsbacherbrunnen",
+  "la": 48.1408,
+  "ln": 11.579143,
+  "district": "האלטשטאדט: מריאנפלאץ, ויקטואליינמרקט והרזידנץ",
+  "center": 1,
+  "osm_tags": {
+   "amenity": "fountain",
+   "name": "Wittelsbacherbrunnen",
+   "wikidata": "Q27478655",
+   "wikipedia": "de:Wittelsbacherbrunnen (Münchner Residenz)"
+  },
+  "wikidata": {
+   "id": "Q27478655",
+   "he": "",
+   "en": "",
+   "de": "",
+   "desc": "",
+   "wikipedia_in": []
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "Cuvilliés Theatre (63 מ')"
+ },
+ {
+  "k": "n599314051",
+  "name": "Wolfsbrunnen",
+  "la": 48.1384,
+  "ln": 11.580939,
+  "district": "האלטשטאדט: מריאנפלאץ, ויקטואליינמרקט והרזידנץ",
+  "center": 1,
+  "osm_tags": {
+   "amenity": "fountain",
+   "artist:wikidata": "Q1597089;Q1283548",
+   "artist_name": "Heinrich Düll, Georg Pezold",
+   "comment": "Gestaltet 1904 von Heinrich Düll und Georg Pezold",
+   "drinking_water": "yes",
+   "heritage": "4",
+   "heritage:operator": "BLfD",
+   "historic": "fountain",
+   "name": "Wolfsbrunnen",
+   "ref:BLfD": "D-1-62-000-301",
+   "wikidata": "Q3747411",
+   "wikipedia": "de:Wolfsbrunnen (München)"
+  },
+  "wikidata": {
+   "id": "Q3747411",
+   "he": "",
+   "en": "",
+   "de": "",
+   "desc": "",
+   "wikipedia_in": []
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "Münchner Kammerspiele (104 מ')"
+ },
+ {
+  "k": "n9916419144",
+  "name": "Zehnflammiger Leuchter",
+  "la": 48.143478,
+  "ln": 11.584408,
+  "district": "האלטשטאדט: מריאנפלאץ, ויקטואליינמרקט והרזידנץ",
+  "center": 1,
+  "osm_tags": {
+   "amenity": "fountain",
+   "artist:wikidata": "Q89660",
+   "artist_name": "Georg Brenninger",
+   "material": "granite",
+   "name": "Zehnflammiger Leuchter",
+   "start_date": "1969"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Haus der Kunst (122 מ')"
+ }
+]

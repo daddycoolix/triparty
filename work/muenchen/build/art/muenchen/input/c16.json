@@ -1,0 +1,809 @@
+[
+ {
+  "k": "n1687028166",
+  "name": "Der Isarflößer",
+  "la": 48.08315,
+  "ln": 11.540861,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "historic": "memorial",
+   "memorial": "statue",
+   "name": "Der Isarflößer",
+   "start_date": "1939",
+   "wikidata": "Q1194577",
+   "wikipedia": "de:Der Isarflößer"
+  },
+  "wikidata": {
+   "id": "Q1194577",
+   "he": "",
+   "en": "Der Isarflößer",
+   "de": "Der Isarflößer",
+   "desc": "Denkmal in München",
+   "wikipedia_in": [
+    "co",
+    "de"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "Hellabrunn Zoo (Tierpark Hellabrunn) (1716 מ')"
+ },
+ {
+  "k": "n13720762596",
+  "name": "Franz Beckenbauer",
+  "la": 48.215429,
+  "ln": 11.623403,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q136236159",
+   "artist_name": "Matilde Romagnoli",
+   "artwork_subject": "Franz Beckenbauer",
+   "artwork_type": "statue",
+   "material": "bronze",
+   "name": "Franz Beckenbauer",
+   "start_date": "2025",
+   "subject:wikidata": "Q4457",
+   "tourism": "artwork",
+   "wikidata": "Q136235788",
+   "wikipedia": "de:Franz-Beckenbauer-Statue"
+  },
+  "wikidata": {
+   "id": "Q136235788",
+   "he": "",
+   "en": "Franz Beckenbauer statue",
+   "de": "Franz-Beckenbauer-Statue",
+   "desc": "bronze sculpture of the German soccer player Franz Beckenbauer (1945–2024) in Munich, Germany",
+   "wikipedia_in": [
+    "de",
+    "it"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "Allianz Arena (373 מ')"
+ },
+ {
+  "k": "n12440271595",
+  "name": "Gerd Müller",
+  "la": 48.216138,
+  "ln": 11.624303,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q95156341",
+   "artist_name": "Karel Fron",
+   "artwork_subject": "Gerd Müller",
+   "artwork_type": "statue",
+   "height": "4.2 m",
+   "material": "bronze",
+   "name": "Gerd Müller",
+   "start_date": "2023-09-12",
+   "subject:wikidata": "Q43744",
+   "tourism": "artwork",
+   "website": "https://www.kurt-landauer-stiftung.de/gerd",
+   "wikidata": "Q122443161",
+   "wikipedia": "de:Gerd-Müller-Statue (München)"
+  },
+  "wikidata": {
+   "id": "Q122443161",
+   "he": "",
+   "en": "Gerd Müller statue",
+   "de": "Gerd-Müller-Statue",
+   "desc": "bronze sculpture of the German soccer player Gerd Müller in Munich, Germany",
+   "wikipedia_in": [
+    "de"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "Allianz Arena (298 מ')"
+ },
+ {
+  "k": "n3569041132",
+  "name": "Mahnmal Todesmarsch KZ Dachau",
+  "la": 48.105494,
+  "ln": 11.423491,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Hubertus von Pilgrim",
+   "description:de": "gut erhalten",
+   "historic": "memorial",
+   "memorial": "statue",
+   "name": "Mahnmal Todesmarsch KZ Dachau",
+   "website": "https://www.kz-gedenkstaette-dachau.de/historischer-ort/virtueller-rundgang-umgebung/todesmarsch-mahnmal/",
+   "wikidata": "Q111435225"
+  },
+  "wikidata": {
+   "id": "Q111435225",
+   "he": "",
+   "en": "Todesmarschmahnmal",
+   "de": "Todesmarschmahnmal (Planegg)",
+   "desc": "Mahnmal an den Dachauer Todesmarsch in Planegg",
+   "wikipedia_in": [
+    "co"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "Waldfriedhof (Forest Cemetery) (4866 מ')"
+ },
+ {
+  "k": "n14363478272",
+  "name": "7 Kontinente",
+  "la": 48.184588,
+  "ln": 11.518225,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q321075",
+   "artist_name": "Empfangshalle",
+   "artwork_type": "installation",
+   "name": "7 Kontinente",
+   "start_date": "2018",
+   "tourism": "artwork",
+   "website": "https://empfangshalle.de/projekte/7-kontinente/"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Olympic Village and Connollystraße 31 (2117 מ')"
+ },
+ {
+  "k": "r21952359",
+  "name": "ALITTLEMORELOVE",
+  "la": 48.213482,
+  "ln": 11.567548,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Das Änderungsatelier",
+   "artwork_type": "installation",
+   "description": "Venezianische Gondel, Steg, Löwe und Laterne",
+   "name": "ALITTLEMORELOVE",
+   "start_date": "2008",
+   "tourism": "artwork",
+   "type": "multipolygon"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Flugwerft Schleissheim (aviation museum) (3621 מ')"
+ },
+ {
+  "k": "n14363417965",
+  "name": "Abakus",
+  "la": 48.179585,
+  "ln": 11.516892,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Sophia Wonner-Mruck",
+   "artwork_type": "sculpture",
+   "level": "0",
+   "material": "holz;metall",
+   "name": "Abakus",
+   "start_date": "1997",
+   "subject:wikidata": "Q12806",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Olympic Village and Connollystraße 31 (2116 מ')"
+ },
+ {
+  "k": "n2996564842",
+  "name": "Agnes Bernauer und Herzog Albrecht III.",
+  "la": 48.163776,
+  "ln": 11.457095,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "alt_name": "Denkmal für die Liebe",
+   "artist_name": "Joseph Michael Neustifter",
+   "description": "Der Liebe zwischen Herzog Albrecht III. und der Baderstochter Agnes Bernauer (1430–1435) gewidmetes Denkmal",
+   "historic": "memorial",
+   "inscription": "UM 1430 HAT HERZOG ALBRECHT III. / HIER AUF SEINER BLUEDENBURG / MIT DER IHM HEIMLICH VERMÄHLTEN / SCHÖNEN BADERSTOCHTER AGNES BERNAUER / GLÜCKLICH ZUSAMMEN GELEBT // AUF GEHEIß SEINES VATERS HERZOG ERNST / WURDE DIE BERNAUERIN JEDOCH 1435 / … ERTRÄNKT",
+   "material": "metal",
+   "memorial": "bust",
+   "name": "Agnes Bernauer und Herzog Albrecht III.",
+   "short_name": "Agnes Bernauer",
+   "start_date": "2013-09-14",
+   "wikidata": "Q29639855"
+  },
+  "wikidata": {
+   "id": "Q29639855",
+   "he": "",
+   "en": "",
+   "de": "",
+   "desc": "",
+   "wikipedia_in": []
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "Blutenburg Castle (77 מ')"
+ },
+ {
+  "k": "n12655749457",
+  "name": "Aida",
+  "la": 48.064307,
+  "ln": 11.665265,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Horst Neubert",
+   "artwork_type": "sculpture",
+   "material": "titan",
+   "name": "Aida",
+   "start_date": "2004",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Ostpark (5870 מ')"
+ },
+ {
+  "k": "n4215107598",
+  "name": "Bildsäule",
+  "la": 48.11228,
+  "ln": 11.467175,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Max Bill",
+   "artwork_type": "column",
+   "height": "16",
+   "name": "Bildsäule",
+   "start_date": "1983",
+   "tourism": "artwork",
+   "wikidata": "Q24650120"
+  },
+  "wikidata": {
+   "id": "Q24650120",
+   "he": "",
+   "en": "",
+   "de": "",
+   "desc": "",
+   "wikipedia_in": []
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "Waldfriedhof (Forest Cemetery) (2118 מ')"
+ },
+ {
+  "k": "n4220226322",
+  "name": "Bildsäule",
+  "la": 48.11097,
+  "ln": 11.47229,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Max Bill",
+   "artwork_type": "column",
+   "height": "20",
+   "man_made": "mast",
+   "name": "Bildsäule",
+   "start_date": "1983",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Waldfriedhof (Forest Cemetery) (1742 מ')"
+ },
+ {
+  "k": "n12004747675",
+  "name": "Bogenschützen",
+  "la": 48.104461,
+  "ln": 11.609125,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q1689979",
+   "artist:wikipedia": "de:Joachim_Berthold",
+   "artist_name": "Berthold Joachim",
+   "artwork_type": "statue",
+   "material": "bronze",
+   "name": "Bogenschützen",
+   "object:city": "München",
+   "object:country": "DE",
+   "object:housenumber": "80",
+   "object:postcode": "99999",
+   "object:street": "Görzer Straße",
+   "start_date": "1969",
+   "tourism": "artwork",
+   "website": "https://stadtgeschichte-muenchen.de/sehenswert/d_sehenswert.php?id=6035"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Ostpark (2190 מ')"
+ },
+ {
+  "k": "w290541870",
+  "name": "Concrete Voyage",
+  "la": 48.106601,
+  "ln": 11.722256,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Susanne Pittroff",
+   "artwork_type": "installation",
+   "name": "Concrete Voyage",
+   "start_date": "2009",
+   "toilets:wheelchair": "no",
+   "tourism": "artwork",
+   "url": "https://susannepittroff.de/kunst-am-bau/concrete-voyage-2009/"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Ostpark (5856 מ')"
+ },
+ {
+  "k": "n800139738",
+  "name": "Die Lesenden",
+  "la": 48.066268,
+  "ln": 11.609929,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q95767583",
+   "artist_name": "Ivo Krizan",
+   "artwork_type": "statue",
+   "material": "bronze",
+   "name": "Die Lesenden",
+   "official_name": "Bronzegruppe mit drei Personen",
+   "start_date": "1990",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Bavaria Filmstadt (3803 מ')"
+ },
+ {
+  "k": "r7684289",
+  "name": "Ente und das Tor",
+  "la": 48.07958,
+  "ln": 11.606801,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q2589607",
+   "artist_name": "Wolfgang Flatz",
+   "name": "Ente und das Tor",
+   "start_date": "1997",
+   "tourism": "artwork",
+   "type": "multipolygon"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Bavaria Filmstadt (3918 מ')"
+ },
+ {
+  "k": "n14363507217",
+  "name": "Erst rechts, dann links, dann immer geradeaus",
+  "la": 48.182107,
+  "ln": 11.529662,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q1538419",
+   "artist_name": "Olaf Metzel",
+   "artwork_type": "sculpture",
+   "description": "Leitplanken an der Decke",
+   "level": "-3",
+   "material": "metal",
+   "name": "Erst rechts, dann links, dann immer geradeaus",
+   "start_date": "2004",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Olympic Village and Connollystraße 31 (1293 מ')"
+ },
+ {
+  "k": "n9841685781",
+  "name": "Erzählkugel",
+  "la": 48.134441,
+  "ln": 11.664149,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q98915254",
+   "artist_name": "Peter Schwenk",
+   "artwork_type": "sculpture",
+   "material": "metal",
+   "name": "Erzählkugel",
+   "start_date": "2015",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Ostpark (2898 מ')"
+ },
+ {
+  "k": "n12655749459",
+  "name": "Fern in mir",
+  "la": 48.064314,
+  "ln": 11.665148,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Wolfgang Sandt",
+   "artwork_type": "sculpture",
+   "material": "marble",
+   "name": "Fern in mir",
+   "start_date": "2008",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Ostpark (5867 מ')"
+ },
+ {
+  "k": "n5325431127",
+  "name": "Fischbrunnen",
+  "la": 48.147424,
+  "ln": 11.46185,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "BLfD:criteria": "Baudenkmal",
+   "amenity": "fountain",
+   "architect": "Hans Osel",
+   "description": "Brunnen im Markthof: Kinderfigur mit Fischen, 1938 von Hans Osel",
+   "heritage": "4",
+   "heritage:operator": "BLfD",
+   "historic": "yes",
+   "name": "Fischbrunnen",
+   "ref:BLfD": "D-1-62-000-539",
+   "start_date": "1938",
+   "wikidata": "Q1308392",
+   "wikipedia": "de:Fischbrunnen (Pasing)"
+  },
+  "wikidata": {
+   "id": "Q1308392",
+   "he": "",
+   "en": "",
+   "de": "Fischbrunnen (München-Pasing)",
+   "desc": "water well",
+   "wikipedia_in": [
+    "de"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "Blutenburg Castle (1771 מ')"
+ },
+ {
+  "k": "n12655749463",
+  "name": "Fragile Stele",
+  "la": 48.06443,
+  "ln": 11.66513,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Wolfgang Sandt",
+   "artwork_type": "sculpture",
+   "material": "granite",
+   "name": "Fragile Stele",
+   "start_date": "1999",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Ostpark (5854 מ')"
+ },
+ {
+  "k": "n13626837027",
+  "name": "Gedenkstele",
+  "la": 48.247586,
+  "ln": 11.60836,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q137449146",
+   "artist_name": "Lioba Leibl",
+   "artwork_type": "sculpture",
+   "description": "Stele zur Erinnerung an die Zwangsarbeiter im „Lager Schleißheim“ der SS",
+   "material": "steel",
+   "name": "Gedenkstele",
+   "start_date": "2023-09-17",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Schleissheim Palaces (Oberschleißheim) (3223 מ')"
+ },
+ {
+  "k": "n9721051948",
+  "name": "Generally - Centripetale",
+  "la": 48.104729,
+  "ln": 11.640201,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q697200",
+   "artist_name": "Franz West",
+   "artwork_type": "sculpture",
+   "description": "3-teiliges Skulpturenensemble",
+   "material": "aluminium",
+   "name": "Generally - Centripetale",
+   "start_date": "2007",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Ostpark (1082 מ')"
+ },
+ {
+  "k": "n2515521128",
+  "name": "Gerundetes Blau",
+  "la": 48.111942,
+  "ln": 11.554553,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q76426",
+   "artist:wikipedia": "de:Rupprecht Geiger",
+   "artist_name": "Rupprecht Geiger",
+   "artwork_subject": "abstract",
+   "artwork_type": "sculpture",
+   "colour": "blue",
+   "height": "6",
+   "material": "aluminium",
+   "name": "Gerundetes Blau",
+   "start_date": "1987",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Flaucher (414 מ')"
+ },
+ {
+  "k": "w303494046",
+  "name": "Geschichtsbrunnen",
+  "la": 48.100011,
+  "ln": 11.630691,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "amenity": "fountain",
+   "name": "Geschichtsbrunnen",
+   "wikidata": "Q128790447"
+  },
+  "wikidata": {
+   "id": "Q128790447",
+   "he": "",
+   "en": "",
+   "de": "Geschichtsbrunnen",
+   "desc": "Zierbrunnen auf dem Pfanzeltplatz in Ramersdorf-Perlach",
+   "wikipedia_in": [
+    "co"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "Ostpark (1642 מ')"
+ },
+ {
+  "k": "n2283989473",
+  "name": "Gorilla",
+  "la": 48.107332,
+  "ln": 11.714652,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Hans Kastler",
+   "artwork_type": "statue",
+   "name": "Gorilla",
+   "start_date": "2000",
+   "tourism": "artwork",
+   "url": "https://www.hans-kastler.de/"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Ostpark (5333 מ')"
+ },
+ {
+  "k": "n2427886289",
+  "name": "Gran Paradiso",
+  "la": 48.135095,
+  "ln": 11.691695,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q2343365",
+   "artist_name": "Stephan Huber",
+   "artwork_type": "sculpture",
+   "name": "Gran Paradiso",
+   "start_date": "1997",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Feringasee (4037 מ')"
+ },
+ {
+  "k": "n2427886290",
+  "name": "Gran Paradiso",
+  "la": 48.136014,
+  "ln": 11.691484,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q2343365",
+   "artist_name": "Stephan Huber",
+   "artwork_type": "sculpture",
+   "name": "Gran Paradiso",
+   "start_date": "1997",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Feringasee (3935 מ')"
+ },
+ {
+  "k": "n2923337808",
+  "name": "Grenzen des Wachstums",
+  "la": 48.220118,
+  "ln": 11.591017,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q99383698",
+   "artist_name": "Hermann Bigelmayr",
+   "artwork_type": "sculpture",
+   "name": "Grenzen des Wachstums",
+   "official_name": "Grenzen des Wachstums - Denkmal für einen Halm",
+   "start_date": "1993",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Allianz Arena (2221 מ')"
+ },
+ {
+  "k": "n12068692023",
+  "name": "Große transparente Sitzfigur II",
+  "la": 48.136272,
+  "ln": 11.503705,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q895865",
+   "artist_name": "Lothar Fischer",
+   "artwork_type": "statue",
+   "material": "weathering_steel",
+   "name": "Große transparente Sitzfigur II",
+   "start_date": "1987",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Westpark (1669 מ')"
+ },
+ {
+  "k": "n14367082967",
+  "name": "Grönlandwalpaar",
+  "la": 48.206589,
+  "ln": 11.559092,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q130007635",
+   "artist_name": "Heinz Pfahler",
+   "artwork_type": "statue",
+   "material": "concrete",
+   "name": "Grönlandwalpaar",
+   "start_date": "2013",
+   "subject:wikidata": "Q174652",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Olympic Village and Connollystraße 31 (3153 מ')"
+ },
+ {
+  "k": "n677214301",
+  "name": "Gänseliesl-Brunnen",
+  "la": 48.112207,
+  "ln": 11.51844,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "amenity": "fountain",
+   "artist_name": "Rödl Karl jun.",
+   "description": "Künstler: Rödl Karl jun., 1937",
+   "fountain": "decorative",
+   "name": "Gänseliesl-Brunnen",
+   "start_date": "1937"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Westpark (1186 מ')"
+ },
+ {
+  "k": "n705895130",
+  "name": "Haarwaschende",
+  "la": 48.111839,
+  "ln": 11.524306,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q322371",
+   "artist_name": "Martin Mayer",
+   "artwork_type": "sculpture",
+   "material": "bronze",
+   "name": "Haarwaschende",
+   "start_date": "1969",
+   "toilets:wheelchair": "no",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Westpark (1394 מ')"
+ },
+ {
+  "k": "n14367040586",
+  "name": "HighLights",
+  "la": 48.204867,
+  "ln": 11.570935,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q139283579",
+   "artist_name": "Stefan Eberstadt",
+   "artwork_type": "sculpture",
+   "material": "concrete",
+   "name": "HighLights",
+   "start_date": "2020",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "BMW Plant Munich tour (3073 מ')"
+ },
+ {
+  "k": "n677195648",
+  "name": "Hochzeitsbrunnen",
+  "la": 48.146779,
+  "ln": 11.462126,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "amenity": "fountain",
+   "artist_name": "Hans Osel",
+   "drinking_water": "yes",
+   "name": "Hochzeitsbrunnen",
+   "start_date": "1963"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Blutenburg Castle (1845 מ')"
+ }
+]

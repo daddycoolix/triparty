@@ -1,0 +1,489 @@
+[
+ {
+  "k": "w339223981",
+  "name": "3D²",
+  "la": 48.180362,
+  "ln": 11.537262,
+  "district": "האולימפיה פארק ומילברטסהופן",
+  "center": 0,
+  "osm_tags": {
+   "access": "yes",
+   "alt_name": "Dreidimensionaler Basketballplatz",
+   "area": "yes",
+   "artist:wikidata": "Q1663046",
+   "artist_name": "Inges Idee",
+   "artwork_type": "installation",
+   "description": "Dreidimensionaler Basketballplatz",
+   "hoops": "2",
+   "lit": "yes",
+   "name": "3D²",
+   "surface": "tartan",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Olympic Village and Connollystraße 31 (745 מ')"
+ },
+ {
+  "k": "n12912776998",
+  "name": "Daphne",
+  "la": 48.164445,
+  "ln": 11.567953,
+  "district": "האולימפיה פארק ומילברטסהופן",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q130007124",
+   "artist_name": "Undine Werdin",
+   "artwork_type": "sculpture",
+   "height": "1.8 m",
+   "length": "1.0 m",
+   "material": "stone",
+   "name": "Daphne",
+   "start_date": "1979",
+   "subject": "Daphne",
+   "subject:wikidata": "Q194015",
+   "subject:wikipedia": "de:Daphne (Mythologie)",
+   "tourism": "artwork",
+   "width": "0.8 m"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Hohenzollernstraße and Elisabethmarkt (642 מ')"
+ },
+ {
+  "k": "n677308179",
+  "name": "Dreiecksvariation 8/85",
+  "la": 48.180823,
+  "ln": 11.547409,
+  "district": "האולימפיה פארק ומילברטסהופן",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q816566",
+   "artist_name": "Ben Muthofer",
+   "artwork_type": "sculpture",
+   "inscription": "MUTHOFER | DREIECKSVARIATION | 8/85 | GESTIFTET VON BMW",
+   "material": "metal",
+   "name": "Dreiecksvariation 8/85",
+   "start_date": "1985",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Olympic Village and Connollystraße 31 (206 מ')"
+ },
+ {
+  "k": "n4068438305",
+  "name": "Erinnerungsort Olympia-Attentat München '72",
+  "la": 48.177877,
+  "ln": 11.550058,
+  "district": "האולימפיה פארק ומילברטסהופן",
+  "center": 0,
+  "osm_tags": {
+   "alt_name": "Einschnitt",
+   "architect": "Brückner & Brückner Architekten (Tirschenreuth)",
+   "contact:website": "https://www.muenchen.de/sehenswuerdigkeiten/erinnerungsort-olympia-attentat-1972",
+   "historic": "memorial",
+   "inscription": "In Erinnerung an die Opfer des Olympia-Attentates in München לזכר קורבנות הפיגוע באולימפיאדת מינכן",
+   "internet_access": "wlan",
+   "internet_access:fee": "no",
+   "internet_access:ssid": "@BayernWLAN",
+   "memorial": "sculpture",
+   "name": "Erinnerungsort Olympia-Attentat München '72",
+   "name:en": "Munich Massacre Memorial '72",
+   "start_date": "2017",
+   "wikidata": "Q19962312",
+   "wikipedia": "en:Erinnerungsort Olympia-Attentat"
+  },
+  "wikidata": {
+   "id": "Q19962312",
+   "he": "",
+   "en": "Munich Massacre Memorial '72",
+   "de": "",
+   "desc": "",
+   "wikipedia_in": []
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "Memorial to the 1972 Olympic attack (Erinnerungsort Olympia-Attentat) (0 מ')"
+ },
+ {
+  "k": "n4292345878",
+  "name": "Finnischer Granit Gespalten",
+  "la": 48.161375,
+  "ln": 11.545221,
+  "district": "האולימפיה פארק ומילברטסהופן",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q543440",
+   "artist_name": "Rückriem Ulrich",
+   "artwork_type": "sculpture",
+   "name": "Finnischer Granit Gespalten",
+   "tourism": "artwork",
+   "wikidata": "Q123048217"
+  },
+  "wikidata": {
+   "id": "Q123048217",
+   "he": "",
+   "en": "",
+   "de": "Finnischer Granit, gespalten",
+   "desc": "Skulptur aus Granit von Ulrich Rückriem (1992/93, Neuhausen-Nymphenburg, Deutschland)",
+   "wikipedia_in": [
+    "co"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "Ost-West-Friedenskirche (Väterchen Timofei) (689 מ')"
+ },
+ {
+  "k": "w1577274908",
+  "name": "Hop and Stop",
+  "la": 48.181717,
+  "ln": 11.536456,
+  "district": "האולימפיה פארק ומילברטסהופן",
+  "center": 0,
+  "osm_tags": {
+   "area": "yes",
+   "artist:wikidata": "Q111107290",
+   "artist_name": "Wolfgang Stehle",
+   "artwork_type": "sculpture",
+   "material": "concrete",
+   "name": "Hop and Stop",
+   "start_date": "2022",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Olympic Village and Connollystraße 31 (840 מ')"
+ },
+ {
+  "k": "n9762098867",
+  "name": "Ich werde gewinnen",
+  "la": 48.179474,
+  "ln": 11.547325,
+  "district": "האולימפיה פארק ומילברטסהופן",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q33658595",
+   "artist:wikipedia": "Zdeněk Němeček (sochař)",
+   "artist_name": "Zdeněk Němeček",
+   "artwork_type": "sculpture",
+   "description": "Geschenk des Tschechoslowakischen Olympischen Komitees",
+   "historic": "memorial",
+   "inscription": "DEN OLYMPISCHEN SPIELEN 1972 IN MÜNCHEN GEWIDMET VOM TSCHECHOSLOWAKISCHEN OLYMPISCHEN KOMITEE / BILDHAUER ZD. NĚMEČEK",
+   "material": "bronze",
+   "memorial": "sculpture",
+   "name": "Ich werde gewinnen",
+   "start_date": "1972",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Olympic Village and Connollystraße 31 (69 מ')"
+ },
+ {
+  "k": "n14363598208",
+  "name": "Karerra",
+  "la": 48.181578,
+  "ln": 11.536316,
+  "district": "האולימפיה פארק ומילברטסהופן",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q111107290",
+   "artist_name": "Wolfgang Stehle",
+   "artwork_type": "sculpture",
+   "material": "metall;gips",
+   "name": "Karerra",
+   "start_date": "2022",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Olympic Village and Connollystraße 31 (844 מ')"
+ },
+ {
+  "k": "n14308944101",
+  "name": "Lichtsatellit",
+  "la": 48.177769,
+  "ln": 11.544081,
+  "district": "האולימפיה פארק ומילברטסהופן",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q455115",
+   "artist_name": "Otto Piene",
+   "artwork_type": "installation",
+   "name": "Lichtsatellit",
+   "start_date": "1972",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Olympic Village and Connollystraße 31 (299 מ')"
+ },
+ {
+  "k": "n600748808",
+  "name": "Mädchen mit Seehund",
+  "la": 48.160868,
+  "ln": 11.567015,
+  "district": "האולימפיה פארק ומילברטסהופן",
+  "center": 0,
+  "osm_tags": {
+   "amenity": "fountain",
+   "artist:wikidata": "Q1405560",
+   "artist:wikipedia": "de:Ferdinand Liebermann",
+   "artist_name": "Ferdinand Liebermann",
+   "artwork_type": "statue",
+   "heritage": "4",
+   "heritage:operator": "BLfD",
+   "heritage:website": "https://geoportal.bayern.de/denkmalatlas/searchResult.html?objtyp=bau&koid=21618",
+   "inscription": "Mädchen mit Seehund Gestaltet 1930",
+   "name": "Mädchen mit Seehund",
+   "ref:BLfD": "D-1-62-000-2650",
+   "start_date": "1930",
+   "tourism": "artwork",
+   "wikidata": "Q41177845"
+  },
+  "wikidata": {
+   "id": "Q41177845",
+   "he": "",
+   "en": "",
+   "de": "",
+   "desc": "",
+   "wikipedia_in": []
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "Hohenzollernstraße and Elisabethmarkt (484 מ')"
+ },
+ {
+  "k": "n320389514",
+  "name": "Obelisk (Luitpoldpark)",
+  "la": 48.168476,
+  "ln": 11.568718,
+  "district": "האולימפיה פארק ומילברטסהופן",
+  "center": 0,
+  "osm_tags": {
+   "height": "10",
+   "historic": "memorial",
+   "inscription": "Zum 12.März 1911, dem Tag an welchem seine Königliche Hoheit Prinzregent Luitpold von Bayern im 25. Jahre einer reich gesegneten Regierung das Neunzigste Lebensjahr vollendet hat, widmet diese Säule und diesen Hain von neunzig Linden die dankbare Stadt",
+   "material": "stone",
+   "memorial": "obelisk",
+   "name": "Obelisk (Luitpoldpark)",
+   "wikidata": "Q98740009"
+  },
+  "wikidata": {
+   "id": "Q98740009",
+   "he": "",
+   "en": "",
+   "de": "",
+   "desc": "",
+   "wikipedia_in": []
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "Luitpoldpark and Bamberger Haus (473 מ')"
+ },
+ {
+  "k": "r21998652",
+  "name": "Oculus historiae, oculus memoriae, oculus oblivionis",
+  "la": 48.160344,
+  "ln": 11.56319,
+  "district": "האולימפיה פארק ומילברטסהופן",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q17399229;Q17399227",
+   "artist_name": "Anne und Patrick Poirier",
+   "artwork_type": "sculpture",
+   "material": "metall;marmor",
+   "name": "Oculus historiae, oculus memoriae, oculus oblivionis",
+   "start_date": "1990",
+   "tourism": "artwork",
+   "type": "multipolygon",
+   "wikidata": "Q2013964",
+   "wikipedia": "de:Oculus historiae, oculus memoriae, oculus oblivionis"
+  },
+  "wikidata": {
+   "id": "Q2013964",
+   "he": "",
+   "en": "",
+   "de": "",
+   "desc": "",
+   "wikipedia_in": []
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "Hohenzollernstraße and Elisabethmarkt (736 מ')"
+ },
+ {
+  "k": "n14330755210",
+  "name": "Olympische Ringe",
+  "la": 48.179957,
+  "ln": 11.549978,
+  "district": "האולימפיה פארק ומילברטסהופן",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q98915254;Q22976130",
+   "artwork_type": "sculpture",
+   "material": "aluminium",
+   "name": "Olympische Ringe",
+   "tourism": "artwork",
+   "wikidata": "Q98915376"
+  },
+  "wikidata": {
+   "id": "Q98915376",
+   "he": "",
+   "en": "",
+   "de": "",
+   "desc": "",
+   "wikipedia_in": []
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "Olympic Village and Connollystraße 31 (171 מ')"
+ },
+ {
+  "k": "n605248667",
+  "name": "Pumucklbrunnen",
+  "la": 48.171731,
+  "ln": 11.567554,
+  "district": "האולימפיה פארק ומילברטסהופן",
+  "center": 0,
+  "osm_tags": {
+   "amenity": "fountain",
+   "drinking_water": "no",
+   "ele": "510.64",
+   "name": "Pumucklbrunnen",
+   "wikidata": "Q2118266"
+  },
+  "wikidata": {
+   "id": "Q2118266",
+   "he": "",
+   "en": "",
+   "de": "",
+   "desc": "",
+   "wikipedia_in": []
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "Luitpoldpark and Bamberger Haus (214 מ')"
+ },
+ {
+  "k": "n293903566",
+  "name": "Schuttblume",
+  "la": 48.170844,
+  "ln": 11.556105,
+  "district": "האולימפיה פארק ומילברטסהופן",
+  "center": 0,
+  "osm_tags": {
+   "description": "It is a memorial for the civil victims of the aerial warfare.",
+   "historic": "memorial",
+   "material": "bronze",
+   "memorial": "war_memorial",
+   "name": "Schuttblume",
+   "start_date": "1972",
+   "wikidata": "Q15846773",
+   "wikipedia": "de:Schuttblume (München)"
+  },
+  "wikidata": {
+   "id": "Q15846773",
+   "he": "",
+   "en": "",
+   "de": "",
+   "desc": "",
+   "wikipedia_in": []
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "SEA LIFE Munich (322 מ')"
+ },
+ {
+  "k": "n14330712820",
+  "name": "Start",
+  "la": 48.164082,
+  "ln": 11.553878,
+  "district": "האולימפיה פארק ומילברטסהופן",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q1904962",
+   "artist_name": "Martin Schmidt",
+   "artwork_type": "sculpture",
+   "material": "metal",
+   "name": "Start",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Ost-West-Friedenskirche (Väterchen Timofei) (497 מ')"
+ },
+ {
+  "k": "n14364771455",
+  "name": "Traumarchiv",
+  "la": 48.182106,
+  "ln": 11.567162,
+  "district": "האולימפיה פארק ומילברטסהופן",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q113717562",
+   "artist_name": "Sabine Groß",
+   "artwork_type": "installation",
+   "name": "Traumarchiv",
+   "start_date": "2005",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "BMW Plant Munich tour (667 מ')"
+ },
+ {
+  "k": "n14369889289",
+  "name": "WANKITA, QUIRIN & EINRAD MIT SITZ",
+  "la": 48.165955,
+  "ln": 11.555399,
+  "district": "האולימפיה פארק ומילברטסהופן",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q22694549",
+   "artist_name": "Bruno Wank",
+   "artwork_type": "sculpture",
+   "material": "bronze",
+   "name": "WANKITA, QUIRIN & EINRAD MIT SITZ",
+   "start_date": "2008",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Ost-West-Friedenskirche (Väterchen Timofei) (479 מ')"
+ },
+ {
+  "k": "w1578183873",
+  "name": "Wie heißt Du?",
+  "la": 48.162772,
+  "ln": 11.554325,
+  "district": "האולימפיה פארק ומילברטסהופן",
+  "center": 0,
+  "osm_tags": {
+   "area": "yes",
+   "artist:wikidata": "Q113399958",
+   "artist_name": "Karolin Bräg",
+   "artwork_type": "sculpture",
+   "material": "wood",
+   "name": "Wie heißt Du?",
+   "start_date": "2020",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Ost-West-Friedenskirche (Väterchen Timofei) (626 מ')"
+ }
+]

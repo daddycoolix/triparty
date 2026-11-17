@@ -1,0 +1,545 @@
+[
+ {
+  "k": "n3609378558",
+  "name": "Discrepancy",
+  "la": 48.157983,
+  "ln": 11.589926,
+  "district": "שוואבינג והגן האנגלי",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q6032604",
+   "artist_name": "Roxy Paine",
+   "artwork_type": "sculpture",
+   "name": "Discrepancy",
+   "tourism": "artwork",
+   "website": "https://www.munichre.com/de/unternehmen/munich-re-art-collection/backstage/roxy-paine-discrepancy.html"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Walking Man (Borofsky) and Münchner Freiheit (416 מ')"
+ },
+ {
+  "k": "n8245270677",
+  "name": "Discussion",
+  "la": 48.179391,
+  "ln": 11.604355,
+  "district": "שוואבינג והגן האנגלי",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q702163",
+   "artist_name": "Tony Cragg",
+   "artwork_subject": "abstract",
+   "artwork_type": "sculpture",
+   "colour": "red",
+   "name": "Discussion",
+   "start_date": "2005",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "New Jewish Cemetery (Garchinger Straße) (513 מ')"
+ },
+ {
+  "k": "n7796234488",
+  "name": "Drachenskulptur",
+  "la": 48.16972,
+  "ln": 11.588138,
+  "district": "שוואבינג והגן האנגלי",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q123818",
+   "artist_name": "Bruno Weber",
+   "artwork_type": "sculpture",
+   "material": "concrete",
+   "name": "Drachenskulptur",
+   "tourism": "artwork",
+   "wikidata": "Q98741142"
+  },
+  "wikidata": {
+   "id": "Q98741142",
+   "he": "",
+   "en": "",
+   "de": "",
+   "desc": "",
+   "wikipedia_in": []
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "Schwabing and Leopoldstraße (978 מ')"
+ },
+ {
+  "k": "n13039959939",
+  "name": "Erinnerungszeichen",
+  "la": 48.154161,
+  "ln": 11.584158,
+  "district": "שוואבינג והגן האנגלי",
+  "center": 0,
+  "osm_tags": {
+   "height": "1.80",
+   "historic": "memorial",
+   "length": "0.055",
+   "material": "metal",
+   "memorial": "stele",
+   "name": "Erinnerungszeichen",
+   "object:city": "München",
+   "object:country": "DE",
+   "object:housenumber": "1",
+   "object:postcode": "80802",
+   "object:street": "Ohmstraße",
+   "start_date": "2022-05-31",
+   "subject": "Lysiane Robinet;Andre Coulaud",
+   "subject:website": "https://www.erinnerungszeichen.de/biografien/biografie/17260.0--Lysiane-Robinet.html;https://www.erinnerungszeichen.de/biografien/biografie/17261.0--André-Abel-Coulaud.html",
+   "width": "0.055"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Academy of Fine Arts Munich (215 מ')"
+ },
+ {
+  "k": "n1313466168",
+  "name": "Felsenbrunnen",
+  "la": 48.156377,
+  "ln": 11.589253,
+  "district": "שוואבינג והגן האנגלי",
+  "center": 0,
+  "osm_tags": {
+   "amenity": "fountain",
+   "artist_name": "Georg Brenninger",
+   "covered": "no",
+   "drinking_water": "no",
+   "indoor": "no",
+   "material": "aluminium",
+   "name": "Felsenbrunnen",
+   "start_date": "1963"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Walking Man (Borofsky) and Münchner Freiheit (330 מ')"
+ },
+ {
+  "k": "n14364800260",
+  "name": "Feuer und Flamme",
+  "la": 48.199652,
+  "ln": 11.572769,
+  "district": "שוואבינג והגן האנגלי",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q22694549",
+   "artist_name": "Bruno Wank",
+   "artwork_type": "sculpture",
+   "material": "metal",
+   "name": "Feuer und Flamme",
+   "start_date": "2016",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "BMW Plant Munich tour (2555 מ')"
+ },
+ {
+  "k": "n430479538",
+  "name": "Friedrich Ludwig von Sckell",
+  "la": 48.159847,
+  "ln": 11.597808,
+  "district": "שוואבינג והגן האנגלי",
+  "center": 0,
+  "osm_tags": {
+   "historic": "memorial",
+   "material": "stone",
+   "memorial": "stele",
+   "name": "Friedrich Ludwig von Sckell",
+   "subject:wikidata": "Q68169",
+   "subject:wikipedia": "de:Friedrich Ludwig von Sckell",
+   "wikidata": "Q96348144"
+  },
+  "wikidata": {
+   "id": "Q96348144",
+   "he": "",
+   "en": "",
+   "de": "",
+   "desc": "",
+   "wikipedia_in": []
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "Seehaus and Hirschau beer gardens (48 מ')"
+ },
+ {
+  "k": "n4003152572",
+  "name": "Go!",
+  "la": 48.177763,
+  "ln": 11.57978,
+  "district": "שוואבינג והגן האנגלי",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q2091808",
+   "artist_name": "Pia Stadtbäumer",
+   "artwork_type": "sculpture",
+   "name": "Go!",
+   "tourism": "artwork",
+   "wikidata": "Q1486170",
+   "wikipedia": "de:Petuelpark#Kunstwerke im Park"
+  },
+  "wikidata": {
+   "id": "Q1486170",
+   "he": "",
+   "en": "",
+   "de": "",
+   "desc": "",
+   "wikipedia_in": []
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "Luitpoldpark and Bamberger Haus (858 מ')"
+ },
+ {
+  "k": "n7504335506",
+  "name": "Konkav gerundet",
+  "la": 48.15621,
+  "ln": 11.589274,
+  "district": "שוואבינג והגן האנגלי",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q76426",
+   "artist_name": "Rupprecht Geiger",
+   "artwork_subject": "concrete",
+   "artwork_type": "installation",
+   "description": "400 × 480 × 70 cm",
+   "height": "4",
+   "level": "0",
+   "material": "aluminium",
+   "name": "Konkav gerundet",
+   "start_date": "1973",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Walking Man (Borofsky) and Münchner Freiheit (332 מ')"
+ },
+ {
+  "k": "n992673918",
+  "name": "Leopold Pölzl",
+  "la": 48.195388,
+  "ln": 11.575561,
+  "district": "שוואבינג והגן האנגלי",
+  "center": 0,
+  "osm_tags": {
+   "historic": "memorial",
+   "inscription": "Leopold Pölzl zum Gedenken. Geboren am 14.11.1879 in St. Ägyd/Niederösterreich. Gestorben am 1.9.1944 in Aussig. Von 1920 bis 1924 sowie von 1931 bis 1938 1. Bürgermeister der Stadt Aussig.",
+   "material": "bronze",
+   "memorial": "bust",
+   "name": "Leopold Pölzl"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "BMW Plant Munich tour (2201 מ')"
+ },
+ {
+  "k": "n7006173841",
+  "name": "Michael Strich",
+  "la": 48.16388,
+  "ln": 11.579302,
+  "district": "שוואבינג והגן האנגלי",
+  "center": 0,
+  "osm_tags": {
+   "historic": "memorial",
+   "inscription": "Dr. Michael Samuel Strich, geboren 22.03.1881 in Berlin,deportiert 20.11.1941 nach Kaunas, ermordet 24.11.1941 in Kaunas,",
+   "memorial": "stele",
+   "memorial:addr": "Clemensstraße 41, München",
+   "name": "Michael Strich",
+   "start_date": "2019"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Schwabing and Leopoldstraße (556 מ')"
+ },
+ {
+  "k": "n1985669543",
+  "name": "Märchenbrunnen",
+  "la": 48.164752,
+  "ln": 11.583459,
+  "district": "שוואבינג והגן האנגלי",
+  "center": 0,
+  "osm_tags": {
+   "amenity": "fountain",
+   "name": "Märchenbrunnen",
+   "wikidata": "Q1707736",
+   "wikipedia": "de:Märchenbrunnen (Schwabing)"
+  },
+  "wikidata": {
+   "id": "Q1707736",
+   "he": "",
+   "en": "",
+   "de": "",
+   "desc": "",
+   "wikipedia_in": []
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "Schwabing and Leopoldstraße (450 מ')"
+ },
+ {
+  "k": "n4003174967",
+  "name": "Periskop",
+  "la": 48.177965,
+  "ln": 11.57788,
+  "district": "שוואבינג והגן האנגלי",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q890638",
+   "artist_name": "Bogomir Ecker",
+   "artwork_type": "installation",
+   "name": "Periskop",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Luitpoldpark and Bamberger Haus (783 מ')"
+ },
+ {
+  "k": "n6258685381",
+  "name": "Prof. Aloys Fischer",
+  "la": 48.155903,
+  "ln": 11.583056,
+  "district": "שוואבינג והגן האנגלי",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Jürgen Goertz",
+   "artwork_type": "sculpture",
+   "name": "Prof. Aloys Fischer",
+   "tourism": "artwork",
+   "wikidata": "Q61476684"
+  },
+  "wikidata": {
+   "id": "Q61476684",
+   "he": "",
+   "en": "",
+   "de": "",
+   "desc": "",
+   "wikipedia_in": []
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "Walking Man (Borofsky) and Münchner Freiheit (105 מ')"
+ },
+ {
+  "k": "n6258685362",
+  "name": "Prof. Carl Stumpf",
+  "la": 48.155951,
+  "ln": 11.583007,
+  "district": "שוואבינג והגן האנגלי",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Jürgen Goertz",
+   "artwork_type": "sculpture",
+   "name": "Prof. Carl Stumpf",
+   "tourism": "artwork",
+   "wikidata": "Q61476896"
+  },
+  "wikidata": {
+   "id": "Q61476896",
+   "he": "",
+   "en": "",
+   "de": "",
+   "desc": "",
+   "wikipedia_in": []
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "Walking Man (Borofsky) and Münchner Freiheit (105 מ')"
+ },
+ {
+  "k": "n6258685386",
+  "name": "Prof. Joh. M. Sailer",
+  "la": 48.155924,
+  "ln": 11.583133,
+  "district": "שוואבינג והגן האנגלי",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Jürgen Goertz",
+   "artwork_type": "sculpture",
+   "name": "Prof. Joh. M. Sailer",
+   "tourism": "artwork",
+   "wikidata": "Q61476566"
+  },
+  "wikidata": {
+   "id": "Q61476566",
+   "he": "",
+   "en": "",
+   "de": "",
+   "desc": "",
+   "wikipedia_in": []
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "Walking Man (Borofsky) and Münchner Freiheit (99 מ')"
+ },
+ {
+  "k": "n6258685332",
+  "name": "Prof. Kurt Huber",
+  "la": 48.155879,
+  "ln": 11.583173,
+  "district": "שוואבינג והגן האנגלי",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Jürgen Goertz",
+   "artwork_type": "sculpture",
+   "name": "Prof. Kurt Huber",
+   "tourism": "artwork",
+   "wikidata": "Q61476396"
+  },
+  "wikidata": {
+   "id": "Q61476396",
+   "he": "",
+   "en": "",
+   "de": "",
+   "desc": "",
+   "wikipedia_in": []
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "Walking Man (Borofsky) and Münchner Freiheit (99 מ')"
+ },
+ {
+  "k": "w1500806955",
+  "name": "Seehundbrunnen",
+  "la": 48.165606,
+  "ln": 11.579047,
+  "district": "שוואבינג והגן האנגלי",
+  "center": 0,
+  "osm_tags": {
+   "amenity": "fountain",
+   "drinking_water": "no",
+   "name": "Seehundbrunnen",
+   "wikidata": "Q587914",
+   "wikipedia": "de:Seehundbrunnen"
+  },
+  "wikidata": {
+   "id": "Q587914",
+   "he": "",
+   "en": "",
+   "de": "",
+   "desc": "",
+   "wikipedia_in": []
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "Schwabing and Leopoldstraße (696 מ')"
+ },
+ {
+  "k": "n11040119386",
+  "name": "Stiefelbrunnen (Zwei Paar Stiefel)",
+  "la": 48.177061,
+  "ln": 11.584001,
+  "district": "שוואבינג והגן האנגלי",
+  "center": 0,
+  "osm_tags": {
+   "amenity": "fountain",
+   "artist:wikidata": "Q463844",
+   "artist_name": "Roman Signer",
+   "artwork_type": "installation",
+   "name": "Stiefelbrunnen (Zwei Paar Stiefel)",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Luitpoldpark and Bamberger Haus (1050 מ')"
+ },
+ {
+  "k": "n503677981",
+  "name": "Taubenbrunnen",
+  "la": 48.166335,
+  "ln": 11.618102,
+  "district": "שוואבינג והגן האנגלי",
+  "center": 0,
+  "osm_tags": {
+   "alt_name": "Graef-Brunnen",
+   "amenity": "fountain",
+   "artist:wikidata": "Q89660",
+   "artist_name": "Georg Brenninger",
+   "material": "bronze",
+   "name": "Taubenbrunnen",
+   "start_date": "1986"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "English Garden (Englischer Garten) (812 מ')"
+ },
+ {
+  "k": "n10013061479",
+  "name": "Vom Chaos zur Ordnung",
+  "la": 48.160013,
+  "ln": 11.591401,
+  "district": "שוואבינג והגן האנגלי",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Blasius Gerg",
+   "artwork_subject": "religious",
+   "artwork_type": "relief",
+   "name": "Vom Chaos zur Ordnung",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Kleinhesseloher See (327 מ')"
+ },
+ {
+  "k": "n5516505498",
+  "name": "Zwei Rinder",
+  "la": 48.156964,
+  "ln": 11.587563,
+  "district": "שוואבינג והגן האנגלי",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q524205",
+   "artist_name": "Fritz Koenig",
+   "artwork_type": "sculpture",
+   "name": "Zwei Rinder",
+   "start_date": "1955",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Walking Man (Borofsky) and Münchner Freiheit (225 מ')"
+ },
+ {
+  "k": "n430479539",
+  "name": "von Werneck",
+  "la": 48.160914,
+  "ln": 11.598641,
+  "district": "שוואבינג והגן האנגלי",
+  "center": 0,
+  "osm_tags": {
+   "historic": "memorial",
+   "inscription": "Den Verdiensten den Gen Lieut Freiherrn von Werneck um Verschoenerung dieses Gartens durch Erstanlage des Sees. Gewidmet von Ludwig 1 Koen V Bayern MDCCCXXXVIII",
+   "material": "stone",
+   "memorial": "stele",
+   "name": "von Werneck",
+   "wikidata": "Q98739332"
+  },
+  "wikidata": {
+   "id": "Q98739332",
+   "he": "",
+   "en": "",
+   "de": "",
+   "desc": "",
+   "wikipedia_in": []
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "Seehaus and Hirschau beer gardens (84 מ')"
+ }
+]

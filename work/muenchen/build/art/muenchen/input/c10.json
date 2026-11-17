@@ -1,0 +1,556 @@
+[
+ {
+  "k": "n311974710",
+  "name": "Denkmal an die Opfer des Attentats auf das Oktoberfest am 26. September 1980",
+  "la": 48.135917,
+  "ln": 11.549726,
+  "district": "לודוויגסוורשטאדט, הטרזינוויזה ווסטנד",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Friedrich Koller",
+   "historic": "memorial",
+   "memorial": "war_memorial",
+   "name": "Denkmal an die Opfer des Attentats auf das Oktoberfest am 26. September 1980",
+   "wikidata": "Q1188052",
+   "wikipedia": "de:Denkmal für die Wiesn-Attentat-Opfer"
+  },
+  "wikidata": {
+   "id": "Q1188052",
+   "he": "",
+   "en": "Denkmal für die Wiesn-Attentat-Opfer",
+   "de": "Denkmal für die Wiesn-Attentat-Opfer",
+   "desc": "monument in Ludwigsvorstadt-Isarvorstadt, Germany",
+   "wikipedia_in": [
+    "co",
+    "de"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "Oktoberfest bombing memorial (1980) (30 מ')"
+ },
+ {
+  "k": "n311978622",
+  "name": "Sweet Brown Snail",
+  "la": 48.132152,
+  "ln": 11.54328,
+  "district": "לודוויגסוורשטאדט, הטרזינוויזה ווסטנד",
+  "center": 0,
+  "osm_tags": {
+   "access": "yes",
+   "artist:wikidata": "Q328106; Q221732",
+   "artist_name": "Jason Rhoades & Paul McCarthy, Altadena, U.S.A",
+   "artwork_type": "sculpture",
+   "material": "plastic",
+   "name": "Sweet Brown Snail",
+   "subject:wikidata": "Q245314",
+   "tourism": "artwork",
+   "wikidata": "Q134609203"
+  },
+  "wikidata": {
+   "id": "Q134609203",
+   "he": "",
+   "en": "Sweet Brown Snail, Bavariapark (Munich)",
+   "de": "Sweet Brown Snail",
+   "desc": "Fiberglasskulptur in München",
+   "wikipedia_in": [
+    "co",
+    "de"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "Verkehrszentrum (Deutsches Museum Transport Centre) (67 מ')"
+ },
+ {
+  "k": "n304045358",
+  "name": "Asphaltsee",
+  "la": 48.143903,
+  "ln": 11.537037,
+  "district": "לודוויגסוורשטאדט, הטרזינוויזה ווסטנד",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Wilhelm Koch",
+   "artwork_type": "relief",
+   "description": "Rainer Werner Fassbinder Platz München „Asphaltsee“, 2007  Grundfläche des „Asphaltsees“ - ca. 400 qm.   60 Tonnen 245° heißer Gußasphalt wurden verarbeitet.  In die Gussasphaltflächen sind alle 43 Filmtitel, 11 Theaterstücke und Hörspiele Rainer Werner F",
+   "name": "Asphaltsee",
+   "tourism": "artwork",
+   "website": "https://www.koch-studio.com/arbeiten/asphaltsee/"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Augustiner-Keller beer garden (989 מ')"
+ },
+ {
+  "k": "n9704204373",
+  "name": "Austausch",
+  "la": 48.134451,
+  "ln": 11.558327,
+  "district": "לודוויגסוורשטאדט, הטרזינוויזה ווסטנד",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q15450702",
+   "artist:wikipedia": "de:Ernst Hesse (Bildhauer)",
+   "artist_name": "Ernst Hesse",
+   "artwork_type": "sculpture",
+   "material": "bronze",
+   "name": "Austausch",
+   "start_date": "2001",
+   "tourism": "artwork",
+   "url": "https://stadtgeschichte-muenchen.de/sehenswert/d_sehenswert.php?id=3484&jahr=2001"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "St. Paul's Church (Paulskirche) (468 מ')"
+ },
+ {
+  "k": "n10932266015",
+  "name": "Baumzeichen",
+  "la": 48.12469,
+  "ln": 11.550284,
+  "district": "לודוויגסוורשטאדט, הטרזינוויזה ווסטנד",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Schwalbach",
+   "artwork_type": "sculpture",
+   "name": "Baumzeichen",
+   "start_date": "1980",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Bahnwärter Thiel (410 מ')"
+ },
+ {
+  "k": "w96753009",
+  "name": "Bavaria",
+  "la": 48.130688,
+  "ln": 11.545939,
+  "district": "לודוויגסוורשטאדט, הטרזינוויזה ווסטנד",
+  "center": 0,
+  "osm_tags": {
+   "charge": "5 EUR/person;0 EUR/child",
+   "fee": "yes",
+   "height": "27.44",
+   "historic": "monument",
+   "inscription": "Als Anerkennung Bayrischen Verdienstes und Ruhmes ward diese Halle errichtet von Ludwig I König von Bayern. Ihr Erfinder und Erbauer war L.V. Klenze. Begonnen den XV Oct, MDCCCXLIII. Vollendet den XV Oct. MDCCCLIII.",
+   "man_made": "tower",
+   "min_height": "8.92",
+   "monument": "statue",
+   "name": "Bavaria",
+   "opening_hours": "Apr 01-Oct 15: Mo-Su,PH 09:00-18:00; 09:00-20:00 \"während Oktoberfest\"",
+   "tourism": "attraction",
+   "wikidata": "Q707669",
+   "wikipedia": "de:Bavaria"
+  },
+  "wikidata": {
+   "id": "Q707669",
+   "he": "",
+   "en": "",
+   "de": "",
+   "desc": "",
+   "wikipedia_in": []
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "Bavaria statue and Ruhmeshalle (0 מ')"
+ },
+ {
+  "k": "n9704159966",
+  "name": "Bewegung",
+  "la": 48.134594,
+  "ln": 11.557505,
+  "district": "לודוויגסוורשטאדט, הטרזינוויזה ווסטנד",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q15450702",
+   "artist:wikipedia": "de:Ernst Hesse (Bildhauer)",
+   "artist_name": "Ernst Hesse",
+   "artwork_type": "sculpture",
+   "material": "steel",
+   "name": "Bewegung",
+   "start_date": "2001",
+   "tourism": "artwork",
+   "url": "https://stadtgeschichte-muenchen.de/sehenswert/d_sehenswert.php?id=3774"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "St. Paul's Church (Paulskirche) (411 מ')"
+ },
+ {
+  "k": "n9248232949",
+  "name": "Denkmal 1. Weltkrieg",
+  "la": 48.136535,
+  "ln": 11.551818,
+  "district": "לודוויגסוורשטאדט, הטרזינוויזה ווסטנד",
+  "center": 0,
+  "osm_tags": {
+   "access": "yes",
+   "description": "2 schlichte Namenstafeln in einer Nische. Davor ein neueres Holzkreuz von der kroatischen Caritas.",
+   "historic": "memorial",
+   "inscription": "Betet für die im Weltkrieg 1914 – 1918 gefallenen Söhne unserer Pfarrgemeinde +Namensliste",
+   "material": "stone",
+   "memorial": "war_memorial",
+   "memorial:conflict": "WW1",
+   "name": "Denkmal 1. Weltkrieg",
+   "wikidata": "Q132198197"
+  },
+  "wikidata": {
+   "id": "Q132198197",
+   "he": "",
+   "en": "",
+   "de": "Kriegerdenkmal 1914-1918 St. Paul",
+   "desc": "Kriegerdenkmal in München",
+   "wikipedia_in": [
+    "co"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "St. Paul's Church (Paulskirche) (31 מ')"
+ },
+ {
+  "k": "n8182265281",
+  "name": "Die vier Frauengestalten (die Trauernden)",
+  "la": 48.144618,
+  "ln": 11.532818,
+  "district": "לודוויגסוורשטאדט, הטרזינוויזה ווסטנד",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Karl Kroher",
+   "artwork_type": "sculpture",
+   "name": "Die vier Frauengestalten (die Trauernden)",
+   "tourism": "artwork",
+   "wikidata": "Q15109371",
+   "wikipedia": "de:Die Trauernden"
+  },
+  "wikidata": {
+   "id": "Q15109371",
+   "he": "",
+   "en": "",
+   "de": "",
+   "desc": "",
+   "wikipedia_in": []
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "Augustiner-Keller beer garden (1281 מ')"
+ },
+ {
+  "k": "w851851301",
+  "name": "Dokumentation Oktoberfest-Attentat",
+  "la": 48.135789,
+  "ln": 11.550128,
+  "district": "לודוויגסוורשטאדט, הטרזינוויזה ווסטנד",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Büro Müller-Rieger",
+   "artwork_type": "sculpture",
+   "description": "234 lebensgroße Silhouetten, In Bildern, Texten, Zitaten und medialen Angeboten werden Informationen zum Attentat, zu Überlebenden, zu den Ermittlungen und dem gesellschaftlichen Umgang dargestellt",
+   "historic": "memorial",
+   "memorial": "memorial",
+   "name": "Dokumentation Oktoberfest-Attentat",
+   "start_date": "2020-09-26",
+   "subject:wikidata": "Q464048",
+   "subject:wikipedia": "de:Oktoberfestattentat",
+   "tourism": "artwork",
+   "website": "https://dokumentation-oktoberfestattentat.de/"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Oktoberfest bombing memorial (1980) (0 מ')"
+ },
+ {
+  "k": "n2451432296",
+  "name": "Erinnerungszeichen für Regina und Martin Hallerz",
+  "la": 48.133138,
+  "ln": 11.535829,
+  "district": "לודוויגסוורשטאדט, הטרזינוויזה ווסטנד",
+  "center": 0,
+  "osm_tags": {
+   "historic": "memorial",
+   "inscription": "Martin Hallerz, geb. 09.12.1877 in Tarnów, ermordet 11.03.1942 in der Tötungsanstalt Bernburg. Regina Hallerz, geb. Anker, geboren 29.03.1879 in Tarnów, deportiert 20.11.1941 nach Kaunas, ermordet 25.11.1941 in Kaunas.",
+   "material": "steel",
+   "memorial": "stele",
+   "name": "Erinnerungszeichen für Regina und Martin Hallerz",
+   "start_date": "24.11.2019",
+   "website": "https://www.erinnerungswerkstatt-muenchen.de/biografien"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Verkehrszentrum (Deutsches Museum Transport Centre) (509 מ')"
+ },
+ {
+  "k": "n11848247133",
+  "name": "Erinnerungszeichen zum Gedenken an Wilhelm Gögel",
+  "la": 48.118026,
+  "ln": 11.54509,
+  "district": "לודוויגסוורשטאדט, הטרזינוויזה ווסטנד",
+  "center": 0,
+  "osm_tags": {
+   "historic": "memorial",
+   "inscription": "Hier lebte Wilhelm Gögel, geboren 01.11.1932 in München, aufgenommen 15.10.1942 in die Heil- und Pflegeanstalt Eglfing-Haar, ermordet 15.04.1943 in der Heil- und Pflegeanstalt Eglfing-Haar",
+   "material": "steel",
+   "memorial": "stele",
+   "name": "Erinnerungszeichen zum Gedenken an Wilhelm Gögel",
+   "start_date": "15.04.2024",
+   "website": "https://www.map.erinnerungszeichen.de/bio/22009/"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Bahnwärter Thiel (813 מ')"
+ },
+ {
+  "k": "n5516474103",
+  "name": "Fass ohne Boden",
+  "la": 48.137206,
+  "ln": 11.539343,
+  "district": "לודוויגסוורשטאדט, הטרזינוויזה ווסטנד",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q1707626",
+   "artist_name": "Joseph Michael Neustifter",
+   "artwork_type": "sculpture",
+   "material": "bronze",
+   "name": "Fass ohne Boden",
+   "tourism": "artwork",
+   "website": "https://neustifter.de/kunstwerk/fass-ohne-boden/"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Verkehrszentrum (Deutsches Museum Transport Centre) (562 מ')"
+ },
+ {
+  "k": "n5658493775",
+  "name": "Gertrud-Brunnen",
+  "la": 48.118739,
+  "ln": 11.551267,
+  "district": "לודוויגסוורשטאדט, הטרזינוויזה ווסטנד",
+  "center": 0,
+  "osm_tags": {
+   "amenity": "fountain",
+   "description": "Bronzestatue:Sankt Gertrud",
+   "name": "Gertrud-Brunnen",
+   "start_date": "1958"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Old Jewish Cemetery (Thalkirchner Straße) (458 מ')"
+ },
+ {
+  "k": "n7598555052",
+  "name": "Graue Männer",
+  "la": 48.140291,
+  "ln": 11.526173,
+  "district": "לודוויגסוורשטאדט, הטרזינוויזה ווסטנד",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q1078315",
+   "artist_name": "Christel Lechner",
+   "artwork_subject": "figurative",
+   "artwork_type": "sculpture",
+   "material": "stone",
+   "name": "Graue Männer",
+   "tourism": "artwork",
+   "url": "https://commons.wikimedia.org/wiki/File:Landsberger_Stra%C3%9Fe_155_-_Graue_M%C3%A4nner.jpg"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Nymphenburg Canal and the Hirschgarten (1318 מ')"
+ },
+ {
+  "k": "n10940431463",
+  "name": "Große männliche Büste",
+  "la": 48.128445,
+  "ln": 11.532204,
+  "district": "לודוויגסוורשטאדט, הטרזינוויזה ווסטנד",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q895865",
+   "artist_name": "Lothar Fischer",
+   "artwork_subject": "figurative",
+   "artwork_type": "sculpture",
+   "material": "bronze",
+   "name": "Große männliche Büste",
+   "start_date": "1992",
+   "tourism": "artwork",
+   "wikidata": "Q124418435"
+  },
+  "wikidata": {
+   "id": "Q124418435",
+   "he": "",
+   "en": "",
+   "de": "Große männliche Büste",
+   "desc": "Skulptur von Lothar Fischer in München",
+   "wikipedia_in": []
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "Bavariapark (783 מ')"
+ },
+ {
+  "k": "n9330588603",
+  "name": "I See a Face. Do you See a Face.",
+  "la": 48.123384,
+  "ln": 11.553061,
+  "district": "לודוויגסוורשטאדט, הטרזינוויזה ווסטנד",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Flaka Haliti",
+   "artwork_type": "installation",
+   "height": "15m",
+   "material": "steel",
+   "name": "I See a Face. Do you See a Face.",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Bahnwärter Thiel (172 מ')"
+ },
+ {
+  "k": "w94541946",
+  "name": "Kaiser-Ludwig-Denkmal",
+  "la": 48.132009,
+  "ln": 11.555795,
+  "district": "לודוויגסוורשטאדט, הטרזינוויזה ווסטנד",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q95737",
+   "heritage": "4",
+   "heritage:operator": "BLfD",
+   "historic": "memorial",
+   "memorial": "statue",
+   "name": "Kaiser-Ludwig-Denkmal",
+   "ref:BLfD": "D-1-62-000-3158",
+   "subject:wikidata": "Q57161",
+   "wikidata": "Q41179864"
+  },
+  "wikidata": {
+   "id": "Q41179864",
+   "he": "",
+   "en": "",
+   "de": "",
+   "desc": "",
+   "wikipedia_in": []
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "Theresienwiese (Oktoberfest grounds) (442 מ')"
+ },
+ {
+  "k": "n9422298866",
+  "name": "Kgl. bayerische Kraftfahrtruppe",
+  "la": 48.131728,
+  "ln": 11.545998,
+  "district": "לודוויגסוורשטאדט, הטרזינוויזה ווסטנד",
+  "center": 0,
+  "osm_tags": {
+   "access": "yes",
+   "artist_name": "Otho Orlando Kurz‎",
+   "description": "2021 sehr verstecktes Denkmal. Inschrift praktisch nicht mehr lesbar. Ein leerer Sockel weist auf eine entfernte/zerstörte Bronzeplatte hin - siehe Webseiten. Umfeld wird offensichtlich intensiv als Freiluftklo genutzt.",
+   "historic": "memorial",
+   "inscription": "Im Kampfe für das Vaterland\nStarben den Heldentod\n260 Offiziere Unteroffiziere und Mannschaften\nder kgl. bayerischen Kraftfahrtruppe\n1914 – 18\nDarunter auf einer 2021 entfernten Bronzeplatte:\nSie zogen aus\nUnd spähten in die Weiten\nGleich Rittern die dem",
+   "material": "stone",
+   "memorial": "war_memorial",
+   "name": "Kgl. bayerische Kraftfahrtruppe",
+   "start_date": "1925",
+   "website": "http://protest-muenchen.sub-bavaria.de/artikel/2903?mobile=0"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Bavaria statue and Ruhmeshalle (115 מ')"
+ },
+ {
+  "k": "n4058151715",
+  "name": "Kraft",
+  "la": 48.130393,
+  "ln": 11.542314,
+  "district": "לודוויגסוורשטאדט, הטרזינוויזה ווסטנד",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Fritz Behn",
+   "artwork_type": "statue",
+   "material": "concrete",
+   "name": "Kraft",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Bavariapark (73 מ')"
+ },
+ {
+  "k": "n9250151289",
+  "name": "Kriegerdenkmal 1914-1918",
+  "la": 48.135542,
+  "ln": 11.536024,
+  "district": "לודוויגסוורשטאדט, הטרזינוויזה ווסטנד",
+  "center": 0,
+  "osm_tags": {
+   "description": "Gedenkaltar in der kath. Pfarrkirche St. Rupert, München – Westend. Tontafeln mit den Namen der Gefallenen aus dem WK 1 umrahmen das Altarbild.",
+   "historic": "memorial",
+   "inscription": "Namenstafeln aus Ton.",
+   "material": "stone",
+   "memorial": "war_memorial",
+   "memorial:conflict": "WW1",
+   "name": "Kriegerdenkmal 1914-1918",
+   "website": "http://www.denkmalprojekt.org/dkm_deutschland/m-westend_st_rupert_wk1_bay.htm"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Verkehrszentrum (Deutsches Museum Transport Centre) (583 מ')"
+ },
+ {
+  "k": "n9142685044",
+  "name": "Kriegerdenkmal 1939-1945",
+  "la": 48.120251,
+  "ln": 11.539129,
+  "district": "לודוויגסוורשטאדט, הטרזינוויזה ווסטנד",
+  "center": 0,
+  "osm_tags": {
+   "description": "Eigene Nische/Kapelle mit großen Namenstafeln und Steinrelief.",
+   "historic": "memorial",
+   "material": "stone",
+   "memorial": "war_memorial",
+   "name": "Kriegerdenkmal 1939-1945"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Bahnwärter Thiel (1091 מ')"
+ },
+ {
+  "k": "n9253003293",
+  "name": "Kriegerdenkmal 1939-1945",
+  "la": 48.126081,
+  "ln": 11.553731,
+  "district": "לודוויגסוורשטאדט, הטרזינוויזה ווסטנד",
+  "center": 0,
+  "osm_tags": {
+   "historic": "memorial",
+   "inscription": "DURCH KREUZ UND LEID ZUR HERRLICHKEIT - IHS. WIR GEDENKEN UN- SERER LIEBEN TOTEN AUS DEM WELTKRIEG 1939/1945 236 GEFALLENE 27 VERMISSTE 35 FLIEGEROPFER OH HERR GIB IHNEN EWIGE RUHE",
+   "material": "stone",
+   "memorial": "war_memorial",
+   "memorial:conflict": "WW2",
+   "name": "Kriegerdenkmal 1939-1945",
+   "website": "http://www.denkmalprojekt.org/2014/muenchen_st.andreas_bay.html"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Bahnwärter Thiel (429 מ')"
+ }
+]

@@ -1,0 +1,748 @@
+[
+ {
+  "k": "n4790117409",
+  "name": "Inklination",
+  "la": 48.103883,
+  "ln": 11.643013,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q45735352",
+   "artist_name": "Paul Fuchs",
+   "artwork_type": "sculpture",
+   "height": "25",
+   "inscription": "Ausgleich und Bewegung im Wind - Steine aus den 5 Erdteilen bilden eine Basis, Menschen aus fremden Ländern eine Gemeinschaft.",
+   "material": "steel; granite",
+   "name": "Inklination",
+   "start_date": "1999",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Ostpark (1224 מ')"
+ },
+ {
+  "k": "n9723403455",
+  "name": "Innere Linie",
+  "la": 48.104437,
+  "ln": 11.645007,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q1818641",
+   "artist_name": "Leo Kornbrust",
+   "artwork_subject": "abstract",
+   "artwork_type": "sculpture",
+   "material": "granite",
+   "name": "Innere Linie",
+   "start_date": "1981",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Ostpark (1220 מ')"
+ },
+ {
+  "k": "n4215127589",
+  "name": "Irrflug",
+  "la": 48.109209,
+  "ln": 11.458757,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Alexandra Ranner / Sid Gastl",
+   "name": "Irrflug",
+   "start_date": "2004",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Waldfriedhof (Forest Cemetery) (2539 מ')"
+ },
+ {
+  "k": "n3556745486",
+  "name": "Isis, auf den Wellen schwimmend",
+  "la": 48.107764,
+  "ln": 11.540755,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Krieger Emil",
+   "artwork_type": "sculpture",
+   "description": "Ursprünglich für die Brunnenanlage am Possartplatz (heute Shakespeareplatz) geschaffen. Nach Beschädigung im Zweiten Weltkrieg im Neuhofener Berg aufgestellt.",
+   "material": "stone",
+   "name": "Isis, auf den Wellen schwimmend",
+   "start_date": "1932",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Isar valley: Thalkirchen and the Flosslände (865 מ')"
+ },
+ {
+  "k": "n677214272",
+  "name": "Junges Leben",
+  "la": 48.112808,
+  "ln": 11.518911,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "amenity": "fountain",
+   "artist_name": "Lothar Dietz",
+   "description": "Bronzestatue: Junge mit Fohlen",
+   "fountain": "decorative",
+   "name": "Junges Leben",
+   "start_date": "1932"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Westpark (1133 מ')"
+ },
+ {
+  "k": "n13805494189",
+  "name": "Kakteen",
+  "la": 48.179651,
+  "ln": 11.516924,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q99388161",
+   "artist_name": "Marius Pfannenstiel",
+   "artwork_type": "sculpture",
+   "material": "bronze",
+   "name": "Kakteen",
+   "start_date": "1997",
+   "subject:wikidata": "Q14560",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Olympic Village and Connollystraße 31 (2114 מ')"
+ },
+ {
+  "k": "w204485663",
+  "name": "Karl-Valentin-Brunnen",
+  "la": 48.10277,
+  "ln": 11.419853,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "amenity": "fountain",
+   "artist_name": "Manno Bott-Bodenhausen",
+   "name": "Karl-Valentin-Brunnen",
+   "start_date": "1983",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Waldfriedhof (Forest Cemetery) (5111 מ')"
+ },
+ {
+  "k": "n14363566982",
+  "name": "Kreis, Quadrat und Abfälle",
+  "la": 48.176154,
+  "ln": 11.53485,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q667780",
+   "artist_name": "Francois Morellet",
+   "artwork_type": "sculpture",
+   "level": "8",
+   "name": "Kreis, Quadrat und Abfälle",
+   "start_date": "1999",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Olympic Stadium and roof climb (867 מ')"
+ },
+ {
+  "k": "n12232170268",
+  "name": "Marienbrunnen",
+  "la": 48.146613,
+  "ln": 11.459015,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "BLfD:criteria": "Baudenkmal",
+   "amenity": "fountain",
+   "artist_name": "Arwed Peterson",
+   "description": "steinerne Madonnenfigur auf sphärischer Halbkugel und Säule über Brunnenbassin; Säule neueren Datums",
+   "drinking_water": "yes",
+   "drinking_water:legal": "yes",
+   "heritage": "4",
+   "heritage:operator": "BLfD",
+   "historic": "yes",
+   "name": "Marienbrunnen",
+   "ref:BLfD": "D-1-62-000-5155",
+   "start_date": "1921-1922"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Blutenburg Castle (1834 מ')"
+ },
+ {
+  "k": "n14363374088",
+  "name": "Meine Schule",
+  "la": 48.175092,
+  "ln": 11.515399,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q1341042",
+   "artist_name": "Endy Hupperich",
+   "artwork_type": "sculpture",
+   "material": "aluminium",
+   "name": "Meine Schule",
+   "start_date": "2010",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Botanical Garden Munich-Nymphenburg (1686 מ')"
+ },
+ {
+  "k": "n655358513",
+  "name": "Nur der Mensch ist der Ort der Bilder",
+  "la": 48.104997,
+  "ln": 11.651263,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q1678712",
+   "artist_name": "Jai Young Park",
+   "artwork_type": "sculpture",
+   "name": "Nur der Mensch ist der Ort der Bilder",
+   "start_date": "1998",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Ostpark (1413 מ')"
+ },
+ {
+  "k": "n12655749471",
+  "name": "Ohr des Dionys",
+  "la": 48.064242,
+  "ln": 11.665008,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Horst Neubert",
+   "artwork_type": "sculpture",
+   "material": "titan",
+   "name": "Ohr des Dionys",
+   "start_date": "2004",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Ostpark (5871 מ')"
+ },
+ {
+  "k": "n12312269390",
+  "name": "Ovis (lateinisch Eier)",
+  "la": 48.109322,
+  "ln": 11.720112,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Martin Wöhrl",
+   "artwork_type": "sculpture",
+   "description:de": "Drei eiförmige Körper aus glattem Granit stellen drei Vogeleier dar.",
+   "material": "granite",
+   "name": "Ovis (lateinisch Eier)",
+   "start_date": "2024-10",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Ostpark (5675 מ')"
+ },
+ {
+  "k": "n3238124762",
+  "name": "Pavillon Ursa Mayor",
+  "la": 48.104295,
+  "ln": 11.71786,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Werner Mally",
+   "artwork_type": "sculpture",
+   "contact:website": "https://www.wernermally.de/projekte_tageslichtprojektionen.html",
+   "name": "Pavillon Ursa Mayor",
+   "start_date": "2011",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Ostpark (5605 מ')"
+ },
+ {
+  "k": "n5108036073",
+  "name": "Pferdebändiger",
+  "la": 48.143383,
+  "ln": 11.670001,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q1908470",
+   "artist_name": "Mathias Gasteiger",
+   "artwork_type": "sculpture",
+   "description": "1937 errichtet von der Stadt München.",
+   "description:de": "Errichtet 1937 von der Stadt München",
+   "name": "Pferdebändiger",
+   "start_date": "1937",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Feringasee (2973 מ')"
+ },
+ {
+  "k": "n11902346326",
+  "name": "Robert Musil Denkmal",
+  "la": 48.241177,
+  "ln": 11.441639,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Wolfgang Aichinger",
+   "artwork_type": "sculpture",
+   "description": "Denkmal für österreichischen Schriftsteller und Dramatiker Robert Musil (1880 Klagenfurt - 1942 Genf).",
+   "material": "metal",
+   "name": "Robert Musil Denkmal",
+   "start_date": "1980",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Dachau old town and palace (2137 מ')"
+ },
+ {
+  "k": "n14174071507",
+  "name": "SICHTUNG V",
+  "la": 48.143922,
+  "ln": 11.409604,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Rasthofer/Neumaier",
+   "artwork_type": "sculpture",
+   "description": "Temporäre Großskulptur, Ausstellung der Erzdiözese München-Freising und des Pfarrverbands München West",
+   "material": "metal",
+   "name": "SICHTUNG V",
+   "start_date": "2026-09-01",
+   "tourism": "artwork",
+   "website": "https://www.erzbistum-muenchen.de/freiham"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Blutenburg Castle (3853 מ')"
+ },
+ {
+  "k": "n11147140627",
+  "name": "Schlange",
+  "la": 48.24653,
+  "ln": 11.523002,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q1580691",
+   "artist_name": "Hans Kastler",
+   "artwork_type": "statue",
+   "description": "\"Schlange\" aus Beton, die sich um die Holzkonstruktion windet",
+   "material": "concrete",
+   "name": "Schlange",
+   "start_date": "1972",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Flugwerft Schleissheim (aviation museum) (2238 מ')"
+ },
+ {
+  "k": "n14364811888",
+  "name": "Schnecke",
+  "la": 48.212985,
+  "ln": 11.552856,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q665809",
+   "artist_name": "Hans Rucker;Maria Rucker",
+   "artwork_type": "sculpture",
+   "material": "marble",
+   "name": "Schnecke",
+   "start_date": "1997",
+   "subject:wikidata": "Q2003497",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Flugwerft Schleissheim (aviation museum) (3593 מ')"
+ },
+ {
+  "k": "n673714798",
+  "name": "Schnitterin-Brunnen",
+  "la": 48.120209,
+  "ln": 11.655348,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "amenity": "fountain",
+   "artist_name": "Simon Leibl",
+   "drinking_water": "no",
+   "lit": "no",
+   "name": "Schnitterin-Brunnen",
+   "start_date": "1939",
+   "wikidata": "Q41210648"
+  },
+  "wikidata": {
+   "id": "Q41210648",
+   "he": "",
+   "en": "",
+   "de": "",
+   "desc": "",
+   "wikipedia_in": []
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "Ostpark (1407 מ')"
+ },
+ {
+  "k": "n670710436",
+  "name": "Schwaige Niederhochmutting mit Nikolauskapelle",
+  "la": 48.238531,
+  "ln": 11.573586,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "historic": "memorial",
+   "material": "stone",
+   "memorial": "stele",
+   "name": "Schwaige Niederhochmutting mit Nikolauskapelle",
+   "wikidata": "Q111335778"
+  },
+  "wikidata": {
+   "id": "Q111335778",
+   "he": "",
+   "en": "Memorial",
+   "de": "Memorial",
+   "desc": "Denkmal an die Kirche St. Nikolaus von Niederhochmutting",
+   "wikipedia_in": [
+    "co"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "Flugwerft Schleissheim (aviation museum) (1420 מ')"
+ },
+ {
+  "k": "r21953245",
+  "name": "Schüttlöcher",
+  "la": 48.206126,
+  "ln": 11.578828,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q116011735",
+   "artist_name": "Angelika Loderer",
+   "artwork_type": "sculpture",
+   "material": "bronze",
+   "name": "Schüttlöcher",
+   "start_date": "2024",
+   "tourism": "artwork",
+   "type": "multipolygon"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "New Jewish Cemetery (Garchinger Straße) (3033 מ')"
+ },
+ {
+  "k": "n12655749461",
+  "name": "Sonnenrad",
+  "la": 48.064405,
+  "ln": 11.664957,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Horst Neubert",
+   "artwork_type": "sculpture",
+   "material": "titan",
+   "name": "Sonnenrad",
+   "start_date": "2004",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Ostpark (5853 מ')"
+ },
+ {
+  "k": "n3238124763",
+  "name": "Space Station",
+  "la": 48.106252,
+  "ln": 11.715198,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Stefan Eberstadt",
+   "artwork_type": "sculpture",
+   "name": "Space Station",
+   "start_date": "2005",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Ostpark (5388 מ')"
+ },
+ {
+  "k": "n333196915",
+  "name": "St. Emmeram",
+  "la": 48.1783,
+  "ln": 11.626102,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Rolf Nida-Rümelin",
+   "historic": "memorial",
+   "memorial": "statue",
+   "name": "St. Emmeram",
+   "start_date": "1979",
+   "wikidata": "Q98084417"
+  },
+  "wikidata": {
+   "id": "Q98084417",
+   "he": "",
+   "en": "",
+   "de": "",
+   "desc": "",
+   "wikipedia_in": []
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "New Jewish Cemetery (Garchinger Straße) (1568 מ')"
+ },
+ {
+  "k": "n367788387",
+  "name": "Todesmarsch KZ Dachau",
+  "la": 48.163734,
+  "ln": 11.457951,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Hubertus von Pilgrim",
+   "commemorates:wikidata": "Q5023193",
+   "historic": "memorial",
+   "inscription": "HIER FÜHRTE / IN DEN LETZTEN / KRIEGSTAGEN / IM APRIL 1945 / DER LEIDENSWEG / DER HÄFTLINGE / AUS DEM KONZEN- / TRATIONSLAGER / DACHAU VORBEI / INS UNGEWISSE",
+   "memorial": "sculpture",
+   "name": "Todesmarsch KZ Dachau",
+   "name:en": "Death march KZ Dachau",
+   "start_date": "2001",
+   "wikidata": "Q111435160"
+  },
+  "wikidata": {
+   "id": "Q111435160",
+   "he": "",
+   "en": "Todesmarschmahnmal",
+   "de": "Todesmarschmahnmal (Obermenzing)",
+   "desc": "Mahnmal an den Dachauer Todesmarsch in Obermenzing",
+   "wikipedia_in": [
+    "co"
+   ]
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "Blutenburg Castle (103 מ')"
+ },
+ {
+  "k": "w1577739883",
+  "name": "UMSECK",
+  "la": 48.204657,
+  "ln": 11.570955,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q139283579",
+   "artist_name": "Stefan Eberstadt",
+   "artwork_type": "sculpture",
+   "material": "concrete",
+   "name": "UMSECK",
+   "start_date": "2020",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "BMW Plant Munich tour (3051 מ')"
+ },
+ {
+  "k": "w1161396616",
+  "name": "Ultramarin",
+  "la": 48.180934,
+  "ln": 11.511075,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "amenity": "fountain",
+   "artist_name": "Stefan Eberstadt",
+   "artwork_type": "fountain",
+   "drinking_water": "no",
+   "name": "Ultramarin",
+   "start_date": "2013",
+   "tourism": "artwork",
+   "website": "https://www.stefaneberstadt.de/art-public.html"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Botanical Garden Munich-Nymphenburg (2104 מ')"
+ },
+ {
+  "k": "n9264893697",
+  "name": "Vertrauliches Gespräch",
+  "la": 48.091681,
+  "ln": 11.607172,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q43130387",
+   "artist_name": "Werner Franzen",
+   "artwork_type": "sculpture",
+   "name": "Vertrauliches Gespräch",
+   "start_date": "1992",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Ostpark (3228 מ')"
+ },
+ {
+  "k": "r21950832",
+  "name": "Wachsen",
+  "la": 48.180111,
+  "ln": 11.517747,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q131515689",
+   "artist_name": "Dagmar Rhodius",
+   "artwork_type": "sculpture",
+   "level": "0",
+   "material": "kalkstein;serpentin",
+   "name": "Wachsen",
+   "start_date": "2000",
+   "tourism": "artwork",
+   "type": "multipolygon",
+   "website": "https://dagmar-rhodius.de/kunst-am-bau/"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Olympic Village and Connollystraße 31 (2060 מ')"
+ },
+ {
+  "k": "n7794580177",
+  "name": "Wasser für Alle",
+  "la": 48.190523,
+  "ln": 11.646004,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "amenity": "fountain",
+   "artist_name": "Kay Winkler",
+   "name": "Wasser für Alle",
+   "start_date": "2019-05"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "New Jewish Cemetery (Garchinger Straße) (2880 מ')"
+ },
+ {
+  "k": "n12655749462",
+  "name": "Wächter",
+  "la": 48.064415,
+  "ln": 11.665021,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Herbert Lorenz",
+   "artwork_type": "sculpture",
+   "material": "steel",
+   "name": "Wächter",
+   "start_date": "1994",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Ostpark (5853 מ')"
+ },
+ {
+  "k": "n14366979052",
+  "name": "Wünsch Dir was",
+  "la": 48.211571,
+  "ln": 11.564363,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q125244547",
+   "artist_name": "Susanne Pittroff",
+   "artwork_type": "sculpture",
+   "name": "Wünsch Dir was",
+   "start_date": "2003",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "BMW Plant Munich tour (3738 מ')"
+ },
+ {
+  "k": "n14366974467",
+  "name": "mutabor",
+  "la": 48.211916,
+  "ln": 11.565769,
+  "district": "פאתי העיר",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q1873211",
+   "artist_name": "Lucia Dellefant",
+   "artwork_type": "sculpture",
+   "material": "glass",
+   "name": "mutabor",
+   "start_date": "2005",
+   "tourism": "artwork",
+   "website": "http://www.dellefant.de/index.php?id=122"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Flugwerft Schleissheim (aviation museum) (3767 מ')"
+ }
+]

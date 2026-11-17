@@ -1,0 +1,615 @@
+[
+ {
+  "k": "n2124707409",
+  "name": "Große Liegende",
+  "la": 48.14972,
+  "ln": 11.570103,
+  "district": "מקסוורשטאדט ורובע המוזיאונים",
+  "center": 1,
+  "osm_tags": {
+   "artist:wikidata": "Q151097",
+   "artist_name": "Henry Moore",
+   "artwork_type": "sculpture",
+   "name": "Große Liegende",
+   "toilets:wheelchair": "no",
+   "tourism": "artwork",
+   "wikidata": "Q19758898"
+  },
+  "wikidata": {
+   "id": "Q19758898",
+   "he": "",
+   "en": "",
+   "de": "",
+   "desc": "",
+   "wikipedia_in": []
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "Neue Pinakothek (61 מ')"
+ },
+ {
+  "k": "n2124707404",
+  "name": "Große Zwei V",
+  "la": 48.149406,
+  "ln": 11.572105,
+  "district": "מקסוורשטאדט ורובע המוזיאונים",
+  "center": 1,
+  "osm_tags": {
+   "artist:wikidata": "Q524205",
+   "artist_name": "Fritz Koenig",
+   "artwork_type": "sculpture",
+   "name": "Große Zwei V",
+   "tourism": "artwork",
+   "wikidata": "Q1548516",
+   "wikipedia": "de:Große Zwei V"
+  },
+  "wikidata": {
+   "id": "Q1548516",
+   "he": "",
+   "en": "",
+   "de": "",
+   "desc": "",
+   "wikipedia_in": []
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "Neue Pinakothek (98 מ')"
+ },
+ {
+  "k": "n6223412732",
+  "name": "Großes Votiv K",
+  "la": 48.147186,
+  "ln": 11.56452,
+  "district": "מקסוורשטאדט ורובע המוזיאונים",
+  "center": 1,
+  "osm_tags": {
+   "artist:wikidata": "Q524205",
+   "artist_name": "Fritz Koenig",
+   "artwork_type": "sculpture",
+   "material": "bronze",
+   "name": "Großes Votiv K",
+   "tourism": "artwork",
+   "wikidata": "Q60719343"
+  },
+  "wikidata": {
+   "id": "Q60719343",
+   "he": "",
+   "en": "",
+   "de": "",
+   "desc": "",
+   "wikipedia_in": []
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "Lenbachhaus (74 מ')"
+ },
+ {
+  "k": "n6223296868",
+  "name": "Hans Ferdinand Maßmann",
+  "la": 48.152528,
+  "ln": 11.559546,
+  "district": "מקסוורשטאדט ורובע המוזיאונים",
+  "center": 1,
+  "osm_tags": {
+   "historic": "memorial",
+   "material": "stone",
+   "memorial": "stele",
+   "name": "Hans Ferdinand Maßmann",
+   "wikidata": "Q60721881"
+  },
+  "wikidata": {
+   "id": "Q60721881",
+   "he": "",
+   "en": "",
+   "de": "",
+   "desc": "",
+   "wikipedia_in": []
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "Löwenbräukeller (497 מ')"
+ },
+ {
+  "k": "w1378770479",
+  "name": "Kanalmuseum",
+  "la": 48.153112,
+  "ln": 11.57815,
+  "district": "מקסוורשטאדט ורובע המוזיאונים",
+  "center": 1,
+  "osm_tags": {
+   "artist:wikidata": "Q501493",
+   "artist:wikipedia": "de:Andreas von Weizsäcker",
+   "artist_name": "Andreas von Weizsäcker",
+   "contact:city": "München",
+   "contact:country": "DE",
+   "contact:email": "kanalfuehrung.mse@muenchen.de",
+   "contact:housenumber": "40",
+   "contact:phone": "+49 89 233-62008",
+   "contact:postcode": "81671",
+   "contact:street": "Friedenstraße",
+   "contact:website": "https://stadt.muenchen.de/infos/portrait-muenchner-stadtentwaesserung.html",
+   "destination": "Die Bodentüre ist der Zugang zum Oberwasser-Kanalmuseum.",
+   "material": "metal",
+   "name": "Kanalmuseum",
+   "object:city": "München",
+   "object:country": "DE",
+   "object:postcode": "80799",
+   "object:street": "Akademiestraße",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Academy of Fine Arts Munich (217 מ')"
+ },
+ {
+  "k": "w215291417",
+  "name": "Karolinenplatz",
+  "la": 48.144686,
+  "ln": 11.569162,
+  "district": "מקסוורשטאדט ורובע המוזיאונים",
+  "center": 1,
+  "osm_tags": {
+   "architect": "Leo von Klenze",
+   "architect:wikidata": "Q60163",
+   "building": "yes",
+   "description": "Obelisk aus Erz zum Gedenken an die Gefallenen von 1812, nach Entwurf von Leo von Klenze, 1828–1833.",
+   "height": "29",
+   "heritage": "4",
+   "heritage:operator": "BLfD",
+   "historic": "monument",
+   "name": "Karolinenplatz",
+   "name:ru": "Обелиск \"Памяти павших 30000 баварцев в походе на Россию в 1812 году\"",
+   "object:suburb": "Maxvorstadt",
+   "ref:BLfD": "D-1-62-000-3283",
+   "roof:shape": "pyramidal",
+   "start_date": "1833",
+   "wikidata": "Q256024",
+   "wikipedia": "de:Obelisk am Karolinenplatz"
+  },
+  "wikidata": {
+   "id": "Q256024",
+   "he": "",
+   "en": "",
+   "de": "",
+   "desc": "",
+   "wikipedia_in": []
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "Amerika Haus and the Karolinenplatz obelisk (0 מ')"
+ },
+ {
+  "k": "n2124707408",
+  "name": "Kontinente",
+  "la": 48.149317,
+  "ln": 11.571742,
+  "district": "מקסוורשטאדט ורובע המוזיאונים",
+  "center": 1,
+  "osm_tags": {
+   "artist:wikidata": "Q89660",
+   "artist_name": "Georg Brenninger",
+   "artwork_type": "sculpture",
+   "material": "bronze",
+   "name": "Kontinente",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Neue Pinakothek (87 מ')"
+ },
+ {
+  "k": "n433909671",
+  "name": "Kriegerdenkmal",
+  "la": 48.157707,
+  "ln": 11.560498,
+  "district": "מקסוורשטאדט ורובע המוזיאונים",
+  "center": 1,
+  "osm_tags": {
+   "historic": "memorial",
+   "memorial": "obelisk",
+   "name": "Kriegerdenkmal",
+   "wikidata": "Q41178100"
+  },
+  "wikidata": {
+   "id": "Q41178100",
+   "he": "",
+   "en": "",
+   "de": "",
+   "desc": "",
+   "wikipedia_in": []
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "Old Northern Cemetery (Alter Nördlicher Friedhof) (795 מ')"
+ },
+ {
+  "k": "n9197930288",
+  "name": "Kriegerdenkmal 1939-1947",
+  "la": 48.151799,
+  "ln": 11.552622,
+  "district": "מקסוורשטאדט ורובע המוזיאונים",
+  "center": 1,
+  "osm_tags": {
+   "historic": "memorial",
+   "inscription": "DEN GEFALLENEN\nDER PFARRGEMEINDE ST. BENNO\nSIE WERDEN IMMERDAR\nBEIM HERRN SEIN\nNamen siehe Ref.-Webseite",
+   "material": "stone",
+   "memorial": "war_memorial",
+   "name": "Kriegerdenkmal 1939-1947",
+   "website": "http://www.denkmalprojekt.org/2024/maxvorstadt-st-benno_stadt-muenchen_wk1_wk2_by.html"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Löwenbräukeller (563 מ')"
+ },
+ {
+  "k": "n10831483651",
+  "name": "Lichtpartitur",
+  "la": 48.144979,
+  "ln": 11.574808,
+  "district": "מקסוורשטאדט ורובע המוזיאונים",
+  "center": 1,
+  "osm_tags": {
+   "artist:wikidata": "Q916421",
+   "artist_name": "Brigitte Kowanz",
+   "artwork_type": "installation",
+   "description": "Neoninstallation",
+   "name": "Lichtpartitur",
+   "start_date": "2001",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Brienner Straße and Wittelsbacherplatz (186 מ')"
+ },
+ {
+  "k": "n6984907954",
+  "name": "Luminous Link",
+  "la": 48.147308,
+  "ln": 11.568151,
+  "district": "מקסוורשטאדט ורובע המוזיאונים",
+  "center": 1,
+  "osm_tags": {
+   "artwork_type": "sculpture",
+   "material": "steel;composite",
+   "name": "Luminous Link",
+   "start_date": "2019",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Egyptian Museum (Staatliches Museum Ägyptischer Kunst) (36 מ')"
+ },
+ {
+  "k": "n2124707406",
+  "name": "Miracolo",
+  "la": 48.149573,
+  "ln": 11.570918,
+  "district": "מקסוורשטאדט ורובע המוזיאונים",
+  "center": 1,
+  "osm_tags": {
+   "artist:wikidata": "Q703980",
+   "artist_name": "Marino Marini",
+   "artwork_type": "sculpture",
+   "material": "bronze",
+   "name": "Miracolo",
+   "toilets:wheelchair": "no",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Neue Pinakothek (39 מ')"
+ },
+ {
+  "k": "r19010663",
+  "name": "Oberwasser",
+  "la": 48.153041,
+  "ln": 11.578136,
+  "district": "מקסוורשטאדט ורובע המוזיאונים",
+  "center": 1,
+  "osm_tags": {
+   "artist:wikidata": "Q501493",
+   "artist:wikipedia": "de:Andreas von Weizsäcker",
+   "artist_name": "Andreas von Weizsäcker",
+   "artwork_type": "relief",
+   "destination": "Mehrteilige, im Boden eingelassene Reliefs mit Stiefelabdrücken der Kanalarbeiter am Eingang zum Oberwasser-Kanalmuseum",
+   "material": "metal",
+   "name": "Oberwasser",
+   "object:city": "München",
+   "object:country": "DE",
+   "object:postcode": "80799",
+   "object:street": "Akademiestraße",
+   "tourism": "artwork",
+   "type": "multipolygon"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Academy of Fine Arts Munich (221 מ')"
+ },
+ {
+  "k": "r21117549",
+  "name": "Penthaus",
+  "la": 48.153528,
+  "ln": 11.556449,
+  "district": "מקסוורשטאדט ורובע המוזיאונים",
+  "center": 1,
+  "osm_tags": {
+   "area": "yes",
+   "artist:wikidata": "Q111107290; Q23059999; Q55236194",
+   "artwork_type": "sculpture",
+   "name": "Penthaus",
+   "start_date": "2007",
+   "tourism": "artwork",
+   "type": "multipolygon"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Löwenbräukeller (614 מ')"
+ },
+ {
+  "k": "n966315082",
+  "name": "Pferdestandbild für die deutsche Kavallerie 1870-1945",
+  "la": 48.146018,
+  "ln": 11.580521,
+  "district": "מקסוורשטאדט ורובע המוזיאונים",
+  "center": 1,
+  "osm_tags": {
+   "artist:wikidata": "Q314150",
+   "artist:wikipedia": "de:Bernhard Bleeker",
+   "artist_name": "Bernhard Bleeker",
+   "artwork_type": "sculpture",
+   "description": "1960",
+   "designation": "Pferdestandbild f. d. deutsche Kavallerie",
+   "material": "bronze",
+   "name": "Pferdestandbild für die deutsche Kavallerie 1870-1945",
+   "short_name": "Pferdestandbild f. d. deutsche Kavallerie",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Bavarian State Library (164 מ')"
+ },
+ {
+  "k": "n2124707407",
+  "name": "Present Continuous",
+  "la": 48.147177,
+  "ln": 11.568824,
+  "district": "מקסוורשטאדט ורובע המוזיאונים",
+  "center": 1,
+  "osm_tags": {
+   "artist:wikidata": "Q1605269",
+   "artist_name": "Henk Visch",
+   "artwork_type": "sculpture",
+   "name": "Present Continuous",
+   "tourism": "artwork",
+   "wikidata": "Q2108805",
+   "wikipedia": "de:Present Continuous (Skulptur)"
+  },
+  "wikidata": {
+   "id": "Q2108805",
+   "he": "",
+   "en": "",
+   "de": "",
+   "desc": "",
+   "wikipedia_in": []
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "Egyptian Museum (Staatliches Museum Ägyptischer Kunst) (42 מ')"
+ },
+ {
+  "k": "n6258685344",
+  "name": "Prof. Georg Kerschensteiner",
+  "la": 48.155928,
+  "ln": 11.582938,
+  "district": "מקסוורשטאדט ורובע המוזיאונים",
+  "center": 1,
+  "osm_tags": {
+   "artist_name": "Jürgen Goertz",
+   "artwork_type": "sculpture",
+   "name": "Prof. Georg Kerschensteiner",
+   "tourism": "artwork",
+   "wikidata": "Q61476384"
+  },
+  "wikidata": {
+   "id": "Q61476384",
+   "he": "",
+   "en": "",
+   "de": "",
+   "desc": "",
+   "wikipedia_in": []
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "Walking Man (Borofsky) and Münchner Freiheit (110 מ')"
+ },
+ {
+  "k": "n2124707405",
+  "name": "Rossebändiger",
+  "la": 48.148392,
+  "ln": 11.568727,
+  "district": "מקסוורשטאדט ורובע המוזיאונים",
+  "center": 1,
+  "osm_tags": {
+   "artist:wikidata": "Q828283",
+   "artist_name": "Hermann Hahn",
+   "artwork_type": "sculpture",
+   "name": "Rossebändiger",
+   "tourism": "artwork",
+   "wikidata": "Q41180311"
+  },
+  "wikidata": {
+   "id": "Q41180311",
+   "he": "",
+   "en": "",
+   "de": "",
+   "desc": "",
+   "wikipedia_in": []
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "Alte Pinakothek (89 מ')"
+ },
+ {
+  "k": "n6262887392",
+  "name": "Sockelobjekt",
+  "la": 48.150887,
+  "ln": 11.569392,
+  "district": "מקסוורשטאדט ורובע המוזיאונים",
+  "center": 1,
+  "osm_tags": {
+   "artist:wikidata": "Q1283907",
+   "artist_name": "Edgar Gutbub",
+   "artwork_type": "sculpture",
+   "name": "Sockelobjekt",
+   "name:de": "Sockelobjekt",
+   "tourism": "artwork",
+   "wikidata": "Q61599015"
+  },
+  "wikidata": {
+   "id": "Q61599015",
+   "he": "",
+   "en": "",
+   "de": "",
+   "desc": "",
+   "wikipedia_in": []
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "Neue Pinakothek (149 מ')"
+ },
+ {
+  "k": "n13344441649",
+  "name": "Spiel verschränkter Figuren liegend",
+  "la": 48.143362,
+  "ln": 11.557109,
+  "district": "מקסוורשטאדט ורובע המוזיאונים",
+  "center": 1,
+  "osm_tags": {
+   "artist:wikidata": "Q89660",
+   "artist_name": "Georg Brenninger",
+   "artwork_type": "sculpture",
+   "material": "metal",
+   "name": "Spiel verschränkter Figuren liegend",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Augustiner-Keller beer garden (376 מ')"
+ },
+ {
+  "k": "n6700378272",
+  "name": "Spiel verschränkter Figuren stehend",
+  "la": 48.143239,
+  "ln": 11.557055,
+  "district": "מקסוורשטאדט ורובע המוזיאונים",
+  "center": 1,
+  "osm_tags": {
+   "artist:wikidata": "Q89660",
+   "artist_name": "Georg Brenninger",
+   "artwork_type": "sculpture",
+   "material": "metal",
+   "name": "Spiel verschränkter Figuren stehend",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Augustiner-Keller beer garden (374 מ')"
+ },
+ {
+  "k": "n6262887389",
+  "name": "Steinprisma",
+  "la": 48.150916,
+  "ln": 11.56824,
+  "district": "מקסוורשטאדט ורובע המוזיאונים",
+  "center": 1,
+  "osm_tags": {
+   "artist:wikidata": "Q1608909",
+   "artist_name": "Herbert Peters",
+   "artwork_type": "sculpture",
+   "name": "Steinprisma",
+   "name:de": "Steinprisma",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Neue Pinakothek (213 מ')"
+ },
+ {
+  "k": "n1119115049",
+  "name": "Trojanisches Pferd",
+  "la": 48.147512,
+  "ln": 11.570462,
+  "district": "מקסוורשטאדט ורובע המוזיאונים",
+  "center": 1,
+  "osm_tags": {
+   "artist:wikidata": "Q315485",
+   "artist_name": "Hans Wimmer",
+   "artwork_type": "sculpture",
+   "name": "Trojanisches Pferd",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Alte Pinakothek (82 מ')"
+ },
+ {
+  "k": "n390320077",
+  "name": "Two-Piece Reclining Figure: Points",
+  "la": 48.148902,
+  "ln": 11.570485,
+  "district": "מקסוורשטאדט ורובע המוזיאונים",
+  "center": 1,
+  "osm_tags": {
+   "artist:wikidata": "Q151097",
+   "artist_name": "Henry Moore",
+   "artwork_type": "sculpture",
+   "name": "Two-Piece Reclining Figure: Points",
+   "tourism": "artwork",
+   "wikidata": "Q4014541",
+   "wikipedia": "de:Two-Piece Reclining Figure: Points"
+  },
+  "wikidata": {
+   "id": "Q4014541",
+   "he": "",
+   "en": "",
+   "de": "",
+   "desc": "",
+   "wikipedia_in": []
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "Mineralogical Museum (Museum Reich der Kristalle) (44 מ')"
+ },
+ {
+  "k": "n1119115024",
+  "name": "Zueinander",
+  "la": 48.14885,
+  "ln": 11.570942,
+  "district": "מקסוורשטאדט ורובע המוזיאונים",
+  "center": 1,
+  "osm_tags": {
+   "artist:wikidata": "Q187683",
+   "artist_name": "Alf Lechner",
+   "artwork_type": "sculpture",
+   "name": "Zueinander",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Mineralogical Museum (Museum Reich der Kristalle) (49 מ')"
+ }
+]

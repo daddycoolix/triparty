@@ -1,0 +1,680 @@
+[
+ {
+  "k": "n4954435136",
+  "name": "Aristoteles",
+  "la": 48.147487,
+  "ln": 11.58007,
+  "district": "מקסוורשטאדט ורובע המוזיאונים",
+  "center": 1,
+  "osm_tags": {
+   "artist:wikidata": "Q448426",
+   "artist_name": "Ludwig Michael Schwanthaler",
+   "artwork_type": "statue",
+   "material": "stone",
+   "name": "Aristoteles",
+   "subject:wikidata": "Q868",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 1,
+  "w": 0,
+  "nearest_guide_site": "Bavarian State Library (29 מ')"
+ },
+ {
+  "k": "n692187717",
+  "name": "Bennosäule",
+  "la": 48.151622,
+  "ln": 11.552536,
+  "district": "מקסוורשטאדט ורובע המוזיאונים",
+  "center": 1,
+  "osm_tags": {
+   "heritage": "4",
+   "heritage:operator": "BLfD",
+   "historic": "memorial",
+   "material": "stone",
+   "memorial": "statue",
+   "name": "Bennosäule",
+   "ref:BLfD": "D-1-62-000-1682",
+   "start_date": "1910",
+   "wikidata": "Q818035",
+   "wikipedia": "de:Bennosäule"
+  },
+  "wikidata": {
+   "id": "Q818035",
+   "he": "",
+   "en": "",
+   "de": "",
+   "desc": "",
+   "wikipedia_in": []
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "Löwenbräukeller (553 מ')"
+ },
+ {
+  "k": "n975224367",
+  "name": "Buscando la Luz",
+  "la": 48.147922,
+  "ln": 11.571491,
+  "district": "מקסוורשטאדט ורובע המוזיאונים",
+  "center": 1,
+  "osm_tags": {
+   "artist:wikidata": "Q156736",
+   "artist_name": "Eduardo Chillida",
+   "artwork_type": "sculpture",
+   "name": "Buscando la Luz",
+   "tourism": "artwork",
+   "wikidata": "Q1017255",
+   "wikipedia": "de:Buscando la Luz"
+  },
+  "wikidata": {
+   "id": "Q1017255",
+   "he": "",
+   "en": "Buscando la Luz II",
+   "de": "Buscando la Luz II",
+   "desc": "Skulptur von Eduardo Chillida",
+   "wikipedia_in": [
+    "co",
+    "de",
+    "es",
+    "it"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "Mineralogical Museum (Museum Reich der Kristalle) (93 מ')"
+ },
+ {
+  "k": "n518756380",
+  "name": "Delphinbrunnen",
+  "la": 48.144538,
+  "ln": 11.559828,
+  "district": "מקסוורשטאדט ורובע המוזיאונים",
+  "center": 1,
+  "osm_tags": {
+   "amenity": "fountain",
+   "drinking_water": "no",
+   "fountain": "decorative",
+   "height": "1",
+   "name": "Delphinbrunnen",
+   "wikidata": "Q1184659",
+   "wikipedia": "de:Delphinbrunnen (München)"
+  },
+  "wikidata": {
+   "id": "Q1184659",
+   "he": "",
+   "en": "Delphinbrunnen",
+   "de": "Delphinbrunnen",
+   "desc": "water well in Munich, Germany",
+   "wikipedia_in": [
+    "ar",
+    "co",
+    "de",
+    "en"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "State Collections of Antiquities (Antikensammlungen) (352 מ')"
+ },
+ {
+  "k": "n389981746",
+  "name": "Doppelsäule 23/70",
+  "la": 48.149184,
+  "ln": 11.569887,
+  "district": "מקסוורשטאדט ורובע המוזיאונים",
+  "center": 1,
+  "osm_tags": {
+   "artist:wikidata": "Q458571",
+   "artist_name": "Erich Hauser",
+   "artwork_type": "sculpture",
+   "name": "Doppelsäule 23/70",
+   "tourism": "artwork",
+   "wikidata": "Q1243323",
+   "wikipedia": "de:Doppelsäule 23/70"
+  },
+  "wikidata": {
+   "id": "Q1243323",
+   "he": "",
+   "en": "Doppelsäule 23/70",
+   "de": "Doppelsäule 23/70",
+   "desc": "Skulptur von Erich Hauser",
+   "wikipedia_in": [
+    "co",
+    "de",
+    "it"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "Mineralogical Museum (Museum Reich der Kristalle) (86 מ')"
+ },
+ {
+  "k": "n11641426345",
+  "name": "Finnischer Granit, gespalten",
+  "la": 48.146931,
+  "ln": 11.564341,
+  "district": "מקסוורשטאדט ורובע המוזיאונים",
+  "center": 1,
+  "osm_tags": {
+   "artist:wikidata": "Q543440",
+   "artist_name": "Ulrich Rückriem",
+   "artwork_type": "sculpture",
+   "material": "granite",
+   "name": "Finnischer Granit, gespalten",
+   "start_date": "1987",
+   "tourism": "artwork",
+   "wikidata": "Q123048177"
+  },
+  "wikidata": {
+   "id": "Q123048177",
+   "he": "",
+   "en": "",
+   "de": "Finnischer Granit, gespalten",
+   "desc": "Skulptur aus Granit von Ulrich Rückriem (1987, München, Deutschland)",
+   "wikipedia_in": [
+    "co"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "Lenbachhaus (57 מ')"
+ },
+ {
+  "k": "n5503441922",
+  "name": "Flugblätter",
+  "la": 48.150723,
+  "ln": 11.580548,
+  "district": "מקסוורשטאדט ורובע המוזיאונים",
+  "center": 1,
+  "osm_tags": {
+   "historic": "memorial",
+   "memorial": "sculpture",
+   "name": "Flugblätter",
+   "subject:wikidata": "Q131727623",
+   "wikidata": "Q131727623"
+  },
+  "wikidata": {
+   "id": "Q131727623",
+   "he": "",
+   "en": "",
+   "de": "Flugblätter der Weißen Rose",
+   "desc": "",
+   "wikipedia_in": [
+    "co",
+    "de"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "Ludwig Maximilian University and the White Rose memorial (55 מ')"
+ },
+ {
+  "k": "n2124707412",
+  "name": "For Leonardo",
+  "la": 48.14801,
+  "ln": 11.568818,
+  "district": "מקסוורשטאדט ורובע המוזיאונים",
+  "center": 1,
+  "osm_tags": {
+   "artist:wikidata": "Q165397",
+   "artist_name": "Eduardo Paolozzi",
+   "artwork_type": "sculpture",
+   "name": "For Leonardo",
+   "tourism": "artwork",
+   "wikidata": "Q1409566"
+  },
+  "wikidata": {
+   "id": "Q1409566",
+   "he": "",
+   "en": "For Leonardo",
+   "de": "For Leonardo",
+   "desc": "Skulptur von Eduardo Paolozzi",
+   "wikipedia_in": [
+    "co",
+    "it"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "Alte Pinakothek (83 מ')"
+ },
+ {
+  "k": "n244015478",
+  "name": "Georg Simon Ohm",
+  "la": 48.150281,
+  "ln": 11.567875,
+  "district": "מקסוורשטאדט ורובע המוזיאונים",
+  "center": 1,
+  "osm_tags": {
+   "historic": "memorial",
+   "memorial": "statue",
+   "name": "Georg Simon Ohm",
+   "name:etymology:wikidata": "Q1585",
+   "wikidata": "Q41181385"
+  },
+  "wikidata": {
+   "id": "Q41181385",
+   "he": "",
+   "en": "",
+   "de": "",
+   "desc": "",
+   "wikipedia_in": []
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "Neue Pinakothek (212 מ')"
+ },
+ {
+  "k": "n4954435131",
+  "name": "Hippokrates",
+  "la": 48.147438,
+  "ln": 11.580048,
+  "district": "מקסוורשטאדט ורובע המוזיאונים",
+  "center": 1,
+  "osm_tags": {
+   "artist:wikidata": "Q448426",
+   "artist_name": "Ludwig Michael Schwanthaler",
+   "artwork_type": "statue",
+   "material": "stone",
+   "name": "Hippokrates",
+   "subject:wikidata": "Q5264",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 1,
+  "w": 0,
+  "nearest_guide_site": "Bavarian State Library (31 מ')"
+ },
+ {
+  "k": "n4954435139",
+  "name": "Homer",
+  "la": 48.147536,
+  "ln": 11.580093,
+  "district": "מקסוורשטאדט ורובע המוזיאונים",
+  "center": 1,
+  "osm_tags": {
+   "artist:wikidata": "Q448426",
+   "artist_name": "Ludwig Michael Schwanthaler",
+   "artwork_type": "statue",
+   "material": "stone",
+   "name": "Homer",
+   "subject:wikidata": "Q6691",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 1,
+  "w": 0,
+  "nearest_guide_site": "Bavarian State Library (27 מ')"
+ },
+ {
+  "k": "w224487822",
+  "name": "Ring",
+  "la": 48.142286,
+  "ln": 11.561945,
+  "district": "מקסוורשטאדט ורובע המוזיאונים",
+  "center": 1,
+  "osm_tags": {
+   "alt_name": "Staccioliring",
+   "artist:wikidata": "Q964557",
+   "artist_name": "Mauro Staccioli",
+   "artwork_type": "sculpture",
+   "description": "Schenkung der Sparkasse München",
+   "material": "steel",
+   "name": "Ring",
+   "start_date": "1969",
+   "tourism": "artwork",
+   "wikidata": "Q114687702"
+  },
+  "wikidata": {
+   "id": "Q114687702",
+   "he": "",
+   "en": "Der Ring",
+   "de": "Der Ring",
+   "desc": "sculpture in Munich",
+   "wikipedia_in": [
+    "co"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "Old Botanical Garden (Alter Botanischer Garten) (175 מ')"
+ },
+ {
+  "k": "n4954435143",
+  "name": "Thukydides",
+  "la": 48.147584,
+  "ln": 11.580115,
+  "district": "מקסוורשטאדט ורובע המוזיאונים",
+  "center": 1,
+  "osm_tags": {
+   "artist:wikidata": "Q448426",
+   "artist_name": "Ludwig Michael Schwanthaler",
+   "artwork_type": "statue",
+   "material": "stone",
+   "name": "Thukydides",
+   "subject:wikidata": "Q41683",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 1,
+  "w": 0,
+  "nearest_guide_site": "Bavarian State Library (27 מ')"
+ },
+ {
+  "k": "n9828814301",
+  "name": "Wildes Pferd",
+  "la": 48.146145,
+  "ln": 11.563251,
+  "district": "מקסוורשטאדט ורובע המוזיאונים",
+  "center": 1,
+  "osm_tags": {
+   "artist:wikidata": "Q2642089",
+   "artist_name": "Alexander Fischer",
+   "artwork_type": "statue",
+   "level": "0",
+   "material": "bronze",
+   "name": "Wildes Pferd",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 1,
+  "w": 0,
+  "nearest_guide_site": "Lenbachhaus (89 מ')"
+ },
+ {
+  "k": "n1354161430",
+  "name": "8. November 1939",
+  "la": 48.150919,
+  "ln": 11.576685,
+  "district": "מקסוורשטאדט ורובע המוזיאונים",
+  "center": 1,
+  "osm_tags": {
+   "description": "Neonröhren-Installation an einer Hausfassade die täglich um 21:20 den Schriftzug \"8. November 1939\" darstellt",
+   "historic": "memorial",
+   "memorial": "sculpture",
+   "name": "8. November 1939",
+   "opening_hours": "Mo-Su 21:20-21:21",
+   "reg_name": "Georg-Elser-Denkmal",
+   "wikidata": "Q270746",
+   "wikipedia": "de:8. November 1939 (Denkmal)"
+  },
+  "wikidata": {
+   "id": "Q270746",
+   "he": "",
+   "en": "",
+   "de": "",
+   "desc": "",
+   "wikipedia_in": []
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "Ludwig Maximilian University and the White Rose memorial (220 מ')"
+ },
+ {
+  "k": "n2124707411",
+  "name": "Aglaia",
+  "la": 48.149405,
+  "ln": 11.571517,
+  "district": "מקסוורשטאדט ורובע המוזיאונים",
+  "center": 1,
+  "osm_tags": {
+   "artist:wikidata": "Q875794",
+   "artist_name": "Toni Stadler",
+   "artwork_type": "sculpture",
+   "name": "Aglaia",
+   "tourism": "artwork",
+   "wikidata": "Q33132511"
+  },
+  "wikidata": {
+   "id": "Q33132511",
+   "he": "",
+   "en": "",
+   "de": "",
+   "desc": "",
+   "wikipedia_in": []
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "Neue Pinakothek (70 מ')"
+ },
+ {
+  "k": "n6258685393",
+  "name": "Allegorie der Lehre",
+  "la": 48.15602,
+  "ln": 11.582578,
+  "district": "מקסוורשטאדט ורובע המוזיאונים",
+  "center": 1,
+  "osm_tags": {
+   "artist_name": "Jürgen Goertz",
+   "artwork_type": "sculpture",
+   "name": "Allegorie der Lehre",
+   "name:de": "Allegorie der Lehre",
+   "subject:wikidata": "Q1717203",
+   "tourism": "artwork",
+   "wikidata": "Q61450025"
+  },
+  "wikidata": {
+   "id": "Q61450025",
+   "he": "",
+   "en": "",
+   "de": "",
+   "desc": "",
+   "wikipedia_in": []
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "Walking Man (Borofsky) and Münchner Freiheit (129 מ')"
+ },
+ {
+  "k": "n6228870188",
+  "name": "Anton Ažbe",
+  "la": 48.155127,
+  "ln": 11.581114,
+  "district": "מקסוורשטאדט ורובע המוזיאונים",
+  "center": 1,
+  "osm_tags": {
+   "historic": "memorial",
+   "inscription": "ANTON AŽBE 1862 • 1905",
+   "memorial": "bust",
+   "name": "Anton Ažbe",
+   "wikidata": "Q61449443"
+  },
+  "wikidata": {
+   "id": "Q61449443",
+   "he": "",
+   "en": "",
+   "de": "",
+   "desc": "",
+   "wikipedia_in": []
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "Academy of Fine Arts Munich (125 מ')"
+ },
+ {
+  "k": "w1578568411",
+  "name": "Die Schwarze Liste",
+  "la": 48.145428,
+  "ln": 11.565096,
+  "district": "מקסוורשטאדט ורובע המוזיאונים",
+  "center": 1,
+  "osm_tags": {
+   "area": "yes",
+   "artist:wikidata": "Q695080",
+   "artist_name": "Arnold Dreyblatt",
+   "artwork_type": "installation",
+   "material": "stone",
+   "name": "Die Schwarze Liste",
+   "start_date": "06.05.2021",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "State Collections of Antiquities (Antikensammlungen) (33 מ')"
+ },
+ {
+  "k": "n1318875603",
+  "name": "Eulenbrunnen",
+  "la": 48.150431,
+  "ln": 11.579879,
+  "district": "מקסוורשטאדט ורובע המוזיאונים",
+  "center": 1,
+  "osm_tags": {
+   "amenity": "fountain",
+   "name": "Eulenbrunnen",
+   "wikidata": "Q98739525"
+  },
+  "wikidata": {
+   "id": "Q98739525",
+   "he": "",
+   "en": "",
+   "de": "",
+   "desc": "",
+   "wikipedia_in": []
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "Ludwig Maximilian University and the White Rose memorial (6 מ')"
+ },
+ {
+  "k": "n10992035307",
+  "name": "Exzentrische Pyramide",
+  "la": 48.148837,
+  "ln": 11.579213,
+  "district": "מקסוורשטאדט ורובע המוזיאונים",
+  "center": 1,
+  "osm_tags": {
+   "artist:wikidata": "Q187683",
+   "artist_name": "Alf Lechner",
+   "name": "Exzentrische Pyramide",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Ludwigskirche (138 מ')"
+ },
+ {
+  "k": "n518758685",
+  "name": "Fischmarktbrunnen",
+  "la": 48.150419,
+  "ln": 11.557824,
+  "district": "מקסוורשטאדט ורובע המוזיאונים",
+  "center": 1,
+  "osm_tags": {
+   "amenity": "fountain",
+   "drinking_water": "no",
+   "name": "Fischmarktbrunnen",
+   "wikidata": "Q41180423"
+  },
+  "wikidata": {
+   "id": "Q41180423",
+   "he": "",
+   "en": "",
+   "de": "",
+   "desc": "",
+   "wikipedia_in": []
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "Löwenbräukeller (258 מ')"
+ },
+ {
+  "k": "n9970250011",
+  "name": "Franziskusbrunnen",
+  "la": 48.15585,
+  "ln": 11.565968,
+  "district": "מקסוורשטאדט ורובע המוזיאונים",
+  "center": 1,
+  "osm_tags": {
+   "amenity": "fountain",
+   "architect": "Josef Erber",
+   "drinking_water": "no",
+   "fountain": "decorative",
+   "lit": "no",
+   "name": "Franziskusbrunnen",
+   "start_date": "1961",
+   "wikidata": "Q14756818"
+  },
+  "wikidata": {
+   "id": "Q14756818",
+   "he": "",
+   "en": "",
+   "de": "",
+   "desc": "",
+   "wikipedia_in": []
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "Old Northern Cemetery (Alter Nördlicher Friedhof) (373 מ')"
+ },
+ {
+  "k": "n9195321683",
+  "name": "Gefallene kgl. bayr. 23. Feldartillerieregiments",
+  "la": 48.148704,
+  "ln": 11.580973,
+  "district": "מקסוורשטאדט ורובע המוזיאונים",
+  "center": 1,
+  "osm_tags": {
+   "historic": "memorial",
+   "inscription": "Dem Gedenken\n    an die im Kriege\n    1914-1918\n    Gefallenen\n    des ehem. kgl. bayr. 23.\n    Feldartillerieregiments",
+   "material": "stone",
+   "memorial": "war_memorial",
+   "name": "Gefallene kgl. bayr. 23. Feldartillerieregiments"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Ludwigskirche (24 מ')"
+ },
+ {
+  "k": "n975224539",
+  "name": "Große Biga",
+  "la": 48.148827,
+  "ln": 11.569827,
+  "district": "מקסוורשטאדט ורובע המוזיאונים",
+  "center": 1,
+  "osm_tags": {
+   "artist:wikidata": "Q524205",
+   "artist_name": "Fritz Koenig",
+   "artwork_type": "sculpture",
+   "name": "Große Biga",
+   "tourism": "artwork",
+   "wikidata": "Q162023",
+   "wikipedia": "de:Große Biga"
+  },
+  "wikidata": {
+   "id": "Q162023",
+   "he": "",
+   "en": "",
+   "de": "",
+   "desc": "",
+   "wikipedia_in": []
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "Mineralogical Museum (Museum Reich der Kristalle) (58 מ')"
+ },
+ {
+  "k": "n13675918768",
+  "name": "Große Kugelkopfsäule",
+  "la": 48.14659,
+  "ln": 11.563965,
+  "district": "מקסוורשטאדט ורובע המוזיאונים",
+  "center": 1,
+  "osm_tags": {
+   "artist:wikidata": "Q524205",
+   "artist_name": "Fritz Koenig",
+   "artwork_type": "sculpture",
+   "material": "bronze",
+   "name": "Große Kugelkopfsäule",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Lenbachhaus (50 מ')"
+ }
+]

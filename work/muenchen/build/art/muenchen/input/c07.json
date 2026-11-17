@@ -1,0 +1,1009 @@
+[
+ {
+  "k": "n4913236032",
+  "name": "Christophorus",
+  "la": 48.143377,
+  "ln": 11.585948,
+  "district": "להל, מקסימיליאנשטראסה ובוגנהאוזן",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q877158",
+   "artist_name": "Josef Henselmann",
+   "artwork_subject": "religious",
+   "artwork_type": "statue",
+   "height": "2.6",
+   "material": "bronze",
+   "name": "Christophorus",
+   "start_date": "1971",
+   "tourism": "artwork",
+   "wikidata": "Q110057788"
+  },
+  "wikidata": {
+   "id": "Q110057788",
+   "he": "",
+   "en": "Christophorus by Josef Henselmann",
+   "de": "Christophorus",
+   "desc": "statue in Munich, Germany",
+   "wikipedia_in": [
+    "co"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "Haus der Kunst (69 מ')"
+ },
+ {
+  "k": "w340139012",
+  "name": "Fischerbuberl",
+  "la": 48.134475,
+  "ln": 11.595933,
+  "district": "להל, מקסימיליאנשטראסה ובוגנהאוזן",
+  "center": 0,
+  "osm_tags": {
+   "amenity": "fountain",
+   "artist_name": "Ignatius Taschner",
+   "drinking_water": "yes",
+   "heritage": "4",
+   "heritage:operator": "BLfD",
+   "name": "Fischerbuberl",
+   "ref:BLfD": "D-1-62-000-5479",
+   "start_date": "1910",
+   "wikidata": "Q727564",
+   "wikipedia": "de:Fischerbuberl-Brunnen"
+  },
+  "wikidata": {
+   "id": "Q727564",
+   "he": "",
+   "en": "",
+   "de": "",
+   "desc": "",
+   "wikipedia_in": []
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "Maximilianeum (Bavarian Parliament) (244 מ')"
+ },
+ {
+  "k": "n5487221805",
+  "name": "Franziskus als Friedensbote",
+  "la": 48.140289,
+  "ln": 11.586381,
+  "district": "להל, מקסימיליאנשטראסה ובוגנהאוזן",
+  "center": 0,
+  "osm_tags": {
+   "historic": "memorial",
+   "memorial": "statue",
+   "name": "Franziskus als Friedensbote",
+   "wikidata": "Q15810348",
+   "wikipedia": "de:Franziskus als Friedensbote"
+  },
+  "wikidata": {
+   "id": "Q15810348",
+   "he": "",
+   "en": "",
+   "de": "",
+   "desc": "",
+   "wikipedia_in": []
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "Lehel quarter and St. Anna (35 מ')"
+ },
+ {
+  "k": "n2399155528",
+  "name": "Ludwig II",
+  "la": 48.138557,
+  "ln": 11.596893,
+  "district": "להל, מקסימיליאנשטראסה ובוגנהאוזן",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Anton Rückel",
+   "description": "Ludwig II, am Sockel 4 Tafeln mit geplanten oder gebauten Bauwerken",
+   "historic": "memorial",
+   "memorial": "statue",
+   "name": "Ludwig II",
+   "start_date": "1967"
+  },
+  "wikidata": null,
+  "b": 1,
+  "w": 0,
+  "nearest_guide_site": "Maximiliansanlagen (215 מ')"
+ },
+ {
+  "k": "n315914756",
+  "name": "Luitpold Prinzregent von Bayern",
+  "la": 48.142665,
+  "ln": 11.591583,
+  "district": "להל, מקסימיליאנשטראסה ובוגנהאוזן",
+  "center": 0,
+  "osm_tags": {
+   "historic": "memorial",
+   "memorial": "statue",
+   "name": "Luitpold Prinzregent von Bayern",
+   "wikidata": "Q98643149"
+  },
+  "wikidata": {
+   "id": "Q98643149",
+   "he": "",
+   "en": "",
+   "de": "",
+   "desc": "",
+   "wikipedia_in": []
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "Bavarian National Museum (85 מ')"
+ },
+ {
+  "k": "n6700819685",
+  "name": "Löwin",
+  "la": 48.143339,
+  "ln": 11.585559,
+  "district": "להל, מקסימיליאנשטראסה ובוגנהאוזן",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q2642089",
+   "artist_name": "Alexander Fischer",
+   "artwork_subject": "figurative",
+   "artwork_type": "statue",
+   "material": "bronze",
+   "name": "Löwin",
+   "start_date": "1968",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 1,
+  "w": 0,
+  "nearest_guide_site": "Haus der Kunst (79 מ')"
+ },
+ {
+  "k": "w375053068",
+  "name": "Maxmonument",
+  "la": 48.137566,
+  "ln": 11.588063,
+  "district": "להל, מקסימיליאנשטראסה ובוגנהאוזן",
+  "center": 0,
+  "osm_tags": {
+   "alt_name": "Max-II-Denkmal",
+   "artist": "Caspar von Zumbusch",
+   "artist:wikidata": "Q268977",
+   "building": "yes",
+   "height": "3",
+   "heritage": "4",
+   "heritage:operator": "BLfD",
+   "historic": "memorial",
+   "memorial": "statue",
+   "name": "Maxmonument",
+   "name:ru": "Памятник Баварскому королю Максимиллиану 2",
+   "ref:BLfD": "D-1-62-000-4464",
+   "start_date": "1875",
+   "toilets:wheelchair": "no",
+   "wikidata": "Q1718380",
+   "wikipedia": "de:Maxmonument"
+  },
+  "wikidata": {
+   "id": "Q1718380",
+   "he": "",
+   "en": "",
+   "de": "",
+   "desc": "",
+   "wikipedia_in": []
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "Museum Five Continents (Museum Fünf Kontinente) (155 מ')"
+ },
+ {
+  "k": "n4837373791",
+  "name": "Pallas Athene",
+  "la": 48.136863,
+  "ln": 11.592335,
+  "district": "להל, מקסימיליאנשטראסה ובוגנהאוזן",
+  "center": 0,
+  "osm_tags": {
+   "artwork_type": "statue",
+   "name": "Pallas Athene",
+   "subject:wikidata": "Q37122",
+   "tourism": "artwork",
+   "wikidata": "Q113686445"
+  },
+  "wikidata": {
+   "id": "Q113686445",
+   "he": "",
+   "en": "Pallas Athene",
+   "de": "Pallas Athene",
+   "desc": "statue in Munich",
+   "wikipedia_in": [
+    "co"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "Praterinsel (118 מ')"
+ },
+ {
+  "k": "n259828094",
+  "name": "Richard Wagner",
+  "la": 48.139572,
+  "ln": 11.604792,
+  "district": "להל, מקסימיליאנשטראסה ובוגנהאוזן",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q1599156",
+   "artist_name": "Heinrich Waderé",
+   "heritage": "4",
+   "heritage:operator": "BLfD",
+   "historic": "memorial",
+   "memorial": "bust",
+   "name": "Richard Wagner",
+   "ref:BLfD": "D-1-62-000-5570",
+   "start_date": "1913",
+   "wikidata": "Q2148912",
+   "wikipedia": "de:Richard-Wagner-Denkmal (München)"
+  },
+  "wikidata": {
+   "id": "Q2148912",
+   "he": "",
+   "en": "",
+   "de": "",
+   "desc": "",
+   "wikipedia_in": []
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "Prinzregententheater (87 מ')"
+ },
+ {
+  "k": "n292679715",
+  "name": "Rumford-Denkmal",
+  "la": 48.143977,
+  "ln": 11.589157,
+  "district": "להל, מקסימיליאנשטראסה ובוגנהאוזן",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q1447445",
+   "artist_name": "Franz Jakob Schwanthaler",
+   "heritage": "4",
+   "heritage:operator": "BLfD",
+   "historic": "memorial",
+   "memorial": "relief",
+   "name": "Rumford-Denkmal",
+   "ref:BLfD": "D-1-62-000-1545",
+   "start_date": "1796",
+   "website": "https://www.muenchenwiki.de/wiki/Rumford-Denkmal",
+   "wikidata": "Q98739330"
+  },
+  "wikidata": {
+   "id": "Q98739330",
+   "he": "",
+   "en": "",
+   "de": "",
+   "desc": "",
+   "wikipedia_in": []
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "Eisbach wave surfers (106 מ')"
+ },
+ {
+  "k": "n291364409",
+  "name": "Schnitterin-Brunnen",
+  "la": 48.139286,
+  "ln": 11.588845,
+  "district": "להל, מקסימיליאנשטראסה ובוגנהאוזן",
+  "center": 0,
+  "osm_tags": {
+   "amenity": "fountain",
+   "artist_name": "Erwin Kunz",
+   "drinking_water": "no",
+   "inscription": "gestaltet 1905 von Erwin Kunz. Der lieben Stadt München gestiftet von Karl Waitzfelder, Rentier",
+   "name": "Schnitterin-Brunnen",
+   "start_date": "1905",
+   "wikidata": "Q2248057",
+   "wikipedia": "de:Schnitterinbrunnen"
+  },
+  "wikidata": {
+   "id": "Q2248057",
+   "he": "",
+   "en": "",
+   "de": "",
+   "desc": "",
+   "wikipedia_in": []
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "Maximilianstraße (127 מ')"
+ },
+ {
+  "k": "n4762835545",
+  "name": "St. Nepomuk",
+  "la": 48.136789,
+  "ln": 11.589818,
+  "district": "להל, מקסימיליאנשטראסה ובוגנהאוזן",
+  "center": 0,
+  "osm_tags": {
+   "historic": "memorial",
+   "memorial": "statue",
+   "name": "St. Nepomuk",
+   "start_date": "1857",
+   "wikidata": "Q98644265"
+  },
+  "wikidata": {
+   "id": "Q98644265",
+   "he": "",
+   "en": "",
+   "de": "",
+   "desc": "",
+   "wikipedia_in": []
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "Praterinsel (69 מ')"
+ },
+ {
+  "k": "n9908023800",
+  "name": "Vereinigung Bayer.Res.Rgt.1",
+  "la": 48.133955,
+  "ln": 11.59813,
+  "district": "להל, מקסימיליאנשטראסה ובוגנהאוזן",
+  "center": 0,
+  "osm_tags": {
+   "historic": "memorial",
+   "inscription": "Die Vereinigung Bayer.Res.Rgt.1 ihrem gefallenen Komandeur und seinen 2504-Kameraden zum ehrenden Gedächtnis errichtet Anno Domini 1923 In hoc vincis",
+   "material": "stone",
+   "memorial": "war_memorial",
+   "memorial:conflict": "WW1",
+   "name": "Vereinigung Bayer.Res.Rgt.1",
+   "start_date": "1923"
+  },
+  "wikidata": null,
+  "b": 1,
+  "w": 0,
+  "nearest_guide_site": "Maximilianeum (Bavarian Parliament) (375 מ')"
+ },
+ {
+  "k": "n9426522499",
+  "name": "1870-71",
+  "la": 48.140163,
+  "ln": 11.587089,
+  "district": "להל, מקסימיליאנשטראסה ובוגנהאוזן",
+  "center": 0,
+  "osm_tags": {
+   "description": "Schlichte Marmortafel an der Außenwand des Turmes mit den Namen Gefallener.",
+   "historic": "memorial",
+   "inscription": "Zum Andenken der Helden der St. Anna Pfarrei welche für das Vaterland im Krieg gegen Frankreich 1870/71 den Tod fanden“",
+   "material": "marble",
+   "memorial": "war_memorial",
+   "memorial:conflict": "Franco-Prussian_War",
+   "name": "1870-71"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Maximilianstraße (73 מ')"
+ },
+ {
+  "k": "n9908023799",
+  "name": "1870/71",
+  "la": 48.133892,
+  "ln": 11.598007,
+  "district": "להל, מקסימיליאנשטראסה ובוגנהאוזן",
+  "center": 0,
+  "osm_tags": {
+   "historic": "memorial",
+   "inscription": "1870/71: Dem Andenken der im Kriege gegen Frankreich im Jahre 1870/71 gefallenen Heldensöhne der Vorstadt Haidhausen (Namen) R.I.P.",
+   "material": "stone",
+   "memorial": "war_memorial",
+   "memorial:conflict": "Franco-Prussian_War",
+   "name": "1870/71"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Maximilianeum (Bavarian Parliament) (375 מ')"
+ },
+ {
+  "k": "n9193215528",
+  "name": "1914-18",
+  "la": 48.140218,
+  "ln": 11.58719,
+  "district": "להל, מקסימיליאנשטראסה ובוגנהאוזן",
+  "center": 0,
+  "osm_tags": {
+   "description": "Aufwändig gestaltete Namenstafeln mit den Namen Gefallener aus dem Ersten Weltkrieg.",
+   "historic": "memorial",
+   "inscription": "Den Toten des Weltkrieges: XIII. Stadtbezirk",
+   "material": "stone",
+   "memorial": "war_memorial",
+   "memorial:conflict": "WW1",
+   "name": "1914-18"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Maximilianstraße (80 מ')"
+ },
+ {
+  "k": "n9428566887",
+  "name": "1939-45",
+  "la": 48.140174,
+  "ln": 11.587049,
+  "district": "להל, מקסימיליאנשטראסה ובוגנהאוזן",
+  "center": 0,
+  "osm_tags": {
+   "description": "Kapelle mit unzähligen Namen Gefallener.",
+   "historic": "memorial",
+   "memorial": "war_memorial",
+   "name": "1939-45"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Maximilianstraße (74 מ')"
+ },
+ {
+  "k": "n11375508824",
+  "name": "Amazone",
+  "la": 48.140735,
+  "ln": 11.599416,
+  "district": "להל, מקסימיליאנשטראסה ובוגנהאוזן",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Franz von Stuck",
+   "artwork_subject": "figurative",
+   "artwork_type": "sculpture",
+   "name": "Amazone",
+   "start_date": "1935",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Villa Stuck (31 מ')"
+ },
+ {
+  "k": "n9957892455",
+  "name": "Auffliegender Vogel",
+  "la": 48.152001,
+  "ln": 11.620409,
+  "district": "להל, מקסימיליאנשטראסה ובוגנהאוזן",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q94516047",
+   "artist_name": "Roland Friederichsen",
+   "artwork_subject": "figurative",
+   "artwork_type": "sculpture",
+   "material": "bronze",
+   "name": "Auffliegender Vogel",
+   "start_date": "1984",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Bogenhausen and Prinzregentenstraße (1304 מ')"
+ },
+ {
+  "k": "n12754724260",
+  "name": "Bild des Hoffens",
+  "la": 48.154279,
+  "ln": 11.630018,
+  "district": "להל, מקסימיליאנשטראסה ובוגנהאוזן",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Heinrich Kirchner",
+   "artwork_subject": "figurative",
+   "artwork_type": "sculpture",
+   "name": "Bild des Hoffens",
+   "start_date": "1974",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Bogenhausen and Prinzregentenstraße (1988 מ')"
+ },
+ {
+  "k": "n9913899192",
+  "name": "Blauer Turm",
+  "la": 48.137192,
+  "ln": 11.603019,
+  "district": "להל, מקסימיליאנשטראסה ובוגנהאוזן",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Heinz Pfahler",
+   "artwork_subject": "abstract",
+   "artwork_type": "sculpture",
+   "colour": "blue",
+   "description": "\"Blauer Turm\" Anteil des Kunstwerks \"Blauer und Gelber Turm\"; künstlerisch gestalteter Belüftungsturm für unterirdisch gelegene Gebäudeteile",
+   "material": "glass",
+   "name": "Blauer Turm",
+   "start_date": "1998",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Prinzregententheater (265 מ')"
+ },
+ {
+  "k": "w491668549",
+  "name": "Bürgermeister-Erhardt-Brunnen",
+  "la": 48.137081,
+  "ln": 11.59134,
+  "district": "להל, מקסימיליאנשטראסה ובוגנהאוזן",
+  "center": 0,
+  "osm_tags": {
+   "alt_name": "Erhardt-Brunnen",
+   "amenity": "fountain",
+   "description:material": "Nummulitenkalk (Helvetikum) aka \"Enzenauer Marmor\"",
+   "heritage": "4",
+   "heritage:operator": "BLfD",
+   "inscription": "Dr. A. v. Erhardt I. Bürgermeister 1870-88",
+   "layer": "1",
+   "material": "limestone",
+   "name": "Bürgermeister-Erhardt-Brunnen",
+   "ref:BLfD": "D-1-62-000-4417",
+   "start_date": "1893",
+   "wikidata": "Q98740060"
+  },
+  "wikidata": {
+   "id": "Q98740060",
+   "he": "",
+   "en": "",
+   "de": "",
+   "desc": "",
+   "wikipedia_in": []
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "Praterinsel (79 מ')"
+ },
+ {
+  "k": "n1774430960",
+  "name": "Denkmal zu Ehren von Dr. Paul Busching",
+  "la": 48.143302,
+  "ln": 11.617132,
+  "district": "להל, מקסימיליאנשטראסה ובוגנהאוזן",
+  "center": 0,
+  "osm_tags": {
+   "historic": "memorial",
+   "inscription": "Zum Gedenken an den Vorkämpfer der gemeinnützigen Wohnungswirtschaft Prof. Dr. Paul Busching geb. 2.3.1877 gest. 25.4.1945",
+   "memorial": "sculpture",
+   "name": "Denkmal zu Ehren von Dr. Paul Busching"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Bogenhausen and Prinzregentenstraße (846 מ')"
+ },
+ {
+  "k": "n9904013924",
+  "name": "Es war einmal ein Baum",
+  "la": 48.152024,
+  "ln": 11.626102,
+  "district": "להל, מקסימיליאנשטראסה ובוגנהאוזן",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Tim Bennett",
+   "artwork_subject": "figurative",
+   "artwork_type": "sculpture",
+   "material": "bronze",
+   "name": "Es war einmal ein Baum",
+   "start_date": "2011",
+   "tourism": "artwork",
+   "url": "https://quivid.de/es-war-einmal-ein-baum/2344/"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Bogenhausen and Prinzregentenstraße (1633 מ')"
+ },
+ {
+  "k": "n2524542701",
+  "name": "Franz von Kobell",
+  "la": 48.13495,
+  "ln": 11.594373,
+  "district": "להל, מקסימיליאנשטראסה ובוגנהאוזן",
+  "center": 0,
+  "osm_tags": {
+   "commemorates:wikidata": "Q76459",
+   "historic": "memorial",
+   "inscription": "Dem Mineralogen und Volksdichter Franz von Kobell 19.7.1803 - 11.11.1882 | Errichtet 1896 |",
+   "memorial": "bust",
+   "name": "Franz von Kobell"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Maximilianeum (Bavarian Parliament) (172 מ')"
+ },
+ {
+  "k": "n871941222",
+  "name": "Fremde Blume",
+  "la": 48.141316,
+  "ln": 11.589656,
+  "district": "להל, מקסימיליאנשטראסה ובוגנהאוזן",
+  "center": 0,
+  "osm_tags": {
+   "amenity": "fountain",
+   "artist:wikidata": "Q665809",
+   "artist_name": "Hans Rucker",
+   "height": "2",
+   "material": "bronze",
+   "name": "Fremde Blume",
+   "start_date": "1966"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Bavarian National Museum (251 מ')"
+ },
+ {
+  "k": "w48441018",
+  "name": "Friedensengel",
+  "la": 48.141344,
+  "ln": 11.596993,
+  "district": "להל, מקסימיליאנשטראסה ובוגנהאוזן",
+  "center": 0,
+  "osm_tags": {
+   "building": "yes",
+   "historic": "memorial",
+   "memorial": "obelisk",
+   "name": "Friedensengel",
+   "name:de": "Friedensengel",
+   "name:es": "El Ángel de la Paz",
+   "tourism": "attraction",
+   "wikidata": "Q504642",
+   "wikipedia": "de:Friedensdenkmal (München)"
+  },
+  "wikidata": {
+   "id": "Q504642",
+   "he": "",
+   "en": "",
+   "de": "",
+   "desc": "",
+   "wikipedia_in": []
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "Maximiliansanlagen (95 מ')"
+ },
+ {
+  "k": "n11739178155",
+  "name": "Galilei Galileo",
+  "la": 48.14474,
+  "ln": 11.607364,
+  "district": "להל, מקסימיליאנשטראסה ובוגנהאוזן",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Matthias Rodach",
+   "historic": "memorial",
+   "inscription": "Und sie bewegt sich doch",
+   "material": "stone",
+   "memorial": "bust",
+   "name": "Galilei Galileo",
+   "start_date": "2009"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Bogenhausen and Prinzregentenstraße (163 מ')"
+ },
+ {
+  "k": "n9924837379",
+  "name": "Gisela-Brunnen",
+  "la": 48.139966,
+  "ln": 11.605568,
+  "district": "להל, מקסימיליאנשטראסה ובוגנהאוזן",
+  "center": 0,
+  "osm_tags": {
+   "amenity": "fountain",
+   "artist:wikidata": "Q1449178",
+   "artist_name": "Klaus Backmund",
+   "drinking_water": "no",
+   "name": "Gisela-Brunnen",
+   "start_date": "1978"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Prinzregententheater (110 מ')"
+ },
+ {
+  "k": "n12754713529",
+  "name": "Großes Liebespaar",
+  "la": 48.154342,
+  "ln": 11.630082,
+  "district": "להל, מקסימיליאנשטראסה ובוגנהאוזן",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Alexander Fischer",
+   "artwork_subject": "figurative",
+   "artwork_type": "sculpture",
+   "name": "Großes Liebespaar",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "English Garden (Englischer Garten) (1989 מ')"
+ },
+ {
+  "k": "n10992039525",
+  "name": "Guernica",
+  "la": 48.149144,
+  "ln": 11.606108,
+  "district": "להל, מקסימיליאנשטראסה ובוגנהאוזן",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Norbert Tress",
+   "artwork_type": "sculpture",
+   "name": "Guernica",
+   "start_date": "1987",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "St. Georg in Bogenhausen (345 מ')"
+ },
+ {
+  "k": "n2398206368",
+  "name": "Julia",
+  "la": 48.142874,
+  "ln": 11.606978,
+  "district": "להל, מקסימיליאנשטראסה ובוגנהאוזן",
+  "center": 0,
+  "osm_tags": {
+   "artwork_type": "sculpture",
+   "description": "Julia, gestiftet von der Partnerstadt Verona",
+   "name": "Julia",
+   "start_date": "1974",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Bogenhausen and Prinzregentenstraße (271 מ')"
+ },
+ {
+  "k": "n11161447939",
+  "name": "Laudemium-Fisch",
+  "la": 48.133201,
+  "ln": 11.621203,
+  "district": "להל, מקסימיליאנשטראסה ובוגנהאוזן",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Ute Lechner;Hans Thurner",
+   "artwork_type": "sculpture",
+   "material": "steel;bronze",
+   "name": "Laudemium-Fisch",
+   "start_date": "2000",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Prinzregententheater (1238 מ')"
+ },
+ {
+  "k": "n11161500413",
+  "name": "Laudemium-Geweih",
+  "la": 48.133178,
+  "ln": 11.621287,
+  "district": "להל, מקסימיליאנשטראסה ובוגנהאוזן",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Ute Lechner;Hans Thurner",
+   "artwork_type": "sculpture",
+   "material": "steel;bronze",
+   "name": "Laudemium-Geweih",
+   "start_date": "2000",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Prinzregententheater (1244 מ')"
+ },
+ {
+  "k": "n11161469434",
+  "name": "Laudemium-Äpfel",
+  "la": 48.133215,
+  "ln": 11.621304,
+  "district": "להל, מקסימיליאנשטראסה ובוגנהאוזן",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q137132424; Q121434869",
+   "artist_name": "Ute Lechner;Hans Thurner",
+   "artwork_type": "sculpture",
+   "material": "steel;bronze",
+   "name": "Laudemium-Äpfel",
+   "start_date": "2000",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Prinzregententheater (1243 מ')"
+ },
+ {
+  "k": "n12754749420",
+  "name": "Liebespaar",
+  "la": 48.154301,
+  "ln": 11.630178,
+  "district": "להל, מקסימיליאנשטראסה ובוגנהאוזן",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Alexander Fischer",
+   "artwork_subject": "figurative",
+   "artwork_type": "sculpture",
+   "material": "bronze",
+   "name": "Liebespaar",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "English Garden (Englischer Garten) (1997 מ')"
+ },
+ {
+  "k": "n10012936987",
+  "name": "Nashörner",
+  "la": 48.150849,
+  "ln": 11.622974,
+  "district": "להל, מקסימיליאנשטראסה ובוגנהאוזן",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q94516047",
+   "artist_name": "Roland Friederichsen",
+   "artwork_subject": "figurative",
+   "artwork_type": "sculpture",
+   "material": "bronze",
+   "name": "Nashörner",
+   "start_date": "1984",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Bogenhausen and Prinzregentenstraße (1383 מ')"
+ },
+ {
+  "k": "n871941291",
+  "name": "Philipp Apian",
+  "la": 48.141627,
+  "ln": 11.590224,
+  "district": "להל, מקסימיליאנשטראסה ובוגנהאוזן",
+  "center": 0,
+  "osm_tags": {
+   "artwork_type": "bust",
+   "historic": "memorial",
+   "inscription": "PHILIPP APIAN 1531 – 1589 BEGRÜNDER DER BAYERISCHEN KARTOGRAPHIE",
+   "material": "bronze",
+   "memorial": "bust",
+   "name": "Philipp Apian",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Bavarian National Museum (205 מ')"
+ },
+ {
+  "k": "w77649074",
+  "name": "Sankt-Anna-Brunnen",
+  "la": 48.14001,
+  "ln": 11.586949,
+  "district": "להל, מקסימיליאנשטראסה ובוגנהאוזן",
+  "center": 0,
+  "osm_tags": {
+   "amenity": "fountain",
+   "drinking_water": "no",
+   "heritage": "4",
+   "heritage:operator": "BLfD",
+   "name": "Sankt-Anna-Brunnen",
+   "ref:BLfD": "D-1-62-000-6061",
+   "wikidata": "Q98643228"
+  },
+  "wikidata": {
+   "id": "Q98643228",
+   "he": "",
+   "en": "",
+   "de": "",
+   "desc": "",
+   "wikipedia_in": []
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "Maximilianstraße (56 מ')"
+ },
+ {
+  "k": "n615223011",
+  "name": "Soldner-Denkmal",
+  "la": 48.141112,
+  "ln": 11.591145,
+  "district": "להל, מקסימיליאנשטראסה ובוגנהאוזן",
+  "center": 0,
+  "osm_tags": {
+   "description": "Inschrift Übersetzung: Die Gestirne habe ich vermessen und das Land Bayern",
+   "historic": "memorial",
+   "inscription": "caelum dimensuravi tellusque Bavariae",
+   "memorial": "sculpture",
+   "name": "Soldner-Denkmal",
+   "wikidata": "Q98740994"
+  },
+  "wikidata": {
+   "id": "Q98740994",
+   "he": "",
+   "en": "",
+   "de": "",
+   "desc": "",
+   "wikipedia_in": []
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "Sammlung Schack (219 מ')"
+ },
+ {
+  "k": "n9387864516",
+  "name": "Veteranenverein",
+  "la": 48.133863,
+  "ln": 11.597988,
+  "district": "להל, מקסימיליאנשטראסה ובוגנהאוזן",
+  "center": 0,
+  "osm_tags": {
+   "historic": "memorial",
+   "inscription": "Veteranenverein:Ludwig II. Protector d. B. Vet. Krieger u. Kampfgenoss. B. + 1886Der Veteranen Verein Haidhausen seinen",
+   "material": "stone",
+   "memorial": "war_memorial",
+   "memorial:conflict": "Franco-Prussian_War",
+   "name": "Veteranenverein"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Maximilianeum (Bavarian Parliament) (376 מ')"
+ },
+ {
+  "k": "n649286258",
+  "name": "Zylinderbrunnen",
+  "la": 48.135045,
+  "ln": 11.597053,
+  "district": "להל, מקסימיליאנשטראסה ובוגנהאוזן",
+  "center": 0,
+  "osm_tags": {
+   "amenity": "fountain",
+   "artist_name": "Franz Schörg",
+   "drinking_water": "no",
+   "name": "Zylinderbrunnen",
+   "start_date": "1929"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Maximilianeum (Bavarian Parliament) (237 מ')"
+ },
+ {
+  "k": "n12427049203",
+  "name": "i DNA",
+  "la": 48.136263,
+  "ln": 11.601803,
+  "district": "להל, מקסימיליאנשטראסה ובוגנהאוזן",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q321075",
+   "artist_name": "Empfangshalle – Künstlerduo Corbinian Böhm und Michael Gruber",
+   "artwork_type": "sculpture",
+   "material": "concrete",
+   "name": "i DNA",
+   "tourism": "artwork",
+   "website": "https://www.stbam2.bayern.de/mam/service/dokumentation_wettbewerb_kunst_am_bau_translatum.pdf"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Prinzregententheater (397 מ')"
+ }
+]

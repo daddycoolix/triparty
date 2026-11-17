@@ -1,0 +1,644 @@
+[
+ {
+  "k": "n8075117774",
+  "name": "2 Sphingen - apokalyptische Tiere",
+  "la": 48.174898,
+  "ln": 11.599315,
+  "district": "שוואבינג והגן האנגלי",
+  "center": 0,
+  "osm_tags": {
+   "artwork_type": "sculpture",
+   "material": "stone",
+   "name": "2 Sphingen - apokalyptische Tiere",
+   "tourism": "artwork",
+   "wikidata": "Q1030655",
+   "wikipedia": "de:Nordfriedhof (München)"
+  },
+  "wikidata": {
+   "id": "Q1030655",
+   "he": "בית הקברות הצפוני של מינכן",
+   "en": "Nordfriedhof",
+   "de": "Nordfriedhof",
+   "desc": "cemetery in Munich, Germany",
+   "wikipedia_in": [
+    "co",
+    "de",
+    "en",
+    "fr",
+    "pl",
+    "pt",
+    "zh"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "New Jewish Cemetery (Garchinger Straße) (1081 מ')"
+ },
+ {
+  "k": "n518724545",
+  "name": "Berolinabrunnen",
+  "la": 48.169717,
+  "ln": 11.589642,
+  "district": "שוואבינג והגן האנגלי",
+  "center": 0,
+  "osm_tags": {
+   "amenity": "fountain",
+   "artist_name": "Andreas Rauch",
+   "drinking_water": "no",
+   "name": "Berolinabrunnen",
+   "start_date": "1980",
+   "wikidata": "Q826982",
+   "wikipedia": "de:Berolinabrunnen"
+  },
+  "wikidata": {
+   "id": "Q826982",
+   "he": "",
+   "en": "",
+   "de": "",
+   "desc": "",
+   "wikipedia_in": []
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "Schwabing and Leopoldstraße (998 מ')"
+ },
+ {
+  "k": "n8657122317",
+  "name": "Daphne",
+  "la": 48.161112,
+  "ln": 11.619718,
+  "district": "שוואבינג והגן האנגלי",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q509258",
+   "artwork_type": "statue",
+   "name": "Daphne",
+   "tourism": "artwork",
+   "website": "https://nordostkultur-muenchen.de/architektur/kunst-im-oeffentlichen-raum-im-muenchner-nordosten/skulptur-daphne-daphne-brunnen/",
+   "wikidata": "Q61454338"
+  },
+  "wikidata": {
+   "id": "Q61454338",
+   "he": "",
+   "en": "",
+   "de": "",
+   "desc": "",
+   "wikipedia_in": []
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "English Garden (Englischer Garten) (996 מ')"
+ },
+ {
+  "k": "n967220644",
+  "name": "Ehrenhain für Luftkriegsopfer",
+  "la": 48.176927,
+  "ln": 11.603212,
+  "district": "שוואבינג והגן האנגלי",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Prof. Hans Wimmer",
+   "description": "Hier sind 2099 Menschen bestattet. Das Denkmal aus Bronze stammt von dem Bildhauer Prof. Hans Wimmer.",
+   "historic": "memorial",
+   "material": "bronze",
+   "memorial": "war_memorial",
+   "name": "Ehrenhain für Luftkriegsopfer"
+  },
+  "wikidata": null,
+  "b": 1,
+  "w": 0,
+  "nearest_guide_site": "New Jewish Cemetery (Garchinger Straße) (794 מ')"
+ },
+ {
+  "k": "n638976677",
+  "name": "Fischerbrunnen",
+  "la": 48.158699,
+  "ln": 11.586576,
+  "district": "שוואבינג והגן האנגלי",
+  "center": 0,
+  "osm_tags": {
+   "amenity": "fountain",
+   "artist:wikidata": "Q94812752",
+   "artist_name": "Eugen Mayer-Fassold",
+   "drinking_water": "no",
+   "heritage": "4",
+   "heritage:operator": "BLfD",
+   "name": "Fischerbrunnen",
+   "ref:BLfD": "D-1-62-000-4754",
+   "start_date": "1929",
+   "wikidata": "Q41211489"
+  },
+  "wikidata": {
+   "id": "Q41211489",
+   "he": "",
+   "en": "",
+   "de": "",
+   "desc": "",
+   "wikipedia_in": []
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "Schwabing and Leopoldstraße (258 מ')"
+ },
+ {
+  "k": "n5046900823",
+  "name": "Friedensmahnmal",
+  "la": 48.172431,
+  "ln": 11.570897,
+  "district": "שוואבינג והגן האנגלי",
+  "center": 0,
+  "osm_tags": {
+   "ele": "541",
+   "historic": "memorial",
+   "inscription": "Betet und gedenket all der unter den Bergen von Trümmern Verstorbenen. Oh Herr, gib ihnen die ewige Ruhe.",
+   "material": "bronze",
+   "memorial": "war_memorial",
+   "name": "Friedensmahnmal",
+   "start_date": "1958-05-03",
+   "website": "https://www.muenchenwiki.de/wiki/Gedenkkreuz_f%C3%BCr_die_Opfer_der_Bombenangriffe"
+  },
+  "wikidata": null,
+  "b": 1,
+  "w": 0,
+  "nearest_guide_site": "Luitpoldpark and Bamberger Haus (42 מ')"
+ },
+ {
+  "k": "n8811947352",
+  "name": "Friedenssäule",
+  "la": 48.166708,
+  "ln": 11.618758,
+  "district": "שוואבינג והגן האנגלי",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Georg Brenninger",
+   "artwork_type": "sculpture",
+   "material": "bronze",
+   "name": "Friedenssäule",
+   "tourism": "artwork",
+   "wikidata": "Q122781216"
+  },
+  "wikidata": {
+   "id": "Q122781216",
+   "he": "",
+   "en": "",
+   "de": "Friedenssäule",
+   "desc": "Skulptur in München-Bogenhausen",
+   "wikipedia_in": [
+    "co"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "English Garden (Englischer Garten) (865 מ')"
+ },
+ {
+  "k": "n8406186752",
+  "name": "Helmut Fischer und Helmut Dietl",
+  "la": 48.163478,
+  "ln": 11.587388,
+  "district": "שוואבינג והגן האנגלי",
+  "center": 0,
+  "osm_tags": {
+   "artist": "Nicolai Tregor",
+   "artist:wikidata": "Q1747796",
+   "historic": "memorial",
+   "material": "bronze",
+   "memorial": "statue",
+   "name": "Helmut Fischer und Helmut Dietl",
+   "subject:wikidata": "Q45542;Q76446",
+   "wikidata": "Q136702253",
+   "wikipedia": "de:Denkmal für Helmut Fischer und Helmut Dietl"
+  },
+  "wikidata": {
+   "id": "Q136702253",
+   "he": "",
+   "en": "Helmut Fischer and Helmut Dietl memorial",
+   "de": "Denkmal für Helmut Fischer und Helmut Dietl",
+   "desc": "memorial in Munich",
+   "wikipedia_in": [
+    "co",
+    "de"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "Schwabing and Leopoldstraße (290 מ')"
+ },
+ {
+  "k": "n368348701",
+  "name": "Jäger mit Hund",
+  "la": 48.153934,
+  "ln": 11.607484,
+  "district": "שוואבינג והגן האנגלי",
+  "center": 0,
+  "osm_tags": {
+   "heritage": "4",
+   "heritage:operator": "BLfD",
+   "historic": "memorial",
+   "material": "stone",
+   "memorial": "statue",
+   "name": "Jäger mit Hund",
+   "ref:BLfD": "D-1-62-000-7236",
+   "wikidata": "Q41177312"
+  },
+  "wikidata": {
+   "id": "Q41177312",
+   "he": "",
+   "en": "",
+   "de": "",
+   "desc": "",
+   "wikipedia_in": []
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "St. Georg in Bogenhausen (789 מ')"
+ },
+ {
+  "k": "n10013078398",
+  "name": "Löwe \"SWAPO\"",
+  "la": 48.160213,
+  "ln": 11.59132,
+  "district": "שוואבינג והגן האנגלי",
+  "center": 0,
+  "osm_tags": {
+   "artwork_subject": "figurative",
+   "artwork_type": "statue",
+   "material": "stone",
+   "name": "Löwe \"SWAPO\"",
+   "start_date": "1848",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 1,
+  "w": 0,
+  "nearest_guide_site": "Kleinhesseloher See (338 מ')"
+ },
+ {
+  "k": "n12964679953",
+  "name": "Löwin",
+  "la": 48.150744,
+  "ln": 11.58556,
+  "district": "שוואבינג והגן האנגלי",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q873026",
+   "artist:wikipedia": "de:Fritz Behn",
+   "artist_name": "Fritz Behn",
+   "artwork_type": "statue",
+   "material": "bronze",
+   "name": "Löwin",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 1,
+  "w": 0,
+  "nearest_guide_site": "Ludwigstraße and the Siegestor (293 מ')"
+ },
+ {
+  "k": "w99526606",
+  "name": "Mae West",
+  "la": 48.152575,
+  "ln": 11.614319,
+  "district": "שוואבינג והגן האנגלי",
+  "center": 0,
+  "osm_tags": {
+   "area": "yes",
+   "artist:wikidata": "Q292125",
+   "artist_name": "Rita McBride",
+   "artwork_type": "sculpture",
+   "height": "52",
+   "layer": "1",
+   "name": "Mae West",
+   "name:etymology:wikidata": "Q202878",
+   "start_date": "2011",
+   "tourism": "artwork",
+   "wikidata": "Q1883568",
+   "wikipedia": "de:Mae West (Kunstwerk)"
+  },
+  "wikidata": {
+   "id": "Q1883568",
+   "he": "",
+   "en": "",
+   "de": "",
+   "desc": "",
+   "wikipedia_in": []
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "St. Georg in Bogenhausen (1017 מ')"
+ },
+ {
+  "k": "n5161080599",
+  "name": "PAN ( kleine Statue und Sitzkreis )",
+  "la": 48.15624,
+  "ln": 11.583512,
+  "district": "שוואבינג והגן האנגלי",
+  "center": 0,
+  "osm_tags": {
+   "artwork_type": "sculpture",
+   "name": "PAN ( kleine Statue und Sitzkreis )",
+   "tourism": "artwork",
+   "wikidata": "Q110962472"
+  },
+  "wikidata": {
+   "id": "Q110962472",
+   "he": "",
+   "en": "Faun",
+   "de": "Faun",
+   "desc": "statue in Munich, Germany",
+   "wikipedia_in": [
+    "co"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "Walking Man (Borofsky) and Münchner Freiheit (61 מ')"
+ },
+ {
+  "k": "w886907041",
+  "name": "PRINZREGENT LUITPOLD KANONIERE",
+  "la": 48.173009,
+  "ln": 11.599175,
+  "district": "שוואבינג והגן האנגלי",
+  "center": 0,
+  "osm_tags": {
+   "historic": "memorial",
+   "inscription": "BEGRAEBNISSPLATZ\nDES VERBANDES DER PRINZ=\nREGENT LUITPOLD KANONIERE\nDenkmal mit echter Kanone auf dem Dach.",
+   "material": "stone",
+   "memorial": "war_memorial",
+   "name": "PRINZREGENT LUITPOLD KANONIERE",
+   "tomb": "mausoleum",
+   "wikidata": "Q1796047",
+   "wikipedia": "de:Königlich Bayerisches 1. Feldartillerie-Regiment „Prinzregent Luitpold“"
+  },
+  "wikidata": {
+   "id": "Q1796047",
+   "he": "",
+   "en": "",
+   "de": "",
+   "desc": "",
+   "wikipedia_in": []
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "English Garden (Englischer Garten) (1029 מ')"
+ },
+ {
+  "k": "n12880427525",
+  "name": "St. Christophorus",
+  "la": 48.172054,
+  "ln": 11.572844,
+  "district": "שוואבינג והגן האנגלי",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q41256036",
+   "artist:wikipedia": "de:Alexander Fischer (Bildhauer)",
+   "artist_name": "Alexander Fischer",
+   "artwork_type": "statue",
+   "description": "Bronzefigur des Heiligen Christophorus auf einem Betonsockel",
+   "inscription": "Diese Plastik von Alexander Fischer widmet die D.A.S. den Bürgern der Stadt München",
+   "material": "bronze",
+   "name": "St. Christophorus",
+   "start_date": "1972",
+   "subject:wikidata": "Q193507",
+   "subject:wikipedia": "de:Christophorus",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 1,
+  "w": 0,
+  "nearest_guide_site": "Luitpoldpark and Bamberger Haus (180 מ')"
+ },
+ {
+  "k": "n11837144406",
+  "name": "Steinerner Löwe",
+  "la": 48.153321,
+  "ln": 11.617576,
+  "district": "שוואבינג והגן האנגלי",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q1580691",
+   "artist:wikipedia": "https://de.wikipedia.org/wiki/Hans_Kastler",
+   "artist_name": "Hans Kastler",
+   "artwork_type": "statue",
+   "material": "stone",
+   "name": "Steinerner Löwe",
+   "subject:wikidata": "Q140",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 1,
+  "w": 0,
+  "nearest_guide_site": "St. Georg in Bogenhausen (1251 מ')"
+ },
+ {
+  "k": "n12208923803",
+  "name": "Stundensäule",
+  "la": 48.160339,
+  "ln": 11.609558,
+  "district": "שוואבינג והגן האנגלי",
+  "center": 0,
+  "osm_tags": {
+   "artist_name": "Peter Weismann",
+   "artwork_type": "installation",
+   "name": "Stundensäule",
+   "tourism": "artwork",
+   "wikidata": "Q131289539"
+  },
+  "wikidata": {
+   "id": "Q131289539",
+   "he": "",
+   "en": "",
+   "de": "Stundensäule II",
+   "desc": "Skulptur von Peter Weismann, Teil des Projekts Mare Nostrum längs der Isar",
+   "wikipedia_in": [
+    "co"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "English Garden (Englischer Garten) (545 מ')"
+ },
+ {
+  "k": "w176590371",
+  "name": "Walking Man",
+  "la": 48.156378,
+  "ln": 11.58439,
+  "district": "שוואבינג והגן האנגלי",
+  "center": 0,
+  "osm_tags": {
+   "area": "yes",
+   "artist:wikidata": "Q321527",
+   "artist_name": "Jonathan Borofsky",
+   "artwork_type": "sculpture",
+   "height": "17",
+   "name": "Walking Man",
+   "start_date": "1995",
+   "tourism": "artwork",
+   "wikidata": "Q2542466",
+   "wikipedia": "de:Walking Man"
+  },
+  "wikidata": {
+   "id": "Q2542466",
+   "he": "",
+   "en": "",
+   "de": "",
+   "desc": "",
+   "wikipedia_in": []
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "Walking Man (Borofsky) and Münchner Freiheit (0 מ')"
+ },
+ {
+  "k": "n8075117775",
+  "name": "apokalyptische Tiere",
+  "la": 48.174855,
+  "ln": 11.599271,
+  "district": "שוואבינג והגן האנגלי",
+  "center": 0,
+  "osm_tags": {
+   "artwork_type": "sculpture",
+   "material": "stone",
+   "name": "apokalyptische Tiere",
+   "tourism": "artwork",
+   "wikidata": "Q1030655",
+   "wikipedia": "de:Nordfriedhof (München)"
+  },
+  "wikidata": {
+   "id": "Q1030655",
+   "he": "בית הקברות הצפוני של מינכן",
+   "en": "Nordfriedhof",
+   "de": "Nordfriedhof",
+   "desc": "cemetery in Munich, Germany",
+   "wikipedia_in": [
+    "co",
+    "de",
+    "en",
+    "fr",
+    "pl",
+    "pt",
+    "zh"
+   ]
+  },
+  "b": 1,
+  "w": 1,
+  "nearest_guide_site": "New Jewish Cemetery (Garchinger Straße) (1087 מ')"
+ },
+ {
+  "k": "n11040119385",
+  "name": "2 Paar Stiefel",
+  "la": 48.17719,
+  "ln": 11.584795,
+  "district": "שוואבינג והגן האנגלי",
+  "center": 0,
+  "osm_tags": {
+   "artist:wikidata": "Q463844",
+   "artist_name": "Roman Signer",
+   "artwork_type": "installation",
+   "name": "2 Paar Stiefel",
+   "tourism": "artwork"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Luitpoldpark and Bamberger Haus (1104 מ')"
+ },
+ {
+  "k": "n518729667",
+  "name": "Artur-Kutscher-Brunnen",
+  "la": 48.163472,
+  "ln": 11.590059,
+  "district": "שוואבינג והגן האנגלי",
+  "center": 0,
+  "osm_tags": {
+   "amenity": "fountain",
+   "name": "Artur-Kutscher-Brunnen",
+   "wikidata": "Q57757962"
+  },
+  "wikidata": {
+   "id": "Q57757962",
+   "he": "",
+   "en": "",
+   "de": "",
+   "desc": "",
+   "wikipedia_in": []
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "Schwabing and Leopoldstraße (389 מ')"
+ },
+ {
+  "k": "n2422118881",
+  "name": "Aussiger Denkmal",
+  "la": 48.196573,
+  "ln": 11.575721,
+  "district": "שוואבינג והגן האנגלי",
+  "center": 0,
+  "osm_tags": {
+   "historic": "memorial",
+   "inscription": "Dieser Platz ist nach der Früheren Sudetendeutschen Stadt Aussig benannt. München übernahm 1952 die Patenschaft über die ehemaligen Bürger diesert Stadt",
+   "material": "stone",
+   "memorial": "stele",
+   "name": "Aussiger Denkmal"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "BMW Plant Munich tour (2322 מ')"
+ },
+ {
+  "k": "n2714392610",
+  "name": "Bally-Prell-Brunnen",
+  "la": 48.162755,
+  "ln": 11.586134,
+  "district": "שוואבינג והגן האנגלי",
+  "center": 0,
+  "osm_tags": {
+   "amenity": "fountain",
+   "artist_name": "Wolfgang Sand",
+   "artwork_type": "sculpture",
+   "height": "2.5",
+   "historic": "memorial",
+   "memorial": "statue",
+   "name": "Bally-Prell-Brunnen",
+   "start_date": "1992",
+   "subject": "Agnes Pauline Prell",
+   "subject:wikidata": "Q106401",
+   "subject:wikipedia": "de:Bally Prell",
+   "tourism": "artwork",
+   "website": "https://www.muenchenwiki.de/wiki/Bally_Prell_Gedenkbrunnen"
+  },
+  "wikidata": null,
+  "b": 0,
+  "w": 0,
+  "nearest_guide_site": "Schwabing and Leopoldstraße (195 מ')"
+ },
+ {
+  "k": "n7688121863",
+  "name": "Dianabrunnen",
+  "la": 48.15029,
+  "ln": 11.601952,
+  "district": "שוואבינג והגן האנגלי",
+  "center": 0,
+  "osm_tags": {
+   "amenity": "fountain",
+   "heritage": "4",
+   "heritage:operator": "BLfD",
+   "name": "Dianabrunnen",
+   "ref:BLfD": "D-1-62-000-3648",
+   "wikidata": "Q97012760"
+  },
+  "wikidata": {
+   "id": "Q97012760",
+   "he": "",
+   "en": "",
+   "de": "",
+   "desc": "",
+   "wikipedia_in": []
+  },
+  "b": 0,
+  "w": 1,
+  "nearest_guide_site": "St. Georg in Bogenhausen (274 מ')"
+ }
+]
