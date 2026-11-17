@@ -54,7 +54,7 @@ if src and os.path.exists(os.path.join(out, 'osm_%s.json' % src)):
     ids = sorted({x for m in re.findall(r'wikidata"\s*:\s*"([^"]+)"', txt) for x in re.split(r'\s*;\s*', m) if re.fullmatch(r'Q\d+', x)})
     log('Wikidata ids: %d' % len(ids))
     for n, i in enumerate(range(0, len(ids), 50)):
-        u = 'https://www.wikidata.org/w/api.php?action=wbgetentities&format=json&props=labels|descriptions|sitelinks|claims&languages=he|en|nl|pt|es|ca|fr|de|it&ids=' + '|'.join(ids[i:i + 50])
+        u = 'https://www.wikidata.org/w/api.php?action=wbgetentities&format=json&props=labels|descriptions|sitelinks|claims&languages=he|en|de|nl|pt|es|ca|fr|de|it&ids=' + '|'.join(ids[i:i + 50])
         try: open(os.path.join(out, 'wd_%03d.json' % n), 'wb').write(get(u, timeout=120)); log('WD batch %d OK' % (n + 1))
         except Exception as e: log('WD batch %d ERROR: %s' % (n + 1, e))
         time.sleep(1)
