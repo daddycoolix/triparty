@@ -1,0 +1,76 @@
+{
+ "cities": [
+  {
+   "id": "budapest",
+   "city": "בודפשט",
+   "cityEn": "Budapest",
+   "file": "triparty-Budapest.json",
+   "dataVer": "2026.09.27b",
+   "count": 359,
+   "flag": "🇭🇺"
+  },
+  {
+   "id": "tbilisi",
+   "city": "טביליסי",
+   "cityEn": "Tbilisi",
+   "file": "triparty-Tbilisi.json",
+   "dataVer": "2026.10.02a",
+   "count": 162,
+   "flag": "🇬🇪"
+  },
+  {
+   "id": "petahtikva",
+   "city": "פתח תקווה",
+   "cityEn": "Petah Tikva",
+   "file": "triparty-PetahTikva.json",
+   "dataVer": "2026.10.02a",
+   "count": 74,
+   "flag": "🇮🇱"
+  },
+  {
+   "id": "rhodes",
+   "city": "רודוס",
+   "cityEn": "Rhodes",
+   "file": "triparty-Rhodes.json",
+   "dataVer": "2026.10.02a",
+   "count": 81,
+   "flag": "🇬🇷"
+  },
+  {
+   "id": "barcelona",
+   "city": "ברצלונה",
+   "cityEn": "Barcelona",
+   "file": "triparty-Barcelona.json",
+   "dataVer": "2026.10.09a",
+   "count": 333,
+   "flag": "🇪🇸"
+  },
+  {
+   "id": "porto",
+   "city": "פורטו",
+   "cityEn": "Porto",
+   "file": "triparty-Porto.json",
+   "dataVer": "2026.11.02a",
+   "count": 292,
+   "flag": "🇵🇹"
+  },
+  {
+   "id": "lisbon",
+   "city": "ליסבון",
+   "cityEn": "Lisbon",
+   "file": "triparty-Lisbon.json",
+   "dataVer": "2026.11.05a",
+   "count": 354,
+   "flag": "🇵🇹"
+  },
+  {
+   "id": "amsterdam",
+   "city": "אמסטרדם",
+   "cityEn": "Amsterdam",
+   "file": "triparty-Amsterdam.json",
+   "dataVer": "2026.11.15a",
+   "count": 335,
+   "flag": "🇳🇱"
+  }
+ ]
+}
