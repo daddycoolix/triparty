@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # תיקונים אחרי הכתיבה: אתרים שהוסרו, וקואורדינטות שתוקנו באימות מול OpenStreetMap (Nominatim + Overpass), 19.11.26
 # נוצר בידי tools/fixgen.py (Nominatim מסונן לפי סוג ומרחק, ועוד manual.json שנבדק ידנית). DROP ותוספות ידניות בסוף.
-DROP = set()
+DROP = {"atoll München (bowling)"}  # atoll: לא נמצאה עדות לפעילות (ביקורת 18.11.26)
 FIX = {
  "New Town Hall (Neues Rathaus) and the Glockenspiel": {"la": 48.13779, "ln": 11.57536},
  "Old Town Hall and the Toy Museum": {"la": 48.13682, "ln": 11.57706},
